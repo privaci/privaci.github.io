@@ -1,10 +1,2 @@
 
- - name: Facebook
-   url: https://www.facebook.com/groups/princetonpostdocs/
-   class: icon-facebook
-   title: "Facebook group"
-
-- name: LinkedIn
-  url: https://www.facebook.com/groups/princetonpostdocs/
-  class: icon-linkedin
-  title: "LinkedIN"
+ 

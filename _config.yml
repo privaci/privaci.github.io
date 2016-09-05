@@ -23,8 +23,6 @@ description: "The Princeton Postdoctoral Association aims to serve Postdoctoral 
 author: Yan
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-#url: 'http://princeton.edu/~postdocscouncil'
 url: ''
 baseurl: ''
 
@@ -185,7 +183,7 @@ msapplication_tilecolor:                "#fabb00"
 #
 # used in _includes/comments
 
-disqus_shortname:
+disqus_shortname: privaci
 
 
 #      _____

@@ -1,10 +1,37 @@
-- title: About
+- title: Main Page
   url: "/"
   side: left
 
-- title: Publications
+- title: Summary
   url: "/publications/"
   side: left
 
+- title: Read Me
+  url: "/"
+  side: left
+
+- title: (1) Project in Context
+  url: "/publications/"
+  side: left
+
+- title: (2) TechEthics Analysis
+  url: "/"
+  side: left
+
+- title: (3) Evaluate Alternatives
+  url: "/publications/"
+  side: left
+
+- title: (4) Justification & Informed consent
+  url: "/"
+  side: left
+
+- title: Supporting Modules
+  url: "/publications/"
+  side: left
+
+- title: Acknowledgements
+  url: "/publications/"
+  side: left
 
 

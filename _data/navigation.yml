@@ -13,17 +13,28 @@
 - title: (2) TechEthics Analysis
   url: "TEA"
   side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 
 - title: (3) Evaluate Alternatives
   url: "EA"
   side: left
-
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
+  
 - title: (4) Justification & Informed consent
   url: "JIC"
   side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 
 - title: Supporting Modules
   url: "Sup"
   side: left
-
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 

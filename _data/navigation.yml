@@ -5,7 +5,12 @@
 - title: (1) Project in Context
   url: "/PiC/"
   side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
+  side: left
 
+  
 - title: (2) TechEthics Analysis
   url: "TEA"
   side: left

@@ -3,23 +3,23 @@
   side: left
 
 - title: (1) Project in Context
-  url: "/publications/"
+  url: "/PiC/"
   side: left
 
 - title: (2) TechEthics Analysis
-  url: "/"
+  url: "TEA"
   side: left
 
 - title: (3) Evaluate Alternatives
-  url: "/publications/"
+  url: "EA"
   side: left
 
 - title: (4) Justification & Informed consent
-  url: "/"
+  url: "JIC"
   side: left
 
 - title: Supporting Modules
-  url: "/publications/"
+  url: "Sup"
   side: left
 
 

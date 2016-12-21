@@ -2,14 +2,6 @@
   url: "/"
   side: left
 
-- title: Summary
-  url: "/publications/"
-  side: left
-
-- title: Read Me
-  url: "/"
-  side: left
-
 - title: (1) Project in Context
   url: "/publications/"
   side: left
@@ -27,10 +19,6 @@
   side: left
 
 - title: Supporting Modules
-  url: "/publications/"
-  side: left
-
-- title: Acknowledgements
   url: "/publications/"
   side: left
 

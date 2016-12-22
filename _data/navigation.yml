@@ -1,10 +1,40 @@
-- title: About
+- title: Main Page
   url: "/"
   side: left
 
-- title: Publications
-  url: "/publications/"
+- title: (1) Project in Context
+  url: "/PiC/"
   side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 
+  
+- title: (2) TechEthics Analysis
+  url: "TEA"
+  side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 
+- title: (3) Evaluate Alternatives
+  url: "EA"
+  side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
+  
+- title: (4) Justification & Informed consent
+  url: "JIC"
+  side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
+
+- title: Supporting Modules
+  url: "Sup"
+  side: left
+  dropdown:
+  - title: (2) TechEthics Analysis
+  url: "TEA"
 

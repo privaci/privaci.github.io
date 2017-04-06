@@ -6,5 +6,6 @@
   url: "/publications/"
   side: left
 
-
-
+- title: Team
+  url: "/team/"
+  side: left

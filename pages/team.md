@@ -37,7 +37,7 @@ This is a collaboration project between Princeton University and New York Univer
   <tr>
   <th>
     <ul>    
-    <li><a href="https://www.linkedin.com/in/paula-kift-71926687/">Paula Kift (Plantir Technologies)</a> </li>    
+    <li><a href="https://www.linkedin.com/in/paula-kift-71926687/">Paula Kift (Palantir Technologies)</a> </li>    
     <li><a href="">Schrasing Tong (Graduate student in MIT)</a> </li>
     </ul>
    </th>

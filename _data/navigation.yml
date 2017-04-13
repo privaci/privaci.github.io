@@ -6,6 +6,13 @@
   url: "/publications/"
   side: left
 
+- title: "Datasets"
+  url: "/datasets/"
+  side: left
+  dropdown:
+  - title: "HCOMP"
+    url: "/datasets/hcomp/"
+
 - title: Team
   url: "/team/"
   side: left

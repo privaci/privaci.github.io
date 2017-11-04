@@ -15,8 +15,9 @@ permalink: "/publications/"
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% for post in site.posts limit:1000 %}
+			{% if post.categories contains 'publication' %}
 			<dd class="accordion-navigation">
-			<a href="#panel{{ counter }}"><span class="iconfont"></span>{{post.proceedings}} › {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a> 
+			<a href="#panel{{ counter }}"><span class="iconfont"></span>{{post.proceedings}} › {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
 				<b>Abstract:</b><br/>
 					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}					
@@ -25,6 +26,7 @@ permalink: "/publications/"
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}
+			{% endif %}
 			{% endfor %}
 		</dl>
 	</div><!-- /.small-12.columns -->

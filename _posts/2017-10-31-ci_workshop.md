@@ -14,8 +14,7 @@ show_meta: false
 ---
 
 
-
-The workshop main aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy.
+The workshop aims to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy.
 
 The rough agenda at the moment comprises three parts. The first will include presentations of these projects. The second will be a moderated roundtable discussion on lessons learnt, future research directions, application challenges, ideas for collaborative projects, including, potentially, the development of a CI Tutorial to facilitate future applications. The workshop will end with a planning session of a full day event to take place in the Spring, to reach a broader community of users from US and beyond.
 

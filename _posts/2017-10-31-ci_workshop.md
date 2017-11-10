@@ -13,6 +13,7 @@ comments: true
 show_meta: false
 ---
 
+![Alt text]({{ site.url }}/images/bk_workshop.png)
 
 The workshop aims to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy.
 

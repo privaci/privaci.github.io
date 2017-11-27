@@ -24,7 +24,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   <dd>
     <span>10:00</span>
     <ul>
-        <li>Welcome remarks</li>
+        <section><b>Welcome remarks</b></section>
         <ul>
         <!--  <li>Ed Felten, CITP director</li>
           <li>Helen Nissenbaum, Cornell Tech</li>-->
@@ -32,64 +32,88 @@ The rough agenda at the moment comprises three parts. The first will include pre
       </ul>
   </dd>
   <dd>
-    <span>10:15-<br/>11:15</span>
+    <span>10:15-<br/>11:00</span>
     <ul>
-        <li>Short presentations</li>
+        <section><b>Short presentations</b></section>
         <ul>
-          <li>The VACCINE Framework for Building DLPSystems</li>
-          <li>Discovering IoT Smart Home Privacy Norms <br/> using Contextual Integrity</li>
-          <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and<br/> Security Online</li>
-          <li>Privacy in Smart Toys</li>
+          <li>
+            Discovering IoT Smart Home Privacy Norms <br/> using Contextual Integrity<br>
+            <i><font color = "gray">Noah Apthorpe, Yan Shvartzshnaider, Arunesh Mathur, <br/> Dillon Reisman, Nick Feamster</font></i>
+            </li>
+            <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and <br/> Security Online <br/>
+            <i><font color = "gray">Priya Kumar, Shalmali Milind Naik, <br/> Utkarasha  Ramesh Devkar, Marshini Chetty, <br/> Tamara L. Clegg, and Jessica Vitak</font></i>
+            </li>                      
+          <li>Privacy in Smart Toys <br/>
+            <i><font color = "gray">Sarah Varghese</font></i>
+          </li>
+        
         </ul>
       </ul>
   </dd>
-  <dd>Break</dd>
+  <dd><b>Break</b></dd>
   <dd>
-    <span>11:30-<br/>12:15</span>
+    <span>11:15-<br/>12:00</span>
     <ul>
-        <li>Short presentations</li>
+        <section><b>Short presentations</b></section>
         <ul>
-          <li>Contextual Integrity through the Lens of Computer Science</li>
-          <li>CI for Research Ethics</li>
-          <li>Smart Toys</li>
+          <li>Contextual Integrity through the Lens of Computer Science
+          <br/>
+          <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
+          </li>          
+          <li>CI for Research Ethics <br/>
+            <i><font color = "gray">Bendert Zevenbergen</font></i>
+          </li>          
+          <li>Privacy as Commons: Case Evaluation through the <br/> GoverningKnowledge CommonsFramework 
+          <br/>
+          <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Brett Frischmann, and Katherine J. Strandburg</font></i>
+          </li>
         </ul>
       </ul>
   </dd>
-  <dd>Break</dd>
+  <dd><b>Break</b></dd>
   <dd>
-    <span>12:30-<br/>1:15</span>
+    <span>12:15-<br/>1:00</span>
     <ul>
-        <li>Short presentations</li>
-        <ul>          
-          <li>Privacy as Commons: Case Evaluation through the <br/> GoverningKnowledge CommonsFramework </li>
-          <li>Contextual Integrity via Community Participation</li>
-          <li>Paula Kift</li>
+          <section><b>Short presentations</b></section>
+        <ul>    
+         <li>
+          The VACCINE Framework for Building DLP Systems<br/>
+          <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, <br/> Prateek Mittal, and Helen Nissenbaum</font></i>
+         </li>              
+          <li>Contextual Integrity via Community Participation
+          <br/>
+          <i><font color = "gray">Darakhshan Mir, <br/> Mark Latonero, Yan Shvartzshnaider</font></i>          
+          </li>
+          
+          <li>TBD
+          <br/>
+          <i><font color = "gray">Paula Kift</font></i>  
+          </li>
         </ul>
       </ul>
   </dd>  
-    <dd>Lunch</dd>
+    <dd><b>Lunch</b></dd>
   <dd>
-    <span>1:15-<br/>2:15</span>
+    <span>1:00-<br/>2:00</span>
     <ul>
-        <li>Discussion</li>
+        <section><b>Discussion</b></section>
         <ul>
-          <li>Topic 1</li>
-          <li>Topic 2</li>
+          <li>Topics TBD</li>          
         </ul>
       </ul>
   </dd>
-    <dd>Break</dd>
+    <dd><b>Break</b></dd>
     <dd>
-      <span>2:15-<br/>3:15</span>
+      <span>2:00-<br/>3:00</span>
       <ul>
-          <li>Spring event and CI Tutorial planning</li>
+          <section>Spring event and CI Tutorial planning</section>
         </ul>
     </dd>
     <br/>
     <dd>
-      <span>3:15</span>
+      <span>3:00</span>
       <ul>
-          <li>Social mixer</li>
+          <section>Social mixer</section>
       </ul>
     </dd>
 </dl>

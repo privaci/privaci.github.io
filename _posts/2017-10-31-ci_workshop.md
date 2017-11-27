@@ -19,45 +19,57 @@ The workshop aims to bring people together to present, discuss and share ideas b
 
 The rough agenda at the moment comprises three parts. The first will include presentations of these projects. The second will be a moderated roundtable discussion on lessons learnt, future research directions, application challenges, ideas for collaborative projects, including, potentially, the development of a CI Tutorial to facilitate future applications. The workshop will end with a planning session of a full day event to take place in the Spring, to reach a broader community of users from US and beyond.
 
-<!--<dl class="agenda">
-  <dt>Monday, December 11</dt>
+<dl class="agenda">
+  <!--<dt>Monday, December 11</dt>-->
   <dd>
     <span>10:00</span>
     <ul>
         <li>Welcome remarks</li>
         <ul>
-          <li>Ed Felten, CITP director</li>
-          <li>Helen Nissenbaum, Cornell Tech</li>
+        <!--  <li>Ed Felten, CITP director</li>
+          <li>Helen Nissenbaum, Cornell Tech</li>-->
         </ul>
       </ul>
   </dd>
   <dd>
-    <span>10:15</span>
+    <span>10:15-<br/>11:15</span>
     <ul>
         <li>Short presentations</li>
         <ul>
-          <li>VACCINE</li>
-          <li>CI IoT</li>
-          <li>Kids and CI Work</li>
+          <li>The VACCINE Framework for Building DLPSystems</li>
+          <li>Discovering IoT Smart Home Privacy Norms <br/> using Contextual Integrity</li>
+          <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and<br/> Security Online</li>
+          <li>Privacy in Smart Toys</li>
         </ul>
       </ul>
   </dd>
   <dd>Break</dd>
   <dd>
-    <span>11:30-</span>
+    <span>11:30-<br/>12:15</span>
     <ul>
         <li>Short presentations</li>
         <ul>
-          <li>Sebastien work</li>
-          <li>Ben on CI and ethics</li>
+          <li>Contextual Integrity through the Lens of Computer Science</li>
+          <li>CI for Research Ethics</li>
           <li>Smart Toys</li>
-          <li>Privacy commons </li>
         </ul>
       </ul>
   </dd>
+  <dd>Break</dd>
+  <dd>
+    <span>12:30-<br/>1:15</span>
+    <ul>
+        <li>Short presentations</li>
+        <ul>          
+          <li>Privacy as Commons: Case Evaluation through the <br/> GoverningKnowledge CommonsFramework </li>
+          <li>Contextual Integrity via Community Participation</li>
+          <li>Paula Kift</li>
+        </ul>
+      </ul>
+  </dd>  
     <dd>Lunch</dd>
   <dd>
-    <span>1:00</span>
+    <span>1:15-<br/>2:15</span>
     <ul>
         <li>Discussion</li>
         <ul>
@@ -68,13 +80,16 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>
     <dd>Break</dd>
     <dd>
-      <span>2:15</span>
+      <span>2:15-<br/>3:15</span>
       <ul>
-          <li>Spring event planning</li>
-          <ul>
-            <li> empirical, modeling, differential privacy, privacy by design</li>
-            <li> CI Tutorial</li>
-          </ul>
+          <li>Spring event and CI Tutorial planning</li>
         </ul>
     </dd>
-</dl>-->
+    <br/>
+    <dd>
+      <span>3:15</span>
+      <ul>
+          <li>Social mixer</li>
+      </ul>
+    </dd>
+</dl>

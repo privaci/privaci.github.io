@@ -32,7 +32,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
       </ul>
   </dd>
   <dd>
-    <span>10:15-<br/>11:00</span>
+    <span>10:15-11:00</span>
     <ul>
         <section><b>Short presentations</b></section>
         <ul>
@@ -52,7 +52,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>
   <dd><b>Break</b></dd>
   <dd>
-    <span>11:15-<br/>12:00</span>
+    <span>11:15-12:00</span>
     <ul>
         <section><b>Short presentations</b></section>
         <ul>
@@ -72,7 +72,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>
   <dd><b>Break</b></dd>
   <dd>
-    <span>12:15-<br/>1:00</span>
+    <span>12:15-1:00</span>
     <ul>
           <section><b>Short presentations</b></section>
         <ul>    
@@ -94,7 +94,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>  
     <dd><b>Lunch</b></dd>
   <dd>
-    <span>1:00-<br/>2:00</span>
+    <span>1:00-2:00</span>
     <ul>
         <section><b>Discussion</b></section>
         <ul>
@@ -104,7 +104,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>
     <dd><b>Break</b></dd>
     <dd>
-      <span>2:00-<br/>3:00</span>
+      <span>2:00-3:00</span>
       <ul>
           <section>Spring event and CI Tutorial planning</section>
         </ul>

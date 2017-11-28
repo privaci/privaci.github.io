@@ -88,7 +88,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
           <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
           </li>
           
-          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing          
+          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
           <i><font color = "gray">Paula Kift</font></i>  
           </li>
         </ul>

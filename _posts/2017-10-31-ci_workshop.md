@@ -66,7 +66,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
           <li>CI for Research Ethics <br/>
             <i><font color = "gray">Bendert Zevenbergen</font></i>
           </li>          
-          <li>Privacy as Commons: Case Evaluation through the <br/> GoverningKnowledge CommonsFramework 
+          <li>Privacy as Commons: Case Evaluation through the <br/> Governing Knowledge CommonsFramework 
           <br/>
           <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Brett Frischmann, and Katherine J. Strandburg</font></i>
           </li>

@@ -81,7 +81,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
         <ul>    
          <li>
           The VACCINE Framework for Building DLP Systems<br/>
-          <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, <br/> Prateek Mittal, and Helen Nissenbaum</font></i>
+          <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, Prateek Mittal, and Helen Nissenbaum</font></i>
          </li>              
           <li>Contextual Integrity via Community Participation
           <br/>

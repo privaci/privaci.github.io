@@ -20,6 +20,8 @@ The workshop aims to bring people together to present, discuss and share ideas b
 
 The rough agenda at the moment comprises three parts. The first will include presentations of these projects. The second will be a moderated roundtable discussion on lessons learnt, future research directions, application challenges, ideas for collaborative projects, including, potentially, the development of a CI Tutorial to facilitate future applications. The workshop will end with a planning session of a full day event to take place in the Spring, to reach a broader community of users from US and beyond.
 
+<b>Note: This is an invitation-only event.</b>
+
 <dl class="agenda">
   <!--<dt>Monday, December 11</dt>-->
   <dd>
@@ -83,7 +85,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
          </li>              
           <li>Contextual Integrity via Community Participation
           <br/>
-          <i><font color = "gray">Darakhshan Mir, <br/> Mark Latonero, Yan Shvartzshnaider</font></i>          
+          <i><font color = "gray">Darakhshan Mir</font></i>          
           </li>
           
           <li>TBD

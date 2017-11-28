@@ -107,7 +107,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
   </dd>
     <dd><b>Break</b></dd>
     <dd>
-      <span>2:00-3:00</span>
+      <span>2:15-3:15</span>
       <ul>
           <section>Spring event and CI Tutorial planning</section>
         </ul>

@@ -85,11 +85,10 @@ The rough agenda at the moment comprises three parts. The first will include pre
          </li>              
           <li>Contextual Integrity via Community Participation
           <br/>
-          <i><font color = "gray">Darakhshan Mir</font></i>          
+          <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
           </li>
           
-          <li>TBD
-          <br/>
+          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing          
           <i><font color = "gray">Paula Kift</font></i>  
           </li>
         </ul>

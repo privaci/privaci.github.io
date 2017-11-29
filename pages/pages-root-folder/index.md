@@ -8,12 +8,12 @@ layout: frontpage
 sidebar: right
 title: PRIVACI
 header: no
-  #image_fullwidth: Nassau_Hall_Princeton.jpg
+#image_fullwidth: main_logo.jpg
 permalink: /index.html
 ---
 <p/>
+![Alt text]({{ site.url }}/images/logo.png)
 
-# PRIVACI: Privacy through Contextual Integrity
 
 The advent of social apps, smart phones and ubiquitous computing has brought the biggest transformation to our day-to-day life since the industrial revolution. The incredible pace with which the new and disruptive services continue to emerge, challenges our perception of privacy. We see an important part of this challenge in devising agile methods and frameworks, which keep apace with this rapidly evolving cyber reality, to develop  privacy-preserving systems that align with evolving user’s privacy expectations.
 

@@ -38,19 +38,19 @@ The rough agenda at the moment comprises three parts. The first will include pre
     <span>10:15-11:00</span>
     <ul>
         <section><b>Short presentations</b></section>
-        <ul>
-          <li>
-            Discovering IoT Smart Home Privacy Norms <br/> using Contextual Integrity<br>
-            <i><font color = "gray">Noah Apthorpe, Yan Shvartzshnaider, Arunesh Mathur, <br/> Dillon Reisman, Nick Feamster</font></i>
-            </li>
-            <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and <br/> Security Online <br/>
-            <i><font color = "gray">Priya Kumar, Shalmali Milind Naik, <br/> Utkarasha  Ramesh Devkar, Marshini Chetty, <br/> Tamara L. Clegg, and Jessica Vitak</font></i>
-            </li>                      
-          <li>Privacy in Smart Toys <br/>
-            <i><font color = "gray">Sarah Varghese</font></i>
+        <ul>    
+         <li>
+          The VACCINE Framework for Building DLP Systems<br/>
+          <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, Prateek Mittal, and Helen Nissenbaum</font></i>
+         </li>              
+          <li>Contextual Integrity via Community Participation
+          <br/>
+          <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
+          </li>          
+          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
+          <i><font color = "gray">Paula Kift</font></i>  
           </li>
-        
-        </ul>
+        </ul>        
       </ul>
   </dd>
   <dd><b>Break</b></dd>
@@ -66,7 +66,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
           <li>CI for Research Ethics <br/>
             <i><font color = "gray">Bendert Zevenbergen</font></i>
           </li>          
-          <li>Privacy as Commons: Case Evaluation through the <br/> Governing Knowledge CommonsFramework 
+          <li>Privacy as Commons: Case Evaluation through the <br/> Governing Knowledge CommonsFramework
           <br/>
           <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Brett Frischmann, and Katherine J. Strandburg</font></i>
           </li>
@@ -78,20 +78,18 @@ The rough agenda at the moment comprises three parts. The first will include pre
     <span>12:15-1:00</span>
     <ul>
           <section><b>Short presentations</b></section>
-        <ul>    
-         <li>
-          The VACCINE Framework for Building DLP Systems<br/>
-          <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, Prateek Mittal, and Helen Nissenbaum</font></i>
-         </li>              
-          <li>Contextual Integrity via Community Participation
-          <br/>
-          <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
-          </li>
-          
-          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
-          <i><font color = "gray">Paula Kift</font></i>  
-          </li>
-        </ul>
+          <ul>
+            <li>
+              Discovering IoT Smart Home Privacy Norms <br/> using Contextual Integrity<br>
+              <i><font color = "gray">Noah Apthorpe, Yan Shvartzshnaider, Arunesh Mathur, <br/> Dillon Reisman, Nick Feamster</font></i>
+              </li>
+              <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and <br/> Security Online <br/>
+              <i><font color = "gray">Priya Kumar, Shalmali Milind Naik, <br/> Utkarasha  Ramesh Devkar, Marshini Chetty, <br/> Tamara L. Clegg, and Jessica Vitak</font></i>
+              </li>                      
+            <li>Privacy in Smart Toys <br/>
+              <i><font color = "gray">Sarah Varghese</font></i>
+            </li>          
+          </ul>
       </ul>
   </dd>  
     <dd><b>Lunch</b></dd>

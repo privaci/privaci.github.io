@@ -46,10 +46,11 @@ The rough agenda at the moment comprises three parts. The first will include pre
           <li>Contextual Integrity via Community Participation
           <br/>
           <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
-          </li>          
-          <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
-          <i><font color = "gray">Paula Kift</font></i>  
           </li>
+          <li>Contextual Integrity through the Lens of Computer Science
+          <br/>
+          <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
+          </li>                   
         </ul>        
       </ul>
   </dd>
@@ -59,10 +60,9 @@ The rough agenda at the moment comprises three parts. The first will include pre
     <ul>
         <section><b>Short presentations</b></section>
         <ul>
-          <li>Contextual Integrity through the Lens of Computer Science
-          <br/>
-          <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
-          </li>          
+        <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
+        <i><font color = "gray">Paula Kift</font></i>  
+        </li>
           <li>CI for Research Ethics <br/>
             <i><font color = "gray">Bendert Zevenbergen</font></i>
           </li>          

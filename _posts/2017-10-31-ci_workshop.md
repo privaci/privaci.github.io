@@ -49,7 +49,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
           </li>
           <li>Contextual Integrity through the Lens of Computer Science
           <br/>
-          <i><font color = "gray">Madelyn Rose Sanfilippo, <br/> Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
+          <i><font color = "gray">Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
           </li>                   
         </ul>        
       </ul>

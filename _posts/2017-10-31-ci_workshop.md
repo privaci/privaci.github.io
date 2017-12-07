@@ -86,7 +86,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
               <li>'No Telling Passcodes Out Because They’re Private':<br/> Understanding Children’s Mental Models of Privacy and <br/> Security Online <br/>
               <i><font color = "gray">Priya Kumar, Shalmali Milind Naik, <br/> Utkarasha  Ramesh Devkar, Marshini Chetty, <br/> Tamara L. Clegg, and Jessica Vitak</font></i>
               </li>                      
-            <li>Privacy in Smart Toys <br/>
+            <li>'Tolerating Talkative Toys': <br/> Privacy Norms in Children’s IoT Devices using Contextual Integrity. <br/>
               <i><font color = "gray">Sarah Varghese</font></i>
             </li>          
           </ul>

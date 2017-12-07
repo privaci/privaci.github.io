@@ -8,7 +8,7 @@ teaser: "The aim is to bring people together to present, discuss and share ideas
 categories:
     - Event
 #sidebar: right    
-sponsors: right
+#sponsors: right
 comments: true
 show_meta: false
 ---

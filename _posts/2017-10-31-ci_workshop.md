@@ -40,14 +40,15 @@ The rough agenda at the moment comprises three parts. The first will include pre
         <section><b>Short presentations</b></section>
         <ul>    
          <li>
-          The VACCINE Framework for Building DLP Systems<br/>
+          <a href="{{ site.url }}/ci_workshop/VACCINE.pdf">The VACCINE Framework for Building DLP Systems</a><br/>
           <i><font color = "gray">Yan Shvartzshnaider, Zvonimir Pavlinovic,   Thomas Wies, Lakshminarayanan Subramanian, Prateek Mittal, and Helen Nissenbaum</font></i>
          </li>              
-          <li>Contextual Integrity via Community Participation
+          <li>
+          <a   href="{{ site.url }}/ci_workshop/CI-viaCommunityParticipation-Mir.pdf">Contextual Integrity via Community Participation</a>
           <br/>
           <i><font color = "gray">Darakhshan Mir, Mark Latonero, Yan Shvartzshnaider</font></i>          
           </li>
-          <li>Contextual Integrity through the Lens of Computer Science
+          <li><a href="{{  site.url }}/ci_workshop/Contextual_Integrity_through_the_lens_of_computer_science_presentation.pdf">Contextual Integrity through the Lens of Computer Science</a>
           <br/>
           <i><font color = "gray">Sebastian Benthall, Seda Gürses, Helen Nissenbaum</font></i>
           </li>                   
@@ -63,7 +64,7 @@ The rough agenda at the moment comprises three parts. The first will include pre
         <li>Privacy Default(s) by Design? <br/>A Contextual Analysis of Cybersecurity Information Sharing  <br/>         
         <i><font color = "gray">Paula Kift</font></i>  
         </li>
-          <li>CI for Research Ethics <br/>
+          <li><a href="Ben_Z_CITP_CI_workshop_Dec_2017.pdf">CI for Research Ethics</a><br/>
             <i><font color = "gray">Bendert Zevenbergen</font></i>
           </li>          
           <li>Privacy as Commons: Case Evaluation through the <br/> Governing Knowledge CommonsFramework

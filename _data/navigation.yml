@@ -1,16 +1,2 @@
-- title: About
-  url: "/"
-  side: left
-
-- title: Publications
-  url: "/publications/"
-  side: left
-
-- title: "Datasets"
-  url: "/datasets/"
-  side: left
-  dropdown:
-  - title: "HCOMP"
-    url: "/datasets/hcomp/"
 
 

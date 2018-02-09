@@ -3,7 +3,7 @@ layout: event
 header: no     
 subheadline: "Event"
 #proceedings: "Freedom to Tinker"
-title: "Upcoming Workshop on Applications Of Contextual Integrity"
+title: "Workshop on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event

@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "Sympsium on Applications Of Contextual Integrity"
+title: "Symposium on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event
@@ -15,13 +15,13 @@ show_meta: false
 
 ## Call for Participation
 
-Mark you calendar for a symposium on Application of Contextual Integrity symposium on <b>September 13-14</b> in Princeton University.
+Mark you calendar for a symposium on Application of Contextual Integrity symposium on <b>September 13-14</b>  at the Center for Information and Technology Policy at Princeton University.
 
 The aim of the symposium is to foster communication among various communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day event in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to organize a bigger event to foster discussion across broader spectrum of disciplines .
 
 #### SUBMISSION
 <br/>
-We will accept any of these:
+We will accept any of the following submission types:
 
 1. A 4 page position paper on ongoing or work in progress  (References not included in page limit)
 2. An extended abstract of published or mature work
@@ -29,9 +29,9 @@ We will accept any of these:
 
 Papers should be formatted using the [2018 ACM Master Article Template](https://www.acm.org/publications/authors/submissions). For LaTeX users, choose <b>format=sigconf</b>.
 
-Submissions will be  will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of their chosen topic, as well as their potential to contribute to the workshop discussions and goals.
+Submissions will be  will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
 
-Submission may include:
+Submissions may include:
 
 * Empirical studies (qualitative, quantitative, experimental)
 * Legal, philosophical, ethical, and policy analysis

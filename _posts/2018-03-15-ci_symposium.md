@@ -46,7 +46,7 @@ Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_res
 
 We look forward to seeing you at the event.
 
-### TRAVEL GRANT
+#### TRAVEL GRANT
 
 Students and early career researchers can apply for a travel grant award that can go towards partially covering the cost of attending the symposium.  The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 

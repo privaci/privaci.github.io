@@ -22,10 +22,10 @@ format: post
 				</figure>
 				{% endif %}
 
-				<span itemprop="name">
+<!--				<span itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<!--<h1>{{ page.title }}</h1>-->
-				</span>
+					<h1>{{ page.title }}</h1>
+				</span>-->
 			</header>
 
 
@@ -56,15 +56,14 @@ format: post
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
-{% if page.sponsors == "right" %}
-	<div class="medium-4 columns">
-		{% include _sponsors.html %}
-	</div>
-{% endif %}
 
-{% if page.sidebar == "right" %}
-	<div class="medium-4 columns">
-		{% include _sidebar.html %}
-	</div><!-- /.medium-4.columns -->
+	{% if page.sponsors == "right" %}
+		<div class="medium-4 columns">
+			{% include _sponsors.html %}
+		</div>
 	{% endif %}
+
+</div><!-- /.row -->
+
+
 </div><!-- /.row -->

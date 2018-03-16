@@ -17,7 +17,7 @@ show_meta: false
 
 Mark you calendar for a symposium on Applications of Contextual Integrity symposium on <b>September 13-14</b>  at the Center for Information and Technology Policy at Princeton University.
 
-The aim of the symposium is to foster communication among various communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day event in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to organize a bigger event to foster discussion across broader spectrum of disciplines .
+The aim of the symposium is to foster communication among various communities of    research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day event in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to organize a bigger event to foster discussion across broader spectrum of disciplines .
 
 #### SUBMISSION
 <br/>

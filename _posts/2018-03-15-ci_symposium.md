@@ -3,8 +3,7 @@ layout: event
 header: no
 title: "Sympsium on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
-categories:
-    - Event
+#categories:    - Event
     #sidebar: right
     #sponsors: right
 comments: false
@@ -13,17 +12,17 @@ show_meta: false
 
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
-### Call for Participation
+## Call for Participation
 
-Mark you calendar for a symposium on Application of Contextual Integrity symposium on Sep 13-14.
+Mark you calendar for a symposium on Application of Contextual Integrity symposium on <b>September 13-14</b>.
 
 The aim of the symposium is to foster communication among various communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day event in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to organize a bigger event to foster discussion across broader spectrum of disciplines .
 
-### SUBMISSION
+#### SUBMISSION
 <br/>
 We will accept any of these:
 
-1. A 4 page position paper on ongoing or work in progress  (References not included in page limit).
+1. A 4 page position paper on ongoing or work in progress  (References not included in page limit)
 2. An extended abstract of published or mature work
 3. A 1 page description of an interesting use case to be included in the tutorial part of the symposium
 
@@ -40,7 +39,7 @@ Submission may include:
 
 With author’s permission, accepted submissions would be posted on the website but not be considered archival publications.
 
-### HOW TO SUBMIT
+#### HOW TO SUBMIT
 
 Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 15th AoE.
 

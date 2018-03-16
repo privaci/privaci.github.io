@@ -3,7 +3,8 @@ layout: event
 header: no
 title: "Sympsium on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
-#categories:    - Event
+categories:
+    - Event
     #sidebar: right
     #sponsors: right
 comments: false

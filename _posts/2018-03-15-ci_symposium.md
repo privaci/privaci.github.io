@@ -45,7 +45,7 @@ With author’s permission, accepted submissions would be posted on the website 
 
 #### HOW TO SUBMIT
 
-Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on May 31st AoE.
+Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 15 AoE.
 
 We look forward to seeing you at the event.
 

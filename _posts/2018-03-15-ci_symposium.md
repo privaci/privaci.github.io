@@ -10,7 +10,9 @@ categories:
 comments: false
 show_meta: false
 ---
-
+![Alt text]({{ site.url }}/images/citp.png)
+<br/>
+<img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
 ## Call for Participation
@@ -43,7 +45,7 @@ With author’s permission, accepted submissions would be posted on the website 
 
 #### HOW TO SUBMIT
 
-Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 15th AoE.
+Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on May 31st AoE.
 
 We look forward to seeing you at the event.
 
@@ -64,11 +66,7 @@ Yan Shvartzshnaider<br/>
 TBD
 
 <hr/>
-## Sponsors
-<br/>
-![Alt text]({{ site.url }}/images/citp.png)
 
-<img src="{{ site.url }}/images/CornellTech.png" alt="my caption" style="height: 56px;"/> Cornell Tech
 
 
 

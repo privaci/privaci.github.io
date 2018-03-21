@@ -51,11 +51,18 @@ Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_res
 
 We look forward to seeing you at the event.
 
+#### IMPORTANT DATES
+
+Submissions Due: June 15
+Notifications: July 15
+Date of Symposium: September 13 and 14
+
 #### TRAVEL GRANT
 
 Authors of accepted work can apply for a travel grant award that can go towards partially covering the cost of attending the symposium.  The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 
 The application process will be annouced later.
+
 
 ### Symposium Chairs
 

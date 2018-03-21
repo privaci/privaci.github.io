@@ -15,9 +15,10 @@ show_meta: false
 
 ## Call for Participation
 
-Mark you calendar for a symposium on Applications of Contextual Integrity symposium on <b>September 13-14</b>  at the Center for Information and Technology Policy at Princeton University.
 
-The aim of the symposium is to foster communication among various communities of    research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day event in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to organize a bigger event to foster discussion across broader spectrum of disciplines .
+Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018.
+
+The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works.
 
 #### SUBMISSION
 <br/>
@@ -25,7 +26,7 @@ We will accept any of the following submission types:
 
 1. A 4 page position paper on ongoing or work in progress  (References not included in page limit)
 2. An extended abstract of published or mature work
-3. A 1 page description of an interesting use case to be included in the tutorial part of the symposium
+3. A 1 page description of an interesting use case to be discussed the symposium
 
 Papers should be formatted using the [2018 ACM Master Article Template](https://www.acm.org/publications/authors/submissions). For LaTeX users, choose <b>format=sigconf</b>.
 

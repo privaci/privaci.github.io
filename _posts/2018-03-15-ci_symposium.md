@@ -47,14 +47,14 @@ With author’s permission, accepted submissions would be posted on the website 
 
 #### HOW TO SUBMIT
 
-Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 15 AoE.
+Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 13 AoE.
 
-We look forward to seeing you at the event.
+We look forward to seeing you at the sympoisum!
 
 #### IMPORTANT DATES
 
-* Submissions Due: June 15
-* Notifications: July 15
+* Submissions Due: June 13
+* Notifications: July 13
 * Date of Symposium: September 13 and 14
 
 #### TRAVEL GRANT

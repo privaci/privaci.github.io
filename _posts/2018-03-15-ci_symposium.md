@@ -46,7 +46,7 @@ With author’s permission, accepted submissions would be posted on the website 
 
 #### HOW TO SUBMIT
 
-Submissions should be sent to [privaci_research@gmail.com](mailto:privaci.research@gmail.com) before or on June 10 AoE. Please make sure that the subject line follows this format:
+Submissions should be sent to [privaci.research@gmail.com](mailto:privaci.research@gmail.com) before or on June 10 AoE. Please make sure that the subject line follows this format:
 ```
 CI Symposium <short paper/extended abstract/use-case> submission
 ```

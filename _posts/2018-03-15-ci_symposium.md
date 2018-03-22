@@ -17,7 +17,6 @@ show_meta: false
 
 ## Call for Participation
 
-
 Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.
 
 Cosponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
@@ -47,7 +46,7 @@ With author’s permission, accepted submissions would be posted on the website 
 
 #### HOW TO SUBMIT
 
-Submissions should be sent to [privaci_research@gmail.com](mailto:privaci_research@gmail.com) before or on June 10 AoE. Please make sure that the subject line follows this format:
+Submissions should be sent to [privaci_research@gmail.com](mailto:privaci.research@gmail.com) before or on June 10 AoE. Please make sure that the subject line follows this format:
 ```
 CI Symposium <short paper/extended abstract/use-case> submission
 ```

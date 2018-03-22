@@ -52,7 +52,7 @@ Submissions should be be sent to [privaci_research@gmail.com](mailto:privaci_res
 CI Symposium <short paper/extended abstract/use-case> submission
 ```
 
-We look forward to seeing you at the sympoisum!
+We look forward to seeing you at the symposium!
 
 #### IMPORTANT DATES
 

@@ -31,6 +31,8 @@ We will accept any of the following submission types:
 2. An extended abstract of published or mature work
 3. A 1 page description of an interesting use case to be discussed the symposium
 
+__Note__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.
+
 Papers should be formatted using the [2018 ACM Master Article Template](https://www.acm.org/publications/authors/submissions). For LaTeX users, choose <b>format=sigconf</b>.
 
 Submissions will be  will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.

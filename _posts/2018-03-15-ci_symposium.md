@@ -31,7 +31,7 @@ We will accept any of the following submission types:
 2. An extended abstract of published or mature work
 3. A 1 page description of an interesting use case to be discussed the symposium
 
-__Note__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.
+__Note:__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.
 
 Papers should be formatted using the [2018 ACM Master Article Template](https://www.acm.org/publications/authors/submissions). For LaTeX users, choose <b>format=sigconf</b>.
 
@@ -49,6 +49,7 @@ With author’s permission, accepted submissions would be posted on the website 
 #### HOW TO SUBMIT
 
 Submissions should be sent to [privaci.research@gmail.com](mailto:privaci.research@gmail.com) before or on June 10 AoE. Please make sure that the subject line follows this format:
+
 ```
 CI Symposium <short paper/extended abstract/use-case> submission
 ```

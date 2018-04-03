@@ -79,9 +79,9 @@ Yan Shvartzshnaider <br/>
 
 
 Sebastian Benthall  <br/>
-Nick Feamster <br/>
 Anupam Datta  <br/>
 Serge Egelman <br/>
+Nick Feamster <br/>
 Seda Guerses  <br/>
 Julia Powles <br/>
 Xinru Page <br/>

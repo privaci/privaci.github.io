@@ -71,9 +71,9 @@ The application process will be announced later.
 
 ### Symposium Chairs
 
-[Marshini Chetty]()(Princeton University) <br/>
+[Marshini Chetty](https://www.marshini.net)(Princeton University) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://www.marshini.net) (NYU and Princeton University) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
 
 ### Program Committee
 

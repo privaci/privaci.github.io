@@ -76,7 +76,6 @@ The application process will be announced later.
 [Yan Shvartzshnaider](https://www.marshini.net) (NYU and Princeton University) <br/>
 
 ### Program Committee
-<br/>
 
 [Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/)  <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>

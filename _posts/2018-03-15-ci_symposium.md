@@ -81,7 +81,7 @@ The application process will be announced later.
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
 [Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
-Seda Gürses (University of Leuven)  <br/>
+[Seda Gürses](http://vous-etes-ici.net) (University of Leuven)  <br/>
 Julia Powles (Cornell Tech and NYU)<br/>
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>

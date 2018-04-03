@@ -71,13 +71,25 @@ The application process will be announced later.
 
 ### Symposium Chairs
 
-Marshini Chetty<br/>
-Helen Nissenbaum<br/>
-Yan Shvartzshnaider<br/>
+Marshini Chetty <br/>
+Helen Nissenbaum <br/>
+Yan Shvartzshnaider <br/>
 
 ### Program Committee
 
-TBD
+
+Sebastian Benthall  <br/>
+Nick Feamster <br/>
+Anupam Datta  <br/>
+Serge Egelman <br/>
+Seda Guerses  <br/>
+Julia Powles <br/>
+Xinru Page <br/>
+Jessica Vitak <br/>
+Pam Wisnieski <br/>
+Thomas Wies <br/>
+
+
 
 <hr/>
 

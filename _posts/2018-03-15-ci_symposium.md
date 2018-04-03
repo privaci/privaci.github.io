@@ -80,11 +80,11 @@ The application process will be announced later.
 
 [Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/)  <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Serge Egelman] https://www.icsi.berkeley.edu/icsi/people/egelman)( University of California, Berkeley) <br/>
+[Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
 [Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
 Seda Gürses (University of Leuven)  <br/>
 Julia Powles (Cornell Tech and NYU)<br/>
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage)( University of California, Irvine) <br/>
+[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
 [Thomas Wies](https://cs.nyu.edu/wies/) (NYU)<br/>

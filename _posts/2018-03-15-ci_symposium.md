@@ -64,9 +64,9 @@ We look forward to seeing you at the symposium!
 
 #### TRAVEL GRANT
 
-Authors of accepted work can apply for a travel grant award that can go towards partially covering the cost of attending the symposium.  The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://goo.gl/forms/RS3DQSba9qur4y4g1).
 
-The application process will be announced later.
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 
 
 ### Symposium Chairs
@@ -77,7 +77,7 @@ The application process will be announced later.
 
 ### Program Committee
 
-[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/)  <br/>
+[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
 [Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>

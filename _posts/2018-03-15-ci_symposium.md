@@ -82,6 +82,7 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
 [Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
 [Seda Gürses](http://vous-etes-ici.net) (University of Leuven)  <br/>
+[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir)(Bucknell University)<br/>
 Julia Powles (Cornell Tech and NYU)<br/>
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>

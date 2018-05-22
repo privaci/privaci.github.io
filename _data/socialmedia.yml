@@ -1,2 +1,4 @@
-
- 
+- name: Twitter
+  url: http://twitter.com/privaci_way
+  class: icon-twitter
+  title: "PrivaCI"

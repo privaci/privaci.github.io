@@ -28,7 +28,7 @@ The aim of the symposium is to foster communication among diverse communities of
 We will accept any of the following submission types:
 
 1. A 4 page position paper on ongoing or work in progress  (References not included in page limit)
-2.  An extended abstract (1-2 pages) of published or mature work. in writing your abstract, it would be useful to indicate the literature in which your paper will be situated by including a short “works cited” section at the end. If your topic is entirely novel or interdisciplinary, please indicate that as well. We suggest that the abstract explains the contribution your work makes to the existing literature. If your abstract gets accepted, we provide the option of posting the longer paper version to the symposium website. 
+2.  An extended abstract (1-2 pages) of published or mature work. In writing your abstract, it would be useful to indicate the literature in which your paper will be situated by including a short “works cited” section at the end. If your topic is entirely novel or interdisciplinary, please indicate that as well. We suggest that the abstract explains the contribution your work makes to the existing literature. If your abstract gets accepted, we provide the option of posting the longer paper version to the symposium website. 
 3. A 1 page description of an interesting use case to be discussed the symposium
 
 __Note:__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.

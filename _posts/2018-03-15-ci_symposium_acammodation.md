@@ -10,7 +10,7 @@ categories:
 #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/accomodations.html
+permalink: ci_symposium/accomodation.html
 ---
 ![Alt text]({{ site.url }}/images/citp.png)
 <br/>

@@ -15,9 +15,13 @@ show_meta: false
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
+
+
 ## Call for Participation
 
-Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.
+Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
+
+You can directions and accomodations options [here]({{ site.url }}/ci_symposium/accomodations.html).
 
 Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 
@@ -61,6 +65,7 @@ We look forward to seeing you at the symposium!
 * Submissions Due: June 10
 * Notifications: June 25
 * Date of Symposium: September 13 and 14
+
 
 #### TRAVEL GRANT
 

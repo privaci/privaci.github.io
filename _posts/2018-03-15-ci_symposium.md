@@ -21,7 +21,7 @@ show_meta: false
 
 Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
 
-You can directions and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
+You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
 
 Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 

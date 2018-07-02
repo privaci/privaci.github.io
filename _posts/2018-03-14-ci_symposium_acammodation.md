@@ -62,4 +62,10 @@ __Hyatt Place Princeton__
 Princeton, NJ 08540 <br/>
 Phone: 609.720.0200 <br/>
 
+__[Erdman Center, Princeton](https://coned.ptsem.edu/meetings-lodging/)__
+Princeton Theological Seminary
+20 Library Place
+Princeton, NJ 08540
+609-497-7990
+
 Please contact Jean Butcher at [butcher@princeton.edu](butcher@princeton.edu) should you have any questions or require further information.

@@ -56,7 +56,7 @@ The aim of the symposium is to foster communication among diverse communities of
                     <i><font color="gray">Madelyn Rose Sanfilippo, <br/>
                         Yafit Lev-Aretz</font></i>
                 </li>                
-                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations <i>(short paper)</i>
+                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster, Helen Nissenbaum,
                         <br/>
@@ -98,12 +98,12 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
             <ul>
-                <li> Disentangling Privacy in Smart Homes <i>(short paper)</i>
+                <li> Disentangling Privacy in Smart Homes <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Martin J Kraemer, Ivan Flechais <br/> </font></i>
                 </li>
 
-                <li>On Engineering AI Agents for Privacy <i>(short paper)</i>
+                <li>On Engineering AI Agents for Privacy <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Rafa Gálvez, Seda Gürses
                     </font></i>

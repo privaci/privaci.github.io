@@ -35,11 +35,11 @@ The aim of the symposium is to foster communication among diverse communities of
         <section><b>&emsp;&emsp;&emsp;&emsp; Registration </b></section>
     </dd>
     <dd>
-        <span>2:45pm&emsp;</span>
+        <span>2:30pm&emsp;</span>
         <section><b>&emsp;&emsp;&emsp;&emsp; Welcome </b></section>
     </dd>
     <dd>
-        <span>3:00-3:45pm&emsp;</span>
+        <span>2:45-3:30pm&emsp;</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Invited talk </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->
@@ -47,7 +47,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>4-5pm</span>      
+        <span>3:45-5:00pm</span>      
         <ul>
             <section><b>&emsp;&emsp;&emsp;The World Through CI Lens </b></section>
             <ul>
@@ -67,6 +67,10 @@ The aim of the symposium is to foster communication among diverse communities of
                     <br/>
                     <i><font color="gray">Catherine Dwyer
                     </font></i>
+                </li>
+                <li>Addressing Conceptual Gaps in Pervasive Data Research Ethics: An Application of Contextual Integrity <br/> <i>(extended abstract)</i>
+                    <br/>
+                    <i><font color="gray"> Michael Zimmer </font></i>
                 </li>
 
             </ul>

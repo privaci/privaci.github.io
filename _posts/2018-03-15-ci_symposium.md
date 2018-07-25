@@ -67,9 +67,9 @@ We look forward to seeing you at the symposium!
 * Date of Symposium: September 13 and 14
 
 
-#### TRAVEL GRANT
+#### TRAVEL GRANT 
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://goo.gl/forms/RS3DQSba9qur4y4g1).
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://goo.gl/forms/RS3DQSba9qur4y4g1). (__Deadline: June 24__)
 
 The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 

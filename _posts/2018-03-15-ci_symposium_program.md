@@ -109,7 +109,7 @@ The aim of the symposium is to foster communication among diverse communities of
                     </font></i>
                 </li>
 
-                <li>Use Case: Passively Listening Personal Assistants  <i>(short paper)</i>
+                <li>Use Case: Passively Listening Personal Assistants  
                     <br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
                         <br/></font></i>

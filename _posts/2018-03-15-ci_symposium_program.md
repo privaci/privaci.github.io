@@ -147,7 +147,7 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
         <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
         <ul>
-            <li> Contextual Permission Models for Better Privacy Protection <i>(extended abstract)</i>
+            <li> Contextual Permission Models for Better Privacy Protection <br/><i>(extended abstract)</i>
                 <br/>
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>

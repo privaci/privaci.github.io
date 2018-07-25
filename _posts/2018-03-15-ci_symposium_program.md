@@ -64,29 +64,7 @@ The aim of the symposium is to foster communication among diverse communities of
 
             </ul>
         </ul>
-    </dd>
-    <dd><b>Short Break</b></dd>
-    <dd>
-        <span>5-5:40pm</span>
-        <ul>
-            <section><b>&emsp;&emsp;&emsp;The World Through CI Lens #2 </b></section>
-            <ul>
-
-                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations
-                    <br/>
-                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster, Helen Nissenbaum,
-                        <br/>
-                        Lakshminarayanan Subramanian
-                    </font></i>
-                </li>
-                <li>Applying Contextual Integrity to the Cambridge Analytica Case
-                    <br/>
-                    <i><font color="gray">Catherine Dwyer
-                    </font></i>
-                </li>
-            </ul>
-        </ul>
-    </dd>
+    </dd>  
     <dd><b>Short Break</b></dd>
     <dd>
         <span>5-5:45pm</span>
@@ -98,13 +76,17 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>6:00pm</span>
         <ul>
-            <section><b>&emsp; Discussion over Dinner</b></section>
+            <section><b>&emsp;&emsp;&emsp; Discussion over Dinner</b></section>
         </ul>
     </dd>
     <dt>Friday, September 14</dt>
     <dd>
-        <span>9:00am&emsp;</span>
-        <section><b>&emsp;&emsp; Morning coffee</b></section>
+        <span>9:00am</span>
+        <ul>
+            <section><b>&emsp;&emsp;&emsp; Morning Coffee</b></section>
+        </ul>
+    </dd>
+    <dd>
         <span>9:30-10:20&emsp;</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
@@ -128,9 +110,31 @@ The aim of the symposium is to foster communication among diverse communities of
             </ul>
         </ul>
     </dd>
-    <dd><b>Break</b></dd>
+    <dd><b>Short Break</b></dd>
     <dd>
-        <span>11-11:40</span>
+        <span>10:30-11:10</span>
+        <ul>
+            <section><b>&emsp;&emsp;&emsp;The World Through CI Lens #2 </b></section>
+            <ul>
+
+                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations
+                    <br/>
+                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster, Helen Nissenbaum,
+                        <br/>
+                        Lakshminarayanan Subramanian
+                    </font></i>
+                </li>
+                <li>Applying Contextual Integrity to the Cambridge Analytica Case
+                    <br/>
+                    <i><font color="gray">Catherine Dwyer
+                    </font></i>
+                </li>
+            </ul>
+        </ul>
+    </dd>
+    <dd><b>Short Break</b></dd>
+    <dd>
+        <span>11:20-12:40</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp;CI in Human Computer Interaction </b></section>
             <ul>
@@ -148,9 +152,9 @@ The aim of the symposium is to foster communication among diverse communities of
             </ul>
         </ul>
     </dd>
-    <dd><b>Short Break</b></dd>
+    <!--<dd><b>Break</b></dd>-->
     <dd>
-        <span>12-12:40</span>
+        <!-- <span>12-12:40</span> -->
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI and Social Media </b></section>
             <ul>
@@ -180,15 +184,14 @@ The aim of the symposium is to foster communication among diverse communities of
         </ul>
     </dd>
     <dd>
-        <span>1:30-2:15</span>
+        <span>1:30-2:15pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Fireside chat with ... </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
-    </dd>
-    <dd><b>Break</b></dd>
+    </dd>    
     <dd>
-        <span>2:30-3:20</span>
+        <span>2:15-3:05pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp;Discovering Users' Privacy Expectation </b></section>
             <ul>
@@ -215,7 +218,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Break</b></dd>
     <dd>
-        <span>4-4:50pm</span>
+        <span>3:40-4:20pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
             <ul>
@@ -240,7 +243,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>5-5:30pm</span>
+        <span>4:30-5pm</span>
         <ul>
             <li><b>&emsp;&emsp;&emsp;Wrap up</b></li>
         </ul>

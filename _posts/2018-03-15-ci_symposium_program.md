@@ -69,7 +69,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>5-5:45pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Hands on CI Activity </b></section>
+            <section><b>&emsp;&emsp;&emsp; PrivaCI Challenge </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
     </dd>

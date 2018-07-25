@@ -41,7 +41,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>3:00-3:45pm&emsp;</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Invite talk </b></section>
+            <section><b>&emsp;&emsp;&emsp; Invited talk </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
     </dd>

@@ -47,7 +47,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>4-4:40</span>      
+        <span>4-4:40pm</span>      
         <ul>
             <section><b>&emsp;&emsp;&emsp;The World Through CI Lens #1 </b></section>
             <ul>
@@ -67,7 +67,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>5:00-5:40</span>
+        <span>5-5:40pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp;The World Through CI Lens #2 </b></section>
             <ul>
@@ -89,7 +89,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>5:00-5:45pm</span>
+        <span>5-5:45pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Hands on CI Activity </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->

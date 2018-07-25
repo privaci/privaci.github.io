@@ -193,7 +193,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>2:15-3:05pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;Discovering Users' Privacy Expectation </b></section>
+            <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
                 <li>Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices
                     <br/>

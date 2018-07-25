@@ -63,7 +63,7 @@ The aim of the symposium is to foster communication among diverse communities of
                         Lakshminarayanan Subramanian
                     </font></i>
                 </li>
-                <li>Applying Contextual Integrity to the Cambridge Analytica Case <i>(short paper)</i>
+                <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Catherine Dwyer
                     </font></i>

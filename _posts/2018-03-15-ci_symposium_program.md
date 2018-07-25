@@ -152,7 +152,7 @@ The aim of the symposium is to foster communication among diverse communities of
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
             </li>
-            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <i>(extended abstract)</i>
+            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i>(extended abstract)</i>
                 <br/>
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>
@@ -185,7 +185,7 @@ The aim of the symposium is to foster communication among diverse communities of
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
                 <li> Context Matters:  Guidance for Applying the Fair Information Practice Principles in the Internet of Things.
-                <i>(short paper)</i>
+                <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Paula Bruening, Heather Patterson
                     </font></i>
@@ -199,7 +199,7 @@ The aim of the symposium is to foster communication among diverse communities of
                 <li>
                     Perceiving Patient Privacy in the Context of Heart-Failure Telemonitoring: Adapting the Contextual
                     Integrity Framework to Gauge Patients’ Privacy Perspectives
-                    <i>(extended abstract)</i>
+                    <br/><i>(extended abstract)</i>
                     <br/>
                     <i><font color="gray">Martin French, Heather Patterson
                     </font></i>
@@ -213,7 +213,7 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
         <section><b>&emsp;&emsp;&emsp; CI and Social Media </b></section>
         <ul>
-            <li>Enforcing Contextual Integrity With Exposure Control         <i>(short paper)</i>
+            <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(short paper)</i>
                 <br/>
                 <i><font color="gray">Mainack Mondal, Blase Ur</font></i>
             </li>
@@ -222,7 +222,7 @@ The aim of the symposium is to foster communication among diverse communities of
                 <i><font color="gray">Madelyn Rose Sanfilippo1, Katherine Strandburg  
                 </font></i>
             </li>
-            <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <i>(extended abstract)</i>
+            <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i>(extended abstract)</i>
                 <br/>
                 <i><font color="gray"> Dmitry Epstein and Kelly Quinn
                 </font></i>

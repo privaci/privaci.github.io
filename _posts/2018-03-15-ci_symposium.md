@@ -61,10 +61,10 @@ We look forward to seeing you at the symposium!
 
 #### IMPORTANT DATES
 
-* Submissions Due: June 10
-* Notifications: June 25
-* Date of Symposium: September 13 and 14
-* Travel grant application July 24
+* ~~Submissions Due: June 10~~
+* ~~Notifications: June 25~~
+* ~~Date of Symposium: September 13 and 14~~
+* ~~Travel grant application: July 24~~
 
 
 #### TRAVEL GRANT

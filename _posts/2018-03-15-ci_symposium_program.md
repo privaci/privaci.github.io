@@ -127,17 +127,17 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
             <section><b>&emsp;&emsp;&emsp;CI in Human Computer Interaction and Reasoning </b></section>
             <ul>
-                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <i>(short paper)</i>
+                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>
-                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <i>(short paper)</i>
+                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
                         Pamela Wisniewski
                     </font></i>
                 </li>
-                <li> Situated Information Flow <i>(short paper)</i>
+                <li> Situated Information Flow <br/> <i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Sebastian Benthall
                     </font></i>

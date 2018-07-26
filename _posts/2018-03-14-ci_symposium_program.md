@@ -175,7 +175,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>12:30-1:30pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Lunch </b></section>
+            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch </b></section>
         </ul>
     </dd>
     <dd>

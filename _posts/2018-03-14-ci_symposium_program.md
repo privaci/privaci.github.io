@@ -96,7 +96,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>9:00am</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Morning Coffee</b></section>
+            <section><b>&emsp;&emsp;&emsp; Coffee and Refreshments</b></section>
         </ul>
     </dd>
     <dd>
@@ -179,14 +179,14 @@ The aim of the symposium is to foster communication among diverse communities of
         </ul>
     </dd>
     <dd>
-        <span>1:30-2:15pm</span>
+        <span>1:30-2:00pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Fireside chat with ... </b></section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
     </dd>    
     <dd>
-        <span>2:15-3:00pm</span>
+        <span>2:00-2:45pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
@@ -215,7 +215,7 @@ The aim of the symposium is to foster communication among diverse communities of
     </dd>
     <dd><b>Break</b></dd>
     <dd>
-        <span>3:20-4:10pm</span>
+        <span>3:10-4:00pm</span>
         <ul>
         <section><b>&emsp;&emsp;&emsp; CI and Social Media </b></section>
         <ul>
@@ -236,11 +236,10 @@ The aim of the symposium is to foster communication among diverse communities of
             </ul>            
         </ul>
     </dd>
-    <dd><b>Short Break</b></dd>
     <dd>
-        <span>4:20-5pm</span>
+        <span>4-5pm</span>
         <ul>
-            <li><b>&emsp;&emsp;&emsp;Wrap up</b></li>
+            <li><b>&emsp;&emsp;&emsp;Spillover, Discussion, and Wrap up </b></li>
         </ul>
     </dd>
 </dl>

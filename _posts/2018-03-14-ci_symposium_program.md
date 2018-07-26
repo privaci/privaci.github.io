@@ -71,7 +71,7 @@ The aim of the symposium is to foster communication among diverse communities of
                     <i><font color="gray">Catherine Dwyer
                     </font></i>
                 </li>
-                <li>Addressing Conceptual Gaps in Pervasive Data Research Ethics: An Application of Contextual Integrity <br/> <i>(extended abstract)</i>
+                <li>Addressing Conceptual Gaps <br/> in Pervasive Data Research Ethics: An Application of Contextual Integrity <br/> <i>(extended abstract)</i>
                     <br/>
                     <i><font color="gray"> Michael Zimmer </font></i>
                 </li>

@@ -4,7 +4,7 @@ header: no
 title: "Symposium on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
-    - accomodations
+    - accommodations
     - nonews
 #sidebar: right
 #sponsors: right
@@ -44,7 +44,7 @@ It takes about two hours to travel from Princeton to Philadephia, New York Penn 
 
 Local hotels sometimes offer discounted rates for Princeton guests and visitors. If you do not have a car, you also may wish to confirm whether the hotel will have shuttle service to campus when you are staying. Additional information and hotels can be found on the Princeton [travel site](http://travel.princeton.edu/guests).
 
-__Nassau Inn__ 
+__Nassau Inn__
 
 Ten Palmer Square, Princeton, NJ 08542 <br/>
 Tel: (609) 921-7500 <br/>
@@ -67,6 +67,6 @@ __[Erdman Center, Princeton](https://coned.ptsem.edu/meetings-lodging/)__
 Princeton Theological Seminary <br/>
 20 Library Place <br/>
 Princeton, NJ 08540 <br/>
-609-497-7990 
+609-497-7990
 
 Please contact Jean Butcher at [butcher@princeton.edu](butcher@princeton.edu) should you have any questions or require further information.

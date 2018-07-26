@@ -28,7 +28,8 @@ Co-sponsored by [Center for Information Technology Policy, Princeton University]
 
 The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works.
 
-<b>Note: This is an invitation-only event.</b>
+<b>Note: This is an invitation-only event. If you’re interested in attending the symposium without submission, please fill in this [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.</b>
+
 <dl class="agenda">
     <dt>Thursday, September 13</dt>
 
@@ -175,7 +176,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>12:30-1:30pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch </b></section>
+            <section><b>&emsp;&emsp;&emsp;&ensp; Lunch </b></section>
         </ul>
     </dd>
     <dd>
@@ -237,7 +238,7 @@ The aim of the symposium is to foster communication among diverse communities of
         </ul>
     </dd>
     <dd>
-        <span>4-5pm</span>
+        <span>4:00-5:00pm</span>
         <ul>
             <li><b>&emsp;&emsp;&emsp;Spillover, Discussion, and Wrap up </b></li>
         </ul>

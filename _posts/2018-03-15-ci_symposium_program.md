@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "PrivaCI Symposium Program is out"
+title: "(Draft) PrivaCI Symposium Program is out"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - nonews
@@ -9,6 +9,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
+permalink: ci_symposium/program.html
 ---
 ![Alt text]({{ site.url }}/images/citp.png)
 <br/>

@@ -52,7 +52,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>3:45-5:00pm</span>      
         <ul>
-            <section><b>&emsp;&emsp;&emsp;The World Through CI Lens </b></section>
+            <section><b>&emsp;&emsp;&emsp; The World Through CI Lens </b></section>
             <ul>
                 <li>Privacy and Religious Views <br/><i>(short paper)</i>
                     <br/>

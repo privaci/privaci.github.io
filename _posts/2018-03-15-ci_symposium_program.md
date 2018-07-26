@@ -4,7 +4,6 @@ header: no
 title: "PrivaCI Symposium Program is out"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
-    - Event
     - nonews
     #sidebar: right
     #sponsors: right

@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "Symposium on Applications Of Contextual Integrity"
+title: "Symposium Program"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event
@@ -51,7 +51,7 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
             <section><b>&emsp;&emsp;&emsp;The World Through CI Lens </b></section>
             <ul>
-                <li>Privacy and Religious Views <i>(short paper)</i>
+                <li>Privacy and Religious Views <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Madelyn Rose Sanfilippo, <br/>
                         Yafit Lev-Aretz</font></i>
@@ -125,7 +125,7 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>10:30-11:30</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;CI in Human Computer Interaction </b></section>
+            <section><b>&emsp;&emsp;&emsp;CI in Human Computer Interaction and Reasoning </b></section>
             <ul>
                 <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <i>(short paper)</i>
                     <br/>

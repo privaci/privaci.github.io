@@ -226,7 +226,7 @@ The aim of the symposium is to foster communication among diverse communities of
             </li>
             <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing   <i>(extended abstract)</i>
                 <br/>
-                <i><font color="gray">Madelyn Rose Sanfilippo1, Katherine Strandburg  
+                <i><font color="gray">Madelyn Rose Sanfilippo, Katherine Strandburg  
                 </font></i>
             </li>
             <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i>(extended abstract)</i>

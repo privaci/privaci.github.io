@@ -188,7 +188,7 @@ The aim of the symposium is to foster communication among diverse communities of
         <ul>
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
-                <li> Context Matters:  Guidance for Applying the Fair Information Practice Principles in the Internet of Things.
+                <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things.
                 <br/><i>(short paper)</i>
                     <br/>
                     <i><font color="gray">Paula Bruening, Heather Patterson
@@ -201,7 +201,7 @@ The aim of the symposium is to foster communication among diverse communities of
                     </font></i>
                 </li>
                 <li>
-                    Perceiving Patient Privacy in the Context of Heart-Failure Telemonitoring: Adapting the Contextual
+                    Perceiving Patient Privacy in the Context of <br/> Heart-Failure Telemonitoring: Adapting the Contextual
                     Integrity Framework to Gauge Patients’ Privacy Perspectives
                     <br/><i>(extended abstract)</i>
                     <br/>

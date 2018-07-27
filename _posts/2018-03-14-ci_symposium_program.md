@@ -44,7 +44,8 @@ The aim of the symposium is to foster communication among diverse communities of
     <dd>
         <span>2:45-3:30pm&emsp;</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Invited talk </b></section>
+            <section><b>&emsp;&emsp;&emsp; Invited talk:</b>   <br/> Understanding Privacy and Contextual Integrity: A Personal Journey </section>            
+            <i><font color="gray">Anupam Datta</font></i>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
     </dd>

@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "PrivaCI Symposium Program is out"
+title: "PrivaCI Symposium Program"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - accommodations
@@ -26,7 +26,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 
 Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 
-The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works.
+<!-- The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works. -->
 
 <b>Note: This is an invitation-only event.</b>
 

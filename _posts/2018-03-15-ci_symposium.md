@@ -15,8 +15,12 @@ show_meta: false
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
+## New: The CI Symposium (draft) Program is out!  
 
-<!-- ## Call for Participation -->
+We have a packed one and half days agenda for the sysmposium. Check it out [here](http://privaci.info/ci_symposium/program.html) 
+
+
+## Call for Participation 
 
 Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
 

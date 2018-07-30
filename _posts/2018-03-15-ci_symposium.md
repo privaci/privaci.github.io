@@ -17,7 +17,7 @@ show_meta: false
 
 ## New: The CI Symposium (draft) Program is out!  
 
-We have a packed one and half days agenda for the sysmposium. Check it out [here](http://privaci.info/ci_symposium/program.html) 
+Check it out [here](http://privaci.info/ci_symposium/program.html) 
 
 
 ## Call for Participation 

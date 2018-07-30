@@ -15,9 +15,9 @@ show_meta: false
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
-## New: The CI Symposium (draft) Program is out!  
+<!-- ## New: The CI Symposium (draft) Program is out!  
 
-Check it out [here](http://privaci.info/ci_symposium/program.html) 
+Check it out [here](http://privaci.info/ci_symposium/program.html) --> 
 
 
 ## Call for Participation 

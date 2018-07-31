@@ -80,7 +80,7 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 
 ### Symposium Chairs
 
-[Marshini Chetty](https://www.marshini.net)(Princeton University) <br/>
+[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
 [Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
 

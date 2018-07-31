@@ -26,6 +26,12 @@ You can find directions information and accomodation options [here]({{ site.url 
 
 Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 
+### Symposium Chairs
+
+[Marshini Chetty](https://www.marshini.net)(Princeton University) <br/>
+[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
+
 <!-- The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works. -->
 
 <b>Note: This is an invitation-only event.</b>

@@ -71,8 +71,7 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
            </li>            
            <li>Privacy and Religious Views <br/><i>(10 min)</i>
                <br/>
-               <i><font color="gray">Madelyn Rose Sanfilippo and <br/>
-                   Yafit Lev-Aretz</font></i>
+               <i><font color="gray">Madelyn Rose Sanfilippo and Yafit Lev-Aretz</font></i>
            </li>                       
            </ul>            
        </ul>

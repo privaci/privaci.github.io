@@ -129,12 +129,12 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <ul>
                 <li> Disentangling Privacy in Smart Homes <br/><i>(20  min)</i>
                     <br/>
-                    <i><font color="gray">Martin J Kraemer, Ivan Flechais <br/> </font></i>
+                    <i><font color="gray">Martin J Kraemer and Ivan Flechais <br/> </font></i>
                 </li>
 
                 <li>On Engineering AI Agents for Privacy <br/><i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Rafa Gálvez, Seda Gürses
+                    <i><font color="gray">Rafa Gálvez and Seda Gürses
                     </font></i>
                 </li>
 

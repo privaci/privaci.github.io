@@ -52,12 +52,8 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
    <dd>
        <span>2:45-3:45pm</span>
        <ul>
-       <section><b>&emsp;&emsp;&emsp; The World Through CI Lens  </b></section>
-       <ul>
-           <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>
-               <br/>
-               <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
-           </li>
+       <section><b>&emsp;&emsp;&emsp;  CI and Society #1</b></section>
+       <ul>          
            <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i>(15 min)</i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Katherine Strandburg  
@@ -68,13 +64,17 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                <i><font color="gray"> Dmitry Epstein and Kelly Quinn
                </font></i>
            </li>
+           <li> Situated Information Flow <br/> <i>(20 min)</i>
+               <br/>
+               <i><font color="gray">Sebastian Benthall
+               </font></i>
+           </li>            
            <li>Privacy and Religious Views <br/><i>(10 min)</i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and <br/>
                    Yafit Lev-Aretz</font></i>
-           </li>     
+           </li>                       
            </ul>            
-
        </ul>
    </dd>
     <dd><b>Short Break</b></dd>
@@ -94,12 +94,11 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                         <br/>
                         Lakshminarayanan Subramanian
                     </font></i>
-                </li>
-                <li> Situated Information Flow <br/> <i>(20 min)</i>
+                </li>     
+                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Sebastian Benthall
-                    </font></i>
-                </li>                
+                    <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
+                </li>                                                       
             </ul>
         </ul>
     </dd>  

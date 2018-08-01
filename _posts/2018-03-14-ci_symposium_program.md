@@ -49,42 +49,57 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
         <span>2:30pm&emsp;</span>
         <section><b>&emsp;&emsp;&emsp;&emsp; Welcome </b></section>
     </dd>
-    <dd>
-        <span>2:45-3:30pm&emsp;</span>
-        <ul>
-            <section><b>&emsp;&emsp;&emsp; Invited talk:</b>   <br/> Understanding Privacy and Contextual Integrity: A Personal Journey </section>            
-            <i><font color="gray">Anupam Datta</font></i>
-            <!-- <li><font color="gray">Participants</font></li> -->
-        </ul>
-    </dd>
+   <dd>
+       <span>2:45-3:45pm</span>
+       <ul>
+       <section><b>&emsp;&emsp;&emsp; The World Through CI Lens  </b></section>
+       <ul>
+           <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>
+               <br/>
+               <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
+           </li>
+           <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i>(15 min)</i>
+               <br/>
+               <i><font color="gray">Madelyn Rose Sanfilippo and Katherine Strandburg  
+               </font></i>
+           </li>
+           <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i>(15 min)</i>
+               <br/>
+               <i><font color="gray"> Dmitry Epstein and Kelly Quinn
+               </font></i>
+           </li>
+           <li>Privacy and Religious Views <br/><i>(10 min)</i>
+               <br/>
+               <i><font color="gray">Madelyn Rose Sanfilippo and <br/>
+                   Yafit Lev-Aretz</font></i>
+           </li>     
+           </ul>            
+
+       </ul>
+   </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>3:45-5:00pm</span>      
+        <span>4:00-5:00m</span>      
         <ul>
-            <section><b>&emsp;&emsp;&emsp; The World Through CI Lens </b></section>
+            <section><b>&emsp;&emsp;&emsp; CI and Society #2 </b></section>
             <ul>
-                <li>Privacy and Religious Views <br/><i>(short paper)</i>
-                    <br/>
-                    <i><font color="gray">Madelyn Rose Sanfilippo, <br/>
-                        Yafit Lev-Aretz</font></i>
-                </li>                
-                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations <br/><i>(short paper)</i>
+            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i>(20 min)</i>
+                <br/>
+                <i><font color="gray">Catherine Dwyer
+                </font></i>
+              </li>            
+                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster, Helen Nissenbaum,
                         <br/>
                         Lakshminarayanan Subramanian
                     </font></i>
                 </li>
-                <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i>(short paper)</i>
+                <li> Situated Information Flow <br/> <i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Catherine Dwyer
+                    <i><font color="gray">Sebastian Benthall
                     </font></i>
-                </li>
-                <li>Addressing Conceptual Gaps  in Pervasive Data Research Ethics: <br/> An Application of Contextual Integrity <br/> <i>(extended abstract)</i>
-                    <br/>
-                    <i><font color="gray"> Michael Zimmer </font></i>
-                </li>
-
+                </li>                
             </ul>
         </ul>
     </dd>  
@@ -114,19 +129,19 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
             <ul>
-                <li> Disentangling Privacy in Smart Homes <br/><i>(short paper)</i>
+                <li> Disentangling Privacy in Smart Homes <br/><i>(20  min)</i>
                     <br/>
                     <i><font color="gray">Martin J Kraemer, Ivan Flechais <br/> </font></i>
                 </li>
 
-                <li>On Engineering AI Agents for Privacy <br/><i>(short paper)</i>
+                <li>On Engineering AI Agents for Privacy <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Rafa Gálvez, Seda Gürses
                     </font></i>
                 </li>
 
                 <li>Use Case: Passively Listening Personal Assistants  
-                    <br/>
+                    <br/><i>(10 min)</i><br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
                         <br/></font></i>
                 </li>
@@ -135,45 +150,44 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     </dd>    
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>10:30-11:30</span>
+        <span>10:30-11:25</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; CI in Human Computer Interaction and Reasoning </b></section>
+            <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
             <ul>
-                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(short paper)</i>
+                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>
-                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(short paper)</i>
+                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
                         Pamela Wisniewski
                     </font></i>
                 </li>
-                <li> Situated Information Flow <br/> <i>(short paper)</i>
+                <li>Addressing Conceptual Gaps  in Pervasive Data Research Ethics: <br/> An Application of Contextual Integrity <br/> <i>(15 min)</i>
                     <br/>
-                    <i><font color="gray">Sebastian Benthall
-                    </font></i>
+                    <i><font color="gray"> Michael Zimmer </font></i>
                 </li>
             </ul>
         </ul>
     </dd>
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>11:50-12:30</span>
+        <span>11:45-12:30</span>
         <ul>
         <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
         <ul>
-            <li> Contextual Permission Models for Better Privacy Protection <br/><i>(extended abstract)</i>
+            <li> Contextual Permission Models for Better Privacy Protection <br/><i>(15 min)</i>
                 <br/>
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
             </li>
-            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i>(extended abstract)</i>
+            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i>(15 min)</i>
                 <br/>
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>
             </li>
-            <li> Privacy-Aware Programming for Microscale Data <i>(use-case)</i>
+            <li> Privacy-Aware Programming for Microscale Data <i>(10 min)</i>
                 <br/>
                 <i><font color="gray"> Jason Waterman, Eugene Bagdasaryan , Matthew Griffith,<br/> Griffin
                     Berlstein, Nate Foster, Eleanor Birrell
@@ -183,30 +197,29 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
         </ul>
     </dd>    
     <dd>
-        <span>12:30-1:30pm</span>
+        <span>12:30-2pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch </b></section>
+            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch and fireside chat </b></section>
         </ul>
     </dd>
-    <dd>
+  <!--  <dd>
         <span>1:30-2:00pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp; Fireside chat with ... </b></section>
-            <!-- <li><font color="gray">Participants</font></li> -->
+            <section><b>&emsp;&emsp;&emsp; Fireside chat with ... </b></section>        
         </ul>
-    </dd>    
+    </dd>    -->
     <dd>
-        <span>2:00-2:45pm</span>
+        <span>2:00-2:55pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
                 <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things.
-                <br/><i>(short paper)</i>
+                <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Paula Bruening, Heather Patterson
                     </font></i>
                 </li>
-                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <i>(short paper)</i>
+                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Julia Bernd, Serge Egelman, Maritza Johnson, <br/> Nathan Malkin, Franziska
                         Roesner, Madiha Tabassum, <br/> and Primal Wijesekera
@@ -214,42 +227,30 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 </li>
                 <li>
                     Perceiving Patient Privacy in the Context of <br/> Heart-Failure Telemonitoring: Adapting the Contextual
-                    Integrity Framework to Gauge Patients’ Privacy Perspectives
-                    <br/><i>(extended abstract)</i>
+                    Integrity <br/> Framework to Gauge Patients’ Privacy Perspectives
+                    <br/><i>(15 min)</i>
                     <br/>
-                    <i><font color="gray">Martin French, Heather Patterson
+                    <i><font color="gray">Martin French and Heather Patterson
                     </font></i>
                 </li>
             </ul>
         </ul>
-    </dd>
-    <dd><b>Break</b></dd>
+    </dd>   
+    <dd><b>Break</b></dd>   
     <dd>
-        <span>3:10-4:00pm</span>
+        <span>3:15-4:00pm&emsp;</span>
         <ul>
-        <section><b>&emsp;&emsp;&emsp; CI and Social Media </b></section>
-        <ul>
-            <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(short paper)</i>
-                <br/>
-                <i><font color="gray">Mainack Mondal, Blase Ur</font></i>
-            </li>
-            <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing   <i>(extended abstract)</i>
-                <br/>
-                <i><font color="gray">Madelyn Rose Sanfilippo, Katherine Strandburg  
-                </font></i>
-            </li>
-            <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i>(extended abstract)</i>
-                <br/>
-                <i><font color="gray"> Dmitry Epstein and Kelly Quinn
-                </font></i>
-            </li>
-            </ul>            
+            <section>&emsp;&emsp;&emsp;  Understanding Privacy and Contextual Integrity: A Personal Journey </section>            
+            <i><font color="gray">Anupam Datta</font></i>
+            <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
-    </dd>
+    </dd>    
     <dd>
         <span>4:00-5:00pm</span>
         <ul>
-            <li><b>&emsp;&emsp;&emsp;Spillover, Discussion, and Wrap up </b></li>
+            <li><b>&emsp;&emsp;&emsp;Spillover, Discussion, and Wrap up
+            <i><font color="gray">(Marshini Chetty, Hellen Nissenbaum, Yan Shvartzshnaider)</font></i>
+             </b></li>
         </ul>
     </dd>
 </dl>

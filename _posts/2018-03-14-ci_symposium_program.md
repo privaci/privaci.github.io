@@ -214,7 +214,7 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things.
                 <br/><i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Paula Bruening, Heather Patterson
+                    <i><font color="gray">Paula Bruening and Heather Patterson
                     </font></i>
                 </li>
                 <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i>(20 min)</i>

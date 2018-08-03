@@ -38,7 +38,7 @@ Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 
 <b>Note: This is an invitation-only event.</b>
 
-__This is a draft progra and subject to change__
+__This is a draft program and subject to change.__
 
 <dl class="agenda">
     <dt>Thursday, September 13</dt>

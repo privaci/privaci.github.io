@@ -30,12 +30,13 @@ The aim of the symposium is to foster communication among diverse communities of
 
 ### The Symposium (draft) Program is out. See it [here](http://privaci.info/ci_symposium/program.html).
 
+
 ## Accomodations 
 
 You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
 
 
-#### SUBMISSION
+<!-- #### SUBMISSION
 <br/>
 We will accept any of the following submission types:
 
@@ -68,6 +69,8 @@ CI Symposium <short paper/extended abstract/use-case> submission
 
 We look forward to seeing you at the symposium!
 
+-->
+
 #### IMPORTANT DATES
 
 * ~~Submissions Due: June 10~~
@@ -77,11 +80,11 @@ We look forward to seeing you at the symposium!
 
 
 
-#### TRAVEL GRANT
+<!-- #### TRAVEL GRANT
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://goo.gl/forms/RS3DQSba9qur4y4g1). (__Deadline: July 24__)
 
-The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. -->
 
 
 ### Symposium Chairs

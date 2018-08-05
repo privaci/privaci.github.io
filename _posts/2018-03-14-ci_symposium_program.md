@@ -18,27 +18,24 @@ permalink: ci_symposium/program.html
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
 
-<!-- ## Call for Participation -->
+<!-- ## Call for Participation-->
 
-<b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.
+<b>September 13-14</b>, Princeton University.
 
 <!-- You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html). -->
 
-Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
+Co-sponsored: [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 
 <!-- ### Symposium Chairs
 
 [Marshini Chetty](https://www.marshini.net)(Princeton University) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
 [Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
-
 -->
 
 <!-- The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works. -->
 
-
-__Draft program, subject to change.__
-__Attendance by invitation-only. Contact: [privaci.research@gmail.com(mailto:privaci.research@gmail.com)__
+__Attendance by invitation-only.__  Contact: [privaci.research@gmail.com(mailto:privaci.research@gmail.com)
 
 <dl class="agenda">
     <dt>Thursday, September 13</dt>

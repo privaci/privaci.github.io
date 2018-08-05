@@ -20,7 +20,7 @@ show_meta: false
 Check it out [here](http://privaci.info/ci_symposium/program.html) --> 
 
 
-## Call for Participation 
+<!-- ## Call for Participation --> 
 
 Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
 

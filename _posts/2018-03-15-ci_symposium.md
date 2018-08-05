@@ -22,7 +22,9 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 
 <!-- ## Call for Participation --> 
 
-Symposium on Applications of Contextual Integrity  <b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
+<!-- Symposium on Applications of Contextual Integrity -->  
+
+<b>September 13-14</b>, 2018  at the Center for Information and Technology Policy at Princeton University.  
 
 Co-sponsored by [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 

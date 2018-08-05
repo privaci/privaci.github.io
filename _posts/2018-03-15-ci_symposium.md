@@ -62,7 +62,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 
 ## Contact
 
-Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
+[privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 
 
 <!-- #### SUBMISSION

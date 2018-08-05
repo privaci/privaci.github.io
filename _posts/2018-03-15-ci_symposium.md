@@ -32,7 +32,7 @@ Co-sponsors: <br/>
 
 The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works.
 
-### Symposium [program](http://privaci.info/ci_symposium/program.html) (draft).
+### Symposium [Program](http://privaci.info/ci_symposium/program.html) (draft).
 
 
 ### Symposium Chairs

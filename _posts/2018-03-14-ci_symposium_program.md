@@ -219,7 +219,7 @@ __Draft program, subject to change.__
         <ul>
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
             <ul>
-                <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things.
+                <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things
                 <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Paula Bruening and Heather Patterson
@@ -242,21 +242,28 @@ __Draft program, subject to change.__
             </ul>
         </ul>
     </dd>   
-    <dd><b>Break</b></dd>   
+    <dd><b>Break</b></dd>
     <dd>
-        <span>3:15-4:00pm&emsp;</span>
-        <ul>
-            <section>&emsp;&emsp;&emsp;  Understanding Privacy and Contextual Integrity: A Personal Journey </section>            
-            <i><font color="gray">Anupam Datta</font></i>
-            <!-- <li><font color="gray">Participants</font></li> -->
-        </ul>
-    </dd>    
+    <span>3:15-4:00</span>
+    <ul>
+    <section></section>
+    <ul>
+    <li> Understanding Privacy and Contextual Integrity: <br/> A Personal Journey<br/>
+    <font color="gray">Anupam Datta</font>
+    </li>
+    </ul>
+    </ul>
+    </dd>      
+    
     <dd>
-        <span>4:00-5:00pm</span>
-        <ul>
-            <li><b>&emsp;&emsp;&emsp;Spillover, Discussion, and Wrap up
-            <i><font color="gray">(Marshini Chetty, Hellen Nissenbaum, Yan Shvartzshnaider)</font></i>
-             </b></li>
-        </ul>
-    </dd>
+    <span>4:00-5:00pm</span>
+    <ul>
+    <section></section>
+    <ul>
+    <li> Spillover, Discussion, and Wrap up<br/>
+    <font color="gray">(Marshini Chetty, Hellen Nissenbaum, Yan Shvartzshnaider)</font>
+    </li>
+    </ul>
+    </ul>
+    </dd> 
 </dl>

@@ -152,24 +152,28 @@ __Draft program, subject to change.__
     </dd>    
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>10:30-11:25</span>
+        <span>10:30-11:35</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
             <ul>
-                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(20 min)</i>
+                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(15 min)</i>
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>
-                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(20 min)</i>
-                    <br/>
-                    <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
-                        Pamela Wisniewski
-                    </font></i>
-                </li>
+                <li>The Emotional Context oF Information Privacy. <br/> <i>(15 min)</i>
+                <br/>
+                <i><font color="gray"> Luke Stark </font></i>
+                </li>                                
                 <li>Addressing Conceptual Gaps  in Pervasive Data Research Ethics: <br/> An Application of Contextual Integrity <br/> <i>(15 min)</i>
                     <br/>
                     <i><font color="gray"> Michael Zimmer </font></i>
                 </li>
+                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(20 min)</i>
+                <br/>
+                <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
+                Pamela Wisniewski
+                </font></i>
+                </li>                
             </ul>
         </ul>
     </dd>

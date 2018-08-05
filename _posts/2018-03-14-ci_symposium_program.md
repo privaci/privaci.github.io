@@ -160,7 +160,7 @@ __Draft program, subject to change.__
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>
-                <li>The Emotional Context Of Information Privacy. <br/> <i>(15 min)</i>
+                <li>The Emotional Context Of Information Privacy <br/> <i>(15 min)</i>
                 <br/>
                 <i><font color="gray"> Luke Stark </font></i>
                 </li>                                

@@ -33,9 +33,34 @@ The aim of the symposium is to foster communication among diverse communities of
 ### The Symposium (draft) Program is out. See it [here](http://privaci.info/ci_symposium/program.html).
 
 
+### Symposium Chairs
+
+[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
+[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
+
+### Program Committee
+
+[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
+[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
+[Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
+[Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
+[Seda Gürses](http://vous-etes-ici.net) (University of Leuven)  <br/>
+[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
+Julia Powles (Cornell Tech and NYU)<br/>
+[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
+[Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
+[Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
+[Thomas Wies](https://cs.nyu.edu/wies/) (NYU)<br/>
+
+
 ## Accomodations 
 
 You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
+
+## Contact
+
+Contact email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 
 
 <!-- #### SUBMISSION
@@ -71,7 +96,7 @@ CI Symposium <short paper/extended abstract/use-case> submission
 
 We look forward to seeing you at the symposium!
 
--->
+
 
 #### IMPORTANT DATES
 
@@ -80,7 +105,7 @@ We look forward to seeing you at the symposium!
 * ~~Travel grant application: July 24~~
 * Date of Symposium: September 13 and 14
 
-
+-->
 
 <!-- #### TRAVEL GRANT
 
@@ -88,26 +113,6 @@ Participants can apply for a travel grant award that can go towards partially co
 
 The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. -->
 
-
-### Symposium Chairs
-
-[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
-[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
-
-### Program Committee
-
-[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
-[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
-[Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
-[Seda Gürses](http://vous-etes-ici.net) (University of Leuven)  <br/>
-[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
-Julia Powles (Cornell Tech and NYU)<br/>
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
-[Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
-[Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
-[Thomas Wies](https://cs.nyu.edu/wies/) (NYU)<br/>
 
 
 

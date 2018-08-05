@@ -244,7 +244,7 @@ __Draft program, subject to change.__
     </dd>   
     <dd><b>Break</b></dd>
     <dd>
-    <span>3:15-4:00</span>
+    <span>3:15-4:00pm</span>
     <ul>
     <section></section>
     <ul>

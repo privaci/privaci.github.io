@@ -24,7 +24,7 @@ permalink: ci_symposium/program.html
 
 <!-- You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html). -->
 
-Co-sponsored: [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
+Co-sponsors: [Center for Information Technology Policy, Princeton University](https://citp.princeton.edu) & [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
 
 <!-- ### Symposium Chairs
 

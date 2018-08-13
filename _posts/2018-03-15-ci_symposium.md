@@ -34,6 +34,7 @@ The aim of the symposium is to foster communication among diverse communities of
 
 ### [Symposium Program](http://privaci.info/ci_symposium/program.html)
 
+__With author’s permission, accepted submissions would be posted on the website but not be considered archival publications.__
 
 ### Symposium Chairs
 

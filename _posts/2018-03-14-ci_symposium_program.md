@@ -91,11 +91,9 @@ __Draft program, subject to change.__
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
               </li>            
-                <li>Analyzing Privacy Policy Updates Using <br/> Contextual Integrity Annotations <br/><i>(20 min)</i>
+                <li>Analyzing Privacy Policies Using <br/> Contextual Integrity Annotations <br/><i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster, Helen Nissenbaum,
-                        <br/>
-                        Lakshminarayanan Subramanian
+                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster and Helen Nissenbaum
                     </font></i>
                 </li>     
                 <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>

@@ -209,7 +209,7 @@ __Draft program, subject to change.__
     <dd>
         <span>12:30-2pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch and conversation with Susanne Wetzel, Program Director SaTC, NSF </b></section>
+            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b></section>
         </ul>
     </dd>
     <dd>

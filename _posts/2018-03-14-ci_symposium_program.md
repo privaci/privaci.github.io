@@ -57,7 +57,7 @@ __Draft program, subject to change.__
        <span>2:45-3:45pm</span>
        <ul>
        <section><b>&emsp;&emsp;&emsp;  CI and Society #1</b><br/>
-       <i><font color="gray">Chair: </font></i>
+       <i><font color="gray">Chair:  Jake Goldenfein</font></i>
        </section>
        <ul>          
            <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i>(15 min)</i>
@@ -87,7 +87,7 @@ __Draft program, subject to change.__
         <span>4:00-5:00m</span>      
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI and Society #2 </b></section>
-            <i><font color="gray">Chair: </font></i>
+            <i><font color="gray">Chair: Ben Zevenbergen</font></i>
             <ul>
             <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i>(20 min)</i>
                 <br/>
@@ -131,19 +131,17 @@ __Draft program, subject to change.__
         <span>9:30-10:20&emsp;</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
-            <i><font color="gray">Chair: </font></i>
+            <i><font color="gray">Chair: Günes Acar </font></i>
             <ul>
                 <li> Disentangling Privacy in Smart Homes <br/><i>(20  min)</i>
                     <br/>
                     <i><font color="gray">Martin J Kraemer and Ivan Flechais <br/> </font></i>
                 </li>
-
                 <li>On Engineering AI Agents for Privacy <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Rafa Gálvez and Seda Gürses
                     </font></i>
                 </li>
-
                 <li>Use Case: Passively Listening Personal Assistants  
                     <br/><i>(10 min)</i><br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
@@ -157,7 +155,7 @@ __Draft program, subject to change.__
         <span>10:30-11:35</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
-            <i><font color="gray">Chair: </font></i>
+            <i><font color="gray">Chair: Michael Byrne</font></i>
             <ul>
                 <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(15 min)</i>
                     <br/>
@@ -185,7 +183,7 @@ __Draft program, subject to change.__
         <span>11:45-12:30</span>
         <ul>
         <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
-        <i><font color="gray">Chair: </font></i>
+        <i><font color="gray">Chair: Darakhshan Mir</font></i>
         <ul>
             <li> Contextual Permission Models for Better Privacy Protection <br/><i>(15 min)</i>
                 <br/>
@@ -216,7 +214,7 @@ __Draft program, subject to change.__
         <span>2:00-2:55pm</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; Discovering Users' Privacy Expectation </b></section>
-            <i><font color="gray">Chair: </font></i>
+            <i><font color="gray">Chair: Daniel Susser</font></i>
             <ul>
                 <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things
                 <br/><i>(20 min)</i>

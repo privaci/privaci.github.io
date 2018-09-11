@@ -94,7 +94,7 @@ __Draft program, subject to change.__
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
               </li>            
-                <li>Analyzing Privacy Policies Using <br/> Contextual Integrity Annotations <br/><i>(20 min)</i>
+                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i>(20 min)</i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster and Helen Nissenbaum
                     </font></i>
@@ -131,7 +131,7 @@ __Draft program, subject to change.__
         <span>9:30-10:20&emsp;</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
-            <i><font color="gray">Chair: Günes Acar </font></i>
+            <i><font color="gray">Chair: Güneş Acar </font></i>
             <ul>
                 <li> Disentangling Privacy in Smart Homes <br/><i>(20  min)</i>
                     <br/>

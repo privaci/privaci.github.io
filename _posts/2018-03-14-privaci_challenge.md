@@ -17,12 +17,12 @@ permalink: ci_symposium/challenge.html
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
-<img src="{{ site.url }}/images/context-matters.jpg" alt="my caption" />
+
 
 
 <dl class="agenda">
-    <dt>Thursday, September 13</dt>
-
+    <dt><h1>PrivaCI Challenge</h1></dt>
+<img src="{{ site.url }}/images/context-matters.jpg" alt="my caption" />
     <dd>
         <span>5:15 PM&emsp;</span>
         <section><b>&emsp;&emsp;&emsp;&emsp; Introduction and Forming Groups </b></section>

@@ -39,7 +39,7 @@ permalink: ci_symposium/challenge.html
     </ul>
     </dd>
     <dd>
-    <span>6:45 PM&emsp;</span>
+    <span>5:45 PM&emsp;</span>
     <section><b>&emsp;&emsp;&emsp;&emsp; &emsp; Conclusion, discussion of the cases</b></section>
     </dd>
 </dl>

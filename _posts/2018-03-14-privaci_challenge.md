@@ -24,11 +24,11 @@ permalink: ci_symposium/challenge.html
     <dt><h1>PrivaCI Challenge</h1></dt>
 <img src="{{ site.url }}/images/context-matters.jpg" alt="my caption" />
     <dd>
-        <span>5:15 PM&emsp;</span>
+        <span>5:15 PM&emsp;&emsp;</span>
         <section><b>&emsp;&emsp;&emsp;&emsp; Introduction and Forming Groups </b></section>
     </dd>
     <dd>
-    <span>5:25 PM&emsp;</span>
+    <span>5:25 PM&emsp;&emsp;</span>
     <section><b>&emsp;&emsp;&emsp;&emsp; Challenge begins! (Click <a href="https://docs.google.com/spreadsheets/d/1uIAW_ByA_rTm0tg31cZb1vvTtAP3jlVMaIRPQ4OrQio/edit?usp=sharing">here</a></b>)</section>
     <ul>          
     <li>* Select your group’s tab</li>

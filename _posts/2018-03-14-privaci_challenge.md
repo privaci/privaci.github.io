@@ -35,7 +35,7 @@ permalink: ci_symposium/challenge.html
     <li>* Read the scenario/news article assigned to your group. </li>
     <li>* List main contextual informational norms / privacy expectations in this context.</li>
     <li>* List flows that violate these norms/expectations using the CI Framework</li>
-    <li>* Discuss possible solutions with your group. E.g., change is policy, GUI, technology, etc.</li>
+    <li>* Discuss possible solutions with your group. E.g., change in policy, GUI, technology, etc.</li>
     </ul>
     </dd>
     <dd>

@@ -152,7 +152,7 @@ __Draft program, subject to change.__
     </dd>    
     <dd><b>Short Break</b></dd>
     <dd>
-        <span>10:30-11:35</span>
+        <span>10:30-11:20</span>
         <ul>
             <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
             <i><font color="gray">Chair: Michael Byrne</font></i>

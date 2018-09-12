@@ -25,11 +25,11 @@ permalink: ci_symposium/challenge.html
 <img src="{{ site.url }}/images/context-matters.jpg" alt="my caption" />
     <dd>
         <span>5:15 PM&emsp;&emsp;</span>
-        <section><b>&emsp;&emsp;&emsp;&emsp; Introduction and Forming Groups </b></section>
+        <section><b>&emsp;&emsp;&emsp;&emsp; &emsp; Introduction and Forming Groups </b></section>
     </dd>
     <dd>
     <span>5:25 PM&emsp;&emsp;</span>
-    <section><b>&emsp;&emsp;&emsp;&emsp; Challenge begins! (Click <a href="https://docs.google.com/spreadsheets/d/1uIAW_ByA_rTm0tg31cZb1vvTtAP3jlVMaIRPQ4OrQio/edit?usp=sharing">here</a></b>)</section>
+    <section><b>&emsp;&emsp;&emsp;&emsp;&emsp; Challenge begins! (Click <a href="https://docs.google.com/spreadsheets/d/1uIAW_ByA_rTm0tg31cZb1vvTtAP3jlVMaIRPQ4OrQio/edit?usp=sharing" target="_blank">here</a></b>)</section>
     <ul>          
     <li>* Select your group’s tab</li>
     <li>* Read the scenario/news article assigned to your group. </li>
@@ -40,6 +40,6 @@ permalink: ci_symposium/challenge.html
     </dd>
     <dd>
     <span>6:45 PM&emsp;</span>
-    <section><b>&emsp;&emsp;&emsp;&emsp; Conclusion, discussion of the cases</b></section>
+    <section><b>&emsp;&emsp;&emsp;&emsp; &emsp; Conclusion, discussion of the cases</b></section>
     </dd>
 </dl>

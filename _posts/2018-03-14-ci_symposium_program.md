@@ -96,7 +96,7 @@ __Draft program, subject to change.__
               </li>            
                 <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i>(20 min)</i>
                     <br/>
-                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, <br/> Nick Feamster and Helen Nissenbaum
+                    <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, Nick Feamster and Helen Nissenbaum
                     </font></i>
                 </li>     
                 <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>
@@ -165,10 +165,10 @@ __Draft program, subject to change.__
                 <br/>
                 <i><font color="gray"> Luke Stark </font></i>
                 </li>                                
-                <li>Addressing Conceptual Gaps  in Pervasive Data Research Ethics: <br/> An Application of Contextual Integrity <br/> <i>(15 min)</i>
+                <!-- <li>Addressing Conceptual Gaps  in Pervasive Data Research Ethics: <br/> An Application of Contextual Integrity <br/> <i>(15 min)</i>
                     <br/>
                     <i><font color="gray"> Michael Zimmer </font></i>
-                </li>
+                </li> -->
                 <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(20 min)</i>
                 <br/>
                 <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,

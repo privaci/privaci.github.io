@@ -92,12 +92,12 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
               </li>            
-                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244876">Paper</a>|<a href="({{ site.url }}/symposium/CIPolicies.pdf">Slides</a></i>
+                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244876">Paper</a>|<a href="{{ site.url }}/symposium/CIPolicies.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, Nick Feamster and Helen Nissenbaum
                     </font></i>
                 </li>     
-                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i><a href="({{ site.url }}/symposium/exposure-ci.pdf">Paper</a>|<a href="{{ site.url }}/symposium/ci-symposium-exposure-talk.pdf">Slides</a></i>
+                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i><a href="{{ site.url }}/symposium/exposure-ci.pdf">Paper</a>|<a href="{{ site.url }}/symposium/ci-symposium-exposure-talk.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
                 </li>                                                       

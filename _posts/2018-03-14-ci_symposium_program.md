@@ -37,11 +37,9 @@ Co-sponsors: <br/>
 
 <!-- The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.  After the success of a [half-day meeting in Fall 2017](http://privaci.info/event/ci_workshop/), we are excited to follow up with a more comprehensive  event to foster discussion across a broader spectrum of disciplines. The Symposium will feature a combination of invited and submitted works. -->
 
-__Attendance by invitation-only.__  
 
 Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 
-__Draft program, subject to change.__
 <dl class="agenda">
     <dt>Thursday, September 13</dt>
 
@@ -60,7 +58,7 @@ __Draft program, subject to change.__
        <i><font color="gray">Chair:  Jake Goldenfein</font></i>
        </section>
        <ul>          
-           <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i>(15 min)</i>
+           <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i><a href="{{ site.url }}/symposium/SanfilippoStrandburgPrivaCI.pdf">Slides</a></i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Katherine Strandburg  
                </font></i>
@@ -75,7 +73,7 @@ __Draft program, subject to change.__
                <i><font color="gray">Sebastian Benthall
                </font></i>
            </li>            
-           <li>Privacy and Religious Views <br/><i>(10 min)</i>
+           <li>Privacy and Religious Views <br/><i><a href="{{ site.url }}/symposium/Privacy & Religion.pdf">Slides</a></i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Yafit Lev-Aretz</font></i>
            </li>                       
@@ -89,17 +87,17 @@ __Draft program, subject to change.__
             <section><b>&emsp;&emsp;&emsp; CI and Society #2 </b></section>
             <i><font color="gray">Chair: Ben Zevenbergen</font></i>
             <ul>
-            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i>(20 min)</i>
+            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i><a href="{{ site.url }}/symposium/6_Applying_the_Contextual_Integrity_Framework_to_Cambridge Analytica.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Cambridge Analytica and CI.pdf">Slides</a></i>
                 <br/>
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
               </li>            
-                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i>(20 min)</i>
+                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244876">Paper</a>|<a href="({{ site.url }}/symposium/CIPolicies.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, Nick Feamster and Helen Nissenbaum
                     </font></i>
                 </li>     
-                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i>(20 min)</i>
+                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i><a href="({{ site.url }}/symposium/exposure-ci.pdf">Paper</a>|<a href="{{ site.url }}/symposium/ci-symposium-exposure-talk.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
                 </li>                                                       

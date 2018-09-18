@@ -205,7 +205,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <dd>
         <span>12:30-2pm</span>
         <ul>
-            <section><b>&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b><br/><i> <a href = "{{site.url}}/sympoisum/Wetzel_ContextIntegr2018.pdf">Slides</a></i></section>                     
+            <section><b>&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b><br/><i> <a href = "{{site.url}}/symposium/Wetzel_ContextIntegr2018.pdf">Slides</a></i></section>                     
         </ul>
           
     </dd>

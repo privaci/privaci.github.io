@@ -183,7 +183,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
         <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
         <i><font color="gray">Chair: Darakhshan Mir</font></i>
         <ul>
-            <li> Contextual Permission Models for Better Privacy Protection <br/><i>(15 min)</i>
+        <li> Contextual Permission Models for Better Privacy Protection <br/><i><a href ="{{ site.url }}/symposium/contextual_permissions_paper.pdf">Paper</a> | <a href = "{{ site.url }}/symposium/contextual_permissions_slides.pdf">Slides</a></i>
                 <br/>
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
@@ -245,8 +245,10 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <section></section>
     <ul>
     <li> Understanding Privacy and Contextual Integrity: <br/> A Personal Journey<br/>
+     <a href = "{{ site.url }}/symposium/contextual_permissions_slides.pdf">Slides</a><br/>
     <font color="gray">Anupam Datta</font>
     </li>
+   
     </ul>
     </ul>
     </dd>      

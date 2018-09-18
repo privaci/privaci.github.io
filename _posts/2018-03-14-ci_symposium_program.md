@@ -73,7 +73,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                <i><font color="gray">Sebastian Benthall
                </font></i>
            </li>            
-           <li>Privacy and Religious Views <br/><i><a href="{{ site.url }}/symposium/Privacy & Religion.pdf">Slides</a></i>
+           <li>Privacy and Religious Views <br/><i><a href="{{ site.url }}/symposium/Privacy&Religion.pdf">Slides</a></i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Yafit Lev-Aretz</font></i>
            </li>                       
@@ -131,7 +131,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
             <i><font color="gray">Chair: Güneş Acar </font></i>
             <ul>
-                <li> Disentangling Privacy in Smart Homes <br/><i>(20  min)</i>
+            <li> Disentangling Privacy in Smart Homes <br/><i><a href="{{ site.url }}/symposium/Disentangling_in_Smart_Homes.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Martin J Kraemer and Ivan Flechais <br/> </font></i>
                 </li>
@@ -205,8 +205,9 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <dd>
         <span>12:30-2pm</span>
         <ul>
-            <section><b>&emsp;&emsp;&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b></section>
+            <section><b>&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b><br/><i> <a href = "{{site.url}}/sympoisum/Wetzel_ContextIntegr2018.pdf">Slides</a></i></section>                     
         </ul>
+          
     </dd>
     <dd>
         <span>2:00-2:55pm</span>
@@ -215,12 +216,12 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <i><font color="gray">Chair: Daniel Susser</font></i>
             <ul>
                 <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things
-                <br/><i>(20 min)</i>
+                <br/><i><a href="{{ site.url}}/symposium/Princeton_PresentationRev.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Paula Bruening and Heather Patterson
                     </font></i>
                 </li>
-                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i>(20 min)</i>
+                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i><a href="{{ site.url }}/sympoisum/CI-Symposium-9-13-18.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Julia Bernd, Serge Egelman, Maritza Johnson, <br/> Nathan Malkin, Franziska
                         Roesner, Madiha Tabassum, <br/> and Primal Wijesekera

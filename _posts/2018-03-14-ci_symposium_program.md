@@ -63,7 +63,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                <i><font color="gray">Madelyn Rose Sanfilippo and Katherine Strandburg  
                </font></i>
            </li>
-           <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i>(15 min)</i>
+           <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i><a href="{{ site.url }}/symposium/2018-09-13_KnowingAndBelieving_PrivaCI.pdf">Slides</a></i>
                <br/>
                <i><font color="gray"> Dmitry Epstein and Kelly Quinn
                </font></i>

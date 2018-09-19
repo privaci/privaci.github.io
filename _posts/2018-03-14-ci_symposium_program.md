@@ -221,7 +221,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                     <i><font color="gray">Paula Bruening and Heather Patterson
                     </font></i>
                 </li>
-                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i><a href="{{ site.url }}/sympoisum/CI-Symposium-9-13-18.pdf">Slides</a></i>
+                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i><a href="{{ site.url}}/symposium/CI-Symposium-9-13-18.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Julia Bernd, Serge Egelman, Maritza Johnson, <br/> Nathan Malkin, Franziska
                         Roesner, Madiha Tabassum, <br/> and Primal Wijesekera

@@ -245,7 +245,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <section></section>
     <ul>
     <li> Understanding Privacy and Contextual Integrity: <br/> A Personal Journey<br/>
-     <a href = "{{ site.url }}/symposium/contextual_permissions_slides.pdf">Slides</a><br/>
+     <a href = "{{ site.url }}/symposium/Understanding_Privacy_and_Contextual_Integrity.pdf">Slides</a><br/>
     <font color="gray">Anupam Datta</font>
     </li>
    

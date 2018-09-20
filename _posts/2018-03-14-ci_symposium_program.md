@@ -67,8 +67,8 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                <br/>
                <i><font color="gray"> Dmitry Epstein and Kelly Quinn
                </font></i>
-           </li>
-           <li> Situated Information Flow <br/> <i>(20 min)</i>
+           </li>           
+           <li> Situated Information Flow <br/> <i><a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf">Slides</a></i>
                <br/>
                <i><font color="gray">Sebastian Benthall
                </font></i>

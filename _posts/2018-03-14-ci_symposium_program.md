@@ -141,7 +141,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                     </font></i>
                 </li>
                 <li>Use Case: Passively Listening Personal Assistants  
-                    <br/><i>(10 min)</i><br/>
+                    <br/><i><a href ="{{ site.url }}/symposium/1_passive_listening_ci.pdf">Paper</a>)</i><br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
                         <br/></font></i>
                 </li>
@@ -188,7 +188,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
             </li>
-            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i>(15 min)</i>
+            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i><a href = "{{ site.url }}/symposium/PrivacyHeuristics-How Users Manage-Eran-Toch-September-2018.pdff">Slides</a></i>
                 <br/>
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>

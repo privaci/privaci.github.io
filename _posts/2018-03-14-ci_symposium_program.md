@@ -193,7 +193,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>
             </li>
-            <li> Privacy-Aware Programming for Microscale Data <a href = "{{ site.url }}/symposium/Ancile_CI_Symposium.pdf">Slides</a></i>
+            <li> Privacy-Aware Programming for Microscale Data <br/><i> <a href = "{{ site.url }}/symposium/Ancile_CI_Symposium.pdf">Slides</a></i>
                 <br/>
                 <i><font color="gray"> Jason Waterman, Eugene Bagdasaryan , Matthew Griffith,<br/> Griffin
                     Berlstein, Nate Foster, Eleanor Birrell

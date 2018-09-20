@@ -230,7 +230,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <li>
                     Perceiving Patient Privacy in the Context of <br/> Heart-Failure Telemonitoring: Adapting the Contextual
                     Integrity <br/> Framework to Gauge Patients’ Privacy Perspectives
-                    <br/><i>(15 min)</i>
+                    <br/><i><a href="{{ site.url}}/symposium/FrenchandPatterson_PerceivingPatientPrivacy_V2.pdf">Slides</a></i>
                     <br/>
                     <i><font color="gray">Martin French and Heather Patterson
                     </font></i>

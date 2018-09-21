@@ -16,7 +16,6 @@ permalink: ci_symposium/program.html
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
-![Alt text]({{ site.url }}/images/group_photo.jpg)
 
 <!-- ## Call for Participation-->
 

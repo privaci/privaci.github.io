@@ -134,8 +134,8 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                     <br/>
                     <i><font color="gray">Martin J Kraemer and Ivan Flechais <br/> </font></i>
                 </li>
-                <li>On Engineering AI Agents for Privacy <br/><i>(20 min)</i>
-                    <br/>
+                <li>On Engineering AI Agents for Privacy <br/><i><a href="{{ site.url }}/symposium/saci_presentation.pdf">Slides</a></i>
+                    <br/>                    
                     <i><font color="gray">Rafa Gálvez and Seda Gürses
                     </font></i>
                 </li>

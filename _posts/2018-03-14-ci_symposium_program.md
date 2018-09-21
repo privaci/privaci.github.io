@@ -188,7 +188,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
             </li>
-            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i><a href = "{{ site.url }}/symposium/PrivacyHeuristics-How Users Manage-Eran-Toch-September-2018.pdff">Slides</a></i>
+            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i><a href = "{{ site.url }}/symposium/PrivacyHeuristics-How Users Manage-Eran-Toch-September-2018.pdf">Slides</a></i>
                 <br/>
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>

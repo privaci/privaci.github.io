@@ -141,7 +141,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                     </font></i>
                 </li>
                 <li>Use Case: Passively Listening Personal Assistants  
-                    <br/><i><a href ="{{ site.url }}/symposium/1_passive_listening_ci.pdf">Paper</a>)</i><br/>
+                    <br/><i><a href ="{{ site.url }}/symposium/passive_listening_ci.pdf">Paper</a></i><br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
                         <br/></font></i>
                 </li>

@@ -29,7 +29,7 @@ permalink: ci_symposium/challenge.html
     </dd>
     <dd>
     <span>5:25 PM&emsp;&emsp;</span>
-    <section><b>&emsp;&emsp;&emsp;&emsp;&emsp; Challenge begins! (Click <a href="https://docs.google.com/spreadsheets/d/1uIAW_ByA_rTm0tg31cZb1vvTtAP3jlVMaIRPQ4OrQio/edit?usp=sharing" target="_blank">HERE</a></b>)</section>
+    <section><b>&emsp;&emsp;&emsp;&emsp;&emsp; Challenge begins! (Click <a href="https://docs.google.com/spreadsheets/d/1kJfOeZjob-zgX-SoEifQcsBSoCoiod1u-wnNILyK1Lg/edit?usp=sharing" target="_blank">HERE</a></b>)</section>
     <ul>          
     <li>* Select your group’s tab</li>
     <li>* Read the scenario/news article assigned to your group. </li>

@@ -57,22 +57,22 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
        <i><font color="gray">Chair:  Jake Goldenfein</font></i>
        </section>
        <ul>          
-           <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i><a href="{{ site.url }}/symposium/SanfilippoStrandburgPrivaCI.pdf">Slides</a></i>
+           <li>Contextual Integrity as Commons Governance <br/> in Online Political Organizing  <br/>  <i><a href="{{ site.url }}/symposium/SanfilippoStrandburgPrivaCI.pdf" target="_blank">Slides</a></i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Katherine Strandburg  
                </font></i>
            </li>
-           <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i><a href="{{ site.url }}/symposium/2018-09-13_KnowingAndBelieving_PrivaCI.pdf">Slides</a></i>
+           <li> Knowing and believing: Privacy literacy, privacy self-efficacy <br/> and context in  privacy-protecting behaviors  <br/><i><a href="{{ site.url }}/symposium/2018-09-13_KnowingAndBelieving_PrivaCI.pdf" target="_blank">Slides</a></i>
                <br/>
                <i><font color="gray"> Dmitry Epstein and Kelly Quinn
                </font></i>
            </li>           
-           <li> Situated Information Flow <br/> <i><a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf">Slides</a></i>
+           <li> Situated Information Flow <br/> <i><a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i>
                <br/>
                <i><font color="gray">Sebastian Benthall
                </font></i>
            </li>            
-           <li>Privacy and Religious Views <br/><i><a href="{{ site.url }}/symposium/Privacy&Religion.pdf">Slides</a></i>
+           <li>Privacy and Religious Views <br/><i><a href="{{ site.url }}/symposium/Privacy&Religion.pdf" target="_blank">Slides</a></i>
                <br/>
                <i><font color="gray">Madelyn Rose Sanfilippo and Yafit Lev-Aretz</font></i>
            </li>                       
@@ -86,17 +86,17 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; CI and Society #2 </b></section>
             <i><font color="gray">Chair: Ben Zevenbergen</font></i>
             <ul>
-            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i><a href="{{ site.url }}/symposium/6_Applying_the_Contextual_Integrity_Framework_to_Cambridge Analytica.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Cambridge Analytica and CI.pdf">Slides</a></i>
+            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i><a href="{{ site.url }}/symposium/6_Applying_the_Contextual_Integrity_Framework_to_Cambridge Analytica.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Cambridge Analytica and CI.pdf" target="_blank">Slides</a></i>
                 <br/>
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
               </li>            
-                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244876">Paper</a>|<a href="{{ site.url }}/symposium/CIPolicies.pdf">Slides</a></i>
+                <li>Analyzing Privacy Policies Using Contextual Integrity Annotations <br/><i><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244876" target="_blank">Paper</a>|<a href="{{ site.url }}/symposium/CIPolicies.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Yan Shvartzshnaider, Noah Apthorpe, Nick Feamster and Helen Nissenbaum
                     </font></i>
                 </li>     
-                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i><a href="{{ site.url }}/symposium/exposure-ci.pdf">Paper</a>|<a href="{{ site.url }}/symposium/ci-symposium-exposure-talk.pdf">Slides</a></i>
+                <li>Enforcing Contextual Integrity With Exposure Control         <br/><i><a href="{{ site.url }}/symposium/exposure-ci.pdf" target="_blank">Paper</a>|<a href="{{ site.url }}/symposium/ci-symposium-exposure-talk.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Mainack Mondal and Blase Ur</font></i>
                 </li>                                                       
@@ -130,17 +130,17 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; CI in Smart Homes and IoT </b></section>
             <i><font color="gray">Chair: Güneş Acar </font></i>
             <ul>
-            <li> Disentangling Privacy in Smart Homes <br/><i><a href="{{ site.url }}/symposium/Disentangling_in_Smart_Homes.pdf">Slides</a></i>
+            <li> Disentangling Privacy in Smart Homes <br/><i><a href="{{ site.url }}/symposium/Disentangling_in_Smart_Homes.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Martin J Kraemer and Ivan Flechais <br/> </font></i>
                 </li>
-                <li>On Engineering AI Agents for Privacy <br/><i><a href="{{ site.url }}/symposium/saci_presentation.pdf">Slides</a></i>
+                <li>On Engineering AI Agents for Privacy <br/><i><a href="{{ site.url }}/symposium/saci_presentation.pdf" target="_blank">Slides</a></i>
                     <br/>                    
                     <i><font color="gray">Rafa Gálvez and Seda Gürses
                     </font></i>
                 </li>
                 <li>Use Case: Passively Listening Personal Assistants  
-                    <br/><i><a href ="{{ site.url }}/symposium/passive_listening_ci.pdf">Paper</a></i><br/>
+                    <br/><i><a href ="{{ site.url }}/symposium/passive_listening_ci.pdf" target="_blank">Paper</a></i><br/>
                     <i><font color="gray">Nathan Malkin, Primal Wijesekera, Serge Egelman, <br/> David Wagner
                         <br/></font></i>
                 </li>
@@ -182,17 +182,17 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
         <section><b>&emsp;&emsp;&emsp; CI based Systems Design </b></section>
         <i><font color="gray">Chair: Darakhshan Mir</font></i>
         <ul>
-        <li> Contextual Permission Models for Better Privacy Protection <br/><i><a href ="{{ site.url }}/symposium/contextual_permissions_paper.pdf">Paper</a> | <a href = "{{ site.url }}/symposium/contextual_permissions_slides.pdf">Slides</a></i>
+        <li> Contextual Permission Models for Better Privacy Protection <br/><i><a href ="{{ site.url }}/symposium/contextual_permissions_paper.pdf">Paper</a> | <a href = "{{ site.url }}/symposium/contextual_permissions_slides.pdf" target="_blank">Slides</a></i>
                 <br/>
                 <i><font color="gray">Primal Wijesekera, Joel Reardon, Irwin Reyes, Lynn Tsai, <br/> Jung-Wei Chen,
                     Nathan Good, David Wagner, <br/> Konstantin Beznosov, and Serge Egelman</font></i>
             </li>
-            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i><a href = "{{ site.url }}/symposium/PrivacyHeuristics-How Users Manage-Eran-Toch-September-2018.pdf">Slides</a></i>
+            <li>Privacy Heuristics: How Users Manage Complex Contexts <br/> when Evaluating Mobile App Requests <br/><i><a href = "{{ site.url }}/symposium/PrivacyHeuristics-How Users Manage-Eran-Toch-September-2018.pdf" target="_blank">Slides</a></i>
                 <br/>
                 <i><font color="gray">Amit Rechavi, Eran Toch, Jason Hong
                 </font></i>
             </li>
-            <li> Privacy-Aware Programming for Microscale Data <br/><i> <a href = "{{ site.url }}/symposium/Ancile_CI_Symposium.pdf">Slides</a></i>
+            <li> Privacy-Aware Programming for Microscale Data <br/><i> <a href = "{{ site.url }}/symposium/Ancile_CI_Symposium.pdf" target="_blank">Slides</a></i>
                 <br/>
                 <i><font color="gray"> Jason Waterman, Eugene Bagdasaryan , Matthew Griffith,<br/> Griffin
                     Berlstein, Nate Foster, Eleanor Birrell
@@ -204,7 +204,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <dd>
         <span>12:30-2pm</span>
         <ul>
-            <section><b>&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b><br/><i> <a href = "{{site.url}}/symposium/Wetzel_ContextIntegr2018.pdf">Slides</a></i></section>                     
+            <section><b>&emsp;&emsp; Lunch and Conversation with Susanne Wetzel, Program Director SaTC, NSF </b><br/><i> <a href = "{{site.url}}/symposium/Wetzel_ContextIntegr2018.pdf" target="_blank">Slides</a></i></section>                     
         </ul>
           
     </dd>
@@ -215,12 +215,12 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <i><font color="gray">Chair: Daniel Susser</font></i>
             <ul>
                 <li> Context Matters:  Guidance for Applying the Fair Information <br/> Practice Principles in the Internet of Things
-                <br/><i><a href="{{ site.url}}/symposium/Princeton_PresentationRev.pdf">Slides</a></i>
+                <br/><i><a href="{{ site.url}}/symposium/Princeton_PresentationRev.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Paula Bruening and Heather Patterson
                     </font></i>
                 </li>
-                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i><a href="{{ site.url}}/symposium/CI-Symposium-9-13-18.pdf">Slides</a></i>
+                <li> Studying User Expectations about Data Collection and <br/> Use by In-Home Smart Devices <br/> <i><a href="{{ site.url}}/symposium/CI-Symposium-9-13-18.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Julia Bernd, Serge Egelman, Maritza Johnson, <br/> Nathan Malkin, Franziska
                         Roesner, Madiha Tabassum, <br/> and Primal Wijesekera
@@ -229,7 +229,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 <li>
                     Perceiving Patient Privacy in the Context of <br/> Heart-Failure Telemonitoring: Adapting the Contextual
                     Integrity <br/> Framework to Gauge Patients’ Privacy Perspectives
-                    <br/><i><a href="{{ site.url}}/symposium/FrenchandPatterson_PerceivingPatientPrivacy_V2.pdf">Slides</a></i>
+                    <br/><i><a href="{{ site.url}}/symposium/FrenchandPatterson_PerceivingPatientPrivacy_V2.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Martin French and Heather Patterson
                     </font></i>
@@ -244,7 +244,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
     <section></section>
     <ul>
     <li> Understanding Privacy and Contextual Integrity: <br/> A Personal Journey<br/>
-     <a href = "{{ site.url }}/symposium/Understanding_Privacy_and_Contextual_Integrity.pdf">Slides</a><br/>
+     <a href = "{{ site.url }}/symposium/Understanding_Privacy_and_Contextual_Integrity.pdf" target="_blank">Slides</a><br/>
     <font color="gray">Anupam Datta</font>
     </li>
    

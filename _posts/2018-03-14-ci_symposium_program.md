@@ -166,8 +166,9 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                     <br/>
                     <i><font color="gray"> Michael Zimmer </font></i>
                 </li> -->
-                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i>(20 min)</i>
+                <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i><a href="{{ site.url }}/CI-presentation.pdf" target="_blank">Slides</a></i>
                 <br/>
+                CI-presentation
                 <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
                 Pamela Wisniewski
                 </font></i>

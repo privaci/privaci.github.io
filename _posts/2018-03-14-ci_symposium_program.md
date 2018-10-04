@@ -86,7 +86,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; CI and Society #2 </b></section>
             <i><font color="gray">Chair: Ben Zevenbergen</font></i>
             <ul>
-            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i><a href="{{ site.url }}/symposium/6_Applying_the_Contextual_Integrity_Framework_to_Cambridge Analytica.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Cambridge Analytica and CI.pdf" target="_blank">Slides</a></i>
+            <li>Applying Contextual Integrity to the Cambridge Analytica Case <br/> <i><a href="{{ site.url }}/symposium/6_Applying_the_Contextual_Integrity_Framework_to_Cambridge Analytica.pdf" target="_blank"> Paper</a>|<a href="{{ site.url }}/symposium/Cambridge Analytica and CI.pdf" target="_blank">Slides</a></i>
                 <br/>
                 <i><font color="gray">Catherine Dwyer
                 </font></i>
@@ -154,7 +154,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
             <i><font color="gray">Chair: Michael Byrne</font></i>
             <ul>
-                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i><a href="{{ site.url }}/symposium/Kumar-PrivaCI-Paper-Final.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Kumar-PrivaCI2018-Slides.pdf" target="_blank">Slides</a></i>
+                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i><a href="{{ site.url }}/symposium/Kumar-PrivaCI-Paper-Final.pdf" target="_blank"> Paper</a>|<a href="{{ site.url }}/symposium/Kumar-PrivaCI2018-Slides.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>

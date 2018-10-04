@@ -154,7 +154,7 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
             <section><b>&emsp;&emsp;&emsp; <i>CI</i> and H<i>CI</i> </b></section>
             <i><font color="gray">Chair: Michael Byrne</font></i>
             <ul>
-                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i>(15 min)</i>
+                <li> Contextual Integrity as a Conceptual, Analytical,<br/> and Educational Tool for Research <br/> <i><a href="{{ site.url }}/symposium/Kumar-PrivaCI-Paper-Final.pdf"> Paper</a>|<a href="({{ site.url }}/symposium/Kumar-PrivaCI2018-Slides.pdf" target="_blank">Slides</a></i>
                     <br/>
                     <i><font color="gray">Priya Kumar</font></i>
                 </li>

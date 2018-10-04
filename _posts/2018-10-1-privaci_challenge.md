@@ -11,7 +11,7 @@ comments: false
 show_meta: false
 ---
 
-<img src="{{ site.url }}/images/privaci_challenge.jpg" alt="my caption" style="height: 70px;"/>
+<img src="{{ site.url }}/images/privaci_challenge.jpg" alt="my caption" />
 
 >  In this post, we describe the Privacy through Contextual Integrity (PrivaCI) challenge that took place as part of the symposium on applications of contextual integrity sponsored by Center for Information Technology Policy and Digital Life Initiative at Princeton University. We summarize the key takeaways from the unfolded discussion.
 

@@ -168,7 +168,6 @@ Contact: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
                 </li> -->
                 <li>Literature Review: Examining Contextual Integrity<br/> within Human-Computer Interaction <br/><i><a href="{{ site.url }}/symposium/CI_Symposium_BadilloUrquiola_To_Post.pdf"  target="_blank"> Paper</a>|<a href="{{ site.url }}/symposium/CI-presentation.pdf" target="_blank">Slides</a></i>
                 <br/>
-                CI-presentation
                 <i><font color="gray">Karla Badillo-Urquiola, Xinru Page,
                 Pamela Wisniewski
                 </font></i>

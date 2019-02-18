@@ -100,7 +100,7 @@ We look forward to seeing you at the symposium!
 
 #### IMPORTANT DATES
 
-* Submissions Due: June 10~~
+* Submissions Due: June 10
 * Notifications: June 25
 * Date of Symposium: August 19 and 20
 

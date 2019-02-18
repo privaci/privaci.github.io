@@ -13,7 +13,7 @@ show_meta: false
 permalink: ci_symposium/cfp.html
 ---
 
-![Alt text]({{ site.url }}/images/citp.png)
+<! -- ![Alt text]({{ site.url }}/images/citp.png) -->
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
 ![Alt text]({{ site.url }}/images/bk_symposium.png)

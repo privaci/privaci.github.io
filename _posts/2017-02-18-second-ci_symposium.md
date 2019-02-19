@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "The Second Symposium on Applications Of Contextual Integrity"
+title: "The 2nd Annual Symposium on Applications Of Contextual Integrity"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event
@@ -23,7 +23,7 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 
 ## Call for Participation  
 
-We would like to invite you to participate in the symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley, CA
+We would like to invite you to participate in the 2nd annual symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley, CA
 
 Co-sponsors: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).

@@ -13,7 +13,8 @@ show_meta: false
 permalink: ci_symposium/cfp.html
 ---
 <br/>
-<img src="{{ site.url }}/images/DLI_logo.jpg" alt="my caption" style="height: 70px;"/>
+<img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
+<img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 50px;" style="margin-left:5em" />
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
 <!-- ## New: The CI Symposium (draft) Program is out!  
@@ -26,7 +27,8 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate in the 2nd annual symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley, CA
 
 Co-sponsors: <br/> 
-* [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu).
+* [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu)
+* [The International Computer Science Institute](http://www.icsi.berkeley.edu/icsi/about).
 
 The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.
 

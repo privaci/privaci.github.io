@@ -26,8 +26,8 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 
 We would like to invite you to participate in the 2nd annual Symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley.
 
-Sponsor: <br/> 
-* [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu)
+<!-- Sponsor: <br/> 
+* [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu)-->
 
 The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.
 

@@ -24,13 +24,13 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 
 ## Call for Participation  
 
-We would like to invite you to participate in the 2nd annual symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley, CA
+We would like to invite you to participate in the 2nd annual Symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley.
 
-Co-sponsors: <br/> 
+Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu)
-* [The International Computer Science Institute](http://www.icsi.berkeley.edu/icsi/about).
 
-The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.
+
+As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website. 
 
 <!--### [Symposium Program](http://privaci.info/ci_symposium/program.html) -->
 
@@ -71,15 +71,15 @@ You can find directions information and accomodation options [here]({{ site.url 
 <br/>
 We will accept any of the following submission types:
 
-1. A 4 page position paper on ongoing or work in progress  (References not included in page limit)
-2.  An extended abstract (1-2 pages) of published or mature work. In writing your abstract, it would be useful to indicate the literature in which your paper will be situated by including a short “works cited” section at the end. If your topic is entirely novel or interdisciplinary, please indicate that as well. We suggest that the abstract explains the contribution your work makes to the existing literature. If your abstract gets accepted, we provide the option of posting the longer paper version to the symposium website.
-3. A 1 page description of an interesting use case to be discussed the symposium
+1. A 4 page position paper on ongoing or work in progress (references not included in page limit)
+2.  An extended abstract (1-2 pages) of published or mature work. In writing your abstract, it would be useful to indicate the literature in which your paper will be situated by including a short “works cited” section at the end. If your topic is entirely novel or interdisciplinary, please indicate that as well. We suggest that the abstract explains the contribution your work makes to the existing literature. If your abstract gets accepted, we will provide the option of posting the longer paper version on the symposium website.
+3. A 1-page description of an interesting use case to be discussed at the symposium.
 
-__Note:__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/LRzpnc0AXDJffpyf1). We will send the confirmation upon review.
+__Note:__ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review.
 
 Papers should be formatted using the [2019 ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow#h-1.-2019-acm-master-article-word-templates:-word-and-latex). For LaTeX users, choose <b>format=sigconf</b>.
 
-Submissions will be  will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
+Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
 
 Submissions may include:
 
@@ -88,7 +88,8 @@ Submissions may include:
 * System design and/or implementations
 * Combinations of the above
 
-With author’s permission, accepted submissions would be posted on the website but not be considered archival publications.
+With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
+
 
 #### HOW TO SUBMIT
 

@@ -29,6 +29,7 @@ We would like to invite you to participate in the 2nd annual Symposium on Applic
 Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu)
 
+The aim of the symposium is to foster communication among diverse communities of research and practice that have used the theory of contextual integrity as a framework to reason about, design and evaluate, craft regulation for, and generate formal logics for privacy.
 
 As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website. 
 
@@ -107,9 +108,9 @@ We look forward to seeing you at the symposium!
 
 
 #### SYMPOSIUM CHAIRS
-
-Sergei Egelman (University of California, Berkeley) 
-Helen Nissenbaum (Cornell Tech) 
+<br/>
+Sergei Egelman (University of California, Berkeley) <br/>
+Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
 
 <!-- #### TRAVEL GRANT

@@ -105,6 +105,11 @@ We look forward to seeing you at the symposium!
 * Date of Symposium: August 19 and 20
 
 
+#### SYMPOSIUM CHAIRS
+
+Sergei Egelman (University of California, Berkeley) 
+Helen Nissenbaum (Cornell Tech) 
+Yan Shvartzshnaider (NYU and Princeton University) 
 
 <!-- #### TRAVEL GRANT
 

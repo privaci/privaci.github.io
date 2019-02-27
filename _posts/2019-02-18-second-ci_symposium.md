@@ -96,7 +96,7 @@ With author’s permission, accepted submissions will be posted on the website, 
 
 #### HOW TO SUBMIT
 
-__TBD__
+*SOON*
 
 We look forward to seeing you at the symposium!
 
@@ -111,7 +111,7 @@ We look forward to seeing you at the symposium!
 
 #### SYMPOSIUM CHAIRS
 <br/>
-Sergei Egelman (University of California, Berkeley) <br/>
+Serge Egelman (University of California, Berkeley) <br/>
 Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
 

@@ -67,7 +67,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 <br/>
 Website: [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>
-Twitter: [@privacy_way](https://twitter.com/privaci_way_)
+Twitter: [@privacy_way](https://twitter.com/privaci_way)
 
 
 #### SUBMISSION

@@ -99,7 +99,7 @@ We look forward to seeing you at the symposium!
 
 #### HOW TO SUBMIT
 
-*SOON*
+Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).
 
 
 

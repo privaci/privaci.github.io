@@ -101,14 +101,21 @@ We look forward to seeing you at the symposium!
 
 Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).
 
-
-
-
 #### SYMPOSIUM CHAIRS
 <br/>
 Serge Egelman (University of California, Berkeley) <br/>
 Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
+
+#### PROGRAM COMMITTEE
+<br/>
+[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
+[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
+[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
+[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
+[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
+[Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
+[Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
 
 ## Contact
 

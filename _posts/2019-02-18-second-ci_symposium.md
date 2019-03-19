@@ -107,7 +107,7 @@ Serge Egelman (University of California, Berkeley) <br/>
 Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
 
-#### PROGRAM COMMITTEE
+<!-- #### PROGRAM COMMITTEE
 <br/>
 [Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
@@ -116,6 +116,7 @@ Yan Shvartzshnaider (NYU and Princeton University)
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
+-->
 
 ## Contact
 

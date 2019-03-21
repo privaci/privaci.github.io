@@ -106,17 +106,34 @@ Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotc
 Serge Egelman (University of California, Berkeley) <br/>
 Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
+<br/>
 
-<!-- #### PROGRAM COMMITTEE
+### Program Committee
 <br/>
 [Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
+[Louise Barkhuus](www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
+[Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
+[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
+[Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />
+[Mainack Mondal](https://mainack.tech.cornell.edu) (Cornell Tech)<br />
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
+[Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com)(Princeton University)<br/>
+[Eran Toch](http://toch.tau.ac.il/) (Cornell Tech and Tel Aviv University)<br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
--->
+[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
+
+
+ 
+
+
+
+
+
 
 ## Contact
 

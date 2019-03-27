@@ -108,7 +108,7 @@ Helen Nissenbaum (Cornell Tech) <br/>
 Yan Shvartzshnaider (NYU and Princeton University) 
 <br/>
 
-<!--
+
 ### Program Committee
 <br/>
 [Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
@@ -122,12 +122,13 @@ Yan Shvartzshnaider (NYU and Princeton University)
 [Mainack Mondal](https://mainack.tech.cornell.edu) (Cornell Tech)<br />
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
-[Madelyn Sanfilippo](https://madelynsanfilippo.com)(Princeton University)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (Princeton University)<br/>
+[Luke Stark[(https://starkcontrast.co) (Microsoft Research)
 [Eran Toch](http://toch.tau.ac.il/) (Cornell Tech and Tel Aviv University)<br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pamela Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
-[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> -->
-
+[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
+[Ding Xiaodong](http://www.law.ruc.edu.cn/eng/show.asp?No=282 ) (Renmin University of China Law School)
 
  
 

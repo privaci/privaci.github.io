@@ -111,7 +111,7 @@ Yan Shvartzshnaider (NYU and Princeton University)
 
 ### Program Committee
 <br/>
-[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
+[Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Louise Barkhuus](www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>

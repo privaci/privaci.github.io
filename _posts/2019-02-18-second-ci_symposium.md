@@ -36,32 +36,6 @@ As the goal of the workshop is to foster discussion around works in progress, th
 <!--### [Symposium Program](http://privaci.info/ci_symposium/program.html) -->
 
 
-<!-- ### Symposium Chairs
-
-[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
-[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
-
-### Program Committee
-
-[Sebastian Benthall](http://people.ischool.berkeley.edu/~sb/) (University of California at Berkeley, Cornell Tech) <br/>
-[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman) ( University of California, Berkeley) <br/>
-[Nick Feamster](https://www.cs.princeton.edu/~feamster/) (Princeton University) <br/>
-[Seda Gürses](http://vous-etes-ici.net) (University of Leuven)  <br/>
-[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
-Julia Powles (Cornell Tech and NYU)<br/>
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
-[Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
-[Pam Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
-[Thomas Wies](https://cs.nyu.edu/wies/) (NYU)<br/>
--->
-
-<!-- ## Accomodations 
-
-You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
--->
-
 
 #### SUBMISSION
 <br/>
@@ -103,9 +77,9 @@ Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotc
 
 #### SYMPOSIUM CHAIRS
 <br/>
-Serge Egelman (University of California, Berkeley) <br/>
-Helen Nissenbaum (Cornell Tech) <br/>
-Yan Shvartzshnaider (NYU and Princeton University) 
+[Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>
+[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
 <br/>
 
 

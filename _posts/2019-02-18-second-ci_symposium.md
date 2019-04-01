@@ -124,6 +124,7 @@ Yan Shvartzshnaider (NYU and Princeton University)
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (Princeton University)<br/>
 [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
+[Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Cornell Tech and Tel Aviv University)<br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pamela Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>

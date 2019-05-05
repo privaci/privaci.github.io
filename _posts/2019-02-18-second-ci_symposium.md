@@ -101,7 +101,7 @@ Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotc
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Cornell Tech and Tel Aviv University)<br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
-[Pamela Wisnieski](http://www.pamspam.com) (University of Central Florida) <br/>
+[Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
 [Ding Xiaodong](http://www.law.ruc.edu.cn/eng/show.asp?No=282 ) (Renmin University of China Law School)
 

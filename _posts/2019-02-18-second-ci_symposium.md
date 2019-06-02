@@ -75,6 +75,14 @@ We look forward to seeing you at the symposium!
 
 Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).
 
+
+#### TRAVEL GRANT
+
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/K7QjVDjyjqevW13e6). 
+
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. 
+
+
 #### SYMPOSIUM CHAIRS
 <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>
@@ -119,11 +127,6 @@ Email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 Website: [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>
 Twitter: [@privacy_way](https://twitter.com/privaci_way)
 
-<!-- #### TRAVEL GRANT
-
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://goo.gl/forms/RS3DQSba9qur4y4g1). (__Deadline: July 24__)
-
-The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized. -->
 
 
 

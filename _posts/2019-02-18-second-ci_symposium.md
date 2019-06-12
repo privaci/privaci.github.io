@@ -94,7 +94,7 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 ### Program Committee
 <br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
-[Louise Barkhuus](www.barkhu.us) (The IT University of Copenhagen)<br/>
+[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />

@@ -14,7 +14,7 @@ permalink: ci_symposium/cfp.html
 ---
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
-<img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 50px;" style="margin-left:5em" />
+<img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 30px;" style="margin-left:5em" />
 ![Alt text]({{ site.url }}/images/bk_symposium.png)
 
 <!-- ## New: The CI Symposium (draft) Program is out!  
@@ -22,9 +22,9 @@ permalink: ci_symposium/cfp.html
 Check it out [here](http://privaci.info/ci_symposium/program.html) --> 
 
 
-## Call for Participation  
+<!--## Call for Participation  
 <br/>
-We would like to invite you to participate in the 2nd annual Symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley.
+We would like to invite you to participate in the 2nd annual Symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley. -->
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->
@@ -35,9 +35,9 @@ As the goal of the workshop is to foster discussion around works in progress, th
 
 <!--### [Symposium Program](http://privaci.info/ci_symposium/program.html) -->
 
+<!-- #### Registration-- >
 
-
-#### SUBMISSION
+<!--#### SUBMISSION
 <br/>
 We will accept any of the following submission types:
 
@@ -47,27 +47,27 @@ We will accept any of the following submission types:
 
 3. A 1-page description of an interesting use case to be discussed at the symposium.
 
-Papers should be formatted using the [2019 ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow#h-1.-2019-acm-master-article-word-templates:-word-and-latex). For LaTeX users, choose <b>format=sigconf</b>.
+Papers should be formatted using the [2019 ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow#h-1.-2019-acm-master-article-word-templates:-word-and-latex). For LaTeX users, choose <b>format=sigconf</b>.-->
 
 <!-- Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals. -->
 
-Submissions may include:
+<!-- Submissions may include:
 
 * Empirical studies (qualitative, quantitative, experimental)
 * Legal, philosophical, ethical, and policy analysis
 * System design and/or implementations
 * Combinations of the above
 
-__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review.
+__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review. 
 
-We look forward to seeing you at the symposium!
+We look forward to seeing you at the symposium! -->
 
 <!-- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
 
 
 #### IMPORTANT DATES
 
-* Submissions Due: June 10
+* ~~Submissions Due: June 10~~
 * Notifications: June 25
 * Date of Symposium: August 19 and 20
 
@@ -87,7 +87,7 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (NYU and Princeton University) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University) <br/>
 <br/>
 
 

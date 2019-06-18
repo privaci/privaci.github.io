@@ -10,7 +10,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/cfp.html
+permalink: ci_symposium.html
 ---
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
@@ -24,7 +24,10 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 
 <!--## Call for Participation  
 <br/>
-We would like to invite you to participate in the 2nd annual Symposium on Applications of Contextual Integrity <b>August 19-20, 2019</b> at UC Berkeley. -->
+We would like to invite you to participate 
+-->
+
+The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley.
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->
@@ -33,6 +36,8 @@ The aim of the symposium is to foster interaction among diverse communities of r
 
 As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website. 
 
+The CI Symposium 2019 is supported with gifts from [Collibra](https://www.collibra.com) and [Microsoft](https://www.microsoft.com/en-us/). <img src="{{ site.url }}/images/Collibra_logo.png" alt="Collibra" style="height: 64px;"/>
+<img src="{{ site.url }}/images/Microsoft_logo.png" alt="Microsoft" width="30%" height="30%"/>
 <!--### [Symposium Program](http://privaci.info/ci_symposium/program.html) -->
 
 <!-- #### Registration-- >

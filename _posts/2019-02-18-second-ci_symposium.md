@@ -64,6 +64,11 @@ We look forward to seeing you at the symposium! -->
 
 <!-- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
 
+### REGISTRATION
+
+Participation fee is <b>$50</b>. Please click [here](https://berkeley.qualtrics.com/jfe/form/SV_9QVhoJF5XjqNO8B) to register.
+<br/>
+If due to financial hardship, you cannot pay the $50 registration fee, please email the chairs for a waiver: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 
 #### IMPORTANT DATES
 

@@ -57,9 +57,9 @@ Julia Powles (Cornell Tech and NYU)<br/>
 [Thomas Wies](https://cs.nyu.edu/wies/) (NYU)<br/>
 
 
-## Accomodations 
+## Accommodations 
 
-You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accomodation.html).
+You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accommodation.html).
 
 ## Contact
 

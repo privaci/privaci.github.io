@@ -94,6 +94,8 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 
 ### ACCOMMODATION
 
+You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accommodation.html).
+
 #### SYMPOSIUM CHAIRS
 <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>

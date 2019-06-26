@@ -39,7 +39,7 @@ __The Graduate Berkeley__
 
 2600 Durant Avenue, Berkeley, California 94704 <br/>
 Phone: 510-845-8981 (general inquiries) <br/>
-Email: Email: info@graduateberkeley.com <br/>
+Email: info@graduateberkeley.com <br/>
 
 Additional accomodation options and information can be found [here](https://www.law.berkeley.edu/about-us/visit/where-to-stay/)
 

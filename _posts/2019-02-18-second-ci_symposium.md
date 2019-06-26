@@ -92,6 +92,8 @@ Participants can apply for a travel grant award that can go towards partially co
 The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on __July 24th__.
 
 
+### ACCOMMODATION
+
 #### SYMPOSIUM CHAIRS
 <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>

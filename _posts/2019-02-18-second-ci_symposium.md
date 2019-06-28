@@ -15,7 +15,7 @@ permalink: ci_symposium.html
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
 <img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 30px;" style="margin-left:5em" />
-![Alt text]({{ site.url }}/images/bk_symposium.png)
+![Alt text]({{ site.url }}/images/CI_Symposium_2019.png)
 
 <!-- ## New: The CI Symposium (draft) Program is out!  
 
@@ -77,7 +77,7 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 #### IMPORTANT DATES
 
 * ~~Submissions Due: June 10~~
-*~~ Notifications: June 25~~
+* ~~ Notifications: June 25~~
 * Date of Symposium: August 19 and 20
 
 #### HOW TO SUBMIT

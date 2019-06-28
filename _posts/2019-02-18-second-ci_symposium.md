@@ -27,7 +27,7 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate 
 -->
 
-The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley.
+The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley in David Brower Center, Berkeley.
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->

@@ -77,7 +77,7 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 #### IMPORTANT DATES
 
 * ~~Submissions Due: June 10~~
-* Notifications: June 25
+*~~ Notifications: June 25~~
 * Date of Symposium: August 19 and 20
 
 #### HOW TO SUBMIT

@@ -170,7 +170,7 @@ permalink: ci_symposium/draft-program.html
         </ul>
     </dd>
     <dd>
-        <span>9:30-10:30&emsp;</span>
+        <span>9:30-10:15&emsp;</span>
         <ul>
             <section>
                 <b>&emsp;&emsp;&emsp; CI and Community</b>
@@ -221,7 +221,7 @@ permalink: ci_symposium/draft-program.html
         <b>Short Break</b>
     </dd>
     <dd>
-        <span>10:45-11:30</span>
+        <span>10:30-11:15</span>
         <ul>
             <section>
                 <b>&emsp;&emsp;&emsp;
@@ -271,7 +271,7 @@ permalink: ci_symposium/draft-program.html
             <b>Short Break</b>
         </dd>
         <dd>
-            <span>11:45-12:30</span>
+            <span>11:30-12:15</span>
             <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp; CI Use Cases</b>
@@ -311,7 +311,7 @@ permalink: ci_symposium/draft-program.html
             </ul>
         </dd>
         <dd>
-            <span>12:30-2pm</span>
+            <span>12:15-2pm</span>
             <ul>
                 <section>
                     <b>&emsp;&emsp; Lunch</b>

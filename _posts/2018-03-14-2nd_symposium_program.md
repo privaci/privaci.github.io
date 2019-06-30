@@ -12,6 +12,13 @@ comments: false
 show_meta: false
 permalink: ci_symposium/draft-program.html
 ---
+
+<br/>
+<img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
+<img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 30px;" style="margin-left:5em" />
+![Alt text]({{ site.url }}/images/CI_Symposium_2019.png)
+
+
 <dl class="agenda">
     <dt>Monday, August 19</dt>
     

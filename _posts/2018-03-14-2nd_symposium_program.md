@@ -100,10 +100,10 @@ permalink: ci_symposium/draft-program.html
         <span>4:00-4:45pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; CI as Lens</b>
+                <b>&emsp;&emsp;&emsp; Through the Lens of CI</b>
                 <br/>
                 <i>
-                    <font color="gray"></font>
+                    <font color="gray">Chair:</font>
                 </i>
             </section>
             <ul>

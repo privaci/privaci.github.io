@@ -39,7 +39,7 @@ permalink: ci_symposium/draft-program.html
       
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; CI a Theory</b>
+                <b>&emsp;&emsp;&emsp; CI as a Theory</b>
             </section>
             <i>
                 <font color="gray">Chair:</font>

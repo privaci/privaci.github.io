@@ -318,14 +318,14 @@ permalink: ci_symposium/draft-program.html
                 </section>
             </ul>
             
-        </dd>
+        </dd>        
         <dd>
         <span>2:00-3pm</span>
         <ul>
             <section>
-            <b>&emsp;&emsp; Industry forum??</b>
+            <b>&emsp;&emsp; Industry forum</b>
             <br/>        
-        <   /section>
+            </section>
         </ul>
         
         </dd>        

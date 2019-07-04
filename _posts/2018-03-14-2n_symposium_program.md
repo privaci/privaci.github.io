@@ -381,7 +381,7 @@ permalink: ci_symposium/draft-program.html
                 <ul>
                     <li>Spillover, Discussion, and Wrap up
                         <br/>
-                        <font color="gray">(Serge Egelman, Hellen Nissenbaum, Yan Shvartzshnaider)</font>
+                        <font color="gray">(Serge Egelman, Helen Nissenbaum, Yan Shvartzshnaider)</font>
                     </li>
                 </ul>
             </ul>

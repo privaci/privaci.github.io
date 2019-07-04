@@ -158,6 +158,7 @@ permalink: ci_symposium/draft-program.html
             </section>
         </ul>
     </dd>
+    
     <dt>Tuesday, Auguest 20</dt>
     <dd>
         <span>9:00am</span>

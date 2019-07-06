@@ -68,6 +68,12 @@ __Participation without submission: __ If you're interested in attending the sy
 
 <!-- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
 
+### PROGRAM
+
+*Coming soon*
+
+We aim to start Monday shortly after lunch and end Tuesday end-of-day.
+
 ### REGISTRATION
 
 Participation fee is <b>$50</b>. Please click [here](https://berkeley.qualtrics.com/jfe/form/SV_9QVhoJF5XjqNO8B) to register.

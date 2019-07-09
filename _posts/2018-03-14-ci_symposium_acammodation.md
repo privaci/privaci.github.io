@@ -40,7 +40,7 @@ __The Graduate Berkeley__
 Phone: 510-845-8981 (general inquiries) <br/>
 Email: info@graduateberkeley.com <br/>
 
-Additional accomodation options and information can be found [here](https://www.law.berkeley.edu/about-us/visit/where-to-stay/)
+Additional accomodation options and information can be found [here](https://www.law.berkeley.edu/about-us/visit/where-to-stay/) (note that the mentioned rates may vary)
 
 <!--Local hotels sometimes offer discounted rates for Princeton guests and visitors. If you do not have a car, you also may wish to confirm whether the hotel will have shuttle service to campus when you are staying. Additional information and hotels can be found on the Princeton [travel site](http://travel.princeton.edu/guests).-->
 

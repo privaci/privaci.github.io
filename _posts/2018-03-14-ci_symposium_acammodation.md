@@ -24,11 +24,6 @@ You can find information on the available transporation options and driving dire
 ## Recommended Lodging
 
 
-__The Hotel Shattuck Plaza__
-
-2086 Allston Way, Berkeley, CA    94704 <br/> 
-Phone: (510) 845-7300 <br/>
-info@hotelshattuckplaza.com<br/>
 
 __Bancroft Hotel__
 

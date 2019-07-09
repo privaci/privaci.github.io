@@ -27,7 +27,11 @@ You can find information on the available transporation options and driving dire
 __DoubleTree by Hilton Hotel Berkeley Marina__
 200 Marina Blvd., Berkeley, CA, 94710 <br/>
 Phone: 510-548-7920 <br/>
-*Note: Offers a free shuttle to downtown Berkeley (30 min by bus to campus). * 
+*Note: Offers a free shuttle to downtown Berkeley (30 min by bus to campus). *
+
+__Hilton Garden Inn San Francisco/Oakland Bay Bridge__
+1800 Powell Street, Emeryville, California, 94608<br/>
+Phone: 510-658-9300<br/>
 
 __Bancroft Hotel__
 

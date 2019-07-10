@@ -23,19 +23,19 @@ permalink: ci_symposium/draft-program.html
     <dt>Monday, August 19</dt>
     
     <dd>
-        <span>2:00pm&emsp;</span>
+        <span>1:00pm&emsp;</span>
         <section>
             <b>&emsp;&emsp;&emsp;&emsp; Registration</b>
         </section>
     </dd>
     <dd>
-        <span>2:30pm&emsp;</span>
+        <span>2:00pm&emsp;</span>
         <section>
             <b>&emsp;&emsp;&emsp;&emsp; Welcome</b>
         </section>
     </dd>
     <dd>
-        <span>2:45-4:05pm</span>
+        <span>2:15-4:05pm</span>
       
         <ul>
             <section>
@@ -52,7 +52,7 @@ permalink: ci_symposium/draft-program.html
                     <i>
                         <font color="gray">Ashley E. Gorham, Helen Nissenbaum, Madelyn R. Sanfilippo,
                             <br/>
-                            Katherine Strandbur, Mark Verstraete
+                            Katherine Strandburg, Mark Verstraete
                         </font>
                     </i>
                 </li>
@@ -171,89 +171,37 @@ permalink: ci_symposium/draft-program.html
     <dd>
         <span>9:30-10:20&emsp;</span>
         <ul>
-            <section>
-                <b>&emsp;&emsp;&emsp; CI and Community</b>
-            </section>
-            <i>
-                <font color="gray">Chair:</font>
-            </i>
-            <ul>
-                <li>Uncovering Privacy Norms in Marginalized Communities
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Dylan Rogers, Desmond Dinkins, Gia Hayes, Richard Stover,
-                            <br/>
-                            Shin-Won Cho, Jennifer Silva, Evan Peck, Darakhshan Mir
-                        </font>
-                    </i>
-                </li>
-                <li>Applying Contextual Integrity Framework
-                    <br/>
-                    for Community-Engaged Research Data Management
-                    <br/>
-                    <i>(10 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Jina Huh-Yoo</font>
-                    </i>
-                </li>
-                <li>Rethinking the Social Credit System:
-                    <br/>
-                        A Long Road to Establishing Trust in Chinese Society
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Yuhao Zhong and Xiaodong Ding
-                        </font>
-                    </i>
-                </li>
-              
-                
-                
-            </ul>
-        </ul>
-    </dd>
-    <dd>
-        <b>Short Break</b>
-    </dd>
-    <dd>
-        <span>10:30-11:30</span>
-        <ul>
-            <section>
-                <b>&emsp;&emsp;&emsp;
-                    CI and Norms Discovery
-                </b>
-            </section>
-            <i>
-                <font color="gray">Chair:</font>
-            </i>
-            <ul>
-                <li>The Contextual Preferences of Older Adults on Information Sharing
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Alisa Frik, Julia Bernd and Noura Alomar
-                            <br/>
-                        </font>
-                    </i>
-                </li>
-                <li>Using Long-Lived Facebook Accounts to Understand Implicit Norms of Consent
-                    <br/>
-                    in
-                    Contextual Integrity
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Mainack Mondal, Zhou Jin, Tamara Babaian, Xinru Page, Blase Ur</font>
-                    </i>
-                </li>
- 
-
+                <section>
+                    <b>&emsp;&emsp;&emsp;
+                        CI and Norms Discovery
+                    </b>
+                </section>
+                <i>
+                    <font color="gray">Chair:</font>
+                </i>
+                <ul>
+                    <li>The Contextual Preferences of Older Adults on Information Sharing
+                        <br/>
+                        <i>(20 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray">Alisa Frik, Julia Bernd and Noura Alomar
+                                <br/>
+                            </font>
+                        </i>
+                    </li>
+                    <li>Using Long-Lived Facebook Accounts to Understand Implicit Norms of Consent
+                        <br/>
+                        in
+                        Contextual Integrity
+                        <br/>
+                        <i>(20 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray">Mainack Mondal, Zhou Jin, Tamara Babaian, Xinru Page, Blase Ur</font>
+                        </i>
+                    </li>                    
+                    
                     <li>Smart Home Bystanders: Further Complexifying a Complex Context
                         <br/>
                         <i>(20 min)</i>
@@ -264,48 +212,96 @@ permalink: ci_symposium/draft-program.html
                         </i>
                     </li>                    
                 </ul>
-            </ul>
+            </ul>            
+    </dd>
+    <dd>
+        <b>Short Break</b>
+    </dd>
+    <dd>
+        <span>10:30-11:30</span>   
+        <ul>
+       <section>
+           <b>&emsp;&emsp;&emsp; CI Use Cases</b>
+       </section>
+       <i>
+           <font color="gray">Chair:</font>
+       </i>
+       <ul>
+           <li>Use Case: ICANN’s WHOIS Databases
+               <br/>
+               <i>(10 min)</i>
+               <br/>
+               <i>
+                   <font color="gray">Kathryn Kleiman 
+                   </font>
+                   </i>
+               </li>                 
+               <li>Use Case: Collibra
+                   <br/>
+                   <i>(10 min)</i>
+                   <br/>
+                   <i>
+                       <font color="gray"> Vicky
+                       </font>
+                   </i>
+               </li>  
+               <li>Contextual Recommendation Sharing
+                   <br/>
+                   <i>(10 min)</i>
+                   <br/>
+                   <i>
+                       <font color="gray">Eugene Bagdasaryan
+                       </font>
+                   </i>
+               </li>                        
+           </ul>
+       </ul>
         </dd>
         <dd>
             <b>Short Break</b>
         </dd>
         <dd>
-            <span>11:30-12:00</span>
+            <span>11:30-12:00</span>           
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; CI Use Cases</b>
+                    <b>&emsp;&emsp;&emsp; CI and Community</b>
                 </section>
                 <i>
                     <font color="gray">Chair:</font>
                 </i>
                 <ul>
-                    <li>Use Case: ICANN’s WHOIS Databases
+                    <li>Uncovering Privacy Norms in Marginalized Communities
+                        <br/>
+                        <i>(20 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray">Dylan Rogers, Desmond Dinkins, Gia Hayes, Richard Stover,
+                                <br/>
+                                Shin-Won Cho, Jennifer Silva, Evan Peck, Darakhshan Mir
+                            </font>
+                        </i>
+                    </li>
+                    <li>Applying Contextual Integrity Framework
+                        <br/>
+                        for Community-Engaged Research Data Management
                         <br/>
                         <i>(10 min)</i>
                         <br/>
                         <i>
-                            <font color="gray">Kathryn Kleiman<kkleiman@princeton.edu> (CITP Princeton)
+                            <font color="gray">Jina Huh-Yoo</font>
+                        </i>
+                    </li>
+                    <li>Rethinking the Social Credit System:
+                        <br/>
+                        A Long Road to Establishing Trust in Chinese Society
+                        <br/>
+                        <i>(20 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray">Yuhao Zhong and Xiaodong Ding
                             </font>
-                            </i>
-                        </li>                 
-                        <li>Use Case: Collibra
-                            <br/>
-                            <i>(10 min)</i>
-                            <br/>
-                            <i>
-                                <font color="gray"> Vicky
-                                </font>
-                            </i>
-                    </li>  
-                        <li>Contextual Recommendation Sharing
-                            <br/>
-                            <i>(10 min)</i>
-                            <br/>
-                            <i>
-                                <font color="gray">Eugene Bagdasaryan
-                                </font>
-                            </i>
-                        </li>                        
+                        </i>
+                    </li>                                                            
                 </ul>
             </ul>
         </dd>

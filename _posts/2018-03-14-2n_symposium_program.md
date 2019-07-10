@@ -324,7 +324,7 @@ permalink: ci_symposium/draft-program.html
         
         </dd>        
         <dd>          
-        <span>3:00-4:00pm</span>             
+        <span>3:00-3:50pm</span>             
              <ul>
              <section><b>&emsp;&emsp;&emsp;  CI and Reasonable Expectations </b>
              </section>
@@ -366,6 +366,9 @@ permalink: ci_symposium/draft-program.html
              </ul>
              </ul>
         </dd>
+        <dd>
+            <b>Break (10 min)</b>
+        </dd>        
         
         <dd>
             <span>4:00-5:00pm</span>

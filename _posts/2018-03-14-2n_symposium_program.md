@@ -35,11 +35,11 @@ permalink: ci_symposium/draft-program.html
         </section>
     </dd>
     <dd>
-        <span>2:15-4:05pm</span>
+        <span>2:15-3:15pm</span>
       
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; CI as a Theory</b>
+                <b>&emsp;&emsp;&emsp; CI and Theories</b>
             </section>
             <i>
                 <font color="gray">Chair:</font>
@@ -56,26 +56,6 @@ permalink: ci_symposium/draft-program.html
                         </font>
                     </i>
                 </li>
-                <li>Contextual Integrity and Reasonable Expectations:
-                    <br/>
-                    Privacy Paradigm
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Amin Rabinia, Daniel Nathan, Sepideh Ghanavati
-                        </font>
-                    </i>
-                </li>
-                <li>Contexts are Political: Field Theory and Privacy
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Sebastian Benthall  and Bruce Haynes 
-                        </font>
-                    </i>
-                </li>
                 <li>Blending Contextual Integrity and Social Exchange Theory:
                     <br/>
                     Assessing Norm Building Under Conditions of “Informational
@@ -85,19 +65,26 @@ permalink: ci_symposium/draft-program.html
                     <i>(20 min)</i>
                     <br/>
                     <i>
-                        <font color="gray">Jennifer King and Andreas Katsanevas
-                            <br/>
+                        <font color="gray">Jina Huh-Yoo</font>
+                    </i>
+                </li>                                  
+                <li>Contexts are Political: Field Theory and Privacy
+                    <br/>
+                    <i>(20 min)</i>
+                    <br/>
+                    <i>
+                        <font color="gray">Sebastian Benthall  and Bruce Haynes 
                         </font>
                     </i>
-                </li>
+                </li>                
             </ul>
         </ul>        
     </dd>
     <dd>
-        <b>Short Break</b>
+        <b>Short Break (15 min)</b>
     </dd>
     <dd>
-        <span>4:30-5:30pm</span>
+        <span>3:30-4:30pm</span>
         <ul>
             <section>
                 <b>&emsp;&emsp;&emsp; Through the Lens of CI</b>
@@ -139,13 +126,13 @@ permalink: ci_symposium/draft-program.html
             </ul>
         </ul>    </dd>
     <dd>
-        <b>Short Break</b>
+        <b>Short Break (15 min)</b>
     </dd>
     <dd>
-        <span>6:00-7:00pm</span>
+        <span>4:45-6:00pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; Some icebreaking activity</b>
+                <b>&emsp;&emsp;&emsp; Icebreaking activity + Open mic?</b>
             </section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
@@ -154,7 +141,7 @@ permalink: ci_symposium/draft-program.html
         <span>7:30pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; Discussion over Dinner</b>
+                <b>&emsp;&emsp;&emsp; Symposium Dinner (for registrered attendees) </b>
             </section>
         </ul>
     </dd>
@@ -169,7 +156,7 @@ permalink: ci_symposium/draft-program.html
         </ul>
     </dd>
     <dd>
-        <span>9:30-10:20&emsp;</span>
+        <span>9:30-10:30&emsp;</span>
         <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp;
@@ -215,18 +202,28 @@ permalink: ci_symposium/draft-program.html
             </ul>            
     </dd>
     <dd>
-        <b>Short Break</b>
+        <b>Short Break (20 min)</b>
     </dd>
     <dd>
-        <span>10:30-11:30</span>   
+        <span>10:50-11:30</span>
         <ul>
        <section>
-           <b>&emsp;&emsp;&emsp; CI Use Cases</b>
+           <b>&emsp;&emsp;&emsp; CI and Use Cases</b>
        </section>
        <i>
            <font color="gray">Chair:</font>
        </i>
        <ul>
+           <li>Applying Contextual Integrity Framework
+               <br/>
+               for Community-Engaged Research Data Management
+               <br/>
+               <i>(10 min)</i>
+               <br/>
+               <i>
+                   <font color="gray">Jina Huh-Yoo</font>
+               </i>
+           </li>               
            <li>Use Case: ICANN’s WHOIS Databases
                <br/>
                <i>(10 min)</i>
@@ -234,8 +231,8 @@ permalink: ci_symposium/draft-program.html
                <i>
                    <font color="gray">Kathryn Kleiman 
                    </font>
-                   </i>
-               </li>                 
+               </i>
+           </li>      
                <li>Use Case: Collibra
                    <br/>
                    <i>(10 min)</i>
@@ -258,55 +255,55 @@ permalink: ci_symposium/draft-program.html
        </ul>
         </dd>
         <dd>
-            <b>Short Break</b>
+            <b>Short Break (15 min)</b>
         </dd>
         <dd>
-            <span>11:30-12:00</span>           
+            <span>11:45-12:45</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; CI and Community</b>
+                    <b>&emsp;&emsp;&emsp; CI and System Design </b>
                 </section>
                 <i>
                     <font color="gray">Chair:</font>
                 </i>
-                <ul>
-                    <li>Uncovering Privacy Norms in Marginalized Communities
-                        <br/>
-                        <i>(20 min)</i>
-                        <br/>
-                        <i>
-                            <font color="gray">Dylan Rogers, Desmond Dinkins, Gia Hayes, Richard Stover,
-                                <br/>
-                                Shin-Won Cho, Jennifer Silva, Evan Peck, Darakhshan Mir
-                            </font>
-                        </i>
-                    </li>
-                    <li>Applying Contextual Integrity Framework
-                        <br/>
-                        for Community-Engaged Research Data Management
-                        <br/>
-                        <i>(10 min)</i>
-                        <br/>
-                        <i>
-                            <font color="gray">Jina Huh-Yoo</font>
-                        </i>
-                    </li>
-                    <li>Rethinking the Social Credit System:
-                        <br/>
-                        A Long Road to Establishing Trust in Chinese Society
-                        <br/>
-                        <i>(20 min)</i>
-                        <br/>
-                        <i>
-                            <font color="gray">Yuhao Zhong and Xiaodong Ding
-                            </font>
-                        </i>
-                    </li>                                                            
-                </ul>
+                    <ul>
+                        <li>Contextual Privacy by Design for Integrated Electronic Health Records:
+                            <br/>
+                            The Information Continuum Project
+                            <br/>
+                            <i>(20 min)</i>
+                            <!-- <i> <a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i> -->
+                            <br/>
+                            <i>
+                                <font color="gray">Timothy Kariotis, Megan Prictor, Kathleen Gray,
+                                    <br/>
+                                    Shanton Chang, Darakhshan Mir
+                                </font>
+                            </i>
+                        </li>
+                        <li>Privacy with Surgical Robotics: Challenges in applying contextual <br/> privacy theory
+                            <br/>
+                            <i>(20 min)</i>
+                            <br/>
+                            <i>
+                                <font color="gray">Shishir Nagaraja, Ryan Shah
+                                </font>
+                            </i>
+                        </li>
+                        <li>The Limitations of Technical Mechanisms as Proxies for Context
+                            <br/>
+                            <i>(20 min)</i>
+                            <br/>
+                            <i>
+                                <font color="gray">Catherine Dwyer</font>
+                            </i>
+                        </li>
+                    </ul>
+                    
             </ul>
         </dd>
         <dd>
-            <span>12:00-2pm</span>
+            <span>12:45-2pm</span>
             <ul>
                 <section>
                     <b>&emsp;&emsp; Lunch</b>
@@ -317,7 +314,7 @@ permalink: ci_symposium/draft-program.html
             
         </dd>        
         <dd>
-        <span>2:00-3pm</span>
+            <span>2:00-3pm</span>
         <ul>
             <section>
             <b>&emsp;&emsp; Industry forum</b>
@@ -329,46 +326,46 @@ permalink: ci_symposium/draft-program.html
         <dd>          
         <span>3:00-4:00pm</span>             
              <ul>
-             <section><b>&emsp;&emsp;&emsp; Using CI for System Design </b></section>
+             <section><b>&emsp;&emsp;&emsp;  CI and Reasonable Expectations </b>
+             </section>
              <i><font color="gray">Chair: </font></i>             
              <ul>
-                 <li>Contextual Privacy by Design for Integrated Electronic Health Records:
+                 <li>Contextual Integrity and Reasonable Expectations:
                      <br/>
-                     The Information Continuum Project
-                     <br/>
-                     <i>(20 min)</i>
-                     <!-- <i> <a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i> -->
-                     <br/>
-                     <i>
-                         <font color="gray">Timothy Kariotis, Megan Prictor, Kathleen Gray,
-                             <br/>
-                             Shanton Chang, Darakhshan Mir
-                         </font>
-                     </i>
-                 </li>                 
-                 <li>Privacy with Surgical Robotics: Challenges in applying contextual <br/> privacy theory 
+                     Privacy Paradigm
                      <br/>
                      <i>(20 min)</i>
                      <br/>
                      <i>
-                         <font color="gray">Shishir Nagaraja, Ryan Shah 
+                         <font color="gray">Amin Rabinia, Daniel Nathan, Sepideh Ghanavati
                          </font>
                      </i>
                  </li>
-                 <li>The Limitations of Technical Mechanisms as Proxies for Context
+                 <li>Uncovering Privacy Norms in Marginalized Communities
                      <br/>
-                     <i>(20 min)</i>
+                     <i>(15 min)</i>
                      <br/>
                      <i>
-                         <font color="gray">Catherine Dwyer</font>
+                         <font color="gray">Dylan Rogers, Desmond Dinkins, Gia Hayes, Richard Stover,
+                             <br/>
+                             Shin-Won Cho, Jennifer Silva, Evan Peck, Darakhshan Mir
+                         </font>
                      </i>
-                 </li>                                 
+                 </li>
+                 <li>Rethinking the Social Credit System:
+                     <br/>
+                     A Long Road to Establishing Trust in Chinese Society
+                     <br/>
+                     <i>(15 min)</i>
+                     <br/>
+                     <i>
+                         <font color="gray">Yuhao Zhong and Xiaodong Ding
+                         </font>
+                     </i>
+                 </li>
              </ul>
              </ul>
         </dd>
-        <dd>
-            <b>Break</b>
-        </dd>        
         
         <dd>
             <span>4:00-5:00pm</span>

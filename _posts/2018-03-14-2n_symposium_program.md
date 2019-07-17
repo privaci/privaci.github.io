@@ -168,7 +168,7 @@ permalink: ci_symposium/program2019.html
         <span>9:30-10:45am&emsp;</span>
         <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp;
+                    <b>&emsp;&emsp;&emsp;&emsp;
                         CI and Norms Discovery
                     </b>
                 </section>
@@ -227,7 +227,7 @@ permalink: ci_symposium/program2019.html
         <span>11:00-12:15pm</span>
         <ul>
        <section>
-           <b>&emsp;&emsp;&emsp; CI and System Design</b>
+           <b>&emsp;&emsp;&emsp;&emsp; CI and System Design</b>
        </section>
        <i>
            <font color="gray">Chair:</font>

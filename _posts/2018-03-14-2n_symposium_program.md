@@ -10,7 +10,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/program.html
+permalink: ci_symposium/program2019.html
 ---
 
 <br/>
@@ -221,7 +221,7 @@ permalink: ci_symposium/program.html
             </ul>            
     </dd>
     <dd>
-        <b>Short Break (15) min)</b>
+        <b>Short Break (15) min</b>
     </dd>
     <dd>
         <span>11:00-12:15</span>

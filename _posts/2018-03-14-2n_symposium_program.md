@@ -84,7 +84,7 @@ permalink: ci_symposium/draft-program.html
         <b>Short Break (15 min)</b>
     </dd>
     <dd>
-        <span>3:30-4:30pm</span>
+        <span>3:30-4:45pm</span>
         <ul>
             <section>
                 <b>&emsp;&emsp;&emsp; Through the Lens of CI</b>
@@ -138,10 +138,10 @@ permalink: ci_symposium/draft-program.html
         <b>Short Break (15 min)</b>
     </dd>
     <dd>
-        <span>4:45-6:00pm</span>
+        <span>5-6:30pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; Icebreaking activity + Open mic?</b>
+                <b>&emsp;&emsp;&emsp; Discussion: CI Playbook for the Future of Privacy </b>
             </section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
@@ -165,7 +165,7 @@ permalink: ci_symposium/draft-program.html
         </ul>
     </dd>
     <dd>
-        <span>9:30-10:30&emsp;</span>
+        <span>9:30-10:45&emsp;</span>
         <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp;
@@ -200,7 +200,7 @@ permalink: ci_symposium/draft-program.html
                     
                     <li>Smart Home Bystanders: Further Complexifying a Complex Context
                         <br/>
-                        <i>(20 min)</i>
+                        <i>(15 min)</i>
                         <br/>
                         <i>
                             <font color="gray">Julia Bernd, Alisa Frik, Maritza Johnson, Nathan Malkin
@@ -221,10 +221,10 @@ permalink: ci_symposium/draft-program.html
             </ul>            
     </dd>
     <dd>
-        <b>Short Break (20 min)</b>
+        <b>Short Break (15) min)</b>
     </dd>
     <dd>
-        <span>10:50-11:30</span>
+        <span>11:00-12:15</span>
         <ul>
        <section>
            <b>&emsp;&emsp;&emsp; CI and System Design</b>
@@ -264,7 +264,6 @@ permalink: ci_symposium/draft-program.html
                    <font color="gray">Catherine Dwyer</font>
                </i>
            </li>
-       </ul>
        <li>Contextual Recommendation Sharing
            <br/>
            <i>(10 min)</i>
@@ -280,9 +279,47 @@ permalink: ci_symposium/draft-program.html
        </ul>
         </dd>
         <dd>
-            <b>Short Break (15 min)</b>
-        </dd>
+            <span>12:15-1:15pm</span>
+            <ul>
+                <section>
+                    <b>&emsp;&emsp; Lunch</b>
+                    <br/>
+                    
+                </section>
+            </ul>            
+        </dd>    
         <dd>
+            <span>1:15-2:30</span>
+            <ul>
+                <section>
+                    <b>&emsp;&emsp;&emsp; Industry Panne </b>
+                </section>
+                <i>
+                    <font color="gray">Chair:</font>
+                </i>
+                <ul>
+                    <li>Use Case: Collibra
+                        <br/>
+                        <i>(10 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray"> Vicky
+                            </font>
+                        </i>
+                    </li>
+                    
+                    
+                </ul>
+            </dd>       
+            <dd>
+                <b>Break (30 min)</b>
+            </dd>               
+<!-- <section>               
+    <b>&emsp;&emsp; Industry forum</b>
+    
+    <br/>        -->
+<!-- </section>-->
+<!--        <dd>
             <span>11:45-12:45</span>
             <ul>
                 <section>
@@ -296,34 +333,12 @@ permalink: ci_symposium/draft-program.html
                    
                                       
                 </ul>
-        </dd>
+        </dd>  
+        
         <dd>
-            <span>12:45-2pm</span>
-            <ul>
-                <section>
-                    <b>&emsp;&emsp; Lunch</b>
-                    <br/>
-                  
-                </section>
-            </ul>
-            
-        </dd>        
-        <dd>
-            <span>2:00-3pm</span>
-        <ul>
-            <section>
-                <li>Use Case: Collibra
-                    <br/>
-                    <i>(10 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray"> Vicky
-                        </font>
-                    </i>
-                </li>           
-            <b>&emsp;&emsp; Industry forum</b>
-            <br/>        
-            </section>
+            <span>2:15-3:pm</span>
+        <ul>-->
+           
         </ul>
         
         </dd>        
@@ -379,7 +394,7 @@ permalink: ci_symposium/draft-program.html
             <ul>
                 <section></section>
                 <ul>
-                    <li>Spillover, Discussion, and Wrap up
+                    <li>Open Mic, Discussion, Wrap up 
                         <br/>
                         <font color="gray">(Serge Egelman, Helen Nissenbaum, Yan Shvartzshnaider)</font>
                     </li>

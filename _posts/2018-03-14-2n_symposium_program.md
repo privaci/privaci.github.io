@@ -227,7 +227,7 @@ permalink: ci_symposium/program2019.html
         <span>11:00-12:15pm</span>
         <ul>
        <section>
-           <b>&emsp;&emsp;&emsp;&emsp; CI and System Design</b>
+           <b>&emsp;&emsp;&emsp;&emsp;&emsp;  CI and System Design</b>
        </section>
        <i>
            <font color="gray">Chair:</font>

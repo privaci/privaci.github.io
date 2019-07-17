@@ -68,11 +68,9 @@ __Participation without submission: __ If you're interested in attending the sy
 
 <!-- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
 
-### PROGRAM
+### [SYMPOSIUM PROGRAM](http://privaci.info/ci_symposium/program2019.html)
 
-*Coming soon*
 
-We aim to start Monday shortly after lunch and end Tuesday end-of-day.
 
 ### REGISTRATION
 

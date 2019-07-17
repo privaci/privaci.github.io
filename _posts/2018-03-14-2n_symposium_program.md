@@ -39,7 +39,7 @@ permalink: ci_symposium/program2019.html
       
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; CI and Theories</b>
+                <b>&emsp;&emsp;&emsp; CI: Theoretically Speaking</b>
             </section>
             <i>
                 <font color="gray">Chair:</font>

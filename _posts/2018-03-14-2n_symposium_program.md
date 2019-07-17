@@ -65,7 +65,7 @@ permalink: ci_symposium/program2019.html
                     <i>(20 min)</i>
                     <br/>
                     <i>
-                        <font color="gray">Jina Huh-Yoo</font>
+                        <font color="gray">Jennifer King</font>
                     </i>
                 </li>                                  
                 <li>Contexts are Political: Field Theory and Privacy

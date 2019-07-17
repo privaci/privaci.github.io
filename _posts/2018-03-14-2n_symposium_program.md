@@ -10,7 +10,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/draft-program.html
+permalink: ci_symposium/program.html
 ---
 
 <br/>
@@ -282,7 +282,7 @@ permalink: ci_symposium/draft-program.html
             <span>12:15-1:15pm</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp; Lunch</b>
+                    <b>&emsp;&emsp;&emsp;Lunch</b>
                     <br/>
                     
                 </section>
@@ -292,56 +292,16 @@ permalink: ci_symposium/draft-program.html
             <span>1:15-2:30</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; Industry Panne </b>
+                    <b>&emsp;&emsp;&emsp; Industry Panel </b><br/>
+                    <i>
+                        <font color="gray">&emsp;&emsp;&emsp;Chairs: Helen Nissenbaum & Pieter De Leenheer  </font>
+                            </i>
                 </section>
-                <i>
-                    <font color="gray">Chair:</font>
-                </i>
-                <ul>
-                    <li>Use Case: Collibra
-                        <br/>
-                        <i>(10 min)</i>
-                        <br/>
-                        <i>
-                            <font color="gray"> Vicky
-                            </font>
-                        </i>
-                    </li>
-                    
-                    
-                </ul>
+            </ul>
             </dd>       
             <dd>
                 <b>Break (30 min)</b>
-            </dd>               
-<!-- <section>               
-    <b>&emsp;&emsp; Industry forum</b>
-    
-    <br/>        -->
-<!-- </section>-->
-<!--        <dd>
-            <span>11:45-12:45</span>
-            <ul>
-                <section>
-                    <b>&emsp;&emsp;&emsp; CI and Use Cases </b>
-                </section>
-                <i>
-                    <font color="gray">Chair:</font>
-                </i>
-                <ul>
-                                  
-                   
-                                      
-                </ul>
-        </dd>  
-        
-        <dd>
-            <span>2:15-3:pm</span>
-        <ul>-->
-           
-        </ul>
-        
-        </dd>        
+            </dd>                                             
         <dd>          
         <span>3:00-3:50pm</span>             
              <ul>

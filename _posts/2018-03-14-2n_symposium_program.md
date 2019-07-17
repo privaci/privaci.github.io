@@ -122,7 +122,16 @@ permalink: ci_symposium/draft-program.html
                         <font color="gray">Madelyn R. Sanfilippo, Yan Shvartzshnaider, Irwin Reyes,   <br/> Helen Nissenbaum, Serge Egelman
                         </font>
                     </i>
-                </li>               
+                </li>     
+                <li>Use Case: ICANN’s WHOIS Databases
+                    <br/>
+                    <i>(10 min)</i>
+                    <br/>
+                    <i>
+                        <font color="gray">Kathryn Kleiman 
+                        </font>
+                    </i>
+                </li>                  
             </ul>
         </ul>    </dd>
     <dd>
@@ -197,7 +206,17 @@ permalink: ci_symposium/draft-program.html
                             <font color="gray">Julia Bernd, Alisa Frik, Maritza Johnson, Nathan Malkin
                             </font>
                         </i>
-                    </li>                    
+                    </li>        
+                    <li>Applying Contextual Integrity Framework
+                        <br/>
+                        for Community-Engaged Research Data Management
+                        <br/>
+                        <i>(10 min)</i>
+                        <br/>
+                        <i>
+                            <font color="gray">Jina Huh-Yoo</font>
+                        </i>
+                    </li>                     
                 </ul>
             </ul>            
     </dd>
@@ -208,50 +227,56 @@ permalink: ci_symposium/draft-program.html
         <span>10:50-11:30</span>
         <ul>
        <section>
-           <b>&emsp;&emsp;&emsp; CI and Use Cases</b>
+           <b>&emsp;&emsp;&emsp; CI and System Design</b>
        </section>
        <i>
            <font color="gray">Chair:</font>
        </i>
        <ul>
-           <li>Applying Contextual Integrity Framework
+           <li>Contextual Privacy by Design for Integrated Electronic Health Records:
                <br/>
-               for Community-Engaged Research Data Management
+               The Information Continuum Project
                <br/>
-               <i>(10 min)</i>
-               <br/>
-               <i>
-                   <font color="gray">Jina Huh-Yoo</font>
-               </i>
-           </li>               
-           <li>Use Case: ICANN’s WHOIS Databases
-               <br/>
-               <i>(10 min)</i>
+               <i>(20 min)</i>
+               <!-- <i> <a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i> -->
                <br/>
                <i>
-                   <font color="gray">Kathryn Kleiman 
+                   <font color="gray">Timothy Kariotis, Megan Prictor, Kathleen Gray,
+                       <br/>
+                       Shanton Chang, Darakhshan Mir
                    </font>
                </i>
-           </li>      
-               <li>Use Case: Collibra
-                   <br/>
-                   <i>(10 min)</i>
-                   <br/>
-                   <i>
-                       <font color="gray"> Vicky
-                       </font>
-                   </i>
-               </li>  
-               <li>Contextual Recommendation Sharing
-                   <br/>
-                   <i>(10 min)</i>
-                   <br/>
-                   <i>
-                       <font color="gray">Eugene Bagdasaryan
-                       </font>
-                   </i>
-               </li>                        
-           </ul>
+           </li>
+           <li>Privacy with Surgical Robotics: Challenges in applying contextual <br/> privacy theory
+               <br/>
+               <i>(20 min)</i>
+               <br/>
+               <i>
+                   <font color="gray">Shishir Nagaraja, Ryan Shah
+                   </font>
+               </i>
+           </li>
+           <li>The Limitations of Technical Mechanisms as Proxies for Context
+               <br/>
+               <i>(20 min)</i>
+               <br/>
+               <i>
+                   <font color="gray">Catherine Dwyer</font>
+               </i>
+           </li>
+       </ul>
+       <li>Contextual Recommendation Sharing
+           <br/>
+           <i>(10 min)</i>
+           <br/>
+           <i>
+               <font color="gray">Eugene Bagdasaryan
+               </font>
+           </i>
+       </li>          
+       
+        </ul>
+      
        </ul>
         </dd>
         <dd>
@@ -261,46 +286,16 @@ permalink: ci_symposium/draft-program.html
             <span>11:45-12:45</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; CI and System Design </b>
+                    <b>&emsp;&emsp;&emsp; CI and Use Cases </b>
                 </section>
                 <i>
                     <font color="gray">Chair:</font>
                 </i>
-                    <ul>
-                        <li>Contextual Privacy by Design for Integrated Electronic Health Records:
-                            <br/>
-                            The Information Continuum Project
-                            <br/>
-                            <i>(20 min)</i>
-                            <!-- <i> <a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i> -->
-                            <br/>
-                            <i>
-                                <font color="gray">Timothy Kariotis, Megan Prictor, Kathleen Gray,
-                                    <br/>
-                                    Shanton Chang, Darakhshan Mir
-                                </font>
-                            </i>
-                        </li>
-                        <li>Privacy with Surgical Robotics: Challenges in applying contextual <br/> privacy theory
-                            <br/>
-                            <i>(20 min)</i>
-                            <br/>
-                            <i>
-                                <font color="gray">Shishir Nagaraja, Ryan Shah
-                                </font>
-                            </i>
-                        </li>
-                        <li>The Limitations of Technical Mechanisms as Proxies for Context
-                            <br/>
-                            <i>(20 min)</i>
-                            <br/>
-                            <i>
-                                <font color="gray">Catherine Dwyer</font>
-                            </i>
-                        </li>
-                    </ul>
-                    
-            </ul>
+                <ul>
+                                  
+                   
+                                      
+                </ul>
         </dd>
         <dd>
             <span>12:45-2pm</span>
@@ -317,6 +312,15 @@ permalink: ci_symposium/draft-program.html
             <span>2:00-3pm</span>
         <ul>
             <section>
+                <li>Use Case: Collibra
+                    <br/>
+                    <i>(10 min)</i>
+                    <br/>
+                    <i>
+                        <font color="gray"> Vicky
+                        </font>
+                    </i>
+                </li>           
             <b>&emsp;&emsp; Industry forum</b>
             <br/>        
             </section>

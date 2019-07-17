@@ -165,7 +165,7 @@ permalink: ci_symposium/program2019.html
         </ul>
     </dd>
     <dd>
-        <span>9:30-10:45&emsp;</span>
+        <span>9:30-10:45am&emsp;</span>
         <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp;
@@ -224,7 +224,7 @@ permalink: ci_symposium/program2019.html
         <b>Short Break (15) min</b>
     </dd>
     <dd>
-        <span>11:00-12:15</span>
+        <span>11:00-12:15pm</span>
         <ul>
        <section>
            <b>&emsp;&emsp;&emsp; CI and System Design</b>
@@ -282,7 +282,7 @@ permalink: ci_symposium/program2019.html
             <span>12:15-1:15pm</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp;Lunch</b>
+                    <b>&emsp;&emsp;&emsp;&emsp;Lunch</b>
                     <br/>
                     
                 </section>

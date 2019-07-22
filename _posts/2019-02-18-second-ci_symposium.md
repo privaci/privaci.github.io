@@ -62,7 +62,7 @@ Papers should be formatted using the [2019 ACM Master Article Template](https://
 * System design and/or implementations
 * Combinations of the above
 -->
-__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review. 
+<!--__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review.--> 
 
 <!-- We look forward to seeing you at the symposium! -->
 

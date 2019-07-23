@@ -15,7 +15,7 @@ permalink: ci_symposium/cfp.html
 <br/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/>
 <img src="{{ site.url }}/images/ICSI.png" alt="ICSI" style="height: 30px;" style="margin-left:5em" />
-![Alt text]({{ site.url }}/images/bk_symposium.png)
+![Alt text]({{ site.url }}/images/CI_Symposium_2019.png)
 
 <!-- ## New: The CI Symposium (draft) Program is out!  
 
@@ -27,7 +27,7 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate 
 -->
 
-The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley.
+The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley in [David Brower Center](https://browercenter.org/).
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->
@@ -37,6 +37,7 @@ The aim of the symposium is to foster interaction among diverse communities of r
 As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website. 
 
 The CI Symposium 2019 is supported with gifts from [Collibra](https://www.collibra.com) and [Microsoft](https://www.microsoft.com/en-us/). 
+<!--### [Symposium Program](http://privaci.info/ci_symposium/program.html) -->
 
 <!-- #### Registration-- >
 
@@ -60,12 +61,16 @@ Papers should be formatted using the [2019 ACM Master Article Template](https://
 * Legal, philosophical, ethical, and policy analysis
 * System design and/or implementations
 * Combinations of the above
+-->
+<!--__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review.--> 
 
-__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://goo.gl/forms/sSG7gqvm6FlKD2i42). We will send a confirmation upon review. 
-
-We look forward to seeing you at the symposium! -->
+<!-- We look forward to seeing you at the symposium! -->
 
 <!-- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
+
+### [SYMPOSIUM PROGRAM](http://privaci.info/ci_symposium/program2019.html)
+
+
 
 ### REGISTRATION
 
@@ -76,7 +81,7 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 #### IMPORTANT DATES
 
 * ~~Submissions Due: June 10~~
-* Notifications: June 25
+* ~~Notifications: June 25~~
 * Date of Symposium: August 19 and 20
 
 #### HOW TO SUBMIT
@@ -90,6 +95,10 @@ Participants can apply for a travel grant award that can go towards partially co
 
 The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on __July 24th__.
 
+
+### ACCOMMODATION
+
+You can find directions information and accomodation options [here]({{ site.url }}/ci_symposium/accommodation.html).
 
 #### SYMPOSIUM CHAIRS
 <br/>
@@ -121,7 +130,7 @@ The only travel expenses that can be reimbursed are: air travel and hotel. The e
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
 [Ding Xiaodong](http://www.law.ruc.edu.cn/eng/show.asp?No=282 ) (Renmin University of China Law School)
 
- 
+
 
 
 

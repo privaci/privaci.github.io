@@ -114,7 +114,9 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
+[Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer) (Collibra)
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
+[Vicky Froyen](https://be.linkedin.com/in/vicky-froyen-8511612a) (Collibra)
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />

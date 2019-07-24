@@ -84,9 +84,9 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 * ~~Notifications: June 25~~
 * Date of Symposium: August 19 and 20
 
-#### HOW TO SUBMIT
+<!--#### HOW TO SUBMIT
 
-Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).
+Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).-->
 
 
 #### TRAVEL GRANT
@@ -114,6 +114,8 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
+[Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer) (Collibra)
+[Vicky Froyen](https://be.linkedin.com/in/vicky-froyen-8511612a) (Collibra)<br/>
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
@@ -130,7 +132,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
 [Ding Xiaodong](http://www.law.ruc.edu.cn/eng/show.asp?No=282 ) (Renmin University of China Law School)
 
- 
+
 
 
 

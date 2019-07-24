@@ -84,9 +84,9 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 * ~~Notifications: June 25~~
 * Date of Symposium: August 19 and 20
 
-#### HOW TO SUBMIT
+<!--#### HOW TO SUBMIT
 
-Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).
+Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).-->
 
 
 #### TRAVEL GRANT

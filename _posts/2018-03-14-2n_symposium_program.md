@@ -123,7 +123,7 @@ permalink: ci_symposium/program2019.html
                         </font>
                     </i>
                 </li>     
-                <li>Use Case: Using Contextual Integrity in an Enterprise context
+                <li>Use Case: Using Contextual Integrity in an Enterprise Context
                     <br/>
                     <i>(10 min)</i>
                     <br/>

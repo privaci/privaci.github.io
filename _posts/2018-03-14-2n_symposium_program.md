@@ -123,12 +123,12 @@ permalink: ci_symposium/program2019.html
                         </font>
                     </i>
                 </li>     
-                <li>Use Case: ICANN’s WHOIS Databases
+                <li>Use Case: Using Contextual Integrity in an Enterprise context
                     <br/>
                     <i>(10 min)</i>
                     <br/>
                     <i>
-                        <font color="gray">Kathryn Kleiman 
+                        <font color="gray">Vicky Froyen 
                         </font>
                     </i>
                 </li>                  

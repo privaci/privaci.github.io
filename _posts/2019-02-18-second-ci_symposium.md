@@ -89,11 +89,11 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).-->
 
 
-#### TRAVEL GRANT
+<!-- #### TRAVEL GRANT
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/K7QjVDjyjqevW13e6). 
 
-The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on ~~July 24th~~.
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on ~~July 24th~~. -->
 
 
 ### ACCOMMODATION

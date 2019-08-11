@@ -44,18 +44,7 @@ permalink: ci_symposium/program2019.html
             <i>
                 <font color="gray">Chair:</font>
             </i>
-            <ul>
-                <li>Legitimacy in Context
-                    <br/>
-                    <i>(20 min)</i>
-                    <br/>
-                    <i>
-                        <font color="gray">Ashley E. Gorham, Helen Nissenbaum, Madelyn R. Sanfilippo,
-                            <br/>
-                            Katherine Strandburg, Mark Verstraete
-                        </font>
-                    </i>
-                </li>
+            <ul>               
                 <li>Blending Contextual Integrity and Social Exchange Theory:
                     <br/>
                     Assessing Norm Building Under Conditions of “Informational
@@ -76,6 +65,17 @@ permalink: ci_symposium/program2019.html
                         <font color="gray">Sebastian Benthall  and Bruce Haynes 
                         </font>
                     </i>
+                </li>    
+                <li>Legitimacy in Context
+                <br/>
+                <i>(20 min)</i>
+                <br/>
+                <i>
+                <font color="gray">Ashley E. Gorham, Helen Nissenbaum, Madelyn R. Sanfilippo,
+                <br/>
+                Katherine Strandburg, Mark Verstraete
+                </font>
+                </i>
                 </li>                
             </ul>
         </ul>        

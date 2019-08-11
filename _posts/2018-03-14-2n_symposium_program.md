@@ -289,7 +289,7 @@ permalink: ci_symposium/program2019.html
             </ul>            
         </dd>    
         <dd>
-            <span>1:15-2:15pm</span>
+            <span>1:30-2:15pm</span>
             <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp; Open Mic Follow Up </b><br/>                                     

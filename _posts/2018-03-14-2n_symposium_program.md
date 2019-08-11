@@ -141,7 +141,7 @@ permalink: ci_symposium/program2019.html
         <span>5-6:30pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; Discussion: CI Playbook for the Future of Privacy </b>
+                <b>&emsp;&emsp;&emsp; Open Mic: CI Playbook for the Future of Privacy </b>
             </section>
             <!-- <li><font color="gray">Participants</font></li> -->
         </ul>
@@ -150,7 +150,7 @@ permalink: ci_symposium/program2019.html
         <span>7:30pm</span>
         <ul>
             <section>
-                <b>&emsp;&emsp;&emsp; Symposium Dinner (for registrered attendees) </b>
+                <b>&emsp;&emsp;&emsp; Symposium At Comal Restaurant (for all registrered attendees) </b>
             </section>
         </ul>
     </dd>
@@ -279,7 +279,7 @@ permalink: ci_symposium/program2019.html
        </ul>
         </dd>
         <dd>
-            <span>12:15-1:15pm</span>
+            <span>12:15-1:30pm</span>
             <ul>
                 <section>
                     <b>&emsp;&emsp;&emsp;&emsp;Lunch</b>
@@ -289,21 +289,18 @@ permalink: ci_symposium/program2019.html
             </ul>            
         </dd>    
         <dd>
-            <span>1:15-2:30</span>
+            <span>1:15-2:15pm</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; Industry Panel </b><br/>
-                    <i>
-                        <font color="gray">&emsp;&emsp;&emsp;Chairs: Helen Nissenbaum & Pieter De Leenheer  </font>
-                            </i>
+                    <b>&emsp;&emsp;&emsp; Open Mic Follow Up </b><br/>                                     
                 </section>
             </ul>
             </dd>       
             <dd>
-                <b>Break (30 min)</b>
+                <b>Break</b>
             </dd>                                             
         <dd>          
-        <span>3:00-3:50pm</span>             
+        <span>2:30-3:40pm</span>             
              <ul>
              <section><b>&emsp;&emsp;&emsp;  CI and Reasonable Expectations </b>
              </section>
@@ -346,7 +343,7 @@ permalink: ci_symposium/program2019.html
              </ul>
         </dd>
         <dd>
-            <b>Break (10 min)</b>
+            <b>Break</b>
         </dd>        
         
         <dd>
@@ -354,7 +351,7 @@ permalink: ci_symposium/program2019.html
             <ul>
                 <section></section>
                 <ul>
-                    <li>Open Mic, Discussion, Wrap up 
+                    <li>Discussion, Wrap up 
                         <br/>
                         <font color="gray">(Serge Egelman, Helen Nissenbaum, Yan Shvartzshnaider)</font>
                     </li>

@@ -351,10 +351,7 @@ permalink: ci_symposium/program2019.html
             <ul>
                 <section></section>
                 <ul>
-                    <li>Discussion, Wrap up 
-                        <br/>
-                        <font color="gray">(Serge Egelman, Helen Nissenbaum, Yan Shvartzshnaider)</font>
-                    </li>
+                    <li>Discussion, Wrap up </li>
                 </ul>
             </ul>
         </dd>

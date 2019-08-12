@@ -121,7 +121,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
+[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley University) <br/>
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (CITP, Princeton)<br/>
 [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>

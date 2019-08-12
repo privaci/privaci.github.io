@@ -351,7 +351,7 @@ permalink: ci_symposium/program2019.html
             <ul>
                 <section></section>
                 <ul>
-                    <li>Discussion, Wrap up </li>
+                    <li><b>Discussion, Wrap up </b></li>
                 </ul>
             </ul>
         </dd>

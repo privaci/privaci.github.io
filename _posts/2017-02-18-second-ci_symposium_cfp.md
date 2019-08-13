@@ -27,7 +27,7 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate 
 -->
 
-The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at UC Berkeley in [David Brower Center](https://browercenter.org/).
+The 2nd annual Symposium on Applications of Contextual Integrity with take place on <b>August 19-20, 2019</b> at  [David Brower Center](https://browercenter.org/) in Berkeley, CA.
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->
@@ -89,11 +89,11 @@ If due to financial hardship, you cannot pay the $50 registration fee, please em
 Submit papers through [the submission site](https://meatwad.cs.berkeley.edu/hotcrp/).-->
 
 
-<!-- #### TRAVEL GRANT
+#### TRAVEL GRANT
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/K7QjVDjyjqevW13e6). 
 
-The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on ~~July 24th~~. -->
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  The committee will begin making travel grant decisions on __July 24th__.
 
 
 ### ACCOMMODATION
@@ -104,7 +104,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 <br/>
 [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University & CITP, Princeton) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University) <br/>
 <br/>
 
 
@@ -120,13 +120,13 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />
-[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley University) <br/>
+[Mainack Mondal](https://mainack.tech.cornell.edu) (Cornell Tech)<br />
+[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (University of California, Irvine) <br/>
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
-[Madelyn Sanfilippo](https://madelynsanfilippo.com) (CITP, Princeton)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (Princeton University)<br/>
 [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
-[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
+[Eran Toch](http://toch.tau.ac.il/) (Cornell Tech and Tel Aviv University)<br/>
 [Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
@@ -145,6 +145,7 @@ Email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
 <br/>
 Website: [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>
 Twitter: [@privacy_way](https://twitter.com/privaci_way)
+
 
 
 

@@ -306,6 +306,14 @@ permalink: ci_symposium/program2019.html
              </section>
              <i><font color="gray">Chair: </font></i>             
              <ul>
+             <li>Using MDPs to Model Contextual Integrity
+             <br/>
+             <i>(20 min)</i>
+             <br/>
+             <i>
+             <font color="gray">Michael Tschantz</font>
+             </i>
+             </li>             
                  <li>Contextual Integrity and Reasonable Expectations:
                      <br/>
                      Privacy Paradigm

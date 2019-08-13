@@ -70,6 +70,7 @@ Papers should be formatted using the [2019 ACM Master Article Template](https://
 
 ### [SYMPOSIUM PROGRAM](http://privaci.info/ci_symposium/program2019.html)
 
+ [View program brochure]({{ site.url }}/ci_symposium/CI_program_brochure_2019.html) 
 
 
 ### REGISTRATION

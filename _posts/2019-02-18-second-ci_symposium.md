@@ -113,7 +113,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 <br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
-[Marshini Chetty](https://www.marshini.net) (Princeton University) <br/>
+[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer) (Collibra) <br/>
 [Vicky Froyen](https://be.linkedin.com/in/vicky-froyen-8511612a) (Collibra)<br/>

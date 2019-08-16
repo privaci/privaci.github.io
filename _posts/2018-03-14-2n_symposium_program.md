@@ -42,7 +42,7 @@ permalink: ci_symposium/program2019.html
                 <b>&emsp;&emsp;&emsp; CI: Theoretically Speaking</b>
             </section>
             <i>
-                <font color="gray">Chair:</font>
+                <font color="gray">Chair: Jake Goldenfein</font>
             </i>
             <ul>               
                 <li>Blending Contextual Integrity and Social Exchange Theory:
@@ -90,7 +90,7 @@ permalink: ci_symposium/program2019.html
                 <b>&emsp;&emsp;&emsp; Through the Lens of CI</b>
                 <br/>
                 <i>
-                    <font color="gray">Chair:</font>
+                    <font color="gray">Chair: Yafit Lev-Aretz</font>
                 </i>
             </section>
             <ul>
@@ -173,7 +173,7 @@ permalink: ci_symposium/program2019.html
                     </b>
                 </section>
                 <i>
-                    <font color="gray">Chair:</font>
+                    <font color="gray">Chair: Kirsten Martin</font>
                 </i>
                 <ul>
                     <li>The Contextual Preferences of Older Adults on Information Sharing
@@ -304,7 +304,7 @@ permalink: ci_symposium/program2019.html
              <ul>
              <section><b>&emsp;&emsp;&emsp;  CI and Reasonable Expectations </b>
              </section>
-             <i><font color="gray">Chair: </font></i>             
+             <i><font color="gray">Chair: Michael Byrne </font></i>             
              <ul>
              <li>Using MDPs to Model Contextual Integrity
              <br/>

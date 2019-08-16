@@ -138,7 +138,7 @@ permalink: ci_symposium/program2019.html
         <b>Short Break (15 min)</b>
     </dd>
     <dd>
-        <span>5-6:30pm</span>
+        <span>5-6:00pm</span>
         <ul>
             <section>
                 <b>&emsp;&emsp;&emsp; Open Mic: CI Playbook for the Future of Privacy </b>

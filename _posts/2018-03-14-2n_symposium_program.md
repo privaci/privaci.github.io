@@ -292,7 +292,7 @@ permalink: ci_symposium/program2019.html
             <span>1:30-2:15pm</span>
             <ul>
                 <section>
-                    <b>&emsp;&emsp;&emsp; Open Mic Follow Up </b><br/>                                     
+                    <b>&emsp;&emsp;&emsp; Open Mic Follow Up/Lightning talks </b><br/>                                     
                 </section>
             </ul>
             </dd>       

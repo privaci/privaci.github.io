@@ -230,7 +230,7 @@ permalink: ci_symposium/program2019.html
            <b>&emsp;&emsp;&emsp;&emsp;&emsp;  CI and System Design</b>
        </section>
        <i>
-           <font color="gray">Chair:</font>
+           <font color="gray">Chair: Susanne Wetzel</font>
        </i>
        <ul>
            <li>Contextual Privacy by Design for Integrated Electronic Health Records:

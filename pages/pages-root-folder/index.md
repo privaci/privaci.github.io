@@ -20,3 +20,8 @@ The advent of social apps, smartphones, and ubiquitous computing has brought abo
 To tackle the momentous privacy challenges of our era requires collaboration across multiple societal sectors, including regulators, courts, academics, and industry leaders. It requires willingness to work across disciplinary boundaries to benefit from wisdom, know-how, and research results from computer science, formal methods, engineering, social science, ethics, law, and policy.  
 
  Contextual integrity (CI) offers a model for conceptualizing privacy that is able to bridge scientific and technical approaches, on the one hand, with ethical, legal, and policy approaches, on the other. CI's bedrock claim is that protecting privacy means protecting appropriate informational flows. It further stipulates that appropriate information flows are flows that comport with contextual informational norms (or rules), specified by the actors (senders, recipients and subjects), attributes (the type of information at hand) and transmission principles (type of constraints).
+
+
+<hr/>
+
+## Join the [PrivaCI mailing list](https://groups.google.com/forum/#!forum/privaci-research) and check out the recent CI related publications on the [Zotero group repository](https://www.zotero.org/groups/2228317/privaci). 

@@ -23,8 +23,7 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
 
 
 <hr/>
-
-<img src="{{ site.url }}/images/zotero-logo.jpg" alt="DLI" style="height: 100px;"/>
-<img src="{{ site.url }}/images/google-groups.jpg" alt="ICSI" style="height: 30px;" style="margin-left:5em" />
-
-<!-- ## Join the [PrivaCI mailing list](https://groups.google.com/forum/#!forum/privaci-research) and check out the recent CI related publications on the [Zotero group repository](https://www.zotero.org/groups/2228317/privaci).--> 
+<center>
+<a href="https://www.zotero.org/groups/2228317/privaci"> <img src="{{ site.url }}/images/zotero-logo.jpg"  alt="Zotero" style="height: 60px;"/>CI Related Publications</a> <a href="https://groups.google.com/forum/#!forum/privaci-research"><img src="{{site.url }}/images/google-groups.png" alt="Google group" style="height: 60px;" /> Mailing list</a>
+</center>
+<!-- ## Join the [PrivaCI mailing list]() and check out the recent CI related publications on the [Zotero group repository]().--> 

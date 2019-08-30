@@ -176,8 +176,7 @@ permalink: ci_symposium/program2019.html
                     <li>The Contextual Preferences of Older Adults on Information Sharing
                         <br/>
                         <i>
-                            <font color="gray">Alisa Frik, Julia Bernd and Noura Alomar
-                                <br/>
+                            <font color="gray">Alisa Frik, Julia Bernd and Noura Alomar                                
                             </font>
                             <br/>
                             <i><a href="{{ site.url }}/symposium2/papers_and_slides/Frik_CI symposium 19_Seniors.pdf" target="_blank">Slides</a></i>

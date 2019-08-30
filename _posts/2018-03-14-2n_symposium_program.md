@@ -96,7 +96,6 @@ permalink: ci_symposium/program2019.html
                 <li>Evaluating the Contextual Integrity of Privacy Regulation:
                     <br/> Parents' IoT Toy Privacy Norms Versus COPPA
                     <br/>                   
-                    <br/>
                     <i>
                         <font color="gray">Noah Apthorpe, Sarah Varghese and Nick Feamster
                         </font>
@@ -197,12 +196,12 @@ permalink: ci_symposium/program2019.html
                     
                     <li>Smart Home Bystanders: Further Complexifying a Complex Context
                         <br/>
-                        <i>(15 min)</i>
-                        <br/>
                         <i>
                             <font color="gray">Julia Bernd, Alisa Frik, Maritza Johnson, Nathan Malkin
                             </font>
                         </i>
+                        <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/Sub_Bernd_et_al_Bystanders_CI_2019.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Slides_Bernd_et_al_Bystanders_CI_2019.pdf" target="_blank">Slides</a></i>
+                        <br/>                         
                     </li>        
                     <li>Applying Contextual Integrity Framework
                         <br/>

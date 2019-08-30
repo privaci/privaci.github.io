@@ -51,24 +51,23 @@ permalink: ci_symposium/program2019.html
                     <br/>
                     Inequality”
                     <br/>
-                    <i>(20 min)</i>
-                    <br/>
                     <i>
                         <font color="gray">Jennifer King</font>
                     </i>
+                    <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/King_Katsanevas.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Assessing_Norm.pdf" target="_blank">Slides</a></i>
+                    <br/>                                                                    
                 </li>                                  
                 <li>Contexts are Political: Field Theory and Privacy
-                    <br/>
-                    <i>(20 min)</i>
                     <br/>
                     <i>
                         <font color="gray">Sebastian Benthall  and Bruce Haynes 
                         </font>
-                    </i>
+                           </i>
+                        <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/cifieldtheory.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Contexts_are_Political_Field_Theory_and_Privacy.pdf" target="_blank">Slides</a></i>
+                        <br/>                                                
+                 
                 </li>    
                 <li>Legitimacy in Context
-                <br/>
-                <i>(20 min)</i>
                 <br/>
                 <i>
                 <font color="gray">Ashley E. Gorham, Helen Nissenbaum, Madelyn R. Sanfilippo,
@@ -96,8 +95,7 @@ permalink: ci_symposium/program2019.html
             <ul>
                 <li>Evaluating the Contextual Integrity of Privacy Regulation:
                     <br/> Parents' IoT Toy Privacy Norms Versus COPPA
-                    <br/>
-                    <i>(20 min)</i>
+                    <br/>                   
                     <br/>
                     <i>
                         <font color="gray">Noah Apthorpe, Sarah Varghese and Nick Feamster
@@ -107,21 +105,20 @@ permalink: ci_symposium/program2019.html
                 <li>Understanding Children’s Mental Models of Privacy
                     <br/> based on the Theory of Contextual Integrity
                     <br/>
-                    <i>(20 min)</i>
-                    <br/>
                     <i>
                         <font color="gray">Hoda Mehrpouyan, Jerry Alan Fails, Dhanush kumar Ratakonda
                         </font>
                     </i>
                 </li>
-                <li>Disaster Privacy/Privacy Disaster                   
-                    <br/>
-                    <i>(20 min)</i>
+                <li>Disaster Privacy/Privacy Disaster                               
                     <br/>
                     <i>
                         <font color="gray">Madelyn R. Sanfilippo, Yan Shvartzshnaider, Irwin Reyes,   <br/> Helen Nissenbaum, Serge Egelman
                         </font>
                     </i>
+                    <br/>
+                        <i><a href="{{ site.url }}/symposium2/papers_and_slides/Disaster_Privacy_Privacy_Disaster.pdf" target="_blank">Slides</a></i>
+                    <br/>
                 </li>     
                 <li>Use Case: Using Contextual Integrity in an Enterprise Context
                     <br/>
@@ -178,12 +175,13 @@ permalink: ci_symposium/program2019.html
                 <ul>
                     <li>The Contextual Preferences of Older Adults on Information Sharing
                         <br/>
-                        <i>(20 min)</i>
-                        <br/>
                         <i>
                             <font color="gray">Alisa Frik, Julia Bernd and Noura Alomar
                                 <br/>
                             </font>
+                            <br/>
+                            <i><a href="{{ site.url }}/symposium2/papers_and_slides/Frik_CI symposium 19_Seniors.pdf" target="_blank">Slides</a></i>
+                            <br/>                            
                         </i>
                     </li>
                     <li>Using Long-Lived Facebook Accounts to Understand Implicit Norms of Consent
@@ -249,12 +247,13 @@ permalink: ci_symposium/program2019.html
            </li>
            <li>Privacy with Surgical Robotics: Challenges in applying contextual <br/> privacy theory
                <br/>
-               <i>(20 min)</i>
-               <br/>
                <i>
                    <font color="gray">Shishir Nagaraja, Ryan Shah
                    </font>
                </i>
+               <br/>
+               <i><a href="{{ site.url }}/symposium2/papers_and_slides/contextual_privacy2.pdf" target="_blank">Slides</a></i>
+               <br/>    
            </li>
            <li>The Limitations of Technical Mechanisms as Proxies for Context
                <br/>
@@ -316,14 +315,15 @@ permalink: ci_symposium/program2019.html
              </li>             
                  <li>Contextual Integrity and Reasonable Expectations:
                      <br/>
-                     Privacy Paradigm
-                     <br/>
-                     <i>(20 min)</i>
+                     Privacy Paradigm                     
                      <br/>
                      <i>
                          <font color="gray">Amin Rabinia, Daniel Nathan, Sepideh Ghanavati
                          </font>
                      </i>
+                     <br/>
+                     <i><a href="{{ site.url }}/symposium2/papers_and_slides/CI_talk.pdf" target="_blank">Slides</a></i>
+                     <br/>  
                  </li>
                  <li>Uncovering Privacy Norms in Marginalized Communities
                      <br/>
@@ -340,12 +340,13 @@ permalink: ci_symposium/program2019.html
                      <br/>
                      A Long Road to Establishing Trust in Chinese Society
                      <br/>
-                     <i>(15 min)</i>
-                     <br/>
                      <i>
                          <font color="gray">Yuhao Zhong and Xiaodong Ding
                          </font>
                      </i>
+                     <br/>
+                     <i><a href="{{ site.url }}/symposium2/papers_and_slides/Rethinking_the_Social_Credit_System.pdf" target="_blank">Slides</a></i>
+                     <br/>                      
                  </li>
              </ul>
              </ul>

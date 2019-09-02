@@ -255,11 +255,11 @@ permalink: ci_symposium/program2019.html
            </li>
            <li>The Limitations of Technical Mechanisms as Proxies for Context
                <br/>
-               <i>(20 min)</i>
-               <br/>
                <i>
                    <font color="gray">Catherine Dwyer</font>
                </i>
+               <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/Dwyer_CI_Workshop_submission_2019.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/DwyerCIPresentation.pdf" target="_blank">Slides</a></i>
+               <br/>                
            </li>
        <li>Contextual Recommendation Sharing
            <br/>

@@ -108,7 +108,7 @@ permalink: ci_symposium/program2019.html
                         <font color="gray">Hoda Mehrpouyan, Jerry Alan Fails, Dhanush kumar Ratakonda
                         </font>
                     </i>
-                    <br/> <i><a href="https://dl.acm.org/citation.cfm?id=3325324" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Formal_Specifcation_and_Verifcation_of_User-centric_Privacy_Policies_for_Ubiquitous_Systems_Slide.pdf" target="_blank">Slides</a></i>
+                    <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/Formal_Specifcation_and_Verifcation_of_User-centric_Privacy_Policies_for_Ubiquitous_Systems_Slide.pdf" target="_blank">Slides</a></i>
                     <br/>                       
                 </li>
                 <li>Disaster Privacy/Privacy Disaster                               

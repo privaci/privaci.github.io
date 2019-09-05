@@ -234,10 +234,8 @@ permalink: ci_symposium/program2019.html
            <li>Contextual Privacy by Design for Integrated Electronic Health Records:
                <br/>
                The Information Continuum Project
-               <br/>
-               <i>(20 min)</i>
-               <!-- <i> <a href="{{ site.url }}/symposium/Situated_Information_Flow.pdf" target="_blank">Slides</a></i> -->
-               <br/>
+               <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/Kariotis-ContextualPrivacy byDesign.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Kariotis - CI Symposium Slides.pdf" target="_blank">Slides</a></i>
+               <br/>  
                <i>
                    <font color="gray">Timothy Kariotis, Megan Prictor, Kathleen Gray,
                        <br/>
@@ -334,6 +332,8 @@ permalink: ci_symposium/program2019.html
                              <br/>
                              Shin-Won Cho, Jennifer Silva, Evan Peck, Darakhshan Mir
                          </font>
+                         <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/PrivaCI_19_.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/PrivaCI.pdf" target="_blank">Slides</a></i>
+                         <br/>                          
                      </i>
                  </li>
                  <li>Rethinking the Social Credit System:
@@ -365,5 +365,3 @@ permalink: ci_symposium/program2019.html
             </ul>
         </dd>
     </dl>
-    
-    

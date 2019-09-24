@@ -122,9 +122,7 @@ permalink: ci_symposium/program2019.html
                         <i><a href="{{ site.url }}/symposium2/papers_and_slides/Disaster_Privacy_Privacy_Disaster.pdf" target="_blank">Slides</a></i>
                     <br/>
                 </li>     
-                <li>Use Case: Using Contextual Integrity in an Enterprise Context
-                    <br/>
-                    <i>(10 min)</i>
+                <li>Use Case: Using Contextual Integrity in an Enterprise Context                    
                     <br/>
                     <i>
                         <font color="gray">Vicky Froyen 
@@ -186,11 +184,7 @@ permalink: ci_symposium/program2019.html
                         </i>
                     </li>
                     <li>Using Long-Lived Facebook Accounts to Understand Implicit Norms of Consent
-                        <br/>
-                        in
-                        Contextual Integrity
-                        <br/>
-                        <i>(20 min)</i>
+                        <br/> in Contextual Integrity                        
                         <br/>
                         <i>
                             <font color="gray">Mainack Mondal, Zhou Jin, Tamara Babaian, Xinru Page, Blase Ur</font>
@@ -209,8 +203,6 @@ permalink: ci_symposium/program2019.html
                     <li>Applying Contextual Integrity Framework
                         <br/>
                         for Community-Engaged Research Data Management
-                        <br/>
-                        <i>(10 min)</i>
                         <br/>
                         <i>
                             <font color="gray">Jina Huh-Yoo</font>
@@ -264,8 +256,6 @@ permalink: ci_symposium/program2019.html
            </li>
        <li>Contextual Recommendation Sharing
            <br/>
-           <i>(10 min)</i>
-           <br/>
            <i>
                <font color="gray">Eugene Bagdasaryan
                </font>
@@ -306,8 +296,6 @@ permalink: ci_symposium/program2019.html
              <ul>
              <li>Using MDPs to Model Contextual Integrity
              <br/>
-             <i>(20 min)</i>
-             <br/>
              <i>
              <font color="gray">Michael Tschantz</font>
              </i>
@@ -325,9 +313,7 @@ permalink: ci_symposium/program2019.html
                      <br/>  
                  </li>
                  <li>Uncovering Privacy Norms in Marginalized Communities
-                     <br/>
-                     <i>(15 min)</i>
-                     <br/>
+                 <br/>
                      <i>
                          <font color="gray">Dylan Rogers, Desmond Dinkins, Gia Hayes, Richard Stover,
                              <br/>

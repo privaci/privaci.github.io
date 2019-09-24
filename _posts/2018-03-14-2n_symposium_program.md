@@ -95,7 +95,8 @@ permalink: ci_symposium/program2019.html
             <ul>
                 <li>Evaluating the Contextual Integrity of Privacy Regulation:
                     <br/> Parents' IoT Toy Privacy Norms Versus COPPA
-                    <br/>                   
+                     <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/Apthorpe_USENIX_2019.pdf" target="_blank">Slides</a></i>
+                                      <br/>             
                     <i>
                         <font color="gray">Noah Apthorpe, Sarah Varghese and Nick Feamster
                         </font>

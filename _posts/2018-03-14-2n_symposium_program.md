@@ -189,6 +189,8 @@ permalink: ci_symposium/program2019.html
                         <i>
                             <font color="gray">Mainack Mondal, Zhou Jin, Tamara Babaian, Xinru Page, Blase Ur</font>
                         </i>
+                        <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/CI-study-FINAL.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/ci-tag-study-2019.pdf" target="_blank">Slides</a></i>
+                        <br/>  
                     </li>                    
                     
                     <li>Smart Home Bystanders: Further Complexifying a Complex Context

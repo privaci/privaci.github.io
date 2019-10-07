@@ -52,7 +52,7 @@ permalink: ci_symposium/program2019.html
                     Inequality”
                     <br/>
                     <i>
-                        <font color="gray">Jennifer King</font>
+                        <font color="gray">Jennifer King and Andreas Katsanevas</font>
                     </i>
                     <br/> <i><a href="{{ site.url }}/symposium2/papers_and_slides/King_Katsanevas.pdf" target="_blank"> Paper</a> | <a href="{{ site.url }}/symposium2/papers_and_slides/Assessing_Norm.pdf" target="_blank">Slides</a></i>
                     <br/>                                                                    

@@ -18,6 +18,6 @@ show_meta: false
 
 <!-- A report of the program’s discussions has been created and is available: [The 2nd Symposium on Applications of Contextual Integrity Report](http://www.techpolicy.com/getattachment/Blog/Featured-Blog-Post/Symposium-on-Applications-of-Contextual-Integrity/Symposium-on-Applications-of-Contextual-Integrity-Report,-Sept-2018.pdf.aspx).
 
-[Download full report in PDF format]({{ site.url }}/symposium2/CI_Symposium_2019_CFP.pdf)
+[Download full report in PDF format]({{ site.url }}/symposium2/2nd_CI_Symposium_Report.pdf)
 
 Read the full post on [TAP ](http://www.techpolicy.com/Symposium-ApplicationsContextualIntegrityReport-GuestBlog.aspx)-->

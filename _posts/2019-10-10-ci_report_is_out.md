@@ -2,7 +2,6 @@
 layout: event
 header: no
 title: "The 2nd Symposium on Applications of Contextual Integrity Report"
-Teaser: Report 
 categories:
 - blog
 #sidebar: right

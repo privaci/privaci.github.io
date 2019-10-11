@@ -10,7 +10,7 @@ comments: false
 show_meta: false
 ---
 
-![Alt text]({{ site.url }}/images/citp.png)
+![Alt text]({{ site.url }}/images/ci_report_logo.png)
 
 >  Berkeley’s International Computer Science Institute and Cornell Tech's Digital Life Initiative hosted the Second Symposium on Applications of Contextual Integrity on August 19-20, 2019 in Berkeley, CA. The event brought together researchers from computer and information science, communication, political science, and public health to discuss research using the theory of privacy as contextual integrity (CI).
 

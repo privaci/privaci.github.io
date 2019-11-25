@@ -26,7 +26,7 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate 
 -->
 
-The 3nd annual Symposium on Applications of Contextual Integrity with take place on <b>September 20-21, 2019</b> in Chicago at [University Chicago](https://www.uchicago.edu).
+The 3nd annual Symposium on Applications of Contextual Integrity with take place on <b>September 21-22, 2019</b> in Chicago at [University Chicago](https://www.uchicago.edu).
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->

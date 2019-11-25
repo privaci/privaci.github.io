@@ -9,7 +9,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: 3rd_ci_symposium_cfp.html
+permalink: ci_symposium/cfp.html
 ---
 <br/>
 <!-- <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI" style="height: 100px;"/> 

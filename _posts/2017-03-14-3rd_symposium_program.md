@@ -83,9 +83,9 @@ If due to financial hardship, you cannot pay the $100 registration fee, please e
 
 #### IMPORTANT DATES
 
-* Register an intent/abstract: June 15
-* Submissions Due: June 22
-* Notifications: July 10 
+* Register an intent/abstract: June 15, 2020    
+* Submissions Due: June 22, 2020
+* Notifications: July 10, 2020
 * Symposium dates: Sep 21-22
 
 #### HOW TO SUBMIT

@@ -125,6 +125,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 
 ### Program Committee
 <br/>
+[Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
@@ -135,6 +136,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />
+[Priya Kumar](https://priyakumar.org(University of Maryland’)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley University) <br/>
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
@@ -142,10 +144,8 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
-[Jessica Vitak](https://jessicavitak.com) (University of Maryland)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
-[Ding Xiaodong](http://www.law.ruc.edu.cn/eng/show.asp?No=282 ) (Renmin University of China Law School)
 
 
 

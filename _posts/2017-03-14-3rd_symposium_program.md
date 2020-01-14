@@ -130,8 +130,6 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Pieter De Leenheer](https://www.linkedin.com/in/pieterdeleenheer) (Collibra) <br/>
-[Vicky Froyen](https://be.linkedin.com/in/vicky-froyen-8511612a) (Collibra)<br/>
 [Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/)(TU Delft)
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>

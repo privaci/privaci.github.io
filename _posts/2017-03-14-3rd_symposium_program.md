@@ -149,11 +149,6 @@ You can find directions information and accomodation options [here]({{ site.url 
 
 
 
-
-
--->
-
-
 ## Contact
 
 Email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)

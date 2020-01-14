@@ -26,14 +26,14 @@ Check it out [here](http://privaci.info/ci_symposium/program.html) -->
 We would like to invite you to participate 
 -->
 
-The 3rd annual Symposium on Applications of Contextual Integrity with take place on <br/><b>September 21-22, 2020</b> in Chicago at [University Chicago](https://www.uchicago.edu).
+The 3rd annual Symposium on Applications of Contextual Integrity with take place on <br/><b>September 21-22, 2020</b> in Chicago at the [University Chicago](https://www.uchicago.edu).
 
 <!-- Sponsor: <br/> 
 * [Digital Life Initiative, Cornell Tech](https://www.dli.tech.cornell.edu) -->
 
-The aim of the symposium is to foster interaction among diverse communities of research and practice using contextual integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy. 
+The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
-As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website. 
+As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors' permission, we will post accepted submissions on the website.
 
 <!--The CI Symposium 2019 is supported with gifts from [Collibra](https://www.collibra.com) and [Microsoft](https://www.microsoft.com/en-us/). 
 ### [Symposium Program](https://privaci.info/ci_symposium/program.html) -->
@@ -52,7 +52,7 @@ We will accept any of the following submission types:
 
 Papers should be formatted using the [2019 ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow#h-1.-2019-acm-master-article-word-templates:-word-and-latex). For LaTeX users, choose <b>format=sigconf</b>.-->
 
- Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals. 
+Submissions will be peer-reviewed by the workshop's Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
 
 Submissions may include:
 
@@ -65,7 +65,7 @@ __Participation without submission: __ If you're interested in attending the sy
 
  
 
- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
+ With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.
  
  We look forward to seeing you at the symposium!
 
@@ -90,7 +90,7 @@ If due to financial hardship, you cannot pay the $100 registration fee, please e
 
 #### HOW TO SUBMIT
 
-<i>Soon</i>
+Please make submissions using [our submission system](https://cisymposium.cs.uchicago.edu).
 
 #### SYMPOSIUM CHAIRS
 <br/>

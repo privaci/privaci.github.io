@@ -128,7 +128,6 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
-[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/)(TU Delft)
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />

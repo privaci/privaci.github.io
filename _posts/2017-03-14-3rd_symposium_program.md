@@ -121,7 +121,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University & CITP, Princeton) <br/>
 [Blase Ur](https://www.blaseur.com) (University of Chicago) <br/>]
 <br/>
-
+-->
 
 ### Program Committee
 <br/>

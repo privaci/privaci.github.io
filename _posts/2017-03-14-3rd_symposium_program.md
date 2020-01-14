@@ -129,8 +129,8 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/)(ICSI & UC, Berkeley) 
-[Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/)(TU Delft)
+[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) 
+[Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/) (TU Delft)
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>

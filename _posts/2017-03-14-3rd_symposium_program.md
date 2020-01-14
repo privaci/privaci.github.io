@@ -134,7 +134,7 @@ You can find directions information and accomodation options [here]({{ site.url 
 [Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 [Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
-[Kirsten Martin](http://www.kirstenmartin.net) (George Washington University School of Business)<br />
+[Kirsten Martin](http://www.kirstenmartin.net) (<nobr>George Washington University School of Business)</nobr><br />
 [Priya Kumar](https://priyakumar.org)(University of Maryland)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley University) <br/>

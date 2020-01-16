@@ -81,7 +81,7 @@ Please make submissions using [our submission system](https://cisymposium.cs.uch
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
-
+Yvonne Wang (East China University of Political Science and Law)
 
 
 ## Contact

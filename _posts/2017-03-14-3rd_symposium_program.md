@@ -51,7 +51,7 @@ __Participation without submission: __ If you are interested in attending the s
 
 Please make submissions using [our submission system](https://cisymposium.cs.uchicago.edu).
 
-#### SYMPOSIUM CHAIRS
+#### SYMPOSIUM CHAIRS (Email:  [cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu))
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>

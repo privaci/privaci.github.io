@@ -31,13 +31,13 @@ We will accept any of the following submission types:
 
 1. A 4 page position paper on ongoing or work in progress (references not included in page limit)
 
-2.  An extended abstract (1-2 pages) summarizing published or mature work. Please include a short “works cited” section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
+2.  An extended abstract (1-2 pages) summarizing published or mature work. Please include a short “works cited” section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
 
 3. A 1-page description of an interesting use case to be discussed at the symposium.
 
-Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/proceedings-template). For LaTeX users, choose <b>format=sigconf</b>.  
+4. A 1-page description of real-world case study from industry or policy.
 
-Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals. 
+The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for subsequent publication elsewhere. With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications. Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/proceedings-template). For LaTeX users, choose <b>format=sigconf</b>.  
 
 Submissions may include:
 
@@ -48,9 +48,8 @@ Submissions may include:
 
 __Participation without submission: __ If you are interested in attending the symposium without submission, please fill in [this form](https://forms.gle/u61i8QTbGxGvYR2Y9). We will send a confirmation upon review. 
 
- 
 
- With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.
+ <!--With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
  
  We look forward to seeing you at the symposium!
 

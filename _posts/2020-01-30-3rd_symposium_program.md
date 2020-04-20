@@ -25,6 +25,20 @@ As the goal of the workshop is to foster discussion around works in progress, th
 
 Submissions will be peer-reviewed by the workshop's Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
 
+#### SUBMISSION
+<br/>
+We will accept any of the following submission types:
+
+1. A 4 page position paper on ongoing or work in progress (references not included in page limit)
+
+2.  An extended abstract (1-2 pages) summarizing published or mature work. Please include a short “works cited” section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
+
+3. A 1-page description of an interesting use case to be discussed at the symposium.
+
+Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/proceedings-template). For LaTeX users, choose <b>format=sigconf</b>.  
+
+Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals. 
+
 Submissions may include:
 
 * Empirical studies (qualitative, quantitative, experimental)

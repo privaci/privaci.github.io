@@ -49,8 +49,8 @@ permalink: ci_symposium/cfp.html
   </p>
   <hr>
   <p class="mb-0">  We’ll keep you posted if anything changes, and please feel free to get in touch if you have any questions or concerns.
-  <br/>
-  Stay safe</p>
+  <p/>
+  Stay safe!</p>
 </div>
 
 

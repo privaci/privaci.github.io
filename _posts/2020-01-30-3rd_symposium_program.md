@@ -15,6 +15,42 @@ permalink: ci_symposium/cfp.html
 
 ![Alt text]({{ site.url }}/images/3rdCISymposium-logo.png)
 
+<style>
+.alert{
+    position:relative;
+    padding:.75rem 1.25rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:.25rem
+}
+.alert-heading{
+    color:inherit
+}
+.alert-link{
+    font-weight:700
+}
+.alert-warning{
+    color:#856404;
+    background-color:#fff3cd;
+    border-color:#ffeeba
+}
+.alert-warning hr{
+    border-top-color:#ffe8a1
+}
+.alert-warning .alert-link{
+    color:#533f03
+}
+
+</style>
+<div class="alert alert-warning" role="alert">
+  <h4 class="alert-heading">COVID-19 Update</h4>
+  <p>
+  We’re monitoring the situation and waiting to hear from our institutions what their plans are for the Fall.
+  </p>
+  <hr>
+  <p class="mb-0">  We’ll keep you posted if anything changes, and please feel free to get in touch if you have any questions or concerns. Stay safe</p>
+</div>
+
 
 The 3rd Annual Symposium on Applications of Contextual Integrity will take place on <br/><b>September 21-22, 2020</b> in Chicago at the [University of Chicago](https://www.uchicago.edu).
 

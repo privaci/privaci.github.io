@@ -48,7 +48,9 @@ permalink: ci_symposium/cfp.html
   We’re monitoring the situation and waiting to hear from our institutions what their plans are for the Fall.
   </p>
   <hr>
-  <p class="mb-0">  We’ll keep you posted if anything changes, and please feel free to get in touch if you have any questions or concerns. Stay safe</p>
+  <p class="mb-0">  We’ll keep you posted if anything changes, and please feel free to get in touch if you have any questions or concerns.
+  <br/>
+  Stay safe</p>
 </div>
 
 

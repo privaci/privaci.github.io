@@ -29,6 +29,19 @@ permalink: ci_symposium/cfp.html
 .alert-link{
     font-weight:700
 }
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb
+}
+
+.alert-success hr {
+    border-top-color: #b1dfbb
+}
+
+.alert-success .alert-link {
+    color: #0b2e13
+}
 .alert-warning{
     color:#856404;
     background-color:#fff3cd;
@@ -43,18 +56,27 @@ permalink: ci_symposium/cfp.html
 
 </style>
 <div class="alert alert-warning" role="alert">
-  <h4 class="alert-heading">COVID-19 Update</h4>
+<h4 class="alert-heading">COVID-19 Update:</h4>
   <p>
-  We’re monitoring the situation and waiting to hear from our institutions what their plans are for the Fall.
-  </p>
-  <hr>
-  <p class="mb-0">  We’ll keep you posted if anything changes, and please feel free to get in touch if you have any questions or concerns.
+  Due to the coronavirus pandemic, we’ve made the decision to postpone the 3rd Annual Symposium on Applications of Contextual Integrity (CI) until 2021.
   <p/>
   Stay safe!</p>
 </div>
 
+<div class="alert alert-success" role="success">
+  <h4 class="alert-heading">Virtual Contextual Integrity town hall</h4>
+  <p>
+   In lieu of an in-person symposium this year, we are instead planning a two hour virtual CI Town hall meeting to discuss Privacy and COVID-19 this September (exact date and time TBA). We are planning on holding a panel about the relevance of CI to pandemic contact tracing, as well as serving as an opportunity to jumpstart new collaborations and connect old and new members of the CI community who otherwise might not have the chance to interact.
+ <p/> 
+  If you’re interested in potentially speaking on our panel, giving a short lightning talk about your continuing research interests in CI, or leading a smaller virtual breakout room to connect old and new members of the CI community, please fill in <a href="https://forms.gle/u47rXxWSs7d1fpxk7">this form</a> to let us know how you use CI in your work. 
+ <p/> 
+  Stay tuned for further details!
 
-The 3rd Annual Symposium on Applications of Contextual Integrity will take place on <br/><b>September 21-22, 2020</b> in Chicago at the [University of Chicago](https://www.uchicago.edu).
+ </p> 
+
+</div>
+
+The 3rd Annual Symposium on Applications of Contextual Integrity will take place on <b>September 21-22, 2020</b> in Chicago at the [University of Chicago](https://www.uchicago.edu).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design, evaluate, craft regulation, and generate formal logics for privacy.
 

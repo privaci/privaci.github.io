@@ -85,6 +85,8 @@ As the goal of the workshop is to foster discussion around works in progress, th
 
 Submissions will be peer-reviewed by the workshop's Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
 
+<!--- 
+
 #### SUBMISSION
 <br/>
 We will accept any of the following submission types:
@@ -108,11 +110,12 @@ Submissions may include:
 
 __Participation without submission: __ If you are interested in attending the symposium without submission, please fill in [this form](https://forms.gle/u61i8QTbGxGvYR2Y9). We will send a confirmation upon review. 
 
-
- <!--With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
  
  We look forward to seeing you at the symposium!
-
+ -->
+ <!--With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.-->
+ 
+<!--
 #### IMPORTANT DATES
 
 * Register an intent/abstract: June 15, 2020
@@ -123,6 +126,8 @@ __Participation without submission: __ If you are interested in attending the s
 #### HOW TO SUBMIT
 
 Please make submissions using [our submission system](https://cisymposium.cs.uchicago.edu).
+
+-->
 
 #### SYMPOSIUM CHAIRS (Email:  [cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu))
 <br/>

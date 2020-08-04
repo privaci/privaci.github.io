@@ -82,7 +82,7 @@ permalink: ci_townhall.html
     </ul>    
     </dd>
     <dd>
-    <span>11:15-1:30 pm</span>
+    <span>1:15-1:30 pm</span>
      <br/>
     <ul>
         <section>

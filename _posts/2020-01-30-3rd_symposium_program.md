@@ -71,7 +71,6 @@ permalink: ci_symposium/cfp.html
  You can find the agenda <a href="https://privaci.info/ci_townhall.html">here</a>
   <! -- If you’re interested in potentially speaking on our panel, giving a short lightning talk about your continuing research interests in CI, or leading a smaller virtual breakout room to connect old and new members of the CI community, please fill in <a href="https://forms.gle/u47rXxWSs7d1fpxk7">this form</a> to let us know how you use CI in your work.--> 
  <p/> 
-  Stay tuned for further details!
 
  </p> 
 

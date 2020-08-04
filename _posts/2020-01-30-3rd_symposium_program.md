@@ -69,7 +69,6 @@ permalink: ci_symposium/cfp.html
   In lieu of an in-person symposium this year, we are instead planning a two hour virtual CI Town hall meeting to discuss Privacy and COVID-19 this September 22, 11:00 EST. We are planning on holding a panel about the relevance of CI to pandemic contact tracing, as well as serving as an opportunity to jumpstart new collaborations and connect old and new members of the CI community who otherwise might not have the chance to interact.
  <p/> 
  You can find the agenda <a href="https://privaci.info/ci_townhall.html">here</a>
-  <!-- If you’re interested in potentially speaking on our panel, giving a short lightning talk about your continuing research interests in CI, or leading a smaller virtual breakout room to connect old and new members of the CI community, please fill in <a href="https://forms.gle/u47rXxWSs7d1fpxk7">this form</a> to let us know how you use CI in your work.--> 
  <p/> 
 
  </p> 

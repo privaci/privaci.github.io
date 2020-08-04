@@ -21,11 +21,12 @@ permalink: ci_townhall.html
     <span>11:00 - 12:00pm</span>
     <ul>
         <section>
-        <b><br/> Panel: COVID-19, Contact Tracing, and Privacy as Contextual Integrity</b>
+        <b><br/>&emsp;&emsp;&emsp; Panel: COVID-19, Contact Tracing, and Privacy as Contextual Integrity</b>
         <br/>
         </section>
         <br/>
-            <font color="gray">Moderator:</font>  <a href="https://www.marshini.net">Marshini Chetty </a>  (University of Chicago) 
+            <font color="gray">Moderator:</font>  
+                   <br/> <a href="https://www.marshini.net">Marshini Chetty </a>  (University of Chicago) 
         <i>
         <br/>
         <br/>

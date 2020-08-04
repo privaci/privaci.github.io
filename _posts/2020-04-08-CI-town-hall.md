@@ -25,9 +25,7 @@ permalink: ci_townhall.html
         <br/>
         </section>
         <br/>
-        <i>
             <font color="gray">Moderator:</font>  <a href="https://www.marshini.net">Marshini Chetty </a>  (University of Chicago) 
-        </i>
         <i>
         <br/>
         <br/>

@@ -13,15 +13,23 @@ permalink: ci_townhall.html
 
 
 
+#### Organizers (Email:  [cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu))
+<br/>
+[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
+[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University) <br/>
+[Blase Ur](https://www.blaseur.com) (University of Chicago) <br/>
+<br/>
+
+## Agenda
 
 <dl class="agenda" style="width:640px">
-<dt>Tuesday, September 22</dt>
-
-<dd>
-    <span>11:00 - 12:00pm</span>
+<dt>Tuesday, September 22, 2020</dt>
+    <dd>
+            <span style="position: sticky">11:00 - 12:00pm</span>
     <ul>
-        <section>
-        <b><br/>&emsp;&emsp;&emsp; Panel: COVID-19, Contact Tracing, and Privacy as Contextual Integrity</b>
+        <section>        
+        <b><br/>&emsp;Panel: COVID-19, Contact Tracing, and Privacy as Contextual Integrity</b>
         <br/>
         </section>
         <br/>
@@ -47,22 +55,30 @@ permalink: ci_townhall.html
    <br/>
     <ul>
         <section>
-            <b>&emsp;&emsp;&emsp; Break out groups</b>
-            <br/>
-            <i>
-                <font color="gray">TBD</font>
-            </i>
-        </section>
-        <!--<ul>
-            <li>Law &  CI
-                <br/> 
-                 <br/ <br/>             
-                <i>
-                    <font color="gray">Noah Apthorpe, Sarah Varghese and Nick Feamster
-                    </font>
-                </i>
-            </li>
-        </ul> -->
+            <b>&emsp; Small group discussion and Q&A</b>
+            <br/>           
+            &emsp; <font color="gray">Themes:</font> <il>(Subject to change)</il>
+        </section>         
+        <ul>
+            <li><b>Law &  CI </b> </li>
+            <ul>
+            <section>
+                 Led by: <il>TBD</il>           
+            </section>
+            </ul>
+            <li><b>Research and CI</b></li>
+            <ul>
+            <section>
+                Led by: <il>TBD</il>           
+            </section>
+            </ul>            
+            <li><b>Design and CI</b></li>
+            <ul>
+            <section>
+                Led by: <il>TBD</il>           
+            </section>
+            </ul>            
+        </ul> 
     </ul>    
     </dd>
     <dd>
@@ -77,13 +93,7 @@ permalink: ci_townhall.html
     </dd>
 </dl>
 
-#### Organizers (Email:  [cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu))
-<br/>
-[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
-[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University & CITP, Princeton) <br/>
-[Blase Ur](https://www.blaseur.com) (University of Chicago) <br/>
-<br/>
+
 
 #### Contact
 

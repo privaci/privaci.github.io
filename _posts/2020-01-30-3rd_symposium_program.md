@@ -66,7 +66,7 @@ permalink: ci_symposium/cfp.html
 <div class="alert alert-success" role="success">
   <h4 class="alert-heading">Virtual Contextual Integrity town hall</h4>
   <p>
-  In lieu of an in-person symposium this year, we are instead planning a two hour virtual CI Town hall meeting to discuss Privacy and COVID-19 this <b> September 22, 11:00 EST</b>. We are planning on holding a panel about the relevance of CI to pandemic contact tracing, as well as serving as an opportunity to jumpstart new collaborations and connect old and new members of the CI community who otherwise might not have the chance to interact.
+  In lieu of an in-person symposium this year, we are instead planning a two hour virtual CI Town hall meeting to discuss Privacy and COVID-19 on <b> September 22, 11:00 EST</b>. We are planning on holding a panel about the relevance of CI to pandemic contact tracing, as well as serving as an opportunity to jumpstart new collaborations and connect old and new members of the CI community who otherwise might not have the chance to interact.
  <p/> 
  You can find the agenda <a href="https://privaci.info/ci_townhall.html">here</a>
  <p/> 

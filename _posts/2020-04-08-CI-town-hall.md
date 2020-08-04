@@ -14,7 +14,7 @@ permalink: ci_townhall.html
 
 
 
-<dl class="agenda">
+<dl class="agenda" style="width:640px">
 <dt>Tuesday, September 22</dt>
 
 <dd>
@@ -26,7 +26,7 @@ permalink: ci_townhall.html
         </section>
         <br/>
             <font color="gray">Moderator:</font>  
-                   <br/> <a href="https://www.marshini.net">Marshini Chetty </a>  (University of Chicago) 
+                   <br/> &emsp;&emsp;&emsp; <a href="https://www.marshini.net">Marshini Chetty </a>  (University of Chicago) 
         <i>
         <br/>
         <br/>

@@ -80,8 +80,8 @@ permalink: ci_townhall.html
             <ul>
             <section>
                 Led by: <br/>  
-                &emsp;&emsp;  <i><a href="">Alexis Shore</a> (Boston University)</i><br/> 
-               &emsp;&emsp;<i><a href="http://maritzajohnson.com">Maritza Johnson </a>(Google)</i>           
+                &emsp;&emsp;<i><a href="http://maritzajohnson.com">Maritza Johnson </a>(Google)</i>          
+                &emsp;&emsp;  <i><a href="">Alexis Shore</a> (Boston University)</i><br/>  
             </section>
             </ul>            
         </ul> 

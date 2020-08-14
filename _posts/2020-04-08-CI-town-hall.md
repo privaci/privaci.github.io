@@ -64,16 +64,16 @@ permalink: ci_townhall.html
             <ul>
             <section>
                  Led by: <br/>  
-                 &emsp;&emsp;<i>Aileen Nielsen (ETH Zurich)</i> <br/>  
-                 &emsp;&emsp;<i>Salome Viljoen (Cornell Tech)</i>           
+                 &emsp;&emsp;<i>[Aileen Nielsen](https://lawecon.ethz.ch/group/people/nielsen.html) (ETH Zurich)</i> <br/>  
+                 &emsp;&emsp;<i>[Salome Viljoen](https://www.salomeviljoen.com) (Cornell Tech)</i>           
             </section>
             </ul>
             <li><b>Research and CI</b></li>
             <ul>
             <section>
                 Led by:<br/>  
-                &emsp;&emsp;<i>Noah Apthorpe (Colgate University)</i> <br/>  
-               &emsp;&emsp; <i>Kelly Ann Quinn (University of Illinois at Chicago)</i>         
+                &emsp;&emsp;<i>[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe/) (Colgate University)</i> <br/>  
+               &emsp;&emsp; <i>[Kelly Quinn](https://comm.uic.edu/profiles/kelly-quinn/) (University of Illinois at Chicago)</i>         
             </section>
             </ul>            
             <li><b>Design and CI</b></li>
@@ -81,7 +81,7 @@ permalink: ci_townhall.html
             <section>
                 Led by: <br/>  
             &emsp;&emsp;  <i>Alexis Shore (Boston University)</i><br/> 
-             &emsp;&emsp;<i>Maritza Johnson (Google)</i>           
+             &emsp;&emsp;<i>[Maritza Johnson](http://maritzajohnson.com) (Google)</i>           
             </section>
             </ul>            
         </ul> 

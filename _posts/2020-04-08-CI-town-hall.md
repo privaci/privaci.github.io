@@ -57,25 +57,31 @@ permalink: ci_townhall.html
         <section>
             <b>&emsp; Small group discussion and Q&A</b>
             <br/>           
-            &emsp; <font color="gray">Themes:</font> <il>(Subject to change)</il>
+            &emsp; <font color="gray">Themes:</font>
         </section>         
         <ul>
             <li><b>Law &  CI </b> </li>
             <ul>
             <section>
-                 Led by: <il>TBD</il>           
+                 Led by: <br/>  
+                 &emsp;&emsp;<i>Aileen Nielsen (ETH Zurich)</i> <br/>  
+                 &emsp;&emsp;<i>Salome Viljoen (Cornell Tech)</i>           
             </section>
             </ul>
             <li><b>Research and CI</b></li>
             <ul>
             <section>
-                Led by: <il>TBD</il>           
+                Led by:<br/>  
+                &emsp;&emsp;<i>Noah Apthorpe (Colgate University)</i> <br/>  
+               &emsp;&emsp; <i>Kelly Ann Quinn (University of Illinois at Chicago)</i>         
             </section>
             </ul>            
             <li><b>Design and CI</b></li>
             <ul>
             <section>
-                Led by: <il>TBD</il>           
+                Led by: <br/>  
+            &emsp;&emsp;  <i>Alexis Shore (Boston University)</i><br/> 
+             &emsp;&emsp;<i>Maritza Johnson (Google)</i>           
             </section>
             </ul>            
         </ul> 

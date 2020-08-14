@@ -64,24 +64,24 @@ permalink: ci_townhall.html
             <ul>
             <section>
                  Led by: <br/>  
-                 &emsp;&emsp;<i>[Aileen Nielsen](https://lawecon.ethz.ch/group/people/nielsen.html) (ETH Zurich)</i> <br/>  
-                 &emsp;&emsp;<i>[Salome Viljoen](https://www.salomeviljoen.com) (Cornell Tech)</i>           
+                 &emsp;&emsp;<i><a href="https://lawecon.ethz.ch/group/people/nielsen.html">Aileen Nielsen</a> (ETH Zurich)</i> <br/>  
+                 &emsp;&emsp;<i><a href="https://www.salomeviljoen.com">Salome Viljoen](Cornell Tech)</i>           
             </section>
             </ul>
             <li><b>Research and CI</b></li>
             <ul>
             <section>
                 Led by:<br/>  
-                &emsp;&emsp;<i>[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe/) (Colgate University)</i> <br/>  
-               &emsp;&emsp; <i>[Kelly Quinn](https://comm.uic.edu/profiles/kelly-quinn/) (University of Illinois at Chicago)</i>         
+                &emsp;&emsp;<i><a href="https://www.cs.colgate.edu/~napthorpe/">Noah Apthorpe</a>(Colgate University)</i> <br/>  
+               &emsp;&emsp; <i><a href="https://comm.uic.edu/profiles/kelly-quinn/">Kelly Quinn](University of Illinois at Chicago)</i>         
             </section>
             </ul>            
             <li><b>Design and CI</b></li>
             <ul>
             <section>
                 Led by: <br/>  
-            &emsp;&emsp;  <i>Alexis Shore (Boston University)</i><br/> 
-             &emsp;&emsp;<i>[Maritza Johnson](http://maritzajohnson.com) (Google)</i>           
+                &emsp;&emsp;  <i><a href="">Alexis Shore</a> (Boston University)</i><br/> 
+             &emsp;&emsp;<i><a href="http://maritzajohnson.com">Maritza Johnson (Google)</i>           
             </section>
             </ul>            
         </ul> 

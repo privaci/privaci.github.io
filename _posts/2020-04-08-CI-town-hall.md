@@ -73,7 +73,7 @@ permalink: ci_townhall.html
             <section>
                 Led by:<br/>  
                 &emsp;&emsp;<i><a href="https://www.cs.colgate.edu/~napthorpe/">Noah Apthorpe</a>(Colgate University)</i> <br/>  
-               &emsp;&emsp; <i><a href="https://comm.uic.edu/profiles/kelly-quinn/">Kelly Quinn](University of Illinois at Chicago)</i>         
+               &emsp;&emsp; <i><a href="https://comm.uic.edu/profiles/kelly-quinn/">Kelly Quinn</a>(University of Illinois at Chicago)</i>         
             </section>
             </ul>            
             <li><b>Design and CI</b></li>

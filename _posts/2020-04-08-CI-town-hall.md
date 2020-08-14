@@ -65,7 +65,7 @@ permalink: ci_townhall.html
             <section>
                  Led by: <br/>  
                  &emsp;&emsp;<i><a href="https://lawecon.ethz.ch/group/people/nielsen.html">Aileen Nielsen</a> (ETH Zurich)</i> <br/>  
-                 &emsp;&emsp;<i><a href="https://www.salomeviljoen.com">Salome Viljoen](Cornell Tech)</i>           
+                 &emsp;&emsp;<i><a href="https://www.salomeviljoen.com">Salome Viljoen</a>(Cornell Tech)</i>           
             </section>
             </ul>
             <li><b>Research and CI</b></li>

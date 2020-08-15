@@ -12,7 +12,7 @@ header: no
 permalink: /index.html
 ---
 <p/>
-![Alt text]({{ site.url }}/images/logo.png)
+![Alt text]({{ site.url }}/images/logo3.png)
 
 
 The advent of social apps, smartphones, and ubiquitous computing has brought about a transformation to our day-to-day lives, including unprecedented challenges to our perceptions, conceptions and valuations of privacy. To be sure these call for developments in law and regulation;  alongside these, however, agile methods and technical mechanisms are a necessary accompaniment for keeping pace with this rapidly evolving cyber reality. Many of the information systems upon which we rely, and which are deeply embedded in the fabric of our daily life, do not incorporate mechanisms to ensure that personal data is handled in ways that are compatible evolving privacy norms and expectations. 
@@ -24,6 +24,6 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
 
 <hr/>
 <center>
-<a href="https://www.zotero.org/groups/2228317/privaci"> <img src="{{ site.url }}/images/zotero-logo.jpg"  alt="Zotero" style="height: 60px;"/>CI Related Publications</a> <a href="https://groups.google.com/forum/#!forum/privaci-research"><img src="{{site.url }}/images/google-groups.png" alt="Google group" style="height: 60px;" /> Mailing list</a>
+<a href="https://www.zotero.org/groups/2228317/privaci"> <img src="{{ site.url }}/images/zotero-logo.jpg"  alt="Zotero" style="height: 50px;"/>CI Related Publications</a> <a href="https://groups.google.com/forum/#!forum/privaci-research"><img src="{{site.url }}/images/google-groups.png" alt="Google group" style="height: 50px;" /> Mailing list</a>
 </center>
 <!-- ## Join the [PrivaCI mailing list]() and check out the recent CI related publications on the [Zotero group repository]().--> 

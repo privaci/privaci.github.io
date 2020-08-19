@@ -14,7 +14,7 @@ permalink: /index.html
 <p/>
 ![Alt text]({{ site.url }}/images/logo3.png)
 
-
+<hr/>
 The advent of social apps, smartphones, and ubiquitous computing has brought about a transformation to our day-to-day lives, including unprecedented challenges to our perceptions, conceptions and valuations of privacy. To be sure these call for developments in law and regulation;  alongside these, however, agile methods and technical mechanisms are a necessary accompaniment for keeping pace with this rapidly evolving cyber reality. Many of the information systems upon which we rely, and which are deeply embedded in the fabric of our daily life, do not incorporate mechanisms to ensure that personal data is handled in ways that are compatible evolving privacy norms and expectations. 
 
 To tackle the momentous privacy challenges of our era requires collaboration across multiple societal sectors, including regulators, courts, academics, and industry leaders. It requires willingness to work across disciplinary boundaries to benefit from wisdom, know-how, and research results from computer science, formal methods, engineering, social science, ethics, law, and policy.  

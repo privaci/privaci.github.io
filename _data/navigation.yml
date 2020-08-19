@@ -1,4 +1,9 @@
 - title: About
   url: "/"
   side: left
-
+- title: Publications
+  url: "https://www.zotero.org/groups/2228317/privaci"
+  side: left
+- title: Mailing list
+  url: "https://groups.google.com/forum/#!forum/privaci-research"
+  side: left

@@ -38,7 +38,7 @@ permalink: ci_townhall.html
         <i>
         <br/>
         <br/>
-        <font color="gray">Panalists: </font>
+        <font color="gray">Panelists: </font>
         </i>
         <ul>
             <li><a href="https://nissenbaum.tech.cornell.edu/main_cv.html#pub">Helen Nissenbaum</a> (Cornell Tech)</li>

@@ -22,6 +22,9 @@ permalink: ci_townhall.html
 <br/>
 
 ## Agenda
+<br/>
+<b>The Town Hall is a free event.</b>  
+<br/>Please reach to the organizers if you're interested in attending. 
 
 <dl class="agenda" style="width:640px">
 <dt>Tuesday, September 22, 2020</dt>

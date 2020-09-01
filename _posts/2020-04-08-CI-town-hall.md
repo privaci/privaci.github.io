@@ -21,10 +21,15 @@ permalink: ci_townhall.html
 [Blase Ur](https://www.blaseur.com) (University of Chicago) <br/>
 <br/>
 
-## Agenda
+
+## Registration 
 <br/>
 <b>The CI Town Hall is a free event.</b>  
-<br/>Please reach out to the organizers if you're interested in attending. 
+
+If you are interested in attending please register using this [form](https://forms.gle/kDY8NzoBwRGhtRTD9).<br/>
+
+
+## Agenda
 
 <dl class="agenda" style="width:640px">
 <dt>Tuesday, September 22, 2020</dt>

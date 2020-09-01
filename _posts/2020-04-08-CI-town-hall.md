@@ -23,7 +23,7 @@ permalink: ci_townhall.html
 
 ## Agenda
 <br/>
-<b>The Town Hall is a free event.</b>  
+<b>The CI Town Hall is a free event.</b>  
 <br/>Please reach out to the organizers if you're interested in attending. 
 
 <dl class="agenda" style="width:640px">

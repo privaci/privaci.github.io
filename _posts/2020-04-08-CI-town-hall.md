@@ -31,7 +31,8 @@ If you are interested in attending please register using this [form](https://for
 
 ## Agenda
 
-### All times are in Eastern Standard Time.
+<b>All times are in Eastern Standard Time.</b>
+
 <dl class="agenda" style="width:640px">
 <dt>Tuesday, September 22, 2020</dt>
     <dd>

@@ -22,12 +22,17 @@ permalink: ci_townhall.html
 <br/>
 
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CUSOypJPs4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<!--
 ## Registration 
 <br/>
 <b>The CI Town Hall is a free event.</b>  
 
 If you are interested in attending please register using this [form](https://forms.gle/kDY8NzoBwRGhtRTD9).<br/>
-
+-->
 
 ## Agenda
 

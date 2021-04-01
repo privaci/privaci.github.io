@@ -51,7 +51,7 @@ format: blog-index
              <div class="medium-6 columns">
  <a class="twitter-timeline" href="https://twitter.com/priva_ci/timelines/1353697207963283456?ref_src=twsrc%5Etfw">PrivaCI - Curated tweets by priva_ci</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
-      <div class="medium-6 columns">
+      <div class="medium-4 columns">
             {% for post in site.posts limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>

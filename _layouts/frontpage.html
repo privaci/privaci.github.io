@@ -11,8 +11,19 @@ format: blog-index
 
 <div class="row">
     {{ content }}
- <p class="headline">PrivaCI Publications</p>
-	<script async src="http://feeds.feedburner.com/privaci?format=sigpro" type="text/javascript" ></script>
+
+<div data-role="page" id="page1">
+    <div data-role="header">
+         <h1>PrivaCI Publications<</h1>
+    </div>
+    <div role="main" class="ui-content">
+         <script src="http://feeds.feedburner.com/privaci?format=sigpro" type="text/javascript"  />
+    </div>
+    <div data-role="footer">
+
+    </div>
+</div>
+
 </div>
 
 {% comment %}

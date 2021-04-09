@@ -22,7 +22,7 @@ format: blog-index
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
 	<div class="small-12 columns">     
-	 <script src="http://feeds.feedburner.com/privaci?format=sigpro" type="text/javascript" ></script>
+		{% include h.html %} 
 	</div>
 <div class="small-12 columns">
             {% for post in site.posts limit:1 %}

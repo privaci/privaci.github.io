@@ -45,6 +45,8 @@ symposium without submission, please fill in [this form](https://forms.gle/ZLDPZ
 
 #### IMPORTANT DATES
 
+__All deadlines are AoE (Anywhere on Earth).__
+
 * Register an intent/abstract: June 30, 2021    
 * Submissions Due: July 7, 2021
 * Notifications: August 10, 2021

@@ -13,7 +13,7 @@ permalink: symposium/cfp.html
 ---
 <br/>
 
-![Alt text]({{ site.url }}/images/3rdCISymposium-2021-logo)
+![Logo]({{ site.url }}/images/3rdCISymposium-2021-logo)
 
  We intend to hold the 3rd Annual Symposium on Applications of Contextual
  Integrity on <b>September 30- October 1</b> in Chicago at the [University

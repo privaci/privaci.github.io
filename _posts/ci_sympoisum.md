@@ -9,7 +9,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/cfp.html
+permalink: symposium/cfp.html
 ---
 <br/>
 

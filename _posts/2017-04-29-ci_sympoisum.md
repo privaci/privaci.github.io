@@ -35,9 +35,8 @@ Submissions may include:
 * System design and/or implementations
 * Combinations of the above
 
-__Participation without submission: __ If you're interested in attending the symposium without submission, please fill in [this form](https://forms.gle/u61i8QTbGxGvYR2Y9). We will send a confirmation upon review. 
-
- 
+__Participation without submission: __ If you're interested in attending the
+symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review. 
 
  With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.
  
@@ -45,10 +44,10 @@ __Participation without submission: __ If you're interested in attending the sy
 
 #### IMPORTANT DATES
 
-* Register an intent/abstract: June 15, 2020    
-* Submissions Due: June 22, 2020
-* Notifications: July 10, 2020
-* Symposium dates: Sep 21-22
+* Register an intent/abstract: June 30, 2021    
+* Submissions Due: July 7, 2021
+* Notifications: August 10, 2021
+* Symposium dates: Sep 30 - Oct 1, 2021
 
 #### HOW TO SUBMIT
 

@@ -95,7 +95,7 @@ TBD
 
 ## Contact
 
-Email: [privaci.research@gmail.com](mailto:privaci.research@gmail.com)
+Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
 Website: [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>
 Twitter: [@privacy_way](https://twitter.com/privaci_way)

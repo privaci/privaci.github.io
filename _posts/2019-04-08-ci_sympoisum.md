@@ -58,7 +58,7 @@ Please make submissions using [our submission system](https://cisymposium.cs.uch
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (New York University & CITP, Princeton) <br/>
+[Yan Shvartzshnaider](https://cs.nyu.edu/~yansh/) (York University) <br/>
 [Blase Ur](https://www.blaseur.com) (University of Chicago) <br/>
 <br/>
 

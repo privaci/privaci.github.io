@@ -13,10 +13,13 @@ permalink: ci_symposium/cfp.html
 ---
 <br/>
 
-![Alt text]({{ site.url }}/images/3rdCISymposium-logo.png)
+![Alt text]({{ site.url }}/images/3rdCISymposium-2021-logo)
 
-
-The 3rd annual Symposium on Applications of Contextual Integrity with take place on <br/><b>September 21-22, 2020</b> in Chicago at the [University Chicago](https://www.uchicago.edu).
+ We intend to hold the 3rd Annual Symposium on Applications of Contextual
+ Integrity on <b>September 30- October 1</b> in Chicago at the [University
+ Chicago](https://www.uchicago.edu) subject to COVID-19 restrictions. This will
+ be a hybrid event. We will provide the details closer to the dates of the
+ symposium. 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
@@ -60,6 +63,10 @@ Please make submissions using [our submission system](https://cisymposium.cs.uch
 <br/>
 
 ### Program Committee
+
+TBD
+
+<!--
 <br/>
 [Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
@@ -82,7 +89,7 @@ Please make submissions using [our submission system](https://cisymposium.cs.uch
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
 
-
+-->
 
 ## Contact
 

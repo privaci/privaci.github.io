@@ -13,8 +13,8 @@
 $include-html-top-bar-classes: $include-html-classes !default;
 
 // Background color for the top bar
-$topbar-bg-color: $white;
-$topbar-bg: $white ;
+$topbar-bg-color:  $white !default;
+$topbar-bg:  $white !default;
 
 // Height and margin
 $topbar-height: rem-calc(45) !default;

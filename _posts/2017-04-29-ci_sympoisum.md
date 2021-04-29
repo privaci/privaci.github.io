@@ -18,7 +18,8 @@ permalink: symposium/cfp.html
  We intend to hold the 3rd Annual Symposium on Applications of Contextual
  Integrity on <b>September 30- October 1</b> in Chicago at the [University
  Chicago](https://www.uchicago.edu) subject to COVID-19 restrictions. This will
- be a hybrid event. We will provide the details closer to the dates of the
+ be a hybrid event in which attendees can participate either in-person or over
+ Zoom. We will provide the details closer to the dates of the
  symposium. 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.

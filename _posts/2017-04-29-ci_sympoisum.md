@@ -16,7 +16,7 @@ permalink: symposium/cfp.html
 ![Logo]({{ site.url }}/images/3rdCISymposium-2021-logo.png)
 
  We intend to hold the 3rd Annual Symposium on Applications of Contextual
- Integrity on <b>September 30- October 1</b> in Chicago at the [University
+ Integrity on <b>September 30- October 1</b> in Chicago at the [University of 
  Chicago](https://www.uchicago.edu) subject to COVID-19 restrictions. This will
  be a hybrid event in which attendees can participate either in-person or over
  Zoom. We will provide the details closer to the dates of the

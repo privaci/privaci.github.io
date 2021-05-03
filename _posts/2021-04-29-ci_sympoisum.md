@@ -54,9 +54,9 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 #### HOW TO SUBMIT
 
-Please make submissions using [our submission system](https://cisymposium.cs.uchicago.edu).
+Please make submissions using [our submission system.](https://cisymposium.cs.uchicago.edu)
 
-#### SYMPOSIUM CHAIRS
+#### SYMPOSIUM CHAIRS ([cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu"))
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>

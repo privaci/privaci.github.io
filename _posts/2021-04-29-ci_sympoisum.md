@@ -78,7 +78,7 @@ TBD
 <!--[Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/) (TU Delft)<br/>
 [Jake
 Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)
-(Cornell Tech)<br />-->
+(Cornell Tech)-->    <br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 <!--[Darakhshan
 Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir)
@@ -94,8 +94,8 @@ University) <br/>-->
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central
-Florida)-->
-<br/>
+Florida)
+<br/>  -->   
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
 
 ## Contact

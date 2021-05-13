@@ -52,7 +52,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 * Notifications: August 10, 2021
 * Symposium dates: Sep 30 - Oct 1, 2021
 
-[####](####) HOW TO SUBMIT
+#### HOW TO SUBMIT
 
 Please make submissions using [our submission system.](https://cisymposium.cs.uchicago.edu)
 

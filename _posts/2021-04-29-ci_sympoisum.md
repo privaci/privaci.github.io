@@ -89,6 +89,8 @@ Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departme
 <!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
 University) <br/>-->
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
+(Ido Sivan-Sevilla)[https://ischool.umd.edu/about/directory/ido-sivan-sevilla]
+(University of Maryland) <br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 <!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>

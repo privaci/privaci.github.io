@@ -52,7 +52,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 * Notifications: August 10, 2021
 * Symposium dates: Sep 30 - Oct 1, 2021
 
-#### HOW TO SUBMIT
+[####](####) HOW TO SUBMIT
 
 Please make submissions using [our submission system.](https://cisymposium.cs.uchicago.edu)
 
@@ -67,7 +67,7 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 ### Program Committee
 
 <br/>
-[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe)(Colgate University)<br/>
+[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings)
 (Columbia University) <br/>

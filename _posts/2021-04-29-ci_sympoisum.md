@@ -69,6 +69,8 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 <br/>
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe)(Colgate University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
+[Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings)
+(Columbia University) <br/>
 <!-- [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 -->

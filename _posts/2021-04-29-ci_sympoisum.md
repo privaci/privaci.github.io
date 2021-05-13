@@ -66,8 +66,6 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 
 ### Program Committee
 
-TBD
-
 <br/>
 [Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>

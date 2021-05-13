@@ -90,7 +90,7 @@ Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departme
 University) <br/>-->
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
-(Ido Sivan-Sevilla)[https://ischool.umd.edu/about/directory/ido-sivan-sevilla]
+[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
 (University of Maryland) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
 <!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>

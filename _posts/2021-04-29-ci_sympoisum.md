@@ -67,7 +67,7 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 ### Program Committee
 
 <br/>
-[Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
+[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe)(Colgate University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 <!-- [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
@@ -87,7 +87,7 @@ Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departme
 <!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
 University) <br/>-->
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
-[Madelyn Sanfilippo](https://madelynsanfilippo.com) (CITP, Princeton)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 <!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>

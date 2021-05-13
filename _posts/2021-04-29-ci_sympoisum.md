@@ -16,11 +16,11 @@ permalink: ci_symposium/cfp.html
 ![Logo]({{ site.url }}/images/3rdCISymposium-2021-logo.png)
 
  We intend to hold the 3rd Annual Symposium on Applications of Contextual
- Integrity on <b>September 30- October 1</b> in Chicago at the [University of 
+ Integrity on <b>September 30- October 1</b> in Chicago at the [University of
  Chicago](https://www.uchicago.edu) subject to COVID-19 restrictions. This will
  be a hybrid event in which attendees can participate either in-person or over
  Zoom. We will provide the details closer to the dates of the
- symposium. 
+ symposium.
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
@@ -37,17 +37,17 @@ Submissions may include:
 * Combinations of the above
 
 __Participation without submission: __ If you're interested in attending the
-symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review. 
+symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review.
 
  With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.
- 
+
  We look forward to seeing you at the symposium!
 
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract: June 30, 2021    
+* Register an intent/abstract: June 30, 2021
 * Submissions Due: July 7, 2021
 * Notifications: August 10, 2021
 * Symposium dates: Sep 30 - Oct 1, 2021
@@ -68,37 +68,42 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 
 TBD
 
-<!--
 <br/>
 [Noah Apthorpe](https://www.cs.princeton.edu/~apthorpe/)(Princeton University)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
-[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
+<!-- [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley) 
-[Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/) (TU Delft)<br/>
-[Jake Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)  (Cornell Tech)<br />
+-->
+[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley)
+<!--[Seda Guerses](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses/) (TU Delft)<br/>
+[Jake
+Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)
+(Cornell Tech)<br />-->
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
-[Darakhshan Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir) (Bucknell University)<br/>
-[Kirsten Martin](http://www.kirstenmartin.net) (<nobr>George Washington University School of Business)</nobr><br />
-[Priya Kumar](https://priyakumar.org)(University of Maryland)<br />
+<!--[Darakhshan
+Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir)
+(Bucknell University)<br/> -->
+[Kirsten Martin](http://www.kirstenmartin.net) (<nobr>University of Notre Dame</nobr><br />
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
-[Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley University) <br/>
+<!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
+University) <br/>-->
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (CITP, Princeton)<br/>
-[Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
+<!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
-[Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida) <br/>
-[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/> 
-
--->
+[Pamela Wisniewski](http://www.pamspam.com) (University of Central
+Florida)-->
+<br/>
+[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
 
 ## Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
 Website: [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>
-Twitter: [@privacy_way](https://twitter.com/privaci_way)
+Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 
 

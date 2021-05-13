@@ -80,11 +80,11 @@ Please make submissions using [our submission system.](https://cisymposium.cs.uc
 Goldenfein](https://docs.wixstatic.com/ugd/36ef64_ff5b5cf69c4c43baa3109590e9c23963.pdf)
 (Cornell Tech)-->    <br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 <!--[Darakhshan
 Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departments/computer-science/faculty-and-staff/darakhshan-mir)
 (Bucknell University)<br/> -->
 [Kirsten Martin](http://www.kirstenmartin.net) (<nobr>University of Notre Dame</nobr><br />
-[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 <!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
 University) <br/>-->

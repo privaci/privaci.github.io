@@ -102,13 +102,14 @@ University) <br/>-->
 [Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
 (University of Maryland) <br/>
 [Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
+Yvonne Wang (Tsinghua University)
 <!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central
 Florida) 
 <br/>      -->    
-Yvonne Wang (Tsinghua University)
+
 ## Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)

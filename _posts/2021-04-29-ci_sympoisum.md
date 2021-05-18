@@ -94,6 +94,7 @@ Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departme
 (Bucknell University)<br/> -->
 [Kirsten Martin](http://www.kirstenmartin.net) (<nobr>University of Notre Dame</nobr><br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
+Yvonne Wang (Tsinghua University)   
 <!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
 University) <br/>-->
  Yvonne Wang
@@ -106,9 +107,9 @@ University) <br/>-->
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central
-Florida) -->
-<br/> 
-Yvonne Wang (Tsinghua University)
+Florida) 
+<br/>      -->    
+
 ## Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)

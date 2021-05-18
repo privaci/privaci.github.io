@@ -101,8 +101,8 @@ University) <br/>-->
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
 (University of Maryland) <br/>
-[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)<br/>
-Yvonne Wang (Tsinghua University)
+Yvonne Wang (Tsinghua University)<br/>
+[Primal Wijesekera](https://ece.ubc.ca/~primal/) (University of California, Berkeley)
 <!-- [Luke Stark](https://starkcontrast.co) (Microsoft Research)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>

@@ -43,6 +43,14 @@ symposium without submission, please fill in [this form](https://forms.gle/ZLDPZ
 
  We look forward to seeing you at the symposium!
 
+#### REGISTRATION                              
+
+<i>Coming Soon</i>
+
+There will be a modest registration fee, TBD closer to the event itself due to
+the uncertainty about the COVID-19 restriction. There will be a
+no-questions-asked waiver for those who wouldn't be able to afford the fee.
+
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__
@@ -88,6 +96,7 @@ Mir](https://www.bucknell.edu/academics/engineering-college-of/academic-departme
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 <!-- [Xinru Page](https://faculty.bentley.edu/details.asp?uname=xpage) (Bentley
 University) <br/>-->
+ Yvonne Wang
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
@@ -97,9 +106,9 @@ University) <br/>-->
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central
-Florida)
-<br/>  -->   
-
+Florida) -->
+<br/> 
+Yvonne Wang (Tsinghua University)
 ## Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)

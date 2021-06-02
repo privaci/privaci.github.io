@@ -45,7 +45,6 @@ Submissions will be peer-reviewed by the workshop’s Program Committee and acce
 
  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.  Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
 
- As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website.
 
 __Participation without submission: __ If you're interested in attending the
 symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review.

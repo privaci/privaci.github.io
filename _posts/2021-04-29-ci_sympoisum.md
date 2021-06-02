@@ -24,26 +24,36 @@ permalink: ci_symposium/cfp.html
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
-As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors' permission, we will post accepted submissions on the website.
+We will accept any of the following submission types:
 
+* A 4-page position paper on work in progress (references not included in the page limit)
+* An extended abstract (1-2 pages) summarizing published or mature work. Please
+  include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
+* A 1-page description of an interesting use case to be discussed at the symposium.
+* A 1-page description of real-world case study from industry or policy.
 
-Submissions will be peer-reviewed by the workshop's Program Committee and accepted based on the relevance and development of the chosen topic, as well as their potential to contribute to the workshop discussions and goals.
+The workshop will not publish formal (i.e. archival) proceedings. Instead, the
+workshop aims to foster discussion and feedback to improve work-in-progress for
+subsequent publication elsewhere.
 
-Submissions may include:
+Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
 
 * Empirical studies (qualitative, quantitative, experimental)
 * Legal, philosophical, ethical, and policy analysis
 * System design and/or implementations
 * Combinations of the above
 
+ With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.  Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
+
+ As the goal of the workshop is to foster discussion around works in progress, the workshop will not publish formal proceedings (so as to not preclude the publication of subsequent versions of those works, improved by workshop feedback). However, with authors’ permission, we will post accepted submissions on the website.
+
 __Participation without submission: __ If you're interested in attending the
 symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review.
 
- With authors' permission, accepted submissions will be posted on the website, but will not be considered archival publications.
 
  We look forward to seeing you at the symposium!
 
-#### REGISTRATION                              
+#### REGISTRATION
 
 <i>Coming Soon</i>
 
@@ -107,8 +117,8 @@ Yvonne Wang (Tsinghua University)<br/>
 [Andrew Selbst](http://andrewselbst.com) (Data & Society)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Pamela Wisniewski](http://www.pamspam.com) (University of Central
-Florida) 
-<br/>      -->    
+Florida)
+<br/>      -->
 
 ## Contact
 

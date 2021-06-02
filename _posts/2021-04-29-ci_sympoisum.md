@@ -34,7 +34,7 @@ We will accept any of the following submission types:
 
 The workshop will not publish formal (i.e. archival) proceedings. Instead, the
 workshop aims to foster discussion and feedback to improve work-in-progress for
-subsequent publication elsewhere.
+subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
 
 Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
 
@@ -43,7 +43,9 @@ Submissions will be peer-reviewed by the workshop’s Program Committee and acce
 * System design and/or implementations
 * Combinations of the above
 
- With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.  Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
+Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
+
+
 
 
 __Participation without submission: __ If you're interested in attending the

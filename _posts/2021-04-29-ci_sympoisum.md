@@ -66,8 +66,7 @@ no-questions-asked waiver for those who wouldn't be able to afford the fee.
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract: June 30, 2021
-* Submissions Due: July 7, 2021
+* Submissions Due: July ~~7~~ 16, 2021
 * Notifications: August 10, 2021
 * Symposium dates: Sep 30 - Oct 1, 2021
 

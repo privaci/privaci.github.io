@@ -24,6 +24,8 @@ permalink: ci_symposium/cfp.html
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
+### [The Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEEJBUDbGrqrbxt-Tda1JklwqXicfnSxfFBGOH0tlu7xNyj46zOSMjvGpicz4mVq_uPL0T-W__HEei/pubhtml?gid=1416502899&single=true)
+<!-- 
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
@@ -46,21 +48,18 @@ Submissions will be peer-reviewed by the workshop’s Program Committee and acce
 Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
 
 
-
-
 __Participation without submission: __ If you're interested in attending the
 symposium without submission, please fill in [this form](https://forms.gle/ZLDPZib3L71vt38ZA). We will send a confirmation upon review.
 
 
  We look forward to seeing you at the symposium!
+-->
 
 #### REGISTRATION
-
-<i>Coming Soon</i>
-
-There will be a modest registration fee, TBD closer to the event itself due to
-the uncertainty about the COVID-19 restriction. There will be a
-no-questions-asked waiver for those who wouldn't be able to afford the fee.
+ Registration for the symposium is $80 for in-person attendees and $15 for
+ virtual attendees. For in-person attendees, the registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
+ 
+Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 
 
 #### IMPORTANT DATES
 

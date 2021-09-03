@@ -24,8 +24,7 @@ permalink: ci_symposium/program.html
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
-### <a
-href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEEJBUDbGrqrbxt-Tda1JklwqXicfnSxfFBGOH0tlu7xNyj46zOSMjvGpicz4mVq_uPL0T-W__HEei/pubhtml?gid=1416502899&single=true"
+### <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEEJBUDbGrqrbxt-Tda1JklwqXicfnSxfFBGOH0tlu7xNyj46zOSMjvGpicz4mVq_uPL0T-W__HEei/pubhtml?gid=1416502899&single=true"
 target="_blank">The Symposium Program</a>
 <!-- 
 We will accept any of the following submission types:

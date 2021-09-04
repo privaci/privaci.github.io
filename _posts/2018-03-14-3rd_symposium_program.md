@@ -11,7 +11,7 @@ categories:
 comments: false
 show_meta: false
 permalink: ci_symposium/registration.html
- redirect_to:
+redirect_to:
   - https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4     
 ---
 

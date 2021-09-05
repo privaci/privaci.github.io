@@ -65,13 +65,15 @@ Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/S
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Submissions Due: ~~July 7~~ (Extended to July 16, 2021)
-* Notifications: August 10, 2021
+* Submissions Due: ~~July 7 (Extended to July 16, 2021)~~
+* Notifications: ~~August 10, 2021~~
 * Symposium dates: Sep 30 - Oct 1, 2021
 
+<!-- 
 #### HOW TO SUBMIT
 
 Please make submissions using [our submission system.](https://cisymposium.cs.uchicago.edu)
+-->
 
 #### SYMPOSIUM CHAIRS ([cisymposium@lists.uchicago.edu](mailto:cisymposium@lists.uchicago.edu"))
 <br/>

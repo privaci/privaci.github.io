@@ -19,8 +19,8 @@ permalink: ci_symposium/program.html
  Integrity on <b>September 30- October 1</b> in Chicago at the [University of
  Chicago](https://www.uchicago.edu) subject to COVID-19 restrictions. This will
  be a hybrid event in which attendees can participate either in-person or over
- Zoom. We will provide the details closer to the dates of the
- symposium.
+ Zoom. <!-- We will provide the details closer to the dates of the
+ symposium.-->
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
@@ -60,6 +60,10 @@ symposium without submission, please fill in [this form](https://forms.gle/ZLDPZ
  virtual attendees. For in-person attendees, the registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
  
 Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 
+
+## [Logistics](https://privaci.info/ci_symposium/logistics.html)
+
+For information on the event location and accommodations.
 
 #### IMPORTANT DATES
 

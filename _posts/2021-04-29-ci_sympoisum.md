@@ -61,7 +61,7 @@ symposium without submission, please fill in [this form](https://forms.gle/ZLDPZ
  
 Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 
 
-## [Logistics](https://privaci.info/ci_symposium/logistics.html)
+#### [Logistics](https://privaci.info/ci_symposium/logistics.html)
 
 For information on the event location and accommodations.
 

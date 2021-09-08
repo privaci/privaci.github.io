@@ -10,7 +10,7 @@ categories:
 #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium/accommodation.html
+permalink: ci_symposium/logistics.html
 ---
 <br/>
 

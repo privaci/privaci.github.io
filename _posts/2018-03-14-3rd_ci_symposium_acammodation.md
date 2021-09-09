@@ -35,7 +35,7 @@ From the airports: The university is about a 30-minute taxi ride from Midway Air
 
 ## Parking on Campus
 
-For parking information please check [the visitor parking page(https://safety-security.uchicago.edu/services/visitor_parking/ ). 
+For parking information please check [the visitor parking page](https://safety-security.uchicago.edu/services/visitor_parking/). 
 
 <!-- Campus North Parking Garage ($10): Just over two blocks from John Crerar
 Library, the North Campus Parking Garage at 5501 S. Ellis Ave, Chicago, IL 60637

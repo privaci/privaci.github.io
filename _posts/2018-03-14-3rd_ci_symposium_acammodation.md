@@ -35,10 +35,32 @@ From the airports: The university is about a 30-minute taxi ride from Midway Air
 
 ## Parking on Campus
 
-There are three main parking options near John Crerar Library, each with pros and cons:
+For parking information please check [the visitor parking page(https://safety-security.uchicago.edu/services/visitor_parking/ ). 
 
-1) Campus North Parking Garage ($10): Just over two blocks from John Crerar Library, the North Campus Parking Garage at 5501 S. Ellis Ave, Chicago, IL 60637 is the closest option. While the normal daily parking rate is $28, the university's parking office has advised us that the Saturday daily rate is $10, paid through an automated ticket system that accepts only credit and debit cards, not cash.
+<!-- Campus North Parking Garage ($10): Just over two blocks from John Crerar
+Library, the North Campus Parking Garage at 5501 S. Ellis Ave, Chicago, IL 60637
+is the closest option. While the normal daily parking rate is $28, the
+university's parking office has advised us that the Saturday daily rate is $10,
+paid through an automated ticket system that accepts only credit and debit
+cards, not cash.-->
 
-2) Surface Parking Lots (Free): On Saturdays, many surface parking lots that are typically reserved for permit parking are free to the public. The lots that are free on Saturdays, in rough order from closest to furthest from JCL, are Young (5555 S. Ellis Avenue), McGiffert House (5751 S. Woodlawn Ave), Wells (6000 S. Drexel), Chapin (6032 S. Kenwood), and Dorchester (1427 East 60th Street). The ZIP code for all lots is 60637. These lots are all depicted on [the university's parking map.](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/Parking_Lots_and_Garages_2018_March.pdf) Note that the Young parking lot is closest to JCL, but is small. All other lots are a 10 - 20 minute walk from JCL.
+<!-- 2) Surface Parking Lots (Free): On SaturdayAs, many surface parking lots
+that are typically reserved for permit parking are free to the public. The lots
+that are free on Saturdays, in rough order from closest to furthest from JCL,
+are Young (5555 S. Ellis Avenue), McGiffert House (5751 S. Woodlawn Ave), Wells
+(6000 S. Drexel), Chapin (6032 S. Kenwood), and Dorchester (1427 East 60th
+Street). The ZIP code for all lots is 60637. These lots are all depicted on [the
+university's parking
+map.](https://d3qi0qp55mx5f5.cloudfront.net/safety-security/uploads/files/Parking_Lots_and_Garages_2018_March.pdf)
+Note that the Young parking lot is closest to JCL, but is small. All other lots
+are a 10 - 20 minute walk from JCL.-->
 
-3) Street Parking (Free): On Saturdays, street parking can generally be found relatively close to campus, and MSW attendees are likely to find street parking closer to JCL than most of the surface parking lots would be. We recommend looking along the North or South Midway Plaisance or on S. Cottage Grove Ave. Street parking might also be available on the streets immediately adjacent to JCL, but many of these streets have metered parking, and parking meters in Chicago are enforced on Saturdays. Also keep in mind that the campus is in an urban location, so please do not leave valuables in your vehicle, especially in plain sight. 
+<!-- 3) Street Parking (Free): On Saturdays, street parking can generally be
+found relatively close to campus, and MSW attendees are likely to find street
+parking closer to JCL than most of the surface parking lots would be. We
+recommend looking along the North or South Midway Plaisance or on S. Cottage
+Grove Ave. Street parking might also be available on the streets immediately
+adjacent to JCL, but many of these streets have metered parking, and parking
+meters in Chicago are enforced on Saturdays. Also keep in mind that the campus
+is in an urban location, so please do not leave valuables in your vehicle,
+especially in plain sight. -->

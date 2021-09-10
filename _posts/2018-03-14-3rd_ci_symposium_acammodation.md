@@ -23,7 +23,7 @@ All activities this year take place in the [John Crerar Library (JCL)](https://c
  
 ## Accommodations
 
-The [Sophy Hotel](https://sophyhotel.com/) and the [Hyatt Place (Chicago-South / University Medical Center](https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-south-university-medical-center/chizu) are both a 20-25 minute walk from campus, and both offer shuttles to campus. Airbnb is also an option, as is staying elsewhere in Chicago, particularly in the Loop (downtown). We also expect a number of attendees to come in just for the day, which is why the event begins at 10:00am.
+For participants needing stay overnight, the [Sophy Hotel](https://sophyhotel.com/) and the [Hyatt Place (Chicago-South / University Medical Center](https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-south-university-medical-center/chizu) are both a 20-25 minute walk from campus, and both offer shuttles to campus. Airbnb is also an option, as is staying elsewhere in Chicago, particularly in the Loop (downtown). 
 
 ## Getting to UChicago
 

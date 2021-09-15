@@ -61,6 +61,12 @@ symposium without submission, please fill in [this form](https://forms.gle/ZLDPZ
  
 Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 
 
+#### TRAVEL GRANT
+
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/mD3DgKjqgGsdtvv18). 
+
+The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
+
 #### [Logistics](https://privaci.info/ci_symposium/logistics.html)
 
 For information on the event location and accommodations.

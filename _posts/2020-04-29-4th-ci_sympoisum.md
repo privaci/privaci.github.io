@@ -100,7 +100,7 @@ TBD
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
-Website: http://privaci.info/ 
+Website: [http://privaci.info/](http://privaci.info/ )
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 

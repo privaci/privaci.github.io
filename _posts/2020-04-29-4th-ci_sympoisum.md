@@ -13,7 +13,7 @@ permalink: ci_symposium2022draft.html
 ---
 <br/>
 
-![Image not found: {{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png "Image not found: {{ site.url }}/images/logo2022.png")
+![Logo]({{ site.url }}/images/logo2022.png)
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual
  Integrity on <b>TBD</b> in Chicago at the  subject to COVID-19 restrictions. This will be a hybrid event in which attendees can participate either in-person or over

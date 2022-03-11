@@ -9,7 +9,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium2023draft.html
+permalink: ci_symposium2022draft.html
 ---
 <br/>
 

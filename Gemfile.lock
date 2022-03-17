@@ -74,7 +74,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  eventmachine
+  eventmachine (~> 1.2)
   jekyll
   jekyll-gist
   jekyll-paginate

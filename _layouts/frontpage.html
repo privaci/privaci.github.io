@@ -3,14 +3,14 @@ layout: default
 format: blog-index
 ---
 <div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
+	<div class="row">
+		<div class="small-12 columns">
+		</div><!-- /.medium-4.columns -->
+	</div><!-- /.row -->
 </div><!-- /#header-home -->
 
 <div class="row">
-    {{ content }}
+	{{ content }}
 </div>
 
 {% comment %}
@@ -20,49 +20,51 @@ format: blog-index
 {% endcomment %}
 
 {% unless site.posts == empty %}
-    <div class="row t30 b20 homepage">
+<div class="row t30 b20 homepage">
 	<div class="small-12 columns">     
 		{% include h.html %} 
 	</div>
-<div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.image.homepage %}
-            <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title escape_once }}"></a>
-            </p>
+	<div class="small-12 columns">
+		{% for post in site.posts limit:1 %}
+		{% if post.image.homepage %}
+		<p>
+		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title escape_once }}"></a>
+		</p>
 
-            {% if post.image.caption_url && post.image.caption %}
-            <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-            </p>
-            {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
-            {% endfor %}
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-    <div class="row">
-             <div class="medium-6 columns">
- <a class="twitter-timeline" href="https://twitter.com/priva_ci/timelines/1353697207963283456?ref_src=twsrc%5Etfw">PrivaCI - Curated tweets by priva_ci</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
-      <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-            </p>
-            {% endfor %}
-        </div> <!-- /.medium-5.columns -->
+		{% if post.image.caption_url && post.image.caption %}
+		<p class="text-right caption">
+		<a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+		</p>
+		{% endif %}
+		{% else post.image.homepage == NULL %}
+		<h2>{{ site.data.language.new_blog_entries }}</h2>
+		{% endif %}
+		{% endfor %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+<div class="row">
+	<div class="medium-6 columns">
+		<a class="twitter-timeline" href="https://twitter.com/priva_ci/timelines/1353697207963283456?ref_src=twsrc%5Etfw">PrivaCI - Curated tweets by priva_ci</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+	<div class="medium-6 columns">
+		{% for post in site.posts limit:1 %}
+		{% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+		<h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+		<p>
+		{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+		</p>
+		{% endfor %}
+	</div> <!-- /.medium-5.columns -->
 
-         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='6' offset='1' %}
-        </div>
+	<div class="medium-6 columns">
+		<p><strong>{{ site.data.language.more_articles }}</strong></p>
+		{% include list-posts entries='6' offset='1' %}
+	</div>
+	<div class="medium-6 columns">
 
-    </div><!-- /.row -->
+		{% include _privaci_publication.html %}
+	</div>
+</div><!-- /.row -->
 {% endunless %}
-{% include _privaci_publication.html %}
 <!-- /.row -->

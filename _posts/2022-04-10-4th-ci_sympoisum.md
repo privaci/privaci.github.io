@@ -13,7 +13,7 @@ permalink: symposium/2022/cfp.html
 ---
 <br/>
 
-![Image not found: {{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png "Image not found: {{ site.url }}/images/logo2022.png")
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png)
 
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual

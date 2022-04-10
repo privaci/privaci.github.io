@@ -13,7 +13,8 @@ permalink: symposium/2022/cfp.html
 ---
 <br/>
 
-![Logo]({{ site.url }}/images/logo2022.png)
+![Image not found: {{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png "Image not found: {{ site.url }}/images/logo2022.png")
+
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual
  Integrity on <b>September 22-23 </b> in  New York at [CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 

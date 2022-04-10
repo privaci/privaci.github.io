@@ -9,16 +9,16 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium2022draft.html
+permalink: ci_symposium2022cfp.html
 ---
 <br/>
 
 ![Logo]({{ site.url }}/images/logo2022.png)
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual
- Integrity on <b>TBD</b> in  <b>TBD</b> at the  subject to COVID-19 restrictions. This will be a hybrid event in which attendees can participate either in-person or over
- Zoom. We will provide the details closer to the dates of the
- symposium.
+ Integrity on <b>September 22-23 </b> in  New York at [CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 
+<!-- This will be a hybrid event in which attendees can participate either in-person or over
+ Zoom. We will provide the details closer to the dates of the symposium. -->
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
@@ -73,9 +73,9 @@ For information on the event location and accommodations.
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Submissions Due: TBD
-* Notifications:TBD
-* Symposium dates: TBD
+* Submissions Due: June 24
+* Notifications: July 25
+* Symposium dates: September 22 and 23
 
 #### HOW TO SUBMIT
 
@@ -85,15 +85,22 @@ TBD
 -->
 
 
-### Program Committee
+#### SYMPOSIUM CHAIRS 
+<br/>
+[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
+[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) <br/>
+<br/>
+
+#### Program Committee
 
 TBD
 
-## Contact
+### Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
-Website: [http://privaci.info/](http://privaci.info/ )
+Website: [https://privaci.info/](https://privaci.info/ )
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 

@@ -9,7 +9,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: ci_symposium2022cfp.html
+permalink: symposium/2022/cfp.html
 ---
 <br/>
 
@@ -32,8 +32,7 @@ We will accept any of the following submission types:
 * A 1-page description of an interesting use case to be discussed at the symposium.
 * A 1-page description of real-world case study from industry or policy.
 
-The workshop will not publish formal (i.e. archival) proceedings. Instead, the
-workshop aims to foster discussion and feedback to improve work-in-progress for
+The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
 subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
 
 Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:

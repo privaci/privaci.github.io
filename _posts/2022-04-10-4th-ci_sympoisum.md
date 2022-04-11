@@ -17,7 +17,8 @@ permalink: symposium/2022/cfp.html
 
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual
- Integrity on <b>September 22-23 </b> in  New York at [CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 
+ Integrity on <b>September 22-23 </b> in  New York at
+[Digital Life Initiative](https://www.dli.tech.cornell.edu),[CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 
 <!-- This will be a hybrid event in which attendees can participate either in-person or over
  Zoom. We will provide the details closer to the dates of the symposium. -->
 
@@ -73,9 +74,10 @@ For information on the event location and accommodations.
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Submissions Due: June 24
-* Notifications: July 25
-* Symposium dates: September 22 and 23
+* Register an intent/abstract:  June 17, 2022               
+* Submissions Due: June 24, 2022
+* Notifications: July 25, 2022
+* Symposium dates: September 22 and 23, 2022
 
 #### HOW TO SUBMIT
 

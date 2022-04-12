@@ -47,7 +47,7 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
 
 __Participation without submission: __ If you're interested in attending the
-symposium without submission, please fill in <LINK>. We will send a confirmation upon review.
+symposium without submission, please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.
 
 
  We look forward to seeing you at the symposium!

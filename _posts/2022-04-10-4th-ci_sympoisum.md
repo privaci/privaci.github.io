@@ -105,6 +105,13 @@ Website: [https://privaci.info/](https://privaci.info/ )
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
+## Code of Conduct
+
+The CI symposium is a safe and welcoming environment for all. We, as the organizers are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event, at the discretion of the General Chair(s).
+
+If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.com) for further action, with the consent of the affected party subject to applicable laws.
+
+
 
 
 

@@ -17,7 +17,7 @@ permalink: symposium/2022/cfp.html
 
 
  We intend to hold the 4th Annual Symposium on Applications of Contextual
- Integrity on <b>September 22-23 </b> in New YorkCity, [Digital Life Initiative](https://www.dli.tech.cornell.edu), [CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 
+ Integrity on <b>September 22-23 </b> in New York City, [Digital Life Initiative](https://www.dli.tech.cornell.edu), [CornellTech](http://tech.cornell.edu),  subject to COVID-19 restrictions. 
 <!-- This will be a hybrid event in which attendees can participate either in-person or over
  Zoom. We will provide the details closer to the dates of the symposium. -->
 
@@ -107,9 +107,9 @@ Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
 
-The CI symposium is a safe and welcoming environment for all. We, as the organizers are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event, at the discretion of the General Chair(s).
+The CI symposium is a safe and welcoming environment for all. We, as the organizers, are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event, at the discretion of the General Chair(s).
 
-If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.com) for further action, with the consent of the affected party subject to applicable laws.
+If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.info) for further action, with the consent of the affected party subject to applicable laws.
 
 
 <hr/>

@@ -112,8 +112,4 @@ The CI symposium is a safe and welcoming environment for all. We, as the organiz
 If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.com) for further action, with the consent of the affected party subject to applicable laws.
 
 
-
-
-
-
 <hr/>

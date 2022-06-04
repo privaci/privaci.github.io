@@ -80,7 +80,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 #### HOW TO SUBMIT
 
-Please make submissions using [the submission system.](https://cisymposium.eecs.yorku.ca)
+Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
 
 
 #### SYMPOSIUM CHAIRS 
@@ -108,7 +108,7 @@ Please make submissions using [the submission system.](https://cisymposium.eecs.
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
-[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)(University of Maryland) <br/>
+[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Salomé Viljoen](https://www.salomeviljoen.com) (Columbia University) <br/>
 [Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>

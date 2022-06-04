@@ -80,10 +80,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 #### HOW TO SUBMIT
 
-TBD
-
-<!-- Please make submissions using [our submission system.](https://cisymposium.cs.uchicago.edu)
--->
+Please make submissions using [the submission system.](https://cisymposium.eecs.yorku.ca)
 
 
 #### SYMPOSIUM CHAIRS 

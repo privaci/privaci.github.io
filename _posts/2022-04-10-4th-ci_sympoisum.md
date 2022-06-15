@@ -36,7 +36,7 @@ We will accept any of the following submission types:
 The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
 subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
 
-Submissions will be peer-reviewed by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
+Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
 
 * Empirical studies (qualitative, quantitative, experimental)
 * Legal, philosophical, ethical, and policy analysis
@@ -81,6 +81,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 #### HOW TO SUBMIT
 
 Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
+
 
 
 #### SYMPOSIUM CHAIRS 

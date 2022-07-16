@@ -113,7 +113,8 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 [Salomé Viljoen](https://www.salomeviljoen.com) (Columbia University) <br/>
 [Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
-[Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/>
+<!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central
+Florida)<br/> -->
     
 
 

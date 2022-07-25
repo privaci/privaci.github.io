@@ -13,6 +13,55 @@ permalink: symposium/2022/cfp.html
 ---
 <br/>
 
+ <style>
+.alert{
+    position:relative;
+    padding:.75rem 1.25rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:.25rem
+}
+.alert-heading{
+    color:inherit
+}
+.alert-link{
+    font-weight:700
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb
+}
+
+.alert-success hr {
+    border-top-color: #b1dfbb
+}
+
+.alert-success .alert-link {
+    color: #0b2e13
+}
+.alert-warning{
+    color:#856404;
+    background-color:#fff3cd;
+    border-color:#ffeeba
+}
+.alert-warning hr{
+    border-top-color:#ffe8a1
+}
+.alert-warning .alert-link{
+    color:#533f03
+}
+
+</style>
+<div class="alert alert-warning" role="alert">
+<h4 class="alert-heading">COVID Protocol</h4>
+  <p>
+  We are monitoring the COVID situation. More detail will be made
+  available closer to the day which may include [required](required) testing, masking indoors and proof of vaccination. 
+  <p/>
+  Stay safe!</p>
+</div> 
+
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png)
 
 

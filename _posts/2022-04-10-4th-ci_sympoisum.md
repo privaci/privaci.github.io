@@ -56,7 +56,7 @@ permalink: symposium/2022/cfp.html
 <div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
-  We are monitoring the COVID situation. More detail will be made
+  We are monitoring the COVID situation. More details will be made
   available closer to the day which may include required testing, masking indoors and proof of vaccination. 
   <p/>
   Stay safe!</p>

@@ -124,7 +124,6 @@ register](https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextu
 **Note:** Tickets are nonrefundable if purchased less than seven days
 before the event.
 
-```{=html}
 <!-- #### TRAVEL GRANT
 
 Participants can apply for a travel grant award that can go towards
@@ -135,7 +134,7 @@ this
 The only travel expenses that can be reimbursed are: air travel and
 hotel. The exact number of awards will depend on the availability of
 funds and will be determined as funding amounts are finalized. -->
-```
+
 #### IMPORTANT DATES
 
 **All deadlines are AoE (Anywhere on Earth).**
@@ -145,12 +144,12 @@ funds and will be determined as funding amounts are finalized. -->
 -   ~~Notifications: July 25, 2022~~
 -   Symposium dates: September 22 and 23, 2022
 
-```{=html}
+
 <!-- #### HOW TO SUBMIT
 
 Please make submissions using [the submission
 site.](https://cisymposium.eecs.yorku.ca) -->
-```
+
 #### SYMPOSIUM CHAIRS
 
 <br/> [Marshini Chetty](https://www.marshini.net) (University of

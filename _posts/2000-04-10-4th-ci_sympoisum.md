@@ -104,6 +104,10 @@ We look forward to seeing you at the symposium!
 
 For information on the event location and accommodations.-->
 
+#### Symposium Program
+
+_Coming Soon!_
+
 #### REGISTRATION
 
 Registration for the symposium is **\$80** for in-person attendees and

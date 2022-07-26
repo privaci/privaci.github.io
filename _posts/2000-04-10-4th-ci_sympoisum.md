@@ -14,7 +14,7 @@ permalink: symposium/2022/program.html
 
 <br/>
 
-```{=html}
+
 <style>
 .alert{
     position:relative;
@@ -55,8 +55,8 @@ permalink: symposium/2022/program.html
 }
 
 </style>
-```
-::: {.alert .alert-warning role="alert"}
+
+
 <h4 class="alert-heading">
 
 COVID Protocol
@@ -74,10 +74,9 @@ indoors and proof of vaccination.
 Stay safe!
 
 </p>
-:::
 
-![{{ site.url
-}}/images/logo2022.png](%7B%7B%20site.url%20%7D%7D/images/logo2022.png)
+
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png)
 
 We intend to hold the 4th Annual Symposium on Applications of Contextual
 Integrity on <b>September 22-23 </b> in New York City, [Digital Life
@@ -99,13 +98,12 @@ upon review.
 
 We look forward to seeing you at the symposium!
 
-```{=html}
 <!--
 
 #### [Logistics](https://privaci.info/ci_symposium/logistics.html)
 
 For information on the event location and accommodations.-->
-```
+
 #### REGISTRATION
 
 Registration for the symposium is **\$80** for in-person attendees and
@@ -116,7 +114,7 @@ pastries) on Friday, and lunch on Friday.
 If paying the registration fee would cause financial hardship for you,
 there is an option to waive the registration fee (with no further
 questions asked). Please email the organizers:
-[contact\@privaci.info](contact@privaci.info)
+[contact@privaci.info](contact@privaci.info)
 
 Please use this [link to
 register](https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937)
@@ -145,10 +143,6 @@ funds and will be determined as funding amounts are finalized. -->
 -   Symposium dates: September 22 and 23, 2022
 
 
-<!-- #### HOW TO SUBMIT
-
-Please make submissions using [the submission
-site.](https://cisymposium.eecs.yorku.ca) -->
 
 #### SYMPOSIUM CHAIRS
 
@@ -177,9 +171,7 @@ Colorado Law School)<br/> [Priya Kumar](https://priyakumar.org)
 (Pennsylvania State University)<br /> [Kirsten
 Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT
-Kharagpur)<br /> [Katherine J.
-Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509)
-(New York University School of Law)<br/> [Madelyn
+Kharagpur)<br /> [Madelyn
 Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at
 Urbana-Champaign)<br/> [Ido
 Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)

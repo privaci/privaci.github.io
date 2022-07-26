@@ -101,9 +101,11 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
  We look forward to seeing you at the symposium!
 
-<!--
-#### REGISTRATION
- Registration for the symposium is $80 for in-person attendees and $15 for
+
+#### [REGISTRATION](https://privaci.info/symposium/2022/program.html)
+
+
+<!-- Registration for the symposium is $80 for in-person attendees and $15 for
  virtual attendees. For in-person attendees, the registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
  
 Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 

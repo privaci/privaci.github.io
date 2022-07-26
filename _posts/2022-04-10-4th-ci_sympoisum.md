@@ -57,7 +57,7 @@ permalink: symposium/2022/cfp.html
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
   We are monitoring the COVID situation. More detail will be made
-  available closer to the day which may include [required](required) testing, masking indoors and proof of vaccination. 
+  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
   <p/>
   Stay safe!</p>
 </div> 

@@ -14,7 +14,6 @@ permalink: symposium/2022/program.html
 
 <br/>
 
-
 <style>
 .alert{
     position:relative;
@@ -55,25 +54,14 @@ permalink: symposium/2022/program.html
 }
 
 </style>
-
-
-<h4 class="alert-heading">
-
-COVID Protocol
-
-</h4>
-
-<p>
-
-We are monitoring the COVID situation. More details will be made
-available closer to the day which may include required testing, masking
-indoors and proof of vaccination.
-
-<p/>
-
-Stay safe!
-
-</p>
+<div class="alert alert-warning" role="alert">
+<h4 class="alert-heading">COVID Protocol</h4>
+  <p>
+  We are monitoring the COVID situation. More details will be made
+  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
+  <p/>
+  Stay safe!</p>
+</div>            
 
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png)

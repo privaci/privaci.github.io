@@ -27,6 +27,4 @@ permalink: ci_symposium/2022/logistics.html
 ## Getting to Cornell Tech
 
 
-## Parking on Campus
-
-For parking information please check [the visitor parking page](https://safety-security.uchicago.edu/services/visitor_parking/). 
+## Parking

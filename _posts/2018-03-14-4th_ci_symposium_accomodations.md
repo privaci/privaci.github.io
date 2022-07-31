@@ -1,4 +1,4 @@
-[^1][^2]---
+---
 layout: event
 header: no
 title: "Symposium on Applications Of Contextual Integrity"

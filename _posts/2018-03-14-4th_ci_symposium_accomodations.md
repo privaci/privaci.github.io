@@ -14,7 +14,7 @@ permalink: ci_symposium/2022/logistics.html
 ---
 <br/>
 
-![Logo]({{ site.url }}/images/logo2022)
+![Logo]({{ site.url }}/images/logo2022.png)
 
 ## Event Location
 

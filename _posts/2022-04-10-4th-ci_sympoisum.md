@@ -86,9 +86,9 @@ upon review.
 
 We look forward to seeing you at the symposium!
 
-<!--
 
-#### [Logistics](https://privaci.info/ci_symposium/logistics.html)
+
+#### [Accommodation & Logistics](https://privaci.info/ci_symposium/logistics.html)
 
 For information on the event location and accommodations.-->
 

@@ -18,7 +18,11 @@ permalink: ci_symposium/2022/logistics.html
 
 ## Event Location
 
- The 4th CI Symposium will take place in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island.
+ This year 4th CI Symposium will be held in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island in New York City. 
+ 
+ Cornell Tech is a brand-new extension campus of Cornell University and now stands as one of the greatest concentrations of computer engineering research and education in NYC. It is located on Roosevelt Island, adjacent to Manhattan, which gives it a unique balance of accessibility and tranquility. It has access to all Manhattan has to offer without having to deal with many of the downsides of being in a major city.
+ 
+ There are many options for hotels and ways to travel to Cornell Tech. The Graduate Hotel is directly attached to the conference venue and has reasonable rates for NYC standards. In addition, you could reach the island within 30 minutes from most hotels in NYC. It is accessible from the F train line, by car from the Queens side, or by tram from the Manhattan side. Below we give detailed recommendations for travel to NYC and Cornell Tech, and for hotel accommodations.
  
 ## Accommodations
 

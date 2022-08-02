@@ -17,6 +17,8 @@ permalink: ci_symposium/2022/logistics.html
 ![Logo]({{ site.url }}/images/logo2022.png)
 
 ## Event Location
+
+ The 4th CI Symposium will take place in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island.
  
 ## Accommodations
 

@@ -26,7 +26,10 @@ permalink: ci_symposium/2022/logistics.html
 
 ## Getting to Cornell Tech
 
-Instruction taken from [Cornell Tech website](https://tech.cornell.edu/campus/) ![](https://tech.cornell.edu/wp-content/uploads/2020/12/subway.png)
+Instruction taken from [Cornell Tech website](https://tech.cornell.edu/campus/).
+<br/>
+
+![](https://tech.cornell.edu/wp-content/uploads/2020/12/subway.png)
     
     Subway
     

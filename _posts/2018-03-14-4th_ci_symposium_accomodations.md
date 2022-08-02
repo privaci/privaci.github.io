@@ -17,12 +17,12 @@ permalink: ci_symposium/2022/logistics.html
 ![Logo]({{ site.url }}/images/logo2022.png)
 
 ## Event Location
-
- 
  
 ## Accommodations
 
-There are hundreds of hotels in New York City, and in general they can be relatively expensive. A typical hotel room should be expected to be at least $100 a night (with fees and taxes), while most reasonable rooms will be in the range $150-250 a night.  Roosevelt Island has only one hotel, the brand-new Graduate Hotel, which is attached directly to the conference venue. We highly recommend this hotel although since its prices are moderate, we also give suggestions for hotels in Midtown and Long Island City / Dutch Kills.
+There are hundreds of hotels in New York City, and in general they can be relatively expensive. A typical hotel room should be expected to be at least $100 a night (with fees and taxes), while most reasonable rooms will be in the range $150-250 a night.  Roosevelt Island has only one hotel, the brand-new **Graduate Hotel**, which is attached directly to the conference venue. 
+
+_We highly recommend this hotel although since its prices are moderate, we also give suggestions for hotels in Midtown and Long Island City / Dutch Kills._
 
 Long Island City / Dutch Kills has many reasonable hotels within a short walk to the F train to Cornell Tech. Dutch Kills has the only bridge connecting to Roosevelt Island, which makes traveling to Cornell Tech with car services very convenient. This area has seen exceptional growth in the last decade, so while many hotels are modern, the surrounding area is still developing. It is generally safe, but we recommend using car services after dark and particularly avoiding the Queensbridge Station area at night.
 
@@ -31,12 +31,12 @@ For Manhattan hotels, we recommend staying close to the Midtown F line stations 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Area** | **Hotel** | **Notes** | **Average Rate** | **Travel Time** |
-| Roosevelt Island | <ins>Graduate Hotel</ins> | Only hotel on Roosevelt Island, amazing views of Manhattan | 250-300 | Instant |
-| Manhattan | <ins>Carvi Hotel</ins> | 10 min walk to Tram, scenic travel to Roosevelt | 180-240 | 25-35 mins |
-|     | <ins>Hotel 46 Times Square</ins> | 4 min walk to F train | 160-200 | 15-25 mins |
-|     | <ins>Courtyard by Marriott New York Manhattan/Times Square</ins> | Directly on Bryant, Park, 2 min walk to F train | 280-340 | 15-25 mins |
+| Roosevelt Island | [Graduate Hotel](https://www.graduatehotels.com/roosevelt-island/) | Only hotel on Roosevelt Island, amazing views of Manhattan | 250-300 | Instant |
+| Manhattan | [Carvi Hotel](https://www.carvihotelnyc.com/) | 10 min walk to Tram, scenic travel to Roosevelt | 180-240 | 25-35 mins |
+|     | [Hotel 46 Times Square](https://www.hotel46timessquare.com/) | 4 min walk to F train | 160-200 | 15-25 mins |
+|     |[Courtyard by Marriott New York Manhattan/Times Square](http://www.marriott.com/hotels/travel/nycmd-courtyard-new-york-manhattan-times-square/) | Directly on Bryant, Park, 2 min walk to F train | 280-340 | 15-25 mins |
 | Long Island City / Dutch Kills | Lotus Blu Inn and Suites | Affordable hotel in Dutch Kills | 80-100 | 15-25 mins |
-|     | <ins>La Quinta Inn and Suites</ins> | Closest hotel to drive to Roosevelt Island | 100-150 | 15-25 mins |
+|     | [La Quinta Inn and Suites](https://www.wyndhamhotels.com/laquinta/long-island-city-new-york/la-quinta-long-island-city/overview)| Closest hotel to drive to Roosevelt Island | 100-150 | 15-25 mins |
 
 ## Getting to Cornell Tech
 

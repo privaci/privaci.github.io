@@ -104,7 +104,7 @@ registration includes dinner on Thursday, a light breakfast (coffee and
 pastries) on Friday, and lunch on Friday.
 
 If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee (with no further
+there is an option to waive the registration fee for in person participation (with no further
 questions asked). Please email the organizers:
 [contact@privaci.info](contact@privaci.info)
 

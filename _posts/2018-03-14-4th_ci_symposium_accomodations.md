@@ -55,17 +55,17 @@ The nearest airports to Cornell Tech are LaGuardia Airport (LGA), JFK Airport (J
 **From LaGuardia:** 
 
 * Car Services: 25-40 mins depending on the traffic
-* Public Transit: LaGuardia Link (Q70-SBS) to Roosevelt Av/74 St station, then F Train to Cornell Tech or Manhattan
+* **Public Transit:** LaGuardia Link (Q70-SBS) to Roosevelt Av/74 St station, then F Train to Cornell Tech or Manhattan
 
 **From JFK:**
 
 * Car Services: 40-60 mins depending on the traffic
-* Transit: JFK AirTrain to Jamaica Station, then E Train to Manhattan or Train E and Train F to Cornell Tech
+* **Transit**: JFK AirTrain to Jamaica Station, then E Train to Manhattan or Train E and Train F to Cornell Tech
 
 **From Newark:**
 
 * Car Services: 60-80 mins depending on the traffic
-* Public Transit: Newark Airport Express towards Manhattan
+* **Public Transit:** Newark Airport Express towards Manhattan
 
 ### **By Bus**
 
@@ -74,6 +74,13 @@ Bussing is often the most convenient and economical way to travel into NYC from 
 ### **By Car**
 
 Generally, traveling by car will be more expensive and less convenient than flying or bussing. If you travel by car, we generally recommend you park and stay in Queens, since Manhattan driving and parking can be expensive.
+
+#### Cab/Lyft
+
+Even though your ultimate destination will be 2 West Loop Road, when catching a cab or Lyft, we recommend you enter/use this address: 1 East Loop Rd, New York, NY 10044.
+
+ Given that vehicular access to Roosevelt Island is only from Queens, the journey can take up to 55-mins.
+
 
 ## **Travel to Cornell Tech**
 

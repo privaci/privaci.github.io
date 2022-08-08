@@ -34,15 +34,33 @@ Long Island City / Dutch Kills has many reasonable hotels within a short walk to
 
 For Manhattan hotels, we recommend staying close to the Midtown F line stations for easiest access to Cornell Tech. These most convenient areas here are Rockefeller Center, Times Square, and Herald Square. Below we list a few hotels in each area.
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| **Area** | **Hotel** | **Notes** | **Average Rate** | **Travel Time** |
-| Roosevelt Island | [Graduate Hotel](https://www.graduatehotels.com/roosevelt-island/) | Only hotel on Roosevelt Island, amazing views of Manhattan | 250-300 | Instant |
-| Manhattan | [Carvi Hotel](https://www.carvihotelnyc.com/) | 10 min walk to Tram, scenic travel to Roosevelt | 180-240 | 25-35 mins |
-|     | [Hotel 46 Times Square](https://www.hotel46timessquare.com/) | 4 min walk to F train | 160-200 | 15-25 mins |
-|     |[Courtyard by Marriott New York Manhattan/Times Square](http://www.marriott.com/hotels/travel/nycmd-courtyard-new-york-manhattan-times-square/) | Directly on Bryant, Park, 2 min walk to F train | 280-340 | 15-25 mins |
-| Long Island City / Dutch Kills | Lotus Blu Inn and Suites | Affordable hotel in Dutch Kills | 80-100 | 15-25 mins |
-|     | [La Quinta Inn and Suites](https://www.wyndhamhotels.com/laquinta/long-island-city-new-york/la-quinta-long-island-city/overview)| Closest hotel to drive to Roosevelt Island | 100-150 | 15-25 mins |
+|                                |                                                                                                                                                                                                                          |                                                                                                                                                 |                  |                 |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------|
+| **Area**                       | **Hotel**                                                                                                                                                                                                                | **Notes**                                                                                                                                       | **Average Rate** | **Travel Time** |
+| Roosevelt Island               | [Graduate Hotel](https://www.graduatehotels.com/roosevelt-island/#/booking/step-1?arrive=09%2F22%2F2022&promo=CORGRPhttps://www.graduatehotels.com/roosevelt-island/#/booking/step-1?arrive=09%2F22%2F2022&promo=CORGRP) | We reserved a limited number of rooms for symposium attendees with discounted price. Only hotel on Roosevelt Island, amazing views of Manhattan | 250-300          | Instant         |
+| Manhattan                      | [Carvi Hotel](https://www.carvihotelnyc.com/)                                                                                                                                                                            | 10 min walk to Tram, scenic travel to Roosevelt                                                                                                 | 180-240          | 25-35 mins      |
+|                                | [Hotel 46 Times Square](https://www.hotel46timessquare.com/)                                                                                                                                                             | 4 min walk to F train                                                                                                                           | 160-200          | 15-25 mins      |
+|                                | [Courtyard by Marriott New York Manhattan/Times Square](http://www.marriott.com/hotels/travel/nycmd-courtyard-new-york-manhattan-times-square/)                                                                          | Directly on Bryant, Park, 2 min walk to F train                                                                                                 | 280-340          | 15-25 mins      |
+| Long Island City / Dutch Kills | Lotus Blu Inn and Suites                                                                                                                                                                                                 | Affordable hotel in Dutch Kills                                                                                                                 | 80-100           | 15-25 mins      |
+|                                | [La Quinta Inn and Suites](https://www.wyndhamhotels.com/laquinta/long-island-city-new-york/la-quinta-long-island-city/overview)                                                                                         | Closest hotel to drive to Roosevelt Island                                                                                                      | 100-150          | 15-25 mins      |
+## Other  hotel options
+
+| **Hotel** | **Address** |
+| --- | --- |
+| Affinia Gardens | 215 E. 64th Street |
+| Affinia Shelburne | 551 Fifth Avenue |
+| The Algonquin Hotel - Marriott Autograph Collection | 59 W. 44th Street |
+| Avalon Hotel | 16 E. 32nd Street |
+| Club Quarters | Midtown, Rockefeller Center, Grand Central, Wall Street, or World Trade Center |
+| Courtyard New Manhattan/Midtown East | 866 3rd Avenue |
+| Courtyard Manhattan Times Square | 114 West 40th Street |
+| Courtyard New York Manhattan/Upper East Side | 410 E. 92nd Street |
+| Hilton Garden Inn | 121 West 28th Street |
+| Iberostar 70 Park Avenue Hotel | 40 E. 34th Street, Suite 606 |
+| Renaissance Hotel 57 | 130 E. 57th Street |
+| Residence Inn Manhattan Times Square | 1033 Avenue of the Americas |
+| The Roosevelt Hotel New York City | 45 E. 45th Street |
+| Wyndham New Yorker | 481 8th Avenue |
 
 ## Getting to Cornell Tech
 

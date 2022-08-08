@@ -34,6 +34,7 @@ Long Island City / Dutch Kills has many reasonable hotels within a short walk to
 
 For Manhattan hotels, we recommend staying close to the Midtown F line stations for easiest access to Cornell Tech. These most convenient areas here are Rockefeller Center, Times Square, and Herald Square. Below we list a few hotels in each area.
 
+
 |                                |                                                                                                                                                                                                                          |                                                                                                                                                 |                  |                 |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------|
 | **Area**                       | **Hotel**                                                                                                                                                                                                                | **Notes**                                                                                                                                       | **Average Rate** | **Travel Time** |
@@ -43,7 +44,8 @@ For Manhattan hotels, we recommend staying close to the Midtown F line stations 
 |                                | [Courtyard by Marriott New York Manhattan/Times Square](http://www.marriott.com/hotels/travel/nycmd-courtyard-new-york-manhattan-times-square/)                                                                          | Directly on Bryant, Park, 2 min walk to F train                                                                                                 | 280-340          | 15-25 mins      |
 | Long Island City / Dutch Kills | Lotus Blu Inn and Suites                                                                                                                                                                                                 | Affordable hotel in Dutch Kills                                                                                                                 | 80-100           | 15-25 mins      |
 |                                | [La Quinta Inn and Suites](https://www.wyndhamhotels.com/laquinta/long-island-city-new-york/la-quinta-long-island-city/overview)                                                                                         | Closest hotel to drive to Roosevelt Island                                                                                                      | 100-150          | 15-25 mins      |
-## Other  hotel options
+
+### Other  hotel options
 
 | **Hotel** | **Address** |
 | --- | --- |

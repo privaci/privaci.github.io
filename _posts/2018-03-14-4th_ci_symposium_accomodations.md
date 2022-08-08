@@ -61,7 +61,7 @@ For Manhattan hotels, we recommend staying close to the Midtown F line stations 
 | Residence Inn Manhattan Times Square | 1033 Avenue of the Americas |
 | The Roosevelt Hotel New York City | 45 E. 45th Street |
 | Wyndham New Yorker | 481 8th Avenue |
-
+  
 ## Getting to Cornell Tech
 
 ## **Travel to NYC**

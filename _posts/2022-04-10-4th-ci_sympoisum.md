@@ -54,7 +54,7 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 1500px; min-width: 800px;" />
+ <img src="{{ site.url }}/images/logo2022.png" style="width: 1200px; min-width: 800px;" />
 
 
 <div class="alert alert-success" role="alert">
@@ -71,8 +71,7 @@ there is an option to waive the registration fee for in person participation (wi
 questions asked). Please email the organizers:
 <ahref='mailto:contact@privaci.info'>contact@privaci.info</a>
 
-Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to
-register</a>.
+Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to register</a>.
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.

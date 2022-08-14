@@ -54,12 +54,12 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 500px; min-width: 400px;" />
+ <img src="{{ site.url }}/images/logo2022.png" style="width: 1500px; min-width: 800px;" />
 
 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Registration is open!</h4>
-  <p>
+  <p/>
 
 Registration for the symposium is <b>$80</b> for in-person attendees and
 <b>$40</b>  for virtual attendees. For in-person attendees, the
@@ -76,8 +76,7 @@ register</a>.
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
-
-</div>       
+</div>     
 
 We intend to hold the 4th Annual Symposium on Applications of Contextual
 Integrity on <b>September 22-23 </b> in New York City, [Digital Life

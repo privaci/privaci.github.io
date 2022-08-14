@@ -77,6 +77,7 @@ before the event.
 there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href='mailto:contact@privaci.info'>contact@privaci.info</a>
 </p>
+
 </div>
 
 We intend to hold the 4th Annual Symposium on Applications of Contextual

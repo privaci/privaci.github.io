@@ -100,12 +100,7 @@ We look forward to seeing you at the symposium!
 
 
 #### [Accommodation & Logistics](https://privaci.info/ci_symposium/2022/logistics.html)
-
-
-
-#### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (draft, subject to change)
-
-
+<br/>
 <div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
@@ -113,7 +108,12 @@ We look forward to seeing you at the symposium!
   available closer to the day which may include required testing, masking indoors and proof of vaccination. 
   <p/>
   Stay safe!</p>
-</div>            
+</div>      
+
+#### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (draft, subject to change)
+
+
+      
 
 
 

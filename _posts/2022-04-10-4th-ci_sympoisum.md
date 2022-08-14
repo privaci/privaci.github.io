@@ -74,12 +74,9 @@ Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applicati
 before the event.
 </p>
 
-<p> 
-
 If paying the registration fee would cause financial hardship for you,
 there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href='mailto:contact@privaci.info'>contact@privaci.info</a>
-</p>
 
 </div>
 

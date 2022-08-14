@@ -54,17 +54,30 @@ permalink: symposium/2022/program.html
 }
 
 </style>
-<div class="alert alert-warning" role="alert">
-<h4 class="alert-heading">COVID Protocol</h4>
+ <img src="{{ site.url }}/images/logo2022.png" style="width: 300px; min-width: 200px;" />
+
+
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading">Registration is open!</h4>
   <p>
-  We are monitoring the COVID situation. More details will be made
-  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
-  <p/>
-  Stay safe!</p>
-</div>            
 
+Registration for the symposium is <b>$80</b> for in-person attendees and
+<b>$40</b>  for virtual attendees. For in-person attendees, the
+registration includes dinner on Thursday, a light breakfast (coffee and
+pastries) on Friday, and lunch on Friday.
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png)
+If paying the registration fee would cause financial hardship for you,
+there is an option to waive the registration fee for in person participation (with no further
+questions asked). Please email the organizers:
+<a href='mailto:contact@privaci.info'>contact@privaci.info</a>
+
+Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to
+register</a>.
+
+**Note:** Tickets are nonrefundable if purchased less than seven days
+before the event.
+
+</div>       
 
 We intend to hold the 4th Annual Symposium on Applications of Contextual
 Integrity on <b>September 22-23 </b> in New York City, [Digital Life
@@ -95,24 +108,16 @@ We look forward to seeing you at the symposium!
 #### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (draft, subject to change)
 
 
+<div class="alert alert-warning" role="alert">
+<h4 class="alert-heading">COVID Protocol</h4>
+  <p>
+  We are monitoring the COVID situation. More details will be made
+  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
+  <p/>
+  Stay safe!</p>
+</div>            
 
-#### REGISTRATION
 
-Registration for the symposium is **\$80** for in-person attendees and
-**\$40** for virtual attendees. For in-person attendees, the
-registration includes dinner on Thursday, a light breakfast (coffee and
-pastries) on Friday, and lunch on Friday.
-
-If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee for in person participation (with no further
-questions asked). Please email the organizers:
-[contact@privaci.info](contact@privaci.info)
-
-Please use this [link to
-register](https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937)
-
-**Note:** Tickets are nonrefundable if purchased less than seven days
-before the event.
 
 <!-- #### TRAVEL GRANT
 

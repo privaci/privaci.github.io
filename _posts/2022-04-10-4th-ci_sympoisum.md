@@ -68,15 +68,15 @@ pastries) on Friday, and lunch on Friday.
 <p>
 Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to register</a>.
 <p/>
-<p>
+
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
 </p>
 If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee for in person participation. Please email the organizers:
-<a href='mailto:contact@privaci.info'>contact@privaci.info</a>
+there is an option to waive the registration fee for in person participation. Please email the organizers: 
+[contact@privaci.info](mailto:contact@privaci.info)
 
-</div>
+
 
 We intend to hold the 4th Annual Symposium on Applications of Contextual
 Integrity on <b>September 22-23 </b> in New York City, [Digital Life

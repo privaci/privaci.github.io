@@ -54,7 +54,7 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 1200px; min-width: 800px;" />
+ <img src="{{ site.url }}/images/logo2022.png" style="width: 1000px; min-width: 700px;" />
 
 
 <div class="alert alert-success" role="alert">
@@ -75,8 +75,7 @@ before the event.
 </p>
 <p>
 If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee for in person participation (with no further
-questions asked). Please email the organizers:
+there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href='mailto:contact@privaci.info'>contact@privaci.info</a>
 </p>
 
@@ -96,10 +95,10 @@ communities of research and practice using Contextual Integrity to
 reason about privacy, and to design and evaluate, craft regulation, and
 generate formal logics for privacy.
 
-**Participation without submission:** If you're interested in attending
+<!-- **Participation without submission:** If you're interested in attending
 the symposium without submission, please fill in [this
 form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation
-upon review.
+upon review. -->
 
 We look forward to seeing you at the symposium!
 

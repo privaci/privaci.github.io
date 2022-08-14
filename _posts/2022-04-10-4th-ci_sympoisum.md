@@ -54,7 +54,7 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 300px; min-width: 200px;" />
+ <img src="{{ site.url }}/images/logo2022.png" style="width: 500px; min-width: 400px;" />
 
 
 <div class="alert alert-success" role="alert">
@@ -65,16 +65,16 @@ Registration for the symposium is <b>$80</b> for in-person attendees and
 <b>$40</b>  for virtual attendees. For in-person attendees, the
 registration includes dinner on Thursday, a light breakfast (coffee and
 pastries) on Friday, and lunch on Friday.
-
+<br>
 If paying the registration fee would cause financial hardship for you,
 there is an option to waive the registration fee for in person participation (with no further
 questions asked). Please email the organizers:
-<a href='mailto:contact@privaci.info'>contact@privaci.info</a>
+<ahref='mailto:contact@privaci.info'>contact@privaci.info</a>
 
 Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to
 register</a>.
 
-**Note:** Tickets are nonrefundable if purchased less than seven days
+<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
 
 </div>       

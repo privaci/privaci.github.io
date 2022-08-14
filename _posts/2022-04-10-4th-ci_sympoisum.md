@@ -1,4 +1,4 @@
----
+## ---
 layout: event
 header: no
 title: "The 4th Annual Symposium on Applications Of Contextual Integrity"
@@ -54,32 +54,32 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 1000px; min-width: 700px;" />
+ <img src="{{ site.url }}/images/logo2022.png" style='width: 1000px; min-width:
+ 700px;'' />
 
 
-<div class="alert alert-success" role="alert">
-<h4 class="alert-heading">Registration is open!</h4>
-  <p/>
+<div class="alert alert-success" role="alert">      
+	<h4 class="alert-heading">Registration is open!</h4>
+	  <p/>
 
-Registration for the symposium is <b>$80</b> for in-person attendees and
-<b>$40</b>  for virtual attendees. For in-person attendees, the
-registration includes dinner on Thursday, a light breakfast (coffee and
-pastries) on Friday, and lunch on Friday.
+	Registration for the symposium is <b>$80</b> for in-person attendees and
+	<b>$40</b>  for virtual attendees. For in-person attendees, the
+	registration includes dinner on Thursday, a light breakfast (coffee and
+	pastries) on Friday, and lunch on Friday.
 
-  <p>
-Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to register</a>.
-<p/>
-<p>
-<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
-before the event.
-</p>
+	  <p>
+	Please use this <a href='https://www.eventbrite.com/e/4th-symposium-on-applications-of-contextual-integrity-tickets-390587235937'>link to register</a>.
+	<p/>
+	<p>
+	<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
+	before the event.
+	</p>
 
-If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee for in person participation. Please email the organizers:
-<a href='mailto:contact@privaci.info'>contact@privaci.info</a>
+	If paying the registration fee would cause financial hardship for you,
+	there is an option to waive the registration fee for in person participation. Please email the organizers:
+	<a href='mailto:contact@privaci.info'>contact@privaci.info</a>
 
 </div>
-
 We intend to hold the 4th Annual Symposium on Applications of Contextual
 Integrity on <b>September 22-23 </b> in New York City, [Digital Life
 Initiative](https://www.dli.tech.cornell.edu),

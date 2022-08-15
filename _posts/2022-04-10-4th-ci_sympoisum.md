@@ -54,7 +54,7 @@ permalink: symposium/2022/program.html
 }
 
 </style>
- <img src="{{ site.url }}/images/logo2022.png" style="width: 1000px; min-width: 700px;" />
+ <img src="{{ site.url }}/images/PrivaCI_Header_2022_Cropped_2.jpg" style="width: 1000px; min-width: 700px;" />
 
 <div class="alert alert-success" role="alert">
 

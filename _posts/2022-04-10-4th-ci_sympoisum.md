@@ -116,16 +116,15 @@ We look forward to seeing you at the symposium!
 
 
 
-<!-- #### TRAVEL GRANT
+#### TRAVEL GRANT
 
 Participants can apply for a travel grant award that can go towards
 partially covering the cost of attending the symposium by filling in
-this
-[form]([https://forms.gle/mD3DgKjqgGsdtvv18).](https://forms.gle/mD3DgKjqgGsdtvv18).)
+this [form](https://forms.gle/ZvUxENQnrhhaoE427).
 
-The only travel expenses that can be reimbursed are: air travel and
-hotel. The exact number of awards will depend on the availability of
-funds and will be determined as funding amounts are finalized. -->
+The only travel expenses that can be reimbursed are: **air travel** and
+**hotel**. The exact number of awards will depend on the availability of
+funds and will be determined as funding amounts are finalized. 
 
 #### IMPORTANT DATES
 
@@ -181,7 +180,7 @@ Florida)<br/> -->
 Email: [contact\@privaci.info](mailto:contact@privaci.info) <br/>
 Website: <https://privaci.info/>
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
-Twitter: [\@priva_ci](https://twitter.com/priva_ci)
+Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
 

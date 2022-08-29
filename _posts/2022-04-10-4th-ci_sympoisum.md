@@ -126,6 +126,8 @@ The only travel expenses that can be reimbursed are: **air travel** and
 **hotel**. The exact number of awards will depend on the availability of
 funds and will be determined as funding amounts are finalized. 
 
+**Note that grants are only available to attendees staying for the duration of the symposium. **
+
 #### IMPORTANT DATES
 
 **All deadlines are AoE (Anywhere on Earth).**

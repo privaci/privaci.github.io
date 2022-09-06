@@ -128,6 +128,16 @@ funds and will be determined as funding amounts are finalized.
 
 **Note that grants are only available to attendees staying for the duration of the symposium. **
 
+### NSF Student Grant Application
+
+Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply. 
+
+Students will be provided with support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
+
+Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch. 
+
+Please use this [link](https://docs.google.com/forms/d/e/1FAIpQLSfo9ZtoCdQlir2PZwmYQCHrFbclkyu7Bl36VDGGcA1UvtqSFQ/viewform?usp=sf_link) to apply asap: . We will allocate funding to qualified applicants until funding is used up.  
+
 #### IMPORTANT DATES
 
 **All deadlines are AoE (Anywhere on Earth).**

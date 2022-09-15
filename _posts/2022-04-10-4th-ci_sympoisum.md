@@ -96,7 +96,7 @@ upon review. -->
 
 We look forward to seeing you at the symposium!
 
-
+### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (draft, subject to change)
 
 #### [Accommodation & Logistics](https://privaci.info/ci_symposium/2022/logistics.html)
 <br/>
@@ -109,10 +109,7 @@ We look forward to seeing you at the symposium!
   Stay safe!</p>
 </div>      
 <br/>
-#### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (draft, subject to change)
 
-
-      
 
 
 
@@ -158,39 +155,31 @@ Chicago) <br/> [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu)
 
 #### Program Committee
 
-<br/> [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate
-University)<br/> [Louise Barkhuus](http://www.barkhu.us) (The IT
-University of Copenhagen)<br/> [Sebastian
-Benthall](http://sbenthall.net) (New York University) <br/> [Aloni
-Cohen](https://aloni.net) (University of Chicago) <br/> [Rachel
-Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings)
-(Columbia University) <br/> [Anupam
-Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU) <br/>
-[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/)
-(ICSI & UC, Berkeley)<br/> [Yafit
-Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/)
-(Zicklin School of Business, Baruch College)<br/> [Maritza
-Johnson](https://maritzajohnson.com/) (University of San Diego)<br/>
-[Margot E. Kaminski](http://www.margotkaminski.com) (University of
-Colorado Law School)<br/> [Priya Kumar](https://priyakumar.org)
-(Pennsylvania State University)<br /> [Kirsten
-Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
-[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT
-Kharagpur)<br /> [Madelyn
-Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at
-Urbana-Champaign)<br/> [Ido
-Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
-(University of Maryland) <br/> [Eran Toch](http://toch.tau.ac.il/) (Tel
-Aviv University)<br/> [Salomé Viljoen](https://www.salomeviljoen.com)
-(Columbia University) <br/> [Jessica Vitak](https://jessicavitak.com/)
-(University of Maryland)<br/>
+<br/> [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/> 
+[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/> 
+[Sebastian Benthall](http://sbenthall.net) (New York University) <br/> 
+[Aloni Cohen](https://aloni.net) (University of Chicago) <br/> 
+[Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/> 
+[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU) <br/>
+[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley)<br/> 
+[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/> 
+[Maritza Johnson](https://maritzajohnson.com/) (University of San Diego)<br/>
+[Margot E. Kaminski](http://www.margotkaminski.com) (University of Colorado Law School)<br/> 
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br /> 
+[Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
+[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br /> 
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/> 
+[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/> 
+[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/> 
+[Salomé Viljoen](https://www.salomeviljoen.com) (Columbia University) <br/> 
+[Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
 <!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central
 Florida)<br/> -->
 
 ### Contact
 
-Email: [contact\@privaci.info](mailto:contact@privaci.info) <br/>
-Website: <https://privaci.info/>
+Email: [contact@privaci.info](mailto:contact@privaci.info) <br/>
+Website: <https://privaci.info/><br/>
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
@@ -203,9 +192,6 @@ be sanctioned and/or expelled from the event, at the discretion of the
 General Chair(s).
 
 If you witnessed or experienced harassment or discriminatory behavior,
-please consider intervening and refer to the organizers
-([contact\@privaci.info](mailto:contact@privaci.info){.email}) for
-further action, with the consent of the affected party subject to
-applicable laws.
+please consider intervening and refer to the organizers ([contact@privaci.info](mailto:contact@privaci.info)) for further action, with the consent of the affected party subject to applicable laws.
 
 <hr/>

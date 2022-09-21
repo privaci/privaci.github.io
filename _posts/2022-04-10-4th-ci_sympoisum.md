@@ -97,7 +97,8 @@ upon review. -->
 We look forward to seeing you at the symposium!
 
 ### [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmvhMXAL3YWqo8EwptXUTFISjbNyX9cjHokuVB627YqxovLfQ6WbOa8Um_kSlSMSQG4jeK3CVToCxn/pubhtml?gid=1416502899&single=true) (All Times are in  Eastern Time Zone)
-PDF versions of Thursday and Friday Program Schedule
+
+#### PDF versions of [Thursday]({{ site.url }}/Thursday.pdf) and [Friday]({{ site.url }}/Friday.pdf) Program Schedules
 
 #### [Accommodation & Logistics](https://privaci.info/ci_symposium/2022/logistics.html)
 <br/>

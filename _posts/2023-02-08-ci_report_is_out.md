@@ -8,7 +8,7 @@ categories:
 #sponsors: right
 comments: false
 show_meta: false
-ermalink: symposium/2023/report.html
+permalink: symposium/2023/report.html
 ---
 
  <img src="{{ site.url }}/images/PrivaCI_Header_2022_Cropped_2.jpg" style="width: 1000px; min-width: 700px;" />

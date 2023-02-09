@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "The 4th Symposium on Applications of Contextual Integrity Report"
+title: "The 2nd Symposium on Applications of Contextual Integrity Report"
 categories:
 - blog
 #sidebar: right
@@ -10,10 +10,14 @@ comments: false
 show_meta: false
 ---
 
- <img src="{{ site.url }}/images/PrivaCI_Header_2022_Cropped_2.jpg" style="width: 1000px; min-width: 700px;" />
+![Alt text]({{ site.url }}/symposium2/ci_report_logo.png)
 
->  Cornell Tech’s Digital Life Initiative hosted the Fourth Annual Symposium on Applications of Contextual Integrity (CI) on September 22-23, 2022 in New York, New York. The CI Symposium showcases novel research and fosters generative interaction and community building among diverse communities of researchers using the theory of privacy as CI. Growing in participation and reach annually, the 4th annual symposium was the largest to date and connected domestic and international researchers from the fields of computer and information science, communication, education, engineering, law, philosophy, political science, and public health.
+>  Berkeley’s International Computer Science Institute and Cornell Tech's Digital Life Initiative hosted the Second Symposium on Applications of Contextual Integrity on August 19-20, 2019 in Berkeley, CA. The event brought together researchers from computer and information science, communication, political science, and public health to discuss research using the theory of privacy as contextual integrity (CI).
 
-[Download full report in PDF format]({{ site.url }}/symposium4/4th_CI_Symposium_Report.pdf)
+[Download full report in PDF format]({{ site.url }}/symposium2/2nd_CI_Symposium_Report.pdf)
 
+<!-- A report of the program’s discussions has been created and is available: [The 2nd Symposium on Applications of Contextual Integrity Report](http://www.techpolicy.com/getattachment/Blog/Featured-Blog-Post/Symposium-on-Applications-of-Contextual-Integrity/Symposium-on-Applications-of-Contextual-Integrity-Report,-Sept-2018.pdf.aspx).
 
+[Download full report in PDF format]({{ site.url }}/symposium2/2nd_CI_Symposium_Report.pdf)
+
+Read the full post on [TAP ](http://www.techpolicy.com/Symposium-ApplicationsContextualIntegrityReport-GuestBlog.aspx)-->

@@ -17,3 +17,4 @@ permalink: symposium/2023/report.html
 
 [Download full report in PDF format]({{ site.url }}/symposium4/4th_CI_Symposium_Report.pdf)
 
+The report was compiled by: Madiha Zahrah Choksi (Digital Life Initiative, Cornell Tech) using the notes taken by  Digital Life Initiative Doctoral Fellows, Post-Docs, Students and Conference Participants: Ero Balsa, Karoline Brehm, Amna Farzand, Ricardo Gonzalez, Shahan Iqbal, Kowe Kadoma, Ludwig Lorenz, Armin Namavari, Nikita Samarin, Hauke Sandhaus, Rebecca Scharlach

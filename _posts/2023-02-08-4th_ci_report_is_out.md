@@ -3,9 +3,9 @@ layout: event
 header: no
 title: "The 4th Symposium on Applications of Contextual Integrity Report"
 categories:
-    - blog     
-#sidebar: right
-#sponsors: right
+    - Event
+    #sidebar: right
+    #sponsors: right
 comments: false
 show_meta: false
 permalink: symposium/2023/report.html

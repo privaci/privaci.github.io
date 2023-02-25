@@ -81,7 +81,7 @@ We will accept any of the following submission types:
 * An extended abstract (1-2 pages) summarizing published or mature work. Please
   include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
 * A 1-page description of an interesting use case to be discussed at the symposium.
-* Industry track: A 1-page description of real-world case study from industry or policy.
+* **NEW:** ndustry track: A 1-page description of real-world case study from industry or policy.
 
 The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
 subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
@@ -144,6 +144,8 @@ TBD <!-- Please make submissions using [the submission site.](https://cisymposiu
 <br/>
 
 #### Program Committee
+
+TBD
 
 <br/>
 

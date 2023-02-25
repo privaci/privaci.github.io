@@ -128,7 +128,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 * Register an intent/abstract:  June 17, 2023
 * Submissions Due: June 24, 2023
 * Notifications: July 25, 2023
-* Symposium dates: September 22 and 23, 2023
+* Symposium dates: September 21 and 22, 2023
 
 #### HOW TO SUBMIT
 

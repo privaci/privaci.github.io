@@ -63,7 +63,7 @@ permalink: symposium/2023/cfp.html
   Stay safe!</p>
 </div>--> 
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo.png)
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual

@@ -67,7 +67,7 @@ permalink: symposium/2023/cfp.html
 
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual
- Integrity on <b>September 22-23 </b> in Toronto, Canada, [Lassonde School of Engineering at York University, York University](https://lassonde.yorku.ca). 
+ Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering at York University, York University](https://lassonde.yorku.ca). 
 <!-- This will be a hybrid event in which attendees can participate either in-person or over
  Zoom. We will provide the details closer to the dates of the symposium. -->
 

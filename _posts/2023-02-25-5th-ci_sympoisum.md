@@ -154,6 +154,7 @@ TBD <!-- Please make submissions using [the submission site.](https://cisymposiu
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 <!-- [Aloni Cohen](https://aloni.net) (University of Chicago) <br/>-->
 [Jorge Pereira Campos](https://www.universiteitleiden.nl/en/staffmembers/jorge-pereira-campos#tab-1) (Leiden University) <br/>
+[Ignacio Cofone](http://www.ignaciocofone.com) (McGill University)<br/>
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/cathy-dwyer) (Pace Univertisy) <br/>
 <!-- [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/> -->
@@ -175,7 +176,6 @@ TBD <!-- Please make submissions using [the submission site.](https://cisymposiu
 [Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br/>
 <!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/> -->
 [Michael Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php) (Marquette University)<br/>
-
 
 
 

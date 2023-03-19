@@ -156,8 +156,8 @@ TBD <!-- Please make submissions using [the submission site.](https://cisymposiu
 [Jorge Pereira Campos](https://www.universiteitleiden.nl/en/staffmembers/jorge-pereira-campos#tab-1) (Leiden University) <br/>
 [Ignacio Cofone](http://www.ignaciocofone.com) (McGill University)<br/>
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
+[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/cathy-dwyer) (Pace Univertisy) <br/>
-<!-- [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/> -->
 [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley)<br/>
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
 <!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/> -->

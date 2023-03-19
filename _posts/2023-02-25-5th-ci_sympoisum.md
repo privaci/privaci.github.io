@@ -145,10 +145,6 @@ TBD <!-- Please make submissions using [the submission site.](https://cisymposiu
 
 #### Program Committee
 
-
-<br/>
-
-
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>

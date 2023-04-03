@@ -132,7 +132,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 #### HOW TO SUBMIT
 
-Please use the [the submission site.](https://cisymposium.eecs.yorku.ca)
+Please use the [submission site.](https://cisymposium.eecs.yorku.ca)
 
 
 
@@ -192,7 +192,7 @@ Please use the [the submission site.](https://cisymposium.eecs.yorku.ca)
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
-Website: [https://privaci.info/](https://privaci.info/ )
+Website: [https://privaci.info/](https://privaci.info/ )<br/>
 <!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 

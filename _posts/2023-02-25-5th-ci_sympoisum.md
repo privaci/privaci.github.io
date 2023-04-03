@@ -132,7 +132,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 #### HOW TO SUBMIT
 
-TBD <!-- Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)-->
+Please use the [the submission site.](https://cisymposium.eecs.yorku.ca)
 
 
 

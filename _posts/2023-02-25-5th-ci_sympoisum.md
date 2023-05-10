@@ -165,6 +165,7 @@ Please use the [submission site.](https://cisymposium.eecs.yorku.ca)
 <!-- [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>-->
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/>
+[Luke Stark ](https://starkcontrast.co) (Western University)
 [Daniel Susser](http://www.danielsusser.info) (Penn State University)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
 <!-- [Salomé Viljoen](https://www.salomeviljoen.com) (Columbia University) <br/>-->

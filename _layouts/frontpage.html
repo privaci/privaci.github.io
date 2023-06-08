@@ -61,10 +61,10 @@ format: blog-index
 				title="Read {{ post.title escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
 		</p>
 		{% endfor %}
-	</div> <!-- /.medium-5.columns -->
+		<!--</div> /.medium-5.columns -->
 
-	<div class="medium-6 columns">
-		<!--	<p><strong>{{ site.data.language.more_articles }}</strong></p> -->
+		<!--<div class="medium-6 columns">-->
+		<p><strong>{{ site.data.language.more_articles }}</strong></p>
 		{% include list-posts entries='6' offset='1' %}
 	</div>
 	<div class="medium-6 columns">

@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "The 5th Annual Symposium on Applications Of Contextual Integrity"
+title: "2023: The 5th Annual Symposium on Applications Of Contextual Integrity, Toronto"
 teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event

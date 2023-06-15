@@ -168,7 +168,7 @@ Please use the [submission site.](https://cisymposium.eecs.yorku.ca)
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Daniel Susser](http://www.danielsusser.info) (Penn State University)<br/>
 [Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
-<!-- [Salomé Viljoen](https://www.salomeviljoen.com) (Columbia University) <br/>-->
+[Salomé Viljoen](https://www.salomeviljoen.com) (University of Michigan Law School) <br/>
 [Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
 [Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br/>
 <!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/> -->

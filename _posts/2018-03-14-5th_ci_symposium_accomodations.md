@@ -42,10 +42,7 @@ Rate: **$174** plus 13%HST based on single occupancy; $20 plus 13% HST applies a
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. Please book your accoomodation as soon as possible.
 
 
-## Alternative Accommodations
-
-The Schulich School of Business' Executive Learning Centre is connected to downtown Toronto by subway, with York University station located directly outside the School. You can stay downtown for the arts and culture, while easily getting to the conference venue on public transit.
-
+### Alternative Accommodations
 
 For those wishing to stay off campus (e.g., downtown Toronto), we would encourage you to find options along the TTC’s Line 1 (the University side, i.e. between Union and York University) to ensure easy, direct and quick arrival to York University.
 

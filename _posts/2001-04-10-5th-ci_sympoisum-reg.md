@@ -107,10 +107,18 @@ __TBD__
 
 #### REGISTRATION
 
-Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
- 
+Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
+
+
 Please use this [link to register]() 
 
+<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
+before the event.
+</p>
+
+If paying the registration fee would cause financial hardship for you, 
+please email the organizers:
+<a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
 
 #### [Logistics](https://privaci.info/symposium/2023/logistics.html)

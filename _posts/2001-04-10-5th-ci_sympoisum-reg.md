@@ -114,7 +114,7 @@ Please use this [link to register]()
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
-</p>
+<p>
 
 If paying the registration fee would cause financial hardship for you, 
 please email the organizers:
@@ -215,7 +215,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
 Website: [https://privaci.info/](https://privaci.info/ )
-<!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
+<br/>
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct

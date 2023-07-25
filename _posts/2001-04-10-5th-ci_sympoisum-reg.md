@@ -113,7 +113,7 @@ Please use this [link to register]()
 
 
 
-#### [Logistics](https://privaci.info/symposium/2023/logistics.htmll)
+#### [Logistics](https://privaci.info/symposium/2023/logistics.html)
 
 For information on the event location and accommodations.
 

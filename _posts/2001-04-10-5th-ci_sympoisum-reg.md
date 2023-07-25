@@ -114,7 +114,6 @@ Please use this [link to register]()
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
-<p>
 
 If paying the registration fee would cause financial hardship for you, 
 please email the organizers:

@@ -92,7 +92,7 @@ there is an option to waive the registration fee for in person participation. Pl
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
 
-
+<!--
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
@@ -120,25 +120,48 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
 <!-- We look forward to seeing you at the symposium!
 
+-->
 
-#### [REGISTRATION](https://privaci.info/symposium/2022/program.html)-->
+#### [REGISTRATION](https://privaci.info/symposium/2023/program.html)
 
 
-<!-- Registration for the symposium is $80 for in-person attendees and $15 for
- virtual attendees. For in-person attendees, the registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
- 
-Please use this [link to register](https://uchicago.co1.qualtrics.com/jfe/form/SV_bfLQC2GQ5pCuLZ4) 
+Registration for the symposium is <b>CAD $120</b>. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
 
-#### TRAVEL GRANT
+If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee for in person participation. Please email the organizers:
+<a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/mD3DgKjqgGsdtvv18). 
 
-The only travel expenses that can be reimbursed are: air travel and hotel. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
+#### TRAVEL GRANTS
 
-#### [Logistics](https://privaci.info/ci_symposium/logistics.html)
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading"></h4>
+  <p>
+ Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch, expected to participate in both days of the workshop, and provide a short report following the sympoisum.
+ </p>
+</div>
+
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/nnt8Ycq5Vc6CURN17). 
+
+The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
+
+
+## NSF Student Grant Application
+
+**The NSF awards are limited to students studying at a US institution** 
+
+Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply. 
+
+Students will be provided with support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
+
+Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch. 
+
+Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will allocate funding to qualified applicants until funding is used up.  
+
+
+#### [Logistics](https://privaci.info/symposium/2023/logistics.html)
 
 For information on the event location and accommodations.
--->
+
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__

@@ -128,7 +128,7 @@ For information on the event location and accommodations.
 
 #### TRAVEL GRANTS
 
-<div class="alert alert-warning" role="alert">
+<div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
  Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch, expected to participate in both days of the workshop, and provide a short report following the sympoisum.

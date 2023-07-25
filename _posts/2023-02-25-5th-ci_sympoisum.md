@@ -130,6 +130,9 @@ Registration for the symposium is <b>CAD $120</b>. The registration includes din
 If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
+### [Logistics](https://privaci.info/symposium/2023/logistics.html)
+
+For information on the event location and accommodations.
 
 #### TRAVEL GRANTS
 
@@ -158,9 +161,7 @@ Registration costs will be waived for all travel grant awardees. Travel grant aw
 Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will allocate funding to qualified applicants until funding is used up.  
 
 
-#### [Logistics](https://privaci.info/symposium/2023/logistics.html)
 
-For information on the event location and accommodations.
 
 #### IMPORTANT DATES
 

@@ -75,7 +75,7 @@ Please use this <a href='https://www.eventbrite.ca/e/the-5th-annual-symposium-on
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
-</p>
+<br/>
 If paying the registration fee would cause financial hardship for you,
 there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>

@@ -133,16 +133,16 @@ Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will al
 
 
 
-#### [Logistics](https://privaci.info/ci_symposium/logistics.html)
+#### [Logistics](https://privaci.info/ i_symposium/2023/logistics.htmll)
 
 For information on the event location and accommodations.
--->
+
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract:  June 17, 2023
-* Submissions Due: June 24, 2023
+~~* Register an intent/abstract:  June 17, 2023~~
+~~* Submissions Due: June 24, 2023~~
 * Notifications: July 25, 2023
 * Symposium dates: September 21 and 22, 2023
 

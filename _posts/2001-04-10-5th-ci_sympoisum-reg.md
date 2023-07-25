@@ -110,7 +110,7 @@ __TBD__
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
 
 
-Please use this [link to register]() 
+<b>Please use this [link to register](https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) </b>
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.

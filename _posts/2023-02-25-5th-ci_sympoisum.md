@@ -65,6 +65,24 @@ permalink: symposium/2023/cfp.html
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 
+<div class="alert alert-success" role="alert">
+
+<h4 class="alert-heading">Registration is open!</h4>
+Registration for the symposium is <b>CAD $120</b>. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday.
+<p>
+Please use this <a href='https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator'>link to register</a>.
+<p/>
+
+<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
+before the event.
+</p>
+If paying the registration fee would cause financial hardship for you,
+there is an option to waive the registration fee for in person participation. Please email the organizers:
+<a href="mailto:contact@privaci.info">contact@privaci.info</a>
+
+</div>
+
+
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual
  Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering, York University](https://lassonde.yorku.ca). 

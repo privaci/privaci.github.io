@@ -53,14 +53,14 @@ permalink: symposium/2023/program.html
 }
 
 </style>
-<div class="alert alert-warning" role="alert">
+<!--<div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
   We are monitoring the COVID situation. More details will be made
   available closer to the day which may include required testing, masking indoors and proof of vaccination. 
   <p/>
   Stay safe!</p>
-</div> 
+</div> -->
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 
@@ -102,17 +102,24 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 -->
 #### REGISTRATION
 
-Registration for the symposium is CAD$120 for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
+Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee (with no further questions asked) at the end of the survey.
  
 Please use this [link to register]() 
 
 #### TRAVEL GRANTS
 
+<div class="alert alert-warning" role="alert">
+<h4 class="alert-heading">l</h4>
+  <p>
+ Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch, expected to participate in both days of the workshop, and provide a short report following the sympoisum.
+</div> 
+
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/nnt8Ycq5Vc6CURN17). 
 
 The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
 
-### NSF Student Grant Application
+
+## NSF Student Grant Application
 
 **The NSF awards are limited to students studying at a US institution** 
 

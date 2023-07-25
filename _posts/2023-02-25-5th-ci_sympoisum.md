@@ -71,15 +71,15 @@ permalink: symposium/2023/cfp.html
 Registration for the symposium is <b>CAD $120</b>. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday.
 <p>
 Please use this <a href='https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator'>link to register</a>.
-<p/>
+</p>
 
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
-<br/>
+<p>
 If paying the registration fee would cause financial hardship for you,
 there is an option to waive the registration fee for in person participation. Please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
-
+</p>
 </div>
 
 

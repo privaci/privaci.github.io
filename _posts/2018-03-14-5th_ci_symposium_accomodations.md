@@ -14,11 +14,11 @@ permalink: symposium/2023/logistics.html
 ---
 <br/>
 
-![Image not found: {{ site.url }}/images/logo2022.png]({{ site.url }}/images/logo2022.png "Image not found: {{ site.url }}/images/logo2022.png")
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 
 ## Event Location
 
-<!--> This year 5th CI Symposium will be held in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island in New York City. -->
+<!-- This year 5th CI Symposium will be held in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island in New York City. -->
 
 The  5th Annual Symposium on Applications of Contextual Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering, York University](https://lassonde.yorku.ca) at the [Schulich School of Business’ Executive Learning Centre (ELC)](https://execed.schulich.yorku.ca/about-us/contact-locations/schulich-executive-learning-centre/).
  

@@ -46,6 +46,21 @@ A block of guestrooms has been set aside on a first-come, first-served basis for
 
 For those wishing to stay off campus (e.g., downtown Toronto), we would encourage you to find options along the TTC’s Line 1 (the University side, i.e. between Union and York University) to ensure easy, direct and quick arrival to York University.
 
+####  Off-Campus Accommodation
+
+
+|  [Homewood Suites – Toronto Vaughan](https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/)                                                         | 618 Applewood Crescent
+Vaughan, Ontario, L4K 4B4, Canada
+ | Travel time to campus: 15-minute drive or 30 minutes by subway  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
+| [Residence Inn Toronto Vaughan](https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) 
+
+       | 612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4 | Travel time to campus: 10-minute drive or 15 minutes by subway  |
+| [Spring Hill Suites Toronto Vaughan](https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) | 612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4 | Travel time to campus:  15-minute drive or 30 minutes by subway |
+| [Hilton Garden Inn](https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/)                                                                        | 3201 Highway 7 Vaughan, Ontario L4K 5Z7 Canada            | Travel time to campus: 10-minute drive or 20 minutes by subway  |
+|                                                                                                                                                                         |                                                           |                                                                 |
+
+
 
 # Getting Here
 

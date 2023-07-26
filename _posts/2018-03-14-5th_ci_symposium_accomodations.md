@@ -50,7 +50,7 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 <table>
 <tr>
-<td><a href src="https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/">Homewood Suites – Toronto Vaughan</a>
+<td><a href src="https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/">Homewood Suites – Toronto Vaughan</a></td>
 <td>618 Applewood Crescent  Vaughan, Ontario, L4K 4B4, Canada</td>
 <td>Travel time to campus: 15-minute drive or 30 minutes by subway </td>
 </tr>

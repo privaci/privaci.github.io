@@ -48,17 +48,39 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 ####  Off-Campus Accommodation
 
+<table>
+<tr>
+<td><a href src="https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/">Homewood Suites – Toronto Vaughan</a>
+<td>618 Applewood Crescent  Vaughan, Ontario, L4K 4B4, Canada</td>
+<td>Travel time to campus: 15-minute drive or 30 minutes by subway </td>
+</tr>
 
-|  [Homewood Suites – Toronto Vaughan](https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/)                                                         | 618 Applewood Crescent
-Vaughan, Ontario, L4K 4B4, Canada
- | Travel time to campus: 15-minute drive or 30 minutes by subway  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
-| [Residence Inn Toronto Vaughan](https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) 
+<tr>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Residence Inn Toronto Vaughan</a>
+<td>11 Interchange Way, Vaughan, Ontario, Canada, L4K 5W3</td>
+<td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
+</tr>
 
-       | 612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4 | Travel time to campus: 10-minute drive or 15 minutes by subway  |
-| [Spring Hill Suites Toronto Vaughan](https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) | 612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4 | Travel time to campus:  15-minute drive or 30 minutes by subway |
-| [Hilton Garden Inn](https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/)                                                                        | 3201 Highway 7 Vaughan, Ontario L4K 5Z7 Canada            | Travel time to campus: 10-minute drive or 20 minutes by subway  |
-|                                                                                                                                                                         |                                                           |                                                                 |
+
+<tr>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Spring Hill Suites Toronto Vaughan</a>
+<td>612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4</td>
+<td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
+</tr>
+
+<tr>
+<td><a href src="https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/">Hilton Garden Innn</a>
+<td>3201 Highway 7 Vaughan, Ontario L4K 5Z7 Canada</td>
+<td> Travel time to campus: 10-minute drive or 20 minutes by subway</td>
+</tr>
+
+<tr>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyzvn-courtyard-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0 ">Courtyard by Marriott Toronto Vaughan</a>
+<td>150 Interchange Way, Toronto, ON L4K 5P7</td>
+<td> Travel time to campus: 10-minte drive or 25 minutes by subway</td>
+</tr>
+
+</table>
 
 
 

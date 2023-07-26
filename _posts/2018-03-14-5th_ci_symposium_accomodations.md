@@ -56,26 +56,26 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 </tr>
 
 <tr>
-<td><a href src="https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Residence Inn Toronto Vaughan</a>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Residence Inn Toronto Vaughan</a></td>
 <td>11 Interchange Way, Vaughan, Ontario, Canada, L4K 5W3</td>
 <td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
 </tr>
 
 
 <tr>
-<td><a href src="https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Spring Hill Suites Toronto Vaughan</a>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Spring Hill Suites Toronto Vaughan</a></td>
 <td>612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4</td>
 <td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
 </tr>
 
 <tr>
-<td><a href src="https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/">Hilton Garden Innn</a>
+<td><a href src="https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/">Hilton Garden Innn</a></td>
 <td>3201 Highway 7 Vaughan, Ontario L4K 5Z7 Canada</td>
 <td> Travel time to campus: 10-minute drive or 20 minutes by subway</td>
 </tr>
 
 <tr>
-<td><a href src="https://www.marriott.com/en-us/hotels/yyzvn-courtyard-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0 ">Courtyard by Marriott Toronto Vaughan</a>
+<td><a href src="https://www.marriott.com/en-us/hotels/yyzvn-courtyard-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0 ">Courtyard by Marriott Toronto Vaughan</a></td>
 <td>150 Interchange Way, Toronto, ON L4K 5P7</td>
 <td> Travel time to campus: 10-minte drive or 25 minutes by subway</td>
 </tr>

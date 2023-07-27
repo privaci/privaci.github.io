@@ -100,10 +100,10 @@ We will accept any of the following submission types:
   include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
 * A 1-page description of an interesting use case to be discussed at the symposium.
 * **NEW:** Industry track: A 1-page description of real-world case study from industry or policy. (Email the organizers for more info)
-
+-->
 The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
 subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
-
+<!--
 Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
 
 * Empirical studies (qualitative, quantitative, experimental)
@@ -121,6 +121,10 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 <!-- We look forward to seeing you at the symposium!
 
 -->
+
+### PROGRAM 
+
+__TBD__
 
 #### [REGISTRATION](https://privaci.info/symposium/2023/program.html)
 

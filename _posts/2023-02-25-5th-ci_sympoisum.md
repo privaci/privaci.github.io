@@ -143,7 +143,7 @@ If paying the registration fee would cause financial hardship for you, there is 
 
 ### [Logistics](https://privaci.info/symposium/2023/logistics.html)
 
-For information on the event location and accommodations [click here]((https://privaci.info/symposium/2023/logistics.html).
+For information on the event location and accommodations [click here](https://privaci.info/symposium/2023/logistics.html).
 
 #### TRAVEL GRANTS
 

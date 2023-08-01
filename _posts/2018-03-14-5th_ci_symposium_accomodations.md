@@ -23,13 +23,11 @@ permalink: symposium/2023/logistics.html
 The  5th Annual Symposium on Applications of Contextual Integrity on <b>September 21-22 </b> in Toronto, Canadaat the [Schulich School of Business' Executive Learning Centre](https://execed.schulich.yorku.ca/about-us/contact-locations/schulich-executive-learning-centre/).
  
 
-
-
 ## Accommodations
 
 Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
 
-** To gurantee booking, please make your reservation before August 15 **
+To guarantee booking, please make your reservation by **August 15**
  
 To make a reservation, please reach out to the Executive Learning Centre Schulich School of Business through:
 

@@ -102,7 +102,7 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 -->
 ### Symposium Program
 
-__TBD__
+[Draft Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) (__Subject to change__)
 
 
 #### REGISTRATION
@@ -160,7 +160,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 * ~~Register an intent/abstract:  June 17, 2023~~
 * ~~Submissions Due: June 24, 2023~~
-* Notifications: July 25, 2023
+* ~~Notifications: July 25, 2023~~
 * Symposium dates: September 21 and 22, 2023
 
 

@@ -123,9 +123,10 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
 -->
 
-### PROGRAM 
+### SYMPOSIUM PROGRAM 
 
-__TBD__
+[Draft Symposium Project](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true)__(Subject to change)__
+
 
 #### [REGISTRATION](https://privaci.info/symposium/2023/program.html)
 

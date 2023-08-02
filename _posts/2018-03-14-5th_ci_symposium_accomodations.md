@@ -50,7 +50,7 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 <table>
     <tr>
-<td><a[ href src="https://www.marriott.com/en-us/hotels/yyzvn-courtyard-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0](https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP) ">Courtyard by Marriott Toronto Vaughan</a></td>
+<td><a href src="https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP">Courtyard by Marriott Toronto Vaughan</a></td>
 <td>150 Interchange Way, Toronto, ON L4K 5P7</td>
 <td> **Special rate (209 CAD per night) for the symposium participants until August 22, 2023.** Travel time to campus: 10-minte drive or 25 minutes by subway</td>
 </tr>

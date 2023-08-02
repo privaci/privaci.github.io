@@ -120,9 +120,9 @@ please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
 
-#### [Logistics](https://privaci.info/symposium/2023/logistics.html)
+#### Logistics
 
-For information on the event location and accommodations.
+For information on the event location and accommodations [click here](https://privaci.info/symposium/2023/logistics.html).
 
 
 #### TRAVEL GRANTS

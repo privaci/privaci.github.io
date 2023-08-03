@@ -38,8 +38,9 @@ To make a reservation, please reach out to the Executive Learning Centre Schulic
 **Phone**: 1 416 650 8300
  
 Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
- 
-A block of guestrooms has been set aside on a first-come, first-served basis for participants. Please book your accoomodation as soon as possible.
+
+
+A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.
 
 
 ### Alternative Accommodations

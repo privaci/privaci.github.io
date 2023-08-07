@@ -42,7 +42,7 @@ permalink: symposium/2023/logistics.html
 }
 .alert-warning{
     color:#856404;
-    background-color:#fff3cd;
+    background-color:#e6e6e6;
     border-color:#ffeeba
 }
 .alert-warning hr{
@@ -76,9 +76,9 @@ A block of guestrooms has been set aside on a first-come, first-served basis for
 <p>
 Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
  </p>
- **Email** : <A href src="mailto:reservations@schulich.yorku.ca?subject=CI Symposium room reservation, block #525134">reservations@schulich.yorku.ca</a>)
+ <b>Email</b> : <A href src="mailto:reservations@schulich.yorku.ca?subject=CI Symposium room reservation, block #525134">reservations@schulich.yorku.ca</a>)
 
-**Phone**: 1 416 650 8300
+<b>Phone</b>: 1 416 650 8300
 </div>
 
 To guarantee booking, please make your reservation by **August 15**
@@ -100,7 +100,7 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
     <tr>
 <td><a href src="https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP">Courtyard by Marriott Toronto Vaughan</a></td>
 <td>150 Interchange Way, Toronto, ON L4K 5P7</td>
-<td> **Special rate (209 CAD per night) for the symposium participants until August 22, 2023.** Travel time to campus: 10-minte drive or 25 minutes by subway</td>
+<td> <b>Special rate (209 CAD per night) for the symposium participants until August 22, 2023.</b><br/> Travel time to campus: 10-minte drive or 25 minutes by subway</td>
 </tr>
 
 <tr>

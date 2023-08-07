@@ -13,6 +13,7 @@ show_meta: false
 permalink: symposium/2023/logistics.html
 ---
 <br/>
+
 <style>
 .alert{
     position:relative;
@@ -74,7 +75,7 @@ Participants are welcome to stay at the <a href src='http://www.acc-schulichexec
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. 
 </p>
 <p>
-Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
+Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block <b>#525134</b>
  </p>
  <p>
  <b>Email</b> : <a href src='mailto:reservations@schulich.yorku.ca&subject=CI Symposium room reservation, block #525134'>reservations@schulich.yorku.ca</a>

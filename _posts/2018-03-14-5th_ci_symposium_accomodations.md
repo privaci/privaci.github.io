@@ -29,7 +29,7 @@ permalink: symposium/2023/logistics.html
 }
 .alert-success {
     color: #155724;
-    background-color: #c6c6c6;
+    background-color: #f7f9f7;
     border-color: #c3e6cb;
 }
 

@@ -71,23 +71,32 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 Participants are welcome to stay at the <a href src='http://www.acc-schulichexecutiveconferencecentre.com/rooms.html'>Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
 </p>
 <p>
-A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.
+A block of guestrooms has been set aside on a first-come, first-served basis for participants. 
 </p>
 <p>
 Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
  </p>
  <p>
- <b>Email</b> : <a href src='mailto:reservations@schulich.yorku.ca?subject="CI Symposium room reservation, block #525134"'>reservations@schulich.yorku.ca</a>
+ <b>Email</b> : <a href src='mailto:reservations@schulich.yorku.ca&subject=CI Symposium room reservation, block #525134'>reservations@schulich.yorku.ca</a>
  </p>
 <p>
 <b>Phone</b>: 1 416 650 8300
 </p>
+<p>
+Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
+</p>
+<p>
+Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. 
+</p>
+<p>
+Please book your accoomodation as soon as possible! To guarantee booking, please make your reservation by <b>August 15</b>
+</p>
 </div>
 
-To guarantee booking, please make your reservation by **August 15**
+
 
  
-Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
+
 
 
 

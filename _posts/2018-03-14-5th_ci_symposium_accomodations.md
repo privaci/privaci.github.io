@@ -29,7 +29,7 @@ permalink: symposium/2023/logistics.html
 }
 .alert-success {
     color: #155724;
-    background-color: #d4edda;
+    background-color: #c6c6c6;
     border-color: #c3e6cb;
 }
 
@@ -68,7 +68,7 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
-Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. 
+Participants are welcome to stay at the <a href src='http://www.acc-schulichexecutiveconferencecentre.com/rooms.html'>Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
 </p>
 <p>
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.

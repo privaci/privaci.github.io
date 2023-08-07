@@ -13,6 +13,46 @@ show_meta: false
 permalink: symposium/2023/logistics.html
 ---
 <br/>
+<style>
+.alert{
+    position:relative;
+    padding:.75rem 1.25rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:.25rem
+}
+.alert-heading{
+    color:inherit
+}
+.alert-link{
+    font-weight:700
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb
+}
+
+.alert-success hr {
+    border-top-color: #b1dfbb
+}
+
+.alert-success .alert-link {
+    color: #0b2e13
+}
+.alert-warning{
+    color:#856404;
+    background-color:#fff3cd;
+    border-color:#ffeeba
+}
+.alert-warning hr{
+    border-top-color:#ffe8a1
+}
+.alert-warning .alert-link{
+    color:#533f03
+}
+
+</style>
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 

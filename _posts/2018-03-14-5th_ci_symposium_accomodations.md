@@ -25,7 +25,16 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 
 ## Accommodations
 
+
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading"></h4>
+  <p>
 Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
+ </p>
+ **Email** : [reservations@schulich.yorku.ca](mailto:reservations@schulich.yorku.ca?subject"=CI Symposium room reservation, block #525134")
+
+**Phone**: 1 416 650 8300
+</div>
 
 To guarantee booking, please make your reservation by **August 15**
  
@@ -33,9 +42,7 @@ To make a reservation, please reach out to the Executive Learning Centre Schulic
 
 
 
-**Email** : [reservations@schulich.yorku.ca](mailto:reservations@schulich.yorku.ca)
 
-**Phone**: 1 416 650 8300
  
 Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
 

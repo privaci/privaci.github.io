@@ -69,7 +69,7 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
-Participants are welcome to stay at the <a href=http://www.acc-schulichexecutiveconferencecentre.com/rooms.html>Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
+Participants are welcome to stay at the <a href="http://www.acc-schulichexecutiveconferencecentre.com/rooms.html">Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
 </p>
 <p>
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. 
@@ -111,7 +111,7 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 <table>
     <tr>
-<td><a href=https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP>Courtyard by Marriott Toronto Vaughan</a></td>
+<td><a href="https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP">Courtyard by Marriott Toronto Vaughan</a></td>
 <td>150 Interchange Way, Toronto, ON L4K 5P7</td>
 <td> <b>Special rate (209 CAD per night) for the symposium participants until August 22, 2023.</b><br/> Travel time to campus: 10-minte drive or 25 minutes by subway</td>
 </tr>

@@ -65,13 +65,12 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 
 ## Accommodations
 
-
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
 Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. 
 </p>
-<o>
+<p>
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.
 </p>
 <p>

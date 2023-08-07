@@ -30,7 +30,7 @@ permalink: symposium/2023/logistics.html
 .alert-success {
     color: #155724;
     background-color: #d4edda;
-    border-color: #c3e6cb
+    border-color: #c3e6cb;
 }
 
 .alert-success hr {
@@ -76,9 +76,12 @@ A block of guestrooms has been set aside on a first-come, first-served basis for
 <p>
 Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
  </p>
+ <p>
  <b>Email</b> : <A href src="mailto:reservations@schulich.yorku.ca?subject=CI Symposium room reservation, block #525134">reservations@schulich.yorku.ca</a>)
-
+ </p>
+<p>
 <b>Phone</b>: 1 416 650 8300
+</p>
 </div>
 
 To guarantee booking, please make your reservation by **August 15**

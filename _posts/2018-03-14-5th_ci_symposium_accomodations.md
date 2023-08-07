@@ -77,7 +77,7 @@ A block of guestrooms has been set aside on a first-come, first-served basis for
 Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
  </p>
  <p>
- <b>Email</b> : <A href src="mailto:reservations@schulich.yorku.ca?subject=CI Symposium room reservation, block #525134">reservations@schulich.yorku.ca</a>)
+ <b>Email</b> : <a href src=mailto:reservations@schulich.yorku.ca?subject=CI Symposium room reservation, block #525134>reservations@schulich.yorku.ca</a>)
  </p>
 <p>
 <b>Phone</b>: 1 416 650 8300

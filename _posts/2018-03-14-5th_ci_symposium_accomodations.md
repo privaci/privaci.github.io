@@ -69,7 +69,13 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
-Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
+Participants are welcome to stay at the [Schulich School of Business Executive Learning Centre (ELC)](http://www.acc-schulichexecutiveconferencecentre.com/rooms.html) onsite accommodation. 
+</p>
+<o>
+A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.
+</p>
+<p>
+Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block #525134
  </p>
  **Email** : [reservations@schulich.yorku.ca](mailto:reservations@schulich.yorku.ca?subject"=CI Symposium room reservation, block #525134")
 
@@ -77,17 +83,12 @@ Participants are welcome to stay at the [Schulich School of Business Executive L
 </div>
 
 To guarantee booking, please make your reservation by **August 15**
- 
-To make a reservation, please reach out to the Executive Learning Centre Schulich School of Business through:
-
-
-
 
  
 Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
 
 
-A block of guestrooms has been set aside on a first-come, first-served basis for participants. Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. Please book your accoomodation as soon as possible.
+
 
 
 ### Alternative Accommodations

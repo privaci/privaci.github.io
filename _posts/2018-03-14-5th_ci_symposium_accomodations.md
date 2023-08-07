@@ -69,7 +69,7 @@ The  5th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
-Participants are welcome to stay at the <a href src=http://www.acc-schulichexecutiveconferencecentre.com/rooms.html>Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
+Participants are welcome to stay at the <a href=http://www.acc-schulichexecutiveconferencecentre.com/rooms.html>Schulich School of Business Executive Learning Centre (ELC)</a> onsite accommodation. 
 </p>
 <p>
 A block of guestrooms has been set aside on a first-come, first-served basis for participants. 
@@ -78,7 +78,7 @@ A block of guestrooms has been set aside on a first-come, first-served basis for
 Please contact the ELC directly to make a reservation and indicate you are attending the CI symposium block <b>#525134</b>
  </p>
  <p>
- <b>Email</b> : <a href src='mailto:reservations@schulich.yorku.ca&subject=CI Symposium room reservation, block #525134'>reservations@schulich.yorku.ca</a>
+ <b>Email</b> : <a href='mailto:reservations@schulich.yorku.ca&subject=CI Symposium room reservation, block #525134'>reservations@schulich.yorku.ca</a>
  </p>
 <p>
 <b>Phone</b>: 1 416 650 8300
@@ -111,32 +111,32 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 <table>
     <tr>
-<td><a href src=https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP>Courtyard by Marriott Toronto Vaughan</a></td>
+<td><a href=https://www.marriott.com/events/start.mi?id=1690988666707&key=GRP>Courtyard by Marriott Toronto Vaughan</a></td>
 <td>150 Interchange Way, Toronto, ON L4K 5P7</td>
 <td> <b>Special rate (209 CAD per night) for the symposium participants until August 22, 2023.</b><br/> Travel time to campus: 10-minte drive or 25 minutes by subway</td>
 </tr>
 
 <tr>
-<td><a href src="https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/">Homewood Suites – Toronto Vaughan</a></td>
+<td><a href="https://www.hilton.com/en/hotels/yyzvghw-homewood-suites-toronto-vaughan/">Homewood Suites – Toronto Vaughan</a></td>
 <td>618 Applewood Crescent  Vaughan, Ontario, L4K 4B4, Canada</td>
 <td>Travel time to campus: 15-minute drive or 30 minutes by subway </td>
 </tr>
 
 <tr>
-<td><a href src="https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Residence Inn Toronto Vaughan</a></td>
+<td><a href="https://www.marriott.com/en-us/hotels/yyztv-residence-inn-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Residence Inn Toronto Vaughan</a></td>
 <td>11 Interchange Way, Vaughan, Ontario, Canada, L4K 5W3</td>
 <td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
 </tr>
 
 
 <tr>
-<td><a href src="https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Spring Hill Suites Toronto Vaughan</a></td>
+<td><a href="https://www.marriott.com/en-us/hotels/yyzsv-springhill-suites-toronto-vaughan/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0">Spring Hill Suites Toronto Vaughan</a></td>
 <td>612 Applewood Crescent, Vaughan, Ontario, Canada, L4K 4B4</td>
 <td> Travel time to campus: 10-minute drive or 15 minutes by subway </td>
 </tr>
 
 <tr>
-<td><a href src="https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/">Hilton Garden Innn</a></td>
+<td><a href="https://www.hilton.com/en/hotels/yyzvagi-hilton-garden-inn-toronto-vaughan/">Hilton Garden Innn</a></td>
 <td>3201 Highway 7 Vaughan, Ontario L4K 5Z7 Canada</td>
 <td> Travel time to campus: 10-minute drive or 20 minutes by subway</td>
 </tr>

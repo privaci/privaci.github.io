@@ -83,7 +83,7 @@ Please contact the ELC directly to make a reservation and indicate you are atten
 <b>Phone</b>: 1 416 650 8300
 </p>
 <p>
-Rate: **CAD $174** plus 13%HST based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
+Rate: <b>CAD $174</b> plus <b>13%HST</b> based on single occupancy; CAD $20 plus 13% HST applies as double occupancy fee
 </p>
 <p>
 Each delegate will be asked for period of stay, credit card information (credit number & expiry date), email add and phone number so we can provide the confirmation details. 

@@ -227,3 +227,10 @@ If you witnessed or experienced harassment or discriminatory behavior, please co
 
 
 <hr/>
+
+
+## We are graful for the support 
+
+<img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
+<img src="{{ site.url }}/images/york_logo.png" alt="York logo" />
+<img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>

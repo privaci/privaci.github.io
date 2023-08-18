@@ -250,6 +250,6 @@ If you witnessed or experienced harassment or discriminatory behavior, please co
 
 ## We are graful for the support 
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/NSF_Logo.png)
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/york_logo.png)
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/DLI_logo.png)
+<img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="70%"/>
+<img src="{{ site.url }}/images/york_logo.png" alt="York logo" />
+<img src="{{ site.url }}/images/DLI_logo.jog" alt="DLI logo" />

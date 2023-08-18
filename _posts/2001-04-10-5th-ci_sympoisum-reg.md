@@ -229,7 +229,7 @@ If you witnessed or experienced harassment or discriminatory behavior, please co
 <hr/>
 
 
-## We are grafeful for the support 
+## We are grateful for the support 
 <br/>
 <img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
 <img src="{{ site.url }}/images/york_logo.png" alt="York logo" />

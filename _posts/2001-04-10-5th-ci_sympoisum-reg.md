@@ -102,7 +102,7 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 -->
 ### Symposium Program
 
- [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/sympoisum5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
+ [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
 #### REGISTRATION
 
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 

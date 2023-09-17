@@ -119,7 +119,7 @@ symposium without submission, please fill in [this form](https: // forms.gle/tMw
 
 <!-- We look forward to seeing you at the symposium!
 
-- ->
+-->
 
 # SYMPOSIUM PROGRAM
 

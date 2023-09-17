@@ -13,141 +13,121 @@ permalink: symposium/2023/cfp.html
 ---
 <br/>
 
- <style >
+ <style>
 .alert{
-    position: relative;
-    padding: .75rem 1.25rem;
-    margin-bottom: 1rem;
-    border: 1px solid transparent;
-    border-radius: .25rem
+    position:relative;
+    padding:.75rem 1.25rem;
+    margin-bottom:1rem;
+    border:1px solid transparent;
+    border-radius:.25rem
 }
 .alert-heading{
-    color: inherit
+    color:inherit
 }
 .alert-link{
-    font-weight: 700
+    font-weight:700
 }
 .alert-success {
-    color:  # 155724;
-    background-color:  # d4edda;
-    border-color:  # c3e6cb
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb
 }
 
 .alert-success hr {
-    border-top-color:  # b1dfbb
+    border-top-color: #b1dfbb
 }
 
 .alert-success .alert-link {
-    color:  # 0b2e13
+    color: #0b2e13
 }
 .alert-warning{
-    color:  # 856404;
-    background-color:  # fff3cd;
-    border-color: # ffeeba
+    color:#856404;
+    background-color:#fff3cd;
+    border-color:#ffeeba
 }
 .alert-warning hr{
-    border-top-color: # ffe8a1
+    border-top-color:#ffe8a1
 }
 .alert-warning .alert-link{
-    color: # 533f03
+    color:#533f03
 }
 
-</style >
-<!--
-<div class = "alert alert-warning" role = "alert" >
-<h4 class = "alert-heading" > COVID Protocol < /h4 >
-  <p >
+</style>
+<!--<div class="alert alert-warning" role="alert">
+<h4 class="alert-heading">COVID Protocol</h4>
+  <p>
   We are monitoring the COVID situation. More details will be made
-  available closer to the day which may include required testing, masking indoors and proof of vaccination.
+  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
   <p/>
-  Stay safe!< /p >
-</div > - ->
+  Stay safe!</p>
+</div> -->
 
-![{{site.url}}/images/logo2022.png]({{site.url}}/images/5thSymposiumLogo2.png)
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
 
-<div class = "alert alert-success" role = "alert" >
-
-<h4 class = "alert-heading" > Registration is open!< /h4 >
-Registration for the symposium is <b > CAD $120 < /b > . The registration includes dinner on Thursday, a light breakfast(coffee and pastries) on Friday, and lunch on Friday.
-<p >
-Please use this < a href = 'https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator' > link to register < /a > .
-</p >
-
-<b > Note: < /b > Tickets are nonrefundable if purchased less than seven days
-before the event.
-<p >
-If paying the registration fee would cause financial hardship for you,
-there is an option to waive the registration fee for in person participation. Please email the organizers:
-<a href = "mailto:contact@privaci.info" > contact@privaci.info < /a >
-</p >
-</div >
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual
- Integrity on < b > September 21-22 < /b > in Toronto, Canada, [Lassonde School of Engineering, York University](https: // lassonde.yorku.ca).
-<!-- This will be a hybrid event in which attendees can participate either in -person or over
- Zoom. We will provide the details closer to the dates of the symposium. - ->
+ Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering, York University](https://lassonde.yorku.ca). 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
 
-
 <!--
+
 We will accept any of the following submission types:
 
-* A 4-page position paper on work in progress(references not included in the page limit)
-* An extended abstract(1-2 pages) summarizing published or mature work. Please
+* A 4-page position paper on work in progress (references not included in the page limit)
+* An extended abstract (1-2 pages) summarizing published or mature work. Please
   include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
 * A 1-page description of an interesting use case to be discussed at the symposium.
-* **NEW: ** Industry track: A 1-page description of real-world case study from industry or policy. (Email the organizers for more info)-->
+* A 1-page description of real-world case study from industry or policy.
 
-The workshop will not publish formal(i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in -progress for
+The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
 subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
 
-<!--
 Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
 
-* Empirical studies(qualitative, quantitative, experimental)
+* Empirical studies (qualitative, quantitative, experimental)
 * Legal, philosophical, ethical, and policy analysis
-* System design and / or implementations
+* System design and/or implementations
 * Combinations of the above
 
-Papers should be formatted using the[ACM Master Article Template](https: // www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose < b > format = sigconf < /b > . - ->
+Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
 
 
-<!--__Participation without submission: __ If you're interested in attending the
-symposium without submission, please fill in [this form](https: // forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.- ->
+__Participation without submission: __ If you're interested in attending the
+symposium without submission, please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.
 
 
-<!-- We look forward to seeing you at the symposium!
+ We look forward to seeing you at the symposium!
 
 -->
+### Symposium Program
 
-# SYMPOSIUM PROGRAM
+ [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
+#### REGISTRATION
 
-[Full Program](https: // docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899 & single=true)([Thursday]({{site.url}}/symposium5/Thursday.pdf) and [Friday]({{site.url}}/symposium5/Friday.pdf) schedules)
-
-
-# [REGISTRATION](https://privaci.info/symposium/2023/program.html)
+Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
 
 
-Registration for the symposium is <b > CAD $120 < /b > . The registration includes dinner on Thursday, a light breakfast(coffee and pastries) on Friday, and lunch on Friday.
+<b>Please use this [link to register](https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) </b>
 
-<b > Please use this[link to register](https: // www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) < /b >
-
-<b > Note: < /b > Tickets are nonrefundable if purchased less than seven days
+<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
 
-If paying the registration fee would cause financial hardship for you, there is an option to waive the registration fee for in person participation. Please email the organizers:
-<a href = "mailto:contact@privaci.info" > contact@privaci.info < /a >
+If paying the registration fee would cause financial hardship for you, 
+please email the organizers:
+<a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
-# [Logistics](https://privaci.info/symposium/2023/logistics.html)
 
-For information on the event location and accommodations[click here](https: // privaci.info/symposium/2023/logistics.html).
+#### Logistics
 
-# TRAVEL GRANTS
+For information on the event location and accommodations [click here](https://privaci.info/symposium/2023/logistics.html).
 
-<div class = "alert alert-success" role = "alert" >
-<h4 class = "alert-heading" > </h4 >
-  <p >
+
+#### TRAVEL GRANTS
+
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading"></h4>
+  <p>
  Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch, expected to participate in both days of the workshop, and provide a short report following the symposium.
  </p>
 </div>
@@ -178,14 +158,15 @@ Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will al
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract:  June 17, 2023
-* Submissions Due: June 24, 2023
-* Notifications: July 25, 2023
+* ~~Register an intent/abstract:  June 17, 2023~~
+* ~~Submissions Due: June 24, 2023~~
+* ~~Notifications: July 25, 2023~~
 * Symposium dates: September 21 and 22, 2023
 
-#### HOW TO SUBMIT
 
-Please use the [submission site.](https://cisymposium.eecs.yorku.ca)
+<!-- #### HOW TO SUBMIT
+
+Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)-->
 
 
 
@@ -228,13 +209,12 @@ Please use the [submission site.](https://cisymposium.eecs.yorku.ca)
 [Michael Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php) (Marquette University)<br/>
 
 
-
 ### Contact
 
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
-Website: [https://privaci.info/](https://privaci.info/ )<br/>
-<!-- [http://privaci.info/ci_symposium/cfp.html](http://privaci.info/ci_symposium/cfp.html)<br/>-->
+Website: [https://privaci.info/](https://privaci.info/ )
+<br/>
 Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
@@ -245,6 +225,7 @@ If you witnessed or experienced harassment or discriminatory behavior, please co
 
 
 <hr/>
+
 
 ## We are grateful for the support 
 <br/>

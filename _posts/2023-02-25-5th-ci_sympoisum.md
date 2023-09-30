@@ -199,7 +199,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Interaction between Decentralization and Contextual Integrity: A Focus on Blockchain Technologies</td>
-    <td>Fabien LECHEVALIER (Paris-Saclay University/Laval University)</td>
+    <td><ol>Fabien LECHEVALIER (Paris-Saclay University/Laval University)</ol></td>
     <td>Feedback session</td>
     <td></td>
   </tr>
@@ -257,7 +257,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Reconciling Polycentric Governance via Data Protection Addenda</td>
-    <td>Madelyn Sanfilippo (University of Illinois at Urbana-Champaign)</td>
+    <td><ol>Madelyn Sanfilippo (University of Illinois at Urbana-Champaign)</ol></td>
     <td>Full paper</td>
     <td></td>
   </tr>
@@ -382,8 +382,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 </table>
 
 
-
- <!--
+<!--
 #### REGISTRATION
 
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday. 

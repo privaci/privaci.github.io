@@ -105,7 +105,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 
  [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
 
-## Accepted Papers
+#### Accepted Papers
 
 
  <table border="1">
@@ -152,7 +152,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Data Minimization in Ad Tech: Using Contextual Integrity to Determine Permissible Secondary Data Uses</td>
-    <td>Sara Geoghegan (Electronic Privacy Information Center)</td>
+    <td>
+        <ol>Sara Geoghegan (Electronic Privacy Information Center)</ol></td>
     <td>Use case</td>
     <td></td>
   </tr>
@@ -192,7 +193,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Digital Redlining: Redlining in a New Era</td>
-    <td>Kyra Abrams (None)</td>
+    <td>  <ol>Kyra Abrams (University of Illinois at Urbana-Champaign)</ol></td>
     <td>Feedback session</td>
     <td></td>
   </tr>
@@ -215,7 +216,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Using Contextual Integrity to Explore Privacy Perceptions of Low-SES Users</td>
-    <td>Sana Maqsood (York University)</td>
+    <td>   <ol>Sana Maqsood (York University)</ol></td>
     <td>Feedback session</td>
     <td></td>
   </tr>
@@ -262,7 +263,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>A Fair Balance: Health data protection and the promotion of health data for research purposes</td>
-    <td>Irith Kist (Netherlands Cancer Institute and Leiden University)</td>
+    <td>   <ol>Irith Kist (Netherlands Cancer Institute and Leiden University)</ol></td>
     <td>Full paper</td>
     <td></td>
   </tr>
@@ -363,7 +364,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
   </tr>
   <tr>
     <td>Modelling Perceived Privacy Risk with Contextual Integrity for Risk Communication</td>
-    <td>Lukas Seiling (Weizenbaum Institute)</td>
+    <td>   <ol>Lukas Seiling (Weizenbaum Institute)</ol></td>
     <td>Full paper</td>
     <td></td>
   </tr>

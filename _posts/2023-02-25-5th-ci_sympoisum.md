@@ -10,10 +10,15 @@ categories:
 comments: false
 show_meta: false
 permalink: symposium/2023/cfp.html
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
+
 <br/>
 
- <style>
+```{=html}
+<style>
 .alert{
     position:relative;
     padding:.75rem 1.25rem;
@@ -53,6 +58,8 @@ permalink: symposium/2023/cfp.html
 }
 
 </style>
+```
+```{=html}
 <!--<div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
@@ -61,15 +68,20 @@ permalink: symposium/2023/cfp.html
   <p/>
   Stay safe!</p>
 </div> -->
+```
+![{{ site.url
+}}/images/logo2022.png](%7B%7B%20site.url%20%7D%7D/images/5thSymposiumLogo2.png)
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
+We intend to hold the 5th Annual Symposium on Applications of Contextual
+Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde
+School of Engineering, York University](https://lassonde.yorku.ca).
 
+The aim of the symposium is to foster interaction among diverse
+communities of research and practice using Contextual Integrity to
+reason about privacy, and to design and evaluate, craft regulation, and
+generate formal logics for privacy.
 
- We intend to hold the 5th Annual Symposium on Applications of Contextual
- Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering, York University](https://lassonde.yorku.ca). 
-
-The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
-
+```{=html}
 <!--
 
 We will accept any of the following submission types:
@@ -99,40 +111,63 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
  We look forward to seeing you at the symposium!
 -->
-
-
+```
 ### Symposium Program
 
- [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
+[Full
+Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true)
+([Thursday](%7B%7B%20site.url%20%7D%7D/symposium5/Thursday.pdf) and
+[Friday](%7B%7B%20site.url%7D%7D/symposium5/Friday.pdf) schedules)
 
- ### ACCEPTED PAPERS
+\### ACCEPTED PAPERS
 
- 
-| Title                                                                        | Authors                                                                          | Type              | Slides |
-|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------|--------|
-| Remote Healthcare Technology Use Cases and the Contextual Integrity of Older
-Adult User Privacy | Daniela Napoli  (Carleton University)
-2. Sonia Chiasson  (Carleton University)   | Use case          |        |
-|  Whose Policy? Privacy Challenges of Decentralized Platforms                 | Sohyeon Hwang  (Northwestern University)
-2. Priyanka Nanayakkara  (Northwestern University)
-3. Yan Shvartzshnaider  (York University) | Use case          |        |
-| Privacy Challenges in VR Classrooms: A CI Use Case                           | Karoline Brehm <karoline.engel.brehm@uni-weimar.de> (Bauhaus-Universität Weimar)
-2. Yan Shvartzshnaider <yansh@yorku.ca> (York University)
-3. David Goedicke <dg536@cornell.edu> (Cornell Tech) | Use case          |        |
-| Data Minimization in Ad Tech: Using Contextual Integrity to Determine
-Permissible Secondary Data Uses | Sara Geoghegan  (Electronic Privacy Information Center)                          |                   |        |
-| Future-Proofing the City: A Human Rights-Based Approach to the Governance of
-Algorithmic, Biometric, and Smart City Technologies | Anna Artyushina <anna.v.artyushina@gmail.com> (Toronto Metropolitan University)
-2. Alina Wernick <Alina.wernick@helsinki.fi> (University of Helsinki) | Extended Abstract |        |                                                        | Authors                                            | Type     | Slides |
-|------------------------------------------------------------------------------|----------------------------------------------------|----------|--------|
-| Remote Healthcare Technology Use Cases and the Contextual Integrity of Older
-Adult User Privacy | Daniela Napoli  (Carleton University)
-2. Sonia Chiasson  (Carleton University) | Use case |        |
-|  Whose Policy? Privacy Challenges of Decentralized Platforms                 | Sohyeon Hwang  (Northwestern University)
-2. Priyanka Nanayakkara  (Northwestern University)
-3. Yan Shvartzshnaider  (York University) | Use case |        |
++----------------------+------------------------+----------+----------+
+| Title                | Authors                | Type     | Slides   |
++======================+========================+==========+==========+
+| Remote Healthcare    | Daniela Napoli         | Use case |          |
+| Technology Use Cases | (Carleton University), |          |          |
+| and the Contextual   | \                      |          |          |
+| Integrity of Older   | Sonia Chiasson         |          |          |
+| Adult User Privacy   | (Carleton University)  |          |          |
++----------------------+------------------------+----------+----------+
+| Whose Policy?        | Sohyeon Hwang          | Use case |          |
+| Privacy Challenges   | (Northwestern          |          |          |
+| of Decentralized     | University), Priyanka  |          |          |
+| Platforms            | Nanayakkara            |          |          |
+|                      | (Northwestern          |          |          |
+|                      | University), Yan       |          |          |
+|                      | Shvartzshnaider (York  |          |          |
+|                      | University)            |          |          |
++----------------------+------------------------+----------+----------+
+| Privacy Challenges   | Karoline Brehm         | Use case |          |
+| in VR Classrooms: A  | (Bauhaus-Universität   |          |          |
+| CI Use Case          | Weimar), Yan           |          |          |
+|                      | Shvartzshnaider (York  |          |          |
+|                      | University), David     |          |          |
+|                      | Goedicke (Cornell      |          |          |
+|                      | Tech)                  |          |          |
++----------------------+------------------------+----------+----------+
+| Data Minimization in | Sara Geoghegan         | Use case |          |
+| Ad Tech: Using       | (Electronic Privacy    |          |          |
+| Contextual Integrity | Information Center)    |          |          |
+| to Determine         |                        |          |          |
+| Permissible          |                        |          |          |
+| Secondary Data Uses  |                        |          |          |
++----------------------+------------------------+----------+----------+
+| Future-Proofing the  | Anna Artyushina        | Extended |          |
+| City: A Human        | (Toronto Metropolitan  | Abstract |          |
+| Rights-Based         | University), Alina     |          |          |
+| Approach to the      | Wernick (University of |          |          |
+| Governance of        | Helsinki)              |          |          |
+| Algorithmic,         |                        |          |          |
+| Biometric, and Smart |                        |          |          |
+| City Technologies    |                        |          |          |
++----------------------+------------------------+----------+----------+
+|                      |                        |          |          |
++----------------------+------------------------+----------+----------+
 
- <!--
+```{=html}
+<!--
 #### REGISTRATION
 
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
@@ -193,73 +228,89 @@ __All deadlines are AoE (Anywhere on Earth).__
 * ~~Notifications: July 25, 2023~~
 * ~~Symposium dates: September 21 and 22, 2023~~
 -->
-
-
+```
+```{=html}
 <!-- #### HOW TO SUBMIT
 
 Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)-->
+```
+#### SYMPOSIUM CHAIRS
 
-
-
-#### SYMPOSIUM CHAIRS 
-<br/>
-[Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
-[Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) <br/>
-<br/>
+<br/> [Marshini Chetty](https://www.marshini.net) (University of
+Chicago) <br/> [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu)
+(Cornell Tech) <br/> [Yan Shvartzshnaider](https://shvartzshnaider.com)
+(York University) <br/> <br/>
 
 #### Program Committee
 
-[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
-[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
-[Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
+[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate
+University)<br/> [Louise Barkhuus](http://www.barkhu.us) (The IT
+University of Copenhagen)<br/> [Sebastian
+Benthall](http://sbenthall.net) (New York University) <br/>
 <!-- [Aloni Cohen](https://aloni.net) (University of Chicago) <br/>-->
-[Jorge Pereira Campos](https://www.universiteitleiden.nl/en/staffmembers/jorge-pereira-campos#tab-1) (Leiden University) <br/>
-[Ignacio Cofone](http://www.ignaciocofone.com) (McGill University)<br/>
-[Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
-[Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
-[Cathy Dwyer](https://www.pace.edu/profile/cathy-dwyer) (Pace Univertisy) <br/>
-[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley)<br/>
-[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
+[Jorge Pereira
+Campos](https://www.universiteitleiden.nl/en/staffmembers/jorge-pereira-campos#tab-1)
+(Leiden University) <br/> [Ignacio Cofone](http://www.ignaciocofone.com)
+(McGill University)<br/> [Rachel
+Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings)
+(Columbia University) <br/> [Anupam
+Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU) <br/>
+[Cathy Dwyer](https://www.pace.edu/profile/cathy-dwyer) (Pace
+Univertisy) <br/> [Serge
+Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI &
+UC, Berkeley)<br/> [Yafit
+Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/)
+(Zicklin School of Business, Baruch College)<br/>
 <!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/> -->
 <!-- [Margot E. Kaminski](http://www.margotkaminski.com) (University of Colorado Law School)<br/> -->
-[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
-[Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
-[Lee James McGuigan ](http://hussman.unc.edu/directory/faculty/lee-mcguigan) (University of North Carolina at Chapel Hill)<br/>
-[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State
+University)<br /> [Kirsten Martin](http://www.kirstenmartin.net)
+(University of Notre Dame)<br /> [Lee James
+McGuigan](http://hussman.unc.edu/directory/faculty/lee-mcguigan)
+(University of North Carolina at Chapel Hill)<br/> [Mainack
+Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 <!-- [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>-->
-[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
-[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/>
-[Luke Stark ](https://starkcontrast.co) (Western University)<br/>
-[Daniel Susser](http://www.danielsusser.info) (Penn State University)<br/>
-[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
-[Salomé Viljoen](https://www.salomeviljoen.com) (University of Michigan Law School) <br/>
-[Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
-[Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of
+Illinois at Urbana-Champaign)<br/> [Ido
+Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla)
+(University of Maryland) <br/> [Luke Stark](https://starkcontrast.co)
+(Western University)<br/> [Daniel Susser](http://www.danielsusser.info)
+(Penn State University)<br/> [Eran Toch](http://toch.tau.ac.il/) (Tel
+Aviv University)<br/> [Salomé Viljoen](https://www.salomeviljoen.com)
+(University of Michigan Law School) <br/> [Jessica
+Vitak](https://jessicavitak.com/) (University of Maryland)<br/> [Primal
+Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw)
+(ICSI)<br/>
 <!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/> -->
-[Michael Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php) (Marquette University)<br/>
-
+[Michael
+Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php)
+(Marquette University)<br/>
 
 ### Contact
 
-Email: [contact@privaci.info](mailto:contact@privaci.info)
-<br/>
-Website: [https://privaci.info/](https://privaci.info/ )
-<br/>
-Twitter: [@priva_ci](https://twitter.com/priva_ci)
+Email: [contact\@privaci.info](mailto:contact@privaci.info) <br/>
+Website: <https://privaci.info/> <br/> Twitter:
+[\@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
 
-The CI symposium is a safe and welcoming environment for all. We, as the organizers, are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event, at the discretion of the General Chair(s).
+The CI symposium is a safe and welcoming environment for all. We, as the
+organizers, are committed to facilitating an experience free of
+harassment and discrimination. Any participant violating this code will
+be sanctioned and/or expelled from the event, at the discretion of the
+General Chair(s).
 
-If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.info) for further action, with the consent of the affected party subject to applicable laws.
-
+If you witnessed or experienced harassment or discriminatory behavior,
+please consider intervening and refer to the organizers
+([contact\@privaci.info](mailto:contact@privaci.info){.email}) for
+further action, with the consent of the affected party subject to
+applicable laws.
 
 <hr/>
 
+## We are grateful for the support
 
-## We are grateful for the support 
 <br/>
 <img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
-<img src="{{ site.url }}/images/york_logo.png" alt="York logo" />
+<img src="{{ site.url }}/images/york_logo.png" alt="York logo"/>
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>

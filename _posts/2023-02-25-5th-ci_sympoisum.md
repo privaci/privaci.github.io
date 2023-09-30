@@ -105,7 +105,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 
  [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
 
- ### ACCEPTED PAPERS\
+## Accepted Papers
+
 
  <table border="1">
   <tr>
@@ -377,8 +378,6 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
     <td>Full paper</td>
     <td></td>
   </tr>
-</table>
-
 </table>
 
 

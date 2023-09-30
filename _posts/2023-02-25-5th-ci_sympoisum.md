@@ -105,9 +105,283 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
  [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
 
- ### ACCEPTED PAPERS
+ ### ACCEPTED PAPERS\
 
- 
+ <table border="1">
+  <tr>
+    <th>Title</th>
+    <th>Authors</th>
+    <th>Type</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Remote Healthcare Technology Use Cases and the Contextual Integrity of Older Adult User Privacy</td>
+    <td>
+      <ol>
+        <li>Daniela Napoli (Carleton University)</li>
+        <li>Sonia Chiasson (Carleton University)</li>
+      </ol>
+    </td>
+    <td>Use case</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Whose Policy? Privacy Challenges of Decentralized Platforms</td>
+    <td>
+      <ol>
+        <li>Sohyeon Hwang (Northwestern University)</li>
+        <li>Priyanka Nanayakkara (Northwestern University)</li>
+        <li>Yan Shvartzshnaider (York University)</li>
+      </ol>
+    </td>
+    <td>Use case</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Privacy Challenges in VR Classrooms: A CI Use Case</td>
+    <td>
+      <ol>
+        <li>Karoline Brehm (Bauhaus-Universität Weimar)</li>
+        <li>Yan Shvartzshnaider (York University)</li>
+        <li>David Goedicke (Cornell Tech)</li>
+      </ol>
+    </td>
+    <td>Use case</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Data Minimization in Ad Tech: Using Contextual Integrity to Determine Permissible Secondary Data Uses</td>
+    <td>Sara Geoghegan (Electronic Privacy Information Center)</td>
+    <td>Use case</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Future-Proofing the City: A Human Rights-Based Approach to the Governance of Algorithmic, Biometric, and Smart City Technologies</td>
+    <td>
+      <ol>
+        <li>Anna Artyushina (Toronto Metropolitan University)</li>
+        <li>Alina Wernick (University of Helsinki)</li>
+      </ol>
+    </td>
+    <td>Extended Abstract</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Matrix of Privacy: Data Infrastructure in the AI-Powered Metaverse</td>
+    <td>
+      <ol>
+        <li>Argyri Panezi (UNB Law, CRC Tier II)</li>
+        <li>Nizan Geslevich Packin (CUNY)</li>
+        <li>Leon Anidjar (IE Law School)</li>
+      </ol>
+    </td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Privacy & Contextual Integrity in a Crowdsourced Gig Work Knowledge Sharing Platform</td>
+    <td>
+      <ol>
+        <li>Arthur Borem (University of Chicago)</li>
+        <li>Elleen Pan (University of Chicago)</li>
+      </ol>
+    </td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Digital Redlining: Redlining in a New Era</td>
+    <td>Kyra Abrams (None)</td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Interaction between Decentralization and Contextual Integrity: A Focus on Blockchain Technologies</td>
+    <td>Fabien LECHEVALIER (Paris-Saclay University/Laval University)</td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Choice Architecture and Contextual Integrity in Privacy Decision Making</td>
+    <td>
+      <ol>
+        <li>Dr. Lauren Ministero (The MITRE Corporation)</li>
+        <li>Dr. Jonas Ludwig (Tel Aviv University)</li>
+      </ol>
+    </td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Using Contextual Integrity to Explore Privacy Perceptions of Low-SES Users</td>
+    <td>Sana Maqsood (York University)</td>
+    <td>Feedback session</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Automating GKC-CI Privacy Policy Annotations with LLMs</td>
+    <td>
+      <ol>
+        <li>Jake Chanenson (University of Chicago)</li>
+        <li>Madison Pickering (University of Chicago)</li>
+        <li>Noah Apthorpe (Colgate University)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CI + Scholar Infrastructure</td>
+    <td>
+      <ol>
+        <li>Madiha Zahrah Choksi (Cornell Tech)</li>
+        <li>Jake Chanenson (University of Chicago)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Contextual Integrity in the Context of Wearables: An Experiment</td>
+    <td>
+      <ol>
+        <li>August Bourgeus (imec-SMIT-VUB)</li>
+        <li>Laurens Vandercruysse (imec-SMIT-VUB)</li>
+        <li>Nanouk Verhulst (imec-SMIT-VUB)</li>
+      </ol>
+    </td>
+    <td>Full paper (4-page position paper on work in progress)</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Reconciling Polycentric Governance via Data Protection Addenda</td>
+    <td>Madelyn Sanfilippo (University of Illinois at Urbana-Champaign)</td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>A Fair Balance: Health data protection and the promotion of health data for research purposes</td>
+    <td>Irith Kist (Netherlands Cancer Institute and Leiden University)</td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Applying Contextual Integrity to Elicit Acceptance towards COVID Mitigation Mobile Applications in the US</td>
+    <td>
+      <ol>
+        <li>Yuanyuan Feng (University of Vermont)</li>
+        <li>Brad Stenger (University of Vermont)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Adaptively Regulating Privacy as Contextual Integrity</td>
+    <td>
+      <ol>
+        <li>Sebastian Benthall (New York University)</li>
+        <li>Ido Sivan-Sevilla (University of Maryland)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>First-Party vs Third-Party Privacy</td>
+    <td>
+      <ol>
+        <li>Benjamin Laufer (Cornell Tech)</li>
+        <li>Ahana Datta (University College London)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Expanding Contextual Integrity: Three Types of Information Flows</td>
+    <td>
+      <ol>
+        <li>Cara Bloom (MITRE)</li>
+        <li>Lauren Ministero (MITRE)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Applying Contextual Integrity to the Development of Polypharmacy Indicators in Canada</td>
+    <td>
+      <ol>
+        <li>Pierre-Luc Déziel (Université Laval)</li>
+        <li>Sylvain Auclair (Université Laval)</li>
+        <li>Caroline Sirois (Université Laval)</li>
+        <li>Richard Khoury (Université Laval)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Contextualizing Privacy for Older Adults in Canada</td>
+    <td>
+      <ol>
+        <li>Paola Marmorato (Carleton University)</li>
+        <li>Ruchi Swami (Carleton University)</li>
+        <li>Sanchita Kamath (Manipal Academy of Higher Education)</li>
+        <li>Nadila Asikaer (University of Waterloo)</li>
+        <li>Elizabeth Stobert (Carleton University)</li>
+        <li>Heather Molyneaux (National Research Council of Canada)</li>
+        <li>Cosmin Munteanu (University of Waterloo)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Five Safes as a Privacy Context</td>
+    <td>
+      <ol>
+        <li>James Bailie (Harvard University)</li>
+        <li>Ruobin Gong (Rutgers University)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>When PETs misbehave: A Contextual Integrity analysis</td>
+    <td>
+      <ol>
+        <li>Ero Balsa (Cornell Tech)</li>
+        <li>Yan Shvartzshnaider (York University)</li>
+      </ol>
+    </td>
+    <td>Full paper (Position Paper)</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>Modelling Perceived Privacy Risk with Contextual Integrity for Risk Communication</td>
+    <td>Lukas Seiling (Weizenbaum Institute)</td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Privacy Mini-Publics: A Deliberative Democratic Approach to Understanding Informational Norms</td>
+    <td>
+      <ol>
+        <li>Daniel Susser (Cornell University)</li>
+        <li>Matteo Bonotti (Monash University)</li>
+      </ol>
+    </td>
+    <td>Full paper</td>
+    <td></td>
+  </tr>
+</table>
+
+</table>
+
+
 
  <!--
 #### REGISTRATION

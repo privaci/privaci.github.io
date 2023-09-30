@@ -98,11 +98,41 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
 
 
  We look forward to seeing you at the symposium!
-
 -->
+
+
 ### Symposium Program
 
  [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
+
+ ### ACCEPTED PAPERS
+
+ 
+| Title                                                                        | Authors                                                                          | Type              | Slides |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------|--------|
+| Remote Healthcare Technology Use Cases and the Contextual Integrity of Older
+Adult User Privacy | Daniela Napoli  (Carleton University)
+2. Sonia Chiasson  (Carleton University)   | Use case          |        |
+|  Whose Policy? Privacy Challenges of Decentralized Platforms                 | Sohyeon Hwang  (Northwestern University)
+2. Priyanka Nanayakkara  (Northwestern University)
+3. Yan Shvartzshnaider  (York University) | Use case          |        |
+| Privacy Challenges in VR Classrooms: A CI Use Case                           | Karoline Brehm <karoline.engel.brehm@uni-weimar.de> (Bauhaus-Universität Weimar)
+2. Yan Shvartzshnaider <yansh@yorku.ca> (York University)
+3. David Goedicke <dg536@cornell.edu> (Cornell Tech) | Use case          |        |
+| Data Minimization in Ad Tech: Using Contextual Integrity to Determine
+Permissible Secondary Data Uses | Sara Geoghegan  (Electronic Privacy Information Center)                          |                   |        |
+| Future-Proofing the City: A Human Rights-Based Approach to the Governance of
+Algorithmic, Biometric, and Smart City Technologies | Anna Artyushina <anna.v.artyushina@gmail.com> (Toronto Metropolitan University)
+2. Alina Wernick <Alina.wernick@helsinki.fi> (University of Helsinki) | Extended Abstract |        |                                                        | Authors                                            | Type     | Slides |
+|------------------------------------------------------------------------------|----------------------------------------------------|----------|--------|
+| Remote Healthcare Technology Use Cases and the Contextual Integrity of Older
+Adult User Privacy | Daniela Napoli  (Carleton University)
+2. Sonia Chiasson  (Carleton University) | Use case |        |
+|  Whose Policy? Privacy Challenges of Decentralized Platforms                 | Sohyeon Hwang  (Northwestern University)
+2. Priyanka Nanayakkara  (Northwestern University)
+3. Yan Shvartzshnaider  (York University) | Use case |        |
+
+ <!--
 #### REGISTRATION
 
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
@@ -161,7 +191,8 @@ __All deadlines are AoE (Anywhere on Earth).__
 * ~~Register an intent/abstract:  June 17, 2023~~
 * ~~Submissions Due: June 24, 2023~~
 * ~~Notifications: July 25, 2023~~
-* Symposium dates: September 21 and 22, 2023
+* ~~Symposium dates: September 21 and 22, 2023~~
+-->
 
 
 <!-- #### HOW TO SUBMIT

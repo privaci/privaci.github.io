@@ -1,8 +1,8 @@
 ---
 layout: event
 header: no
-title: "2023: The 5th Annual Symposium on Applications Of Contextual Integrity, Toronto"
-teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
+title: "2023: The 5th Annual Symposium on Applications Of Contextual Integrity,   Toronto"
+teaser: "The aim is to bring people together to present,   discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event
     # sidebar: right
@@ -57,7 +57,7 @@ permalink: symposium/2023/cfp.html
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
   We are monitoring the COVID situation. More details will be made
-  available closer to the day which may include required testing, masking indoors and proof of vaccination. 
+  available closer to the day which may include required testing,   masking indoors and proof of vaccination. 
   <p/>
   Stay safe!</p>
 </div> -->
@@ -66,9 +66,9 @@ permalink: symposium/2023/cfp.html
 
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual
- Integrity on <b>September 21-22 </b> in Toronto, Canada, [Lassonde School of Engineering, York University](https://lassonde.yorku.ca). 
+ Integrity on <b>September 21-22 </b> in Toronto,   Canada,   [Lassonde School of Engineering,   York University](https://lassonde.yorku.ca). 
 
-The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
+The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 
 <!--
 
@@ -76,25 +76,25 @@ We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
 * An extended abstract (1-2 pages) summarizing published or mature work. Please
-  include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary, please indicate that as well. If your abstract is accepted, you will have the option of posting the longer paper on the symposium website.
+  include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary,   please indicate that as well. If your abstract is accepted,   you will have the option of posting the longer paper on the symposium website.
 * A 1-page description of an interesting use case to be discussed at the symposium.
 * A 1-page description of real-world case study from industry or policy.
 
-The workshop will not publish formal (i.e. archival) proceedings. Instead, the workshop aims to foster discussion and feedback to improve work-in-progress for
-subsequent publication elsewhere.  With author’s permission, accepted submissions will be posted on the website, but will not be considered archival publications.
+The workshop will not publish formal (i.e. archival) proceedings. Instead,   the workshop aims to foster discussion and feedback to improve work-in-progress for
+subsequent publication elsewhere.  With author’s permission,   accepted submissions will be posted on the website,   but will not be considered archival publications.
 
-Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources, methods, and contributions, including:
+Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources,   methods,   and contributions,   including:
 
-* Empirical studies (qualitative, quantitative, experimental)
-* Legal, philosophical, ethical, and policy analysis
+* Empirical studies (qualitative,   quantitative,   experimental)
+* Legal,   philosophical,   ethical,   and policy analysis
 * System design and/or implementations
 * Combinations of the above
 
-Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users, choose <b>format=sigconf</b>.
+Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users,   choose <b>format=sigconf</b>.
 
 
 __Participation without submission: __ If you're interested in attending the
-symposium without submission, please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.
+symposium without submission,   please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.
 
 
  We look forward to seeing you at the symposium!
@@ -118,8 +118,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Remote Healthcare Technology Use Cases and the Contextual Integrity of Older Adult User Privacy</td>
     <td>
       <ol>
-        <li>Daniela Napoli (Carleton University)</li>
-        <li>Sonia Chiasson (Carleton University)</li>
+        Daniela Napoli (Carleton University),  
+        Sonia Chiasson (Carleton University)
       </ol>
     </td>
     <td>Use case</td>
@@ -129,9 +129,9 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Whose Policy? Privacy Challenges of Decentralized Platforms</td>
     <td>
       <ol>
-        <li>Sohyeon Hwang (Northwestern University)</li>
-        <li>Priyanka Nanayakkara (Northwestern University)</li>
-        <li>Yan Shvartzshnaider (York University)</li>
+        Sohyeon Hwang (Northwestern University),  
+        Priyanka Nanayakkara (Northwestern University),  
+        Yan Shvartzshnaider (York University)
       </ol>
     </td>
     <td>Use case</td>
@@ -141,9 +141,9 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Privacy Challenges in VR Classrooms: A CI Use Case</td>
     <td>
       <ol>
-        <li>Karoline Brehm (Bauhaus-Universität Weimar)</li>
-        <li>Yan Shvartzshnaider (York University)</li>
-        <li>David Goedicke (Cornell Tech)</li>
+        Karoline Brehm (Bauhaus-Universität Weimar),  
+        Yan Shvartzshnaider (York University),  
+        David Goedicke (Cornell Tech)
       </ol>
     </td>
     <td>Use case</td>
@@ -156,11 +156,11 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td></td>
   </tr>
   <tr>
-    <td>Future-Proofing the City: A Human Rights-Based Approach to the Governance of Algorithmic, Biometric, and Smart City Technologies</td>
+    <td>Future-Proofing the City: A Human Rights-Based Approach to the Governance of Algorithmic,   Biometric,   and Smart City Technologies</td>
     <td>
       <ol>
-        <li>Anna Artyushina (Toronto Metropolitan University)</li>
-        <li>Alina Wernick (University of Helsinki)</li>
+        Anna Artyushina (Toronto Metropolitan University),  
+        Alina Wernick (University of Helsinki)
       </ol>
     </td>
     <td>Extended Abstract</td>
@@ -170,9 +170,9 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>The Matrix of Privacy: Data Infrastructure in the AI-Powered Metaverse</td>
     <td>
       <ol>
-        <li>Argyri Panezi (UNB Law, CRC Tier II)</li>
-        <li>Nizan Geslevich Packin (CUNY)</li>
-        <li>Leon Anidjar (IE Law School)</li>
+        Argyri Panezi (UNB Law,   CRC Tier II),  
+        Nizan Geslevich Packin (CUNY),  
+        Leon Anidjar (IE Law School)
       </ol>
     </td>
     <td>Feedback session</td>
@@ -182,8 +182,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Privacy & Contextual Integrity in a Crowdsourced Gig Work Knowledge Sharing Platform</td>
     <td>
       <ol>
-        <li>Arthur Borem (University of Chicago)</li>
-        <li>Elleen Pan (University of Chicago)</li>
+        Arthur Borem (University of Chicago),  
+        Elleen Pan (University of Chicago)
       </ol>
     </td>
     <td>Feedback session</td>
@@ -205,8 +205,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Choice Architecture and Contextual Integrity in Privacy Decision Making</td>
     <td>
       <ol>
-        <li>Dr. Lauren Ministero (The MITRE Corporation)</li>
-        <li>Dr. Jonas Ludwig (Tel Aviv University)</li>
+        Dr. Lauren Ministero (The MITRE Corporation),  
+        Dr. Jonas Ludwig (Tel Aviv University)
       </ol>
     </td>
     <td>Feedback session</td>
@@ -222,9 +222,9 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Automating GKC-CI Privacy Policy Annotations with LLMs</td>
     <td>
       <ol>
-        <li>Jake Chanenson (University of Chicago)</li>
-        <li>Madison Pickering (University of Chicago)</li>
-        <li>Noah Apthorpe (Colgate University)</li>
+        Jake Chanenson (University of Chicago),  
+        Madison Pickering (University of Chicago),  
+        Noah Apthorpe (Colgate University)
       </ol>
     </td>
     <td>Full paper</td>
@@ -234,8 +234,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>CI + Scholar Infrastructure</td>
     <td>
       <ol>
-        <li>Madiha Zahrah Choksi (Cornell Tech)</li>
-        <li>Jake Chanenson (University of Chicago)</li>
+        Madiha Zahrah Choksi (Cornell Tech),  
+        Jake Chanenson (University of Chicago)
       </ol>
     </td>
     <td>Full paper</td>
@@ -245,9 +245,9 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Contextual Integrity in the Context of Wearables: An Experiment</td>
     <td>
       <ol>
-        <li>August Bourgeus (imec-SMIT-VUB)</li>
-        <li>Laurens Vandercruysse (imec-SMIT-VUB)</li>
-        <li>Nanouk Verhulst (imec-SMIT-VUB)</li>
+        August Bourgeus (imec-SMIT-VUB),  
+        Laurens Vandercruysse (imec-SMIT-VUB),  
+        Nanouk Verhulst (imec-SMIT-VUB)
       </ol>
     </td>
     <td>Full paper (4-page position paper on work in progress)</td>
@@ -269,8 +269,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Applying Contextual Integrity to Elicit Acceptance towards COVID Mitigation Mobile Applications in the US</td>
     <td>
       <ol>
-        <li>Yuanyuan Feng (University of Vermont)</li>
-        <li>Brad Stenger (University of Vermont)</li>
+        Yuanyuan Feng (University of Vermont),  
+        Brad Stenger (University of Vermont)
       </ol>
     </td>
     <td>Full paper</td>
@@ -280,8 +280,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Adaptively Regulating Privacy as Contextual Integrity</td>
     <td>
       <ol>
-        <li>Sebastian Benthall (New York University)</li>
-        <li>Ido Sivan-Sevilla (University of Maryland)</li>
+        Sebastian Benthall (New York University),  
+        Ido Sivan-Sevilla (University of Maryland)
       </ol>
     </td>
     <td>Full paper</td>
@@ -291,8 +291,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>First-Party vs Third-Party Privacy</td>
     <td>
       <ol>
-        <li>Benjamin Laufer (Cornell Tech)</li>
-        <li>Ahana Datta (University College London)</li>
+        Benjamin Laufer (Cornell Tech),  
+        Ahana Datta (University College London)
       </ol>
     </td>
     <td>Full paper</td>
@@ -302,8 +302,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Expanding Contextual Integrity: Three Types of Information Flows</td>
     <td>
       <ol>
-        <li>Cara Bloom (MITRE)</li>
-        <li>Lauren Ministero (MITRE)</li>
+        Cara Bloom (MITRE),  
+        Lauren Ministero (MITRE)
       </ol>
     </td>
     <td>Full paper</td>
@@ -313,10 +313,10 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Applying Contextual Integrity to the Development of Polypharmacy Indicators in Canada</td>
     <td>
       <ol>
-        <li>Pierre-Luc Déziel (Université Laval)</li>
-        <li>Sylvain Auclair (Université Laval)</li>
-        <li>Caroline Sirois (Université Laval)</li>
-        <li>Richard Khoury (Université Laval)</li>
+        Pierre-Luc Déziel (Université Laval),  
+        Sylvain Auclair (Université Laval),  
+        Caroline Sirois (Université Laval),  
+        Richard Khoury (Université Laval)
       </ol>
     </td>
     <td>Full paper</td>
@@ -326,13 +326,13 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Contextualizing Privacy for Older Adults in Canada</td>
     <td>
       <ol>
-        <li>Paola Marmorato (Carleton University)</li>
-        <li>Ruchi Swami (Carleton University)</li>
-        <li>Sanchita Kamath (Manipal Academy of Higher Education)</li>
-        <li>Nadila Asikaer (University of Waterloo)</li>
-        <li>Elizabeth Stobert (Carleton University)</li>
-        <li>Heather Molyneaux (National Research Council of Canada)</li>
-        <li>Cosmin Munteanu (University of Waterloo)</li>
+        Paola Marmorato (Carleton University),  
+        Ruchi Swami (Carleton University),  
+        Sanchita Kamath (Manipal Academy of Higher Education),  
+        Nadila Asikaer (University of Waterloo),  
+        Elizabeth Stobert (Carleton University),  
+        Heather Molyneaux (National Research Council of Canada),  
+        Cosmin Munteanu (University of Waterloo)
       </ol>
     </td>
     <td>Full paper</td>
@@ -342,8 +342,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>The Five Safes as a Privacy Context</td>
     <td>
       <ol>
-        <li>James Bailie (Harvard University)</li>
-        <li>Ruobin Gong (Rutgers University)</li>
+        James Bailie (Harvard University),  
+        Ruobin Gong (Rutgers University)
       </ol>
     </td>
     <td>Full paper</td>
@@ -353,12 +353,12 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>When PETs misbehave: A Contextual Integrity analysis</td>
     <td>
       <ol>
-        <li>Ero Balsa (Cornell Tech)</li>
-        <li>Yan Shvartzshnaider (York University)</li>
+        Ero Balsa (Cornell Tech),  
+        Yan Shvartzshnaider (York University)
       </ol>
     </td>
     <td>Full paper (Position Paper)</td>
-    <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>Modelling Perceived Privacy Risk with Contextual Integrity for Risk Communication</td>
@@ -370,8 +370,8 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
     <td>Privacy Mini-Publics: A Deliberative Democratic Approach to Understanding Informational Norms</td>
     <td>
       <ol>
-        <li>Daniel Susser (Cornell University)</li>
-        <li>Matteo Bonotti (Monash University)</li>
+        Daniel Susser (Cornell University),  
+        Matteo Bonotti (Monash University)
       </ol>
     </td>
     <td>Full paper</td>
@@ -386,7 +386,7 @@ symposium without submission, please fill in [this form](https://forms.gle/tMwR1
  <!--
 #### REGISTRATION
 
-Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday, a light breakfast (coffee and pastries) on Friday, and lunch on Friday. 
+Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday. 
 
 
 <b>Please use this [link to register](https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) </b>
@@ -394,7 +394,7 @@ Registration for the symposium is **CAD$120** for in-person attendees. The regis
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
 
-If paying the registration fee would cause financial hardship for you, 
+If paying the registration fee would cause financial hardship for you,   
 please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
@@ -409,7 +409,7 @@ For information on the event location and accommodations [click here](https://pr
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
- Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch, expected to participate in both days of the workshop, and provide a short report following the symposium.
+ Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch,   expected to participate in both days of the workshop,   and provide a short report following the symposium.
  </p>
 </div>
 
@@ -424,7 +424,7 @@ The only travel expenses that can be reimbursed are: **air travel** and **hotel*
 
 **The NSF awards are limited to students studying at a US institution** 
 
-Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply. 
+Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply. 
 
 Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
 
@@ -439,10 +439,10 @@ Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will al
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* ~~Register an intent/abstract:  June 17, 2023~~
-* ~~Submissions Due: June 24, 2023~~
-* ~~Notifications: July 25, 2023~~
-* ~~Symposium dates: September 21 and 22, 2023~~
+* ~~Register an intent/abstract:  June 17,   2023~~
+* ~~Submissions Due: June 24,   2023~~
+* ~~Notifications: July 25,   2023~~
+* ~~Symposium dates: September 21 and 22,   2023~~
 -->
 
 
@@ -470,8 +470,8 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/cathy-dwyer) (Pace Univertisy) <br/>
-[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC, Berkeley)<br/>
-[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
+[Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>
+[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business,   Baruch College)<br/>
 <!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/> -->
 <!-- [Margot E. Kaminski](http://www.margotkaminski.com) (University of Colorado Law School)<br/> -->
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
@@ -501,9 +501,9 @@ Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
 
-The CI symposium is a safe and welcoming environment for all. We, as the organizers, are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event, at the discretion of the General Chair(s).
+The CI symposium is a safe and welcoming environment for all. We,   as the organizers,   are committed to facilitating an experience free of harassment and discrimination. Any participant violating this code will be sanctioned and/or expelled from the event,   at the discretion of the General Chair(s).
 
-If you witnessed or experienced harassment or discriminatory behavior, please consider intervening and refer to the organizers (contact@privaci.info) for further action, with the consent of the affected party subject to applicable laws.
+If you witnessed or experienced harassment or discriminatory behavior,   please consider intervening and refer to the organizers (contact@privaci.info) for further action,   with the consent of the affected party subject to applicable laws.
 
 
 <hr/>

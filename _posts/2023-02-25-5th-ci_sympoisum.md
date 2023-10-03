@@ -337,8 +337,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Cosmin Munteanu (University of Waterloo)
       </ol>
     </td>
-    <td>Full paper</td>
-    <td></td>
+    <td><a href="{{ site.url }}/symposium5/papers/Work-in-ProgressPaper-ContextualizingPrivacfor OlderAdultsinCanadPaola Marmorato.pdf">Full paper</a></td>
+    <td><<a href="{{ site.url }}/symposium5/papers/CONTEXTUALIZINGPRIVACYFOROLDERADULTSINCANADA-Paola Marmorato.pdf">Slides</a></td>
   </tr>
   <tr>
     <td>The Five Safes as a Privacy Context</td>
@@ -349,7 +349,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
       </ol>
     </td>
     <td>Full paper</td>
-    <td></td>
+    <td><a href="{{ site.url }}/symposium5/papers/BailieGongSlidesCI - James Bailie.pdf">Slides</a></td>
   </tr>
   <tr>
     <td>When PETs misbehave: A Contextual Integrity analysis</td>
@@ -376,7 +376,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Matteo Bonotti (Monash University)
       </ol>
     </td>
-    <td>Full paper</td>
+    <td><a href="{{ site.url }}/symposium5/papers/Privacy-Mini-Publics-CI Symposium-Daniel Susser.pdf">Full paper</a></td>
     <td></td>
   </tr>
 </table>

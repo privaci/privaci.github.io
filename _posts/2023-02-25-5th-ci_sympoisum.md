@@ -253,7 +253,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
       </ol>
     </td>
     <td>Full paper (4-page position paper on work in progress)</td>
-    <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <td>Reconciling Polycentric Governance via Data Protection Addenda</td>

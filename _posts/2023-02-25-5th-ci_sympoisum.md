@@ -135,7 +135,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Yan Shvartzshnaider (York University)
       </ol>
     </td>
-    <td>Use case</td>
+    <td><a href="https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf">Use case</a></td>
     <td></td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         David Goedicke (Cornell Tech)
       </ol>
     </td>
-    <td>Use case</td>
+    <td><a href="https://arxiv.org/abs/2303.13684">Use case</a></td>
     <td></td>
   </tr>
   <tr>

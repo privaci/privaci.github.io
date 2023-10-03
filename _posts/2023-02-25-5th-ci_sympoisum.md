@@ -338,7 +338,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
       </ol>
     </td>
     <td><a href="{{ site.url }}/symposium5/papers/Work-in-ProgressPaper-ContextualizingPrivacfor OlderAdultsinCanadPaola Marmorato.pdf">Full paper</a></td>
-    <td><<a href="{{ site.url }}/symposium5/papers/CONTEXTUALIZINGPRIVACYFOROLDERADULTSINCANADA-Paola Marmorato.pdf">Slides</a></td>
+    <td><a href="{{ site.url }}/symposium5/papers/CONTEXTUALIZINGPRIVACYFOROLDERADULTSINCANADA-Paola Marmorato.pdf">Slides</a></td>
   </tr>
   <tr>
     <td>The Five Safes as a Privacy Context</td>

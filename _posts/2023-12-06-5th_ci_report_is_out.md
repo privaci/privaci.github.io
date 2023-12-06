@@ -17,4 +17,4 @@ permalink: symposium/2023/symposium_report.html
 
 [Download full report in PDF format]({{ site.url }}/symposium5/CISymposiumReport2023.pdf)
 
-The report was compiled by Yan Shvartzshnaider based on the note taken byArthur Borem, Benjamin Laufer, Collins W. Munyendo, Dorothy Ko, Elleen Pan Errol Francis II, James Bailie, Johanna Gunawan, John Paul Schnabel, Kyra Milan Abrams Lauren Ministero, Lukas Seiling, Madison Pickering, Nikita Samarin. Sohyeon Hwang,Tamalika Mukherjee.
+The report was compiled by Yan Shvartzshnaider based on the notes taken byArthur Borem, Benjamin Laufer, Collins W. Munyendo, Dorothy Ko, Elleen Pan Errol Francis II, James Bailie, Johanna Gunawan, John Paul Schnabel, Kyra Milan Abrams Lauren Ministero, Lukas Seiling, Madison Pickering, Nikita Samarin. Sohyeon Hwang,Tamalika Mukherjee.

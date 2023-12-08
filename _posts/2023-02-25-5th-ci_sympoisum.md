@@ -66,7 +66,7 @@ permalink: symposium/2023/cfp.html
 
 
  We intend to hold the 5th Annual Symposium on Applications of Contextual
- Integrity on <b>September 21-22 </b> in Toronto,   Canada,   [Lassonde School of Engineering,   York University](https://lassonde.yorku.ca). 
+ Integrity on <b>September 21-22 </b> in Toronto,   Canada,   [Lassonde School of Engineering, York University](https://lassonde.yorku.ca). 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 
@@ -123,7 +123,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Sonia Chiasson (Carleton University)
       </ol>
     </td>
-    <td>Use case</td>
+    <td><a href="{{ site.url }}/symposium5/papers/cisymposium2023-paper14.pdf">Use case</a></td>
     <td></td>
   </tr>
   <tr>

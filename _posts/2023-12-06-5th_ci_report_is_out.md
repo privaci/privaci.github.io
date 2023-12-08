@@ -13,7 +13,7 @@ permalink: symposium/2023/symposium_report.html
 
  <img src="{{ site.url }}/images/5thSymposiumLogo2.png" style="width: 1000px; min-width: 700px;" />
 
->  In late September 2023, the 5th symposium on application of contextual integrity took place at York University’s Lassonde School of Engineering in Toronto, Canada. The CI symposium brought together students, postdoctoral fellows, faculty, and practitioners from Europe, the United States, and Canada to present and discuss early-stage and published work related to contextual integrity (CI), as well as to design, evaluate, and generate ideas.
+>  In late September 2023, the 5th symposium on applications of contextual integrity took place at York University’s Lassonde School of Engineering in Toronto, Canada. The CI symposium brought together students, postdoctoral fellows, faculty, and practitioners from Europe, the United States, and Canada to present and discuss early-stage and published work related to contextual integrity (CI), as well as to design, evaluate, and generate ideas.
 
 [Download full report in PDF format]({{ site.url }}/symposium5/CISymposiumReport2023.pdf)
 

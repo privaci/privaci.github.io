@@ -123,8 +123,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Sonia Chiasson (Carleton University)
       </ol>
     </td>
-    <td><a href="{{ site.url }}/symposium5/papers/cisymposium2023-paper14.pdf">Use case</a></td>
-    <td></td>
+    <td>Use case</td>
+    <td><a href="{{ site.url }}/symposium5/papers/cisymposium2023-paper14.pdf">paper link</a></td>
   </tr>
   <tr>
     <td>Whose Policy? Privacy Challenges of Decentralized Platforms</td>
@@ -135,8 +135,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         Yan Shvartzshnaider (York University)
       </ol>
     </td>
-    <td><a href="https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf">Use case</a></td>
-    <td></td>
+    <td>Use case</td>
+    <td><a href="https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf">paper link</a></td>
   </tr>
   <tr>
     <td>Privacy Challenges in VR Classrooms: A CI Use Case</td>
@@ -147,8 +147,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
         David Goedicke (Cornell Tech)
       </ol>
     </td>
-    <td><a href="https://arxiv.org/abs/2303.13684">Use case</a></td>
-    <td></td>
+    <td>Use case</td>
+    <td><a href="https://arxiv.org/abs/2303.13684">paper link</a></td>
   </tr>
   <tr>
     <td>Data Minimization in Ad Tech: Using Contextual Integrity to Determine Permissible Secondary Data Uses</td>
@@ -360,7 +360,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
       </ol>
     </td>
     <td>Full paper (Position Paper)</td>
-    <td></td>
+    <td><a href="https://arxiv.org/abs/2312.02509">paper link</a></td>
   </tr>
   <tr>
     <td>Modelling Perceived Privacy Risk with Contextual Integrity for Risk Communication</td>

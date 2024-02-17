@@ -177,7 +177,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
   <br/>
   [Louise Barkhuus](http://www.barkhu.us) (Rurgers University and The IT University of Copenhagen)<br/>
   [Ruobin Gong](https://ruobingong.github.io/) (Rutgers University)<br/>
-  [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca)
+  [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca) (Rutgers University)
   
 
 ##### PROGRAM COMMITTEE

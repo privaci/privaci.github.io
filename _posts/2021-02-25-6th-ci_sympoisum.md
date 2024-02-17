@@ -66,7 +66,7 @@ permalink: symposium/2024/cfp.html
 
 
 The 6th Annual Symposium on Applications of Contextual 
- Integrity on <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu). 
+ Integrity, <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu). 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 

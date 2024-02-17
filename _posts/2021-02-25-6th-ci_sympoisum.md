@@ -180,7 +180,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
   [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca)
   
 
-#### Program Committee
+##### PROGRAM COMMITTEE
 
 __TBD__
 
@@ -216,7 +216,7 @@ __TBD__
 
 -->
 
-#### STEERING COMMITTEE
+##### STEERING COMMITTEE
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>

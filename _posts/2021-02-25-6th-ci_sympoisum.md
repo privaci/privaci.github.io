@@ -183,8 +183,8 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 #### Program Committee
 
 __TBD__
-<!--
 
+<!--
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>

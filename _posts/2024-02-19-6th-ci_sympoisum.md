@@ -157,28 +157,28 @@ Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will al
 
 
 
-
+-->
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* ~~Register an intent/abstract:  June 17,   2023~~
-* ~~Submissions Due: June 24,   2023~~
-* ~~Notifications: July 25,   2023~~
-* ~~Symposium dates: September 21 and 22,   2023~~
--->
+* Register an intent/abstract:  June 17,   2024
+* Submissions Due: June 24,   2024
+* Notifications: July 25,   2024
+* Symposium dates: September 27 and 28,   2024
 
 
-<!-- #### HOW TO SUBMIT
 
-Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)-->
+#### HOW TO SUBMIT
+
+Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
 
 #### SYMPOSIUM CHAIRS
   <br/>
   [Louise Barkhuus](http://www.barkhu.us) (Rurgers University and The IT University of Copenhagen)<br/>
   [Ruobin Gong](https://ruobingong.github.io/) (Rutgers University)<br/>
   [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca) (Rutgers University)
-  
+  [Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) <br/>
 
 ##### PROGRAM COMMITTEE
 
@@ -220,7 +220,7 @@ __TBD__
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
-[Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) <br/>
+
 <br/>
 
 ### Contact

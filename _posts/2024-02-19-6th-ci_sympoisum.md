@@ -183,7 +183,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 ##### PROGRAM COMMITTEE
 
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
-[Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (Notre Dame) <br/>
+[Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>
 <!--[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Aloni Cohen](https://aloni.net) (University of Chicago) <br/>
@@ -204,7 +204,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
 [Lee James McGuigan ](http://hussman.unc.edu/directory/faculty/lee-mcguigan) (University of North Carolina at Chapel Hill)<br/>
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
-[Joel Reardon](http://pages.cpsc.ucalgary.ca/~joel.reardon/) University of Calgary><br/>
+[Joel Reardon](http://pages.cpsc.ucalgary.ca/~joel.reardon/) University of Calgary<br/>
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>

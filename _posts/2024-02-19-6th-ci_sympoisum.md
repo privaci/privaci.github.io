@@ -195,7 +195,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont) <br/>
 [Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
 [Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>
-[Bart Knijnenburg](https://www.usabart.nl/portfolio/#home.html) (Clemson University) </br>
+[Bart Knijnenburg](https://www.usabart.nl/portfolio/#home.html) (Clemson University) <br/>
 <!-- [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>-->
 <!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/> 
 [Margot E. Kaminski](http://www.margotkaminski.com) (University of Colorado Law School)<br/> -->

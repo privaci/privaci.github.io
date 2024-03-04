@@ -184,8 +184,8 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>
-<!--[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
+<!--[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Aloni Cohen](https://aloni.net) (University of Chicago) <br/>
 [Jorge Pereira Campos](https://www.universiteitleiden.nl/en/staffmembers/jorge-pereira-campos#tab-1) (Leiden University) <br/>
 [Ignacio Cofone](http://www.ignaciocofone.com) (McGill University)<br/>-->

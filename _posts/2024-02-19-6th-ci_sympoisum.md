@@ -214,7 +214,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 <!-- [Salomé Viljoen](https://www.salomeviljoen.com) (University of Michigan Law School) <br/>-->
 [Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
 [Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br/>
-[Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/> 
+<!-- [Pamela Wisniewski](http://www.pamspam.com) (University of Central Florida)<br/> -->
 [Shikun Aerin Zhang]() (TikTok)<br/>
 [Michael Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php) (Marquette University)<br/>
 

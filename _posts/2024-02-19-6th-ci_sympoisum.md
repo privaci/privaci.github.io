@@ -191,7 +191,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Ignacio Cofone](http://www.ignaciocofone.com) (McGill University)<br/>-->
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 <!-- [Anupam Datta](https://csd.cs.cmu.edu/people/faculty/anupam-datta) (CMU)  <br/>-->
-[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace Univertisy) <br/>
+[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University) <br/>
 [Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont) <br/>
 [Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
 [Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>

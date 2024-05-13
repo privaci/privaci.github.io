@@ -149,13 +149,17 @@ The only travel expenses that can be reimbursed are: **air travel** and **hotel*
 
 **The NSF awards are limited to students studying at a US institution** 
 
-Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply. 
-
-<!-- Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. -->
-
-Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch. 
+The National Science Foundation has just awarded us funding to cover graduate student travel expenses to attend the 2024 PrivaCI symposium! 
 
 Application details will be announce shortly.
+
+<!--
+Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply. 
+
+ Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
+
+Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch.
+
 
 <!--Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will allocate funding to qualified applicants until funding is used up.  -->
 

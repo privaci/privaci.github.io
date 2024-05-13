@@ -265,4 +265,5 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 <img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
 <img src="{{ site.url }}/images/rutgers_logo.png" alt="Rutgers logo" />
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>
-<img src="{{ site.url }}/images/google.png" alt="google logo" width="20%"/>
+<br/>
+<img src="{{ site.url }}/images/google.png" alt="google logo" width="30%"/>

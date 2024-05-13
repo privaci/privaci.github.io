@@ -106,9 +106,11 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 -->
 
 
-<!--
+
 #### REGISTRATION
 
+__TBD__
+<!--
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday. 
 
 
@@ -142,22 +144,24 @@ Participants can apply for a travel grant award that can go towards partially co
 
 The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
 
-
+-->
 ## NSF Student Grant Application
 
 **The NSF awards are limited to students studying at a US institution** 
 
 Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply. 
 
-Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
+<!-- Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. -->
 
 Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch. 
 
-Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will allocate funding to qualified applicants until funding is used up.  
+Application details will be announce shortly.
+
+<!--Please use this [link](https://forms.gle/1mzhyqF1i8PAbyHq9) to apply. We will allocate funding to qualified applicants until funding is used up.  -->
 
 
 
--->
+
 #### IMPORTANT DATES
 
 __All deadlines are AoE (Anywhere on Earth).__

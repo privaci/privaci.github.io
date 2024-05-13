@@ -110,6 +110,8 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 #### REGISTRATION
 
 __TBD__
+
+
 <!--
 Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday. 
 
@@ -145,6 +147,7 @@ Participants can apply for a travel grant award that can go towards partially co
 The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
 
 -->
+
 ## NSF Student Grant Application
 
 **The NSF awards are limited to students studying at a US institution** 

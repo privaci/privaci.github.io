@@ -151,6 +151,10 @@ The only travel expenses that can be reimbursed are: **air travel** and **hotel*
 
 The National Science Foundation has just awarded us funding to cover graduate student travel expenses to attend the 2024 PrivaCI symposium! 
 
+This is an excellent opportunity for students to learn about research and practice in the application of the contextual integrity as a framework to reason about privacy.
+
+Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply. 
+
 Application details will be announce shortly.
 
 <!--

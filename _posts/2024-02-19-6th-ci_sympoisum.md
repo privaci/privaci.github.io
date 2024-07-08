@@ -181,16 +181,18 @@ Registration costs will be waived for all travel grant awardees. Travel grant aw
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract:  June 17,   2024
-* Submissions Due: June 24,   2024
+* Register an intent/abstract:  ~~June 17,   2024~~
+* Submissions Due: ~~June 24,   2024~~
 * Notifications: July 25,   2024
 * Symposium dates: September 27 and 28,   2024
 
 
 
-#### HOW TO SUBMIT
+<!-- #### HOW TO SUBMIT
 
 Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
+
+-->
 
 #### SYMPOSIUM CHAIRS
   <br/>

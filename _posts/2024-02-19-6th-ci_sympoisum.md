@@ -160,7 +160,9 @@ Students from under-represented groups including but not limited to women, minor
 
 Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards registration, hotel and airfare costs.
 
-Please use this [link](https://forms.gle/YHSUGo5AbyRxQCodA) to apply. We will allocate funding to qualified applicants until funding is used up.
+Please use this [link](https://forms.gle/YHSUGo5AbyRxQCodA) to apply. 
+
+We will allocate funding to qualified applicants until funding is used up.
 
 Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch.
 

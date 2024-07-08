@@ -57,7 +57,7 @@ permalink: symposium/2024/cfp.html
 <h4 class="alert-heading">COVID Protocol</h4>
   <p>
   We are monitoring the COVID situation. More details will be made
-  available closer to the day which may include required testing,   masking indoors and proof of vaccination. 
+  available closer to the day which may include required testing,   masking indoors and proof of vaccination.
   <p/>
   Stay safe!</p>
 </div> -->
@@ -65,8 +65,8 @@ permalink: symposium/2024/cfp.html
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/RutgersCISymLogo.png)
 
 
-The 6th Annual Symposium on Applications of Contextual 
- Integrity, <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu). 
+The 6th Annual Symposium on Applications of Contextual
+ Integrity, <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 
@@ -100,7 +100,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 <!---
 ### Symposium Program
 
- [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)    
+ [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)
 
 
 -->
@@ -113,7 +113,7 @@ __TBD__
 
 
 <!--
-Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday. 
+Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday.
 
 
 <b>Please use this [link to register](https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) </b>
@@ -121,7 +121,7 @@ Registration for the symposium is **CAD$120** for in-person attendees. The regis
 <b>Note:</b> Tickets are nonrefundable if purchased less than seven days
 before the event.
 
-If paying the registration fee would cause financial hardship for you,   
+If paying the registration fee would cause financial hardship for you,
 please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
@@ -140,30 +140,34 @@ For information on the event location and accommodations [click here](https://pr
  </p>
 </div>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/nnt8Ycq5Vc6CURN17). 
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/nnt8Ycq5Vc6CURN17).
 
 **Accepting until August 23 or until funding last**
 
-The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.  
+The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 
 -->
 
 ## NSF Student Grant Application
 
-**The NSF awards are limited to students studying at a US institution** 
+**The NSF awards are limited to students studying at a US institution**
 
-The National Science Foundation has just awarded us funding to cover graduate student travel expenses to attend the 2024 PrivaCI symposium! 
+The National Science Foundation has just awarded us funding to cover graduate student travel expenses to attend the 2024 PrivaCI symposium!
 
 This is an excellent opportunity for students to learn about research and practice in the application of contextual integrity as a framework to reason about privacy.
 
-Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply. 
+Students from under-represented groups including but not limited to women, minorities, and members of the LGTBQ+ community are strongly encouraged to apply.
 
-Application details will be announce shortly.
+Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards registration, hotel and airfare costs.
+
+Please use this [link](https://forms.gle/YHSUGo5AbyRxQCodA) to apply. We will allocate funding to qualified applicants until funding is used up.
+
+Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch.
 
 <!--
-Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply. 
+Students from under-represented groups including but not limited to women,   minorities,   and members of the LGTBQ+ community are strongly encouraged to apply.
 
- Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs. 
+Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards hotel and airfare costs.
 
 Registration costs will be waived for all travel grant awardees. Travel grant awardees will be expected to participate in both days of the workshop and will be hosted at a mentoring lunch.
 
@@ -212,7 +216,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>
 [Bart Knijnenburg](https://www.usabart.nl/portfolio/#home.html) (Clemson University) <br/>
 <!-- [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>-->
-<!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/> 
+<!-- [Maritza Johnson](https://maritzajohnson.com/)  (University of San Diego)<br/>
 [Margot E. Kaminski](http://www.margotkaminski.com) (University of Colorado Law School)<br/> -->
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business,   Baruch College)<br/>
@@ -260,7 +264,7 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 <hr/>
 
 
-# We are grateful for the support 
+# We are grateful for the support
 <br/>
 <img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
 <img src="{{ site.url }}/images/rutgers_logo.png" alt="Rutgers logo" />

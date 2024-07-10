@@ -109,7 +109,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 
 #### REGISTRATION
 
-Registration for the symposium is **$120**. The registration includes dinner on Friday, a light breakfast (coffee and pastries) on Friday, and lunch on Saturday. 
+Registration for the symposium is **$100**. The registration includes dinner on Friday, a light breakfast (coffee and pastries) on Friday, and lunch on Saturday. 
 
 Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register. 
 __(After you submit the registration form, you should see the link to the payment processing system.)__

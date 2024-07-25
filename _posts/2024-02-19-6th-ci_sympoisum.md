@@ -129,7 +129,7 @@ please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
 -->
-#### Logistics
+### Logistics
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).
 

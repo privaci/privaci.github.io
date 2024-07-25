@@ -188,7 +188,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 * Register an intent/abstract:  ~~June 17,   2024~~
 * Submissions Due: ~~June 24,   2024~~
-* Notifications: July 25,   2024
+* Notifications: ~~July 25, 2024~~
 * Symposium dates: September 27 and 28,   2024
 
 

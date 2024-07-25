@@ -62,7 +62,6 @@ permalink: symposium/2024/logistics.html
 <!-- This year 5th CI Symposium will be held in at Cornell Tech, the Digital Life Initiative (DLI) on Roosevelt Island in New York City. -->
 
 The  6th Annual Symposium on Applications of Contextual Integrity on <b>September 27-28 </b> in New Jersey at the [The Heldrich Hotel & Conference Center](https://www.theheldrich.com). 
-## Accommodations
 
 <!--
 <div class="alert alert-success" role="alert">
@@ -136,7 +135,7 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 -->
 
-# Getting Here
+## Getting Here
 
 The Heldrich Hotel in downtown New Brunswick is walking distance to Rutgers campuses, the New Brunswick Train Station, restaurants, nightlife, museums, and directly across the street from the New Brunswick Performing Arts Center (NBPAC) and State Theatre New Jersey.
 

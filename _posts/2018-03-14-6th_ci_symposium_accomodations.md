@@ -139,10 +139,10 @@ For those wishing to stay off campus (e.g., downtown Toronto), we would encourag
 
 The Heldrich Hotel in downtown New Brunswick is walking distance to Rutgers campuses, the New Brunswick Train Station, restaurants, nightlife, museums, and directly across the street from the New Brunswick Performing Arts Center (NBPAC) and State Theatre New Jersey.
 
-### Address
-The Heldrich Hotel & Conference Center
-10 Livingston Avenue
-New Brunswick, NJ 08901
+#### Address
+The Heldrich Hotel & Conference Center <br/>
+10 Livingston Avenue  <br/>
+New Brunswick, NJ 08901 <br/>
 [https://www.theheldrich.com/directions/](https://www.theheldrich.com/directions/)
 
 ## By Air

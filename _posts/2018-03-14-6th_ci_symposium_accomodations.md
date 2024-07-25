@@ -68,6 +68,12 @@ The  6th Annual Symposium on Applications of Contextual Integrity on <b>Septembe
 New Brunswick, NJ 08901 <br/>
 [https://www.theheldrich.com/directions/](https://www.theheldrich.com/directions/)
 
+#### HOW TO BOOK
+Direct Booking Link: [Rutgers iSchool Room Block](https://be.synxis.com/?adult=1&arrive=2024-09-26&chain=21123&child=0&clearcache=all&config=initialConfig&configcode=initialConfig&currency=USD&depart=2024-09-28&hotel=30942&level=hotel&locale=en-US&nocache=true&notrack=true&rate=602130&rooms=1&theme=initialTheme&themecode=initialTheme) <br/>
+Phone Booking: Reservations Line (866) 609-4700 <br/>
+Cutoff Date to Book: **09/05/2024** <br/>
+Please reference the group name: Rutgers iSchool Room Block OR Group Code: 602130
+ 
 <!--
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>

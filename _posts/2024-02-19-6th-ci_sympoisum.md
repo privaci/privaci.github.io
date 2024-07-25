@@ -128,12 +128,12 @@ If paying the registration fee would cause financial hardship for you,
 please email the organizers:
 <a href="mailto:contact@privaci.info">contact@privaci.info</a>
 
-
+-->
 #### Logistics
 
-For information on the event location and accommodations [click here](https://privaci.info/symposium/2023/logistics.html).
+For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).
 
-
+<!--
 #### TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">

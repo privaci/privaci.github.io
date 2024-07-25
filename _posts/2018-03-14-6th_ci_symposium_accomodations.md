@@ -162,7 +162,7 @@ Please visit [https://www.njtransit.com](https://www.njtransit.com) for fare and
 
 ## Driving
 
-Driving directions to the can be found on [Google Maps](https://www.theheldrich.com/hotel/location-directions). 
+Driving directions to the can be found on [Google Maps](https://www.google.com/maps/place/The+Heldrich+Hotel+%26+Conference+Center/@40.493001,-74.443781,14z/data=!4m9!3m8!1s0x89c3c65087ba0991:0x45b7cd3a00c809ed!5m2!4m1!1i2!8m2!3d40.4930007!4d-74.4437811!16s%2Fg%2F1tcvq69c?hl=en&entry=ttu)
 
 ## Parking
 

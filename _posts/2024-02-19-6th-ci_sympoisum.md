@@ -209,7 +209,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 ##### PROGRAM COMMITTEE
 
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
-[Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>
+<!-- [Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>-->
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 <!--[Louise Barkhuus](http://www.barkhu.us) (The IT University of Copenhagen)<br/>
 [Aloni Cohen](https://aloni.net) (University of Chicago) <br/>

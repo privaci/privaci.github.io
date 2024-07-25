@@ -55,7 +55,7 @@ permalink: symposium/2024/logistics.html
 
 </style>
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/5thSymposiumLogo2.png)
+![{{ site.url }}/images/logo2022.png]({{ site.url }} images/RutgersCISymLogo.png)
 
 ## Event Location
 

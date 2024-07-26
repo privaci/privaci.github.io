@@ -133,23 +133,22 @@ please email the organizers:
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).
 
-<!--
-#### TRAVEL GRANTS
+
+## TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
- Registration costs will be waived for all travel grant awardees. Travel grant awardees will be hosted at a mentoring lunch,   expected to participate in both days of the workshop,   and provide a short report following the symposium.
+ Travel grant awardees will be hosted at a mentoring lunch,  expected to participate in both days of the workshop, and provide a short report following the symposium.
  </p>
 </div>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/nnt8Ycq5Vc6CURN17).
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/N1fpoa3HW33qwfpXA).
 
-**Accepting until August 23 or until funding last**
+<!-- **Accepting until August 23 or until funding last** -->
 
 The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
 
--->
 
 ## NSF Student Grant Application
 

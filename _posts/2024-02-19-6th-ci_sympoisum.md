@@ -69,7 +69,7 @@ The 6th Annual Symposium on Applications of Contextual
  Integrity, <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
-
+<!--
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
@@ -91,7 +91,7 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users,   choose <b>format=sigconf</b>.
 
 
-<!-- __Participation without submission: __ If you're interested in attending the
+ __Participation without submission: __ If you're interested in attending the
 symposium without submission,   please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.-->
 
 
@@ -109,7 +109,7 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 
 #### REGISTRATION
 
-Registration for the symposium is **$100**. The registration includes dinner on Friday, a light breakfast (coffee and pastries) on Friday, and lunch on Saturday. 
+Registration for the symposium is **$100**. The registration includes a light breakfast (coffee and pastries), lunch and dinner on Friday and light breakfast (coffee and pastries) on Saturday. 
 
 Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register. 
 __(After you submit the registration form, you should see the link to the payment processing system.)__
@@ -151,6 +151,13 @@ The only travel expenses that can be reimbursed are: **air travel** and **hotel*
 
 
 ## NSF Student Grant Application
+
+<div class="alert alert-success" role="alert">
+<h4 class="alert-heading"></h4>
+  <p>
+ Travel grant awardees will be hosted at a mentoring lunch,  expected to participate in both days of the workshop, and provide a short report following the symposium.
+ </p>
+</div>
 
 **The NSF awards are limited to students studying at a US institution**
 

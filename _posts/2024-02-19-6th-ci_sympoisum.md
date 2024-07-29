@@ -97,13 +97,15 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
 
  We look forward to seeing you at the symposium!
 
-<!---
-### Symposium Program
 
- [Full Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8Tz65oDezpAKlqQmS_GosUSq9DsFh7k9ClEw0MAfsVZ8UNPYP6j_0xIwrGdWRw3XKZ8-JhSEiajFs/pubhtml?gid=1416502899&single=true) ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)
+### [Symposium Draft Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true) (Subject to change)
+
+ [Draft Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true)
+ 
+ <!-- ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)-->
 
 
--->
+
 
 
 
@@ -115,20 +117,7 @@ Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register
 __(After you submit the registration form, you should see the link to the payment processing system.)__
 
 
-<!--
-Registration for the symposium is **CAD$120** for in-person attendees. The registration includes dinner on Thursday,   a light breakfast (coffee and pastries) on Friday,   and lunch on Friday.
 
-
-<b>Please use this [link to register](https://www.eventbrite.ca/e/the-5th-annual-symposium-on-applications-of-contextual-integrity-tickets-682237259007?aff=oddtdtcreator) </b>
-
-<b>Note:</b> Tickets are nonrefundable if purchased less than seven days
-before the event.
-
-If paying the registration fee would cause financial hardship for you,
-please email the organizers:
-<a href="mailto:contact@privaci.info">contact@privaci.info</a>
-
--->
 ### Logistics
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).

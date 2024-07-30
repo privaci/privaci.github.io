@@ -11,7 +11,6 @@ comments: false
 show_meta: false
 permalink: 
     symposium/2024/cfp.html
-    symposium/2024/program.html
 ---
 <br/>
 

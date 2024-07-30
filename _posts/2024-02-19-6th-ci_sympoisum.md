@@ -70,6 +70,7 @@ The 6th Annual Symposium on Applications of Contextual
  Integrity, <b>September 27-28, 2024</b> in New Jersey, US,   [Rutgers University](https://www.rutgers.edu).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
+
 <!--
 We will accept any of the following submission types:
 
@@ -93,7 +94,8 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
 
  __Participation without submission: __ If you're interested in attending the
-symposium without submission,   please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.-->
+symposium without submission,   please fill in [this form](https://forms.gle/tMwR1tsYzvFAyKoA9). We will send a confirmation upon review.
+-->
 
 
  We look forward to seeing you at the symposium!

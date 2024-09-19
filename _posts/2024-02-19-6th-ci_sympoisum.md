@@ -101,12 +101,11 @@ symposium without submission,   please fill in [this form](https://forms.gle/tMw
  We look forward to seeing you at the symposium!
 
 
-## [Symposium Program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true) 
+## Symposium Program
 
 ### The [Friday]({{ site.url }}/symposium6/Friday.pdf) and [Saturday]({{ site.url }}/symposium6/Saturday.pdf) programs
 
-
- [The symposium program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true)
+### [Fullprogram](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true)
  
  <!-- ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)-->
 

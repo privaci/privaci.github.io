@@ -10,7 +10,7 @@ categories:
 comments: false
 show_meta: false
 permalink: 
-    symposium/2024/cfp.html
+    symposium/2025/cfp.html
 ---
 <br/>
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 header: no
-title: "2024: The 6th Annual Symposium on Applications Of Contextual Integrity, New Jersey"
+title: "2025: The 7th Annual Symposium on Applications Of Contextual Integrity, New Jersey"
 teaser: "The aim is to bring people together to present,   discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event

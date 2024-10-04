@@ -1,8 +1,8 @@
 ---
 layout: event
 header: no
-title: "2025: The 7th Annual Symposium on Applications Of Contextual Integrity, New Jersey"
-teaser: "The aim is to bring people together to present,   discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
+title: "2025: The 7th Annual PrivaCI Symposium, Brussels"
+teaser: "The aim is to bring people together to present, discuss and share ideas based on ongoing and completed projects drawing on CI as their underlying conception of privacy."
 categories:
     - Event
     # sidebar: right
@@ -66,8 +66,7 @@ permalink:
 <!-- ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/RutgersCISymLogo.png)-->
 
 
-The 7th Annual Symposium on Applications of Contextual
- Integrity, <b>September 19-20, 2025</b> in [Vrije Universiteit Brussel](https://www.vub.be/en).
+The 7th Annual PrivaCI symposium, <b>September 19-20, 2025</b> in [Vrije Universiteit Brussel](https://www.vub.be/en).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 

@@ -63,7 +63,7 @@ permalink:
   Stay safe!</p>
 </div> -->
 
-![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo)
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo.png)
 
 The 7th Annual PrivaCI symposium, <b>May 19-20, 2025</b>  in Brussels, Belgiun in [Vrije Universiteit Brussel](https://www.vub.be/en).
 

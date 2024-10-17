@@ -63,7 +63,7 @@ permalink:
   Stay safe!</p>
 </div> -->
 
-<!-- ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/RutgersCISymLogo.png)-->
+![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo)
 
 
 The 7th Annual PrivaCI symposium, <b>September 19-20, 2025</b> in [Vrije Universiteit Brussel](https://www.vub.be/en).

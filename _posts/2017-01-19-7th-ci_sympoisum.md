@@ -65,7 +65,7 @@ permalink:
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo)
 
-The 7th Annual PrivaCI symposium, <b>September 19-20, 2025</b>  in Brussels, Belgiun in [Vrije Universiteit Brussel](https://www.vub.be/en).
+The 7th Annual PrivaCI symposium, <b>May 19-20, 2025</b>  in Brussels, Belgiun in [Vrije Universiteit Brussel](https://www.vub.be/en).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 

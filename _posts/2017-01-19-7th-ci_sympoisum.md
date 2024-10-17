@@ -9,7 +9,7 @@ categories:
     # sponsors: right
 comments: false
 show_meta: false
-permalink: 
+permalink:
     symposium/2025/cfp.html
 ---
 <br/>
@@ -69,6 +69,12 @@ The 7th Annual PrivaCI symposium, <b>May 19-20, 2025</b>  in Brussels, Belgiun i
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 
+As the symposium makes its debut in Europe, the 7th annual PrivaCI Symposium will focus on how the Contextual Integrity framework can address pressing issues in the European landscape of privacy and data protection. The symposium aims to provide a platform for exploring the application of Contextual Integrity in various legal contexts, including specific challenges such as compliance with the General Data Protection Regulation (GDPR), the evolving European Digital Strategy (which encompasses the Data Governance Act, the Data Act, the AI Act, the Digital Services Act, and the Digital Markets Act), and the broader implications of living in increasingly digital societies.
+
+Another key theme of the first PrivaCI Symposium in Europe will be personal data spaces, including the European Health Data Space (EHDS). Interoperability and standardization are critical for both. The symposium seeks to explore how the principles of Contextual Integrity can assist researchers, policymakers, and industry professionals in creating standards and establishing interoperability that ensures data flows respect contextual privacy norms while supporting broader societal goals, such as innovation and trust.
+
+In line with our focus on pressing European privacy issues, we particularly encourage submissions that examine how Contextual Integrity can address both regulatory frameworks—such as the GDPR and the European Data Strategy—and the technical challenges posed by decentralized, interoperable systems like personal data spaces and the EHDS. Submissions should investigate how these systems can harmonize individual data empowerment with societal benefits, ensuring that appropriate data flows respect contextual privacy norms while still enabling innovation, cross-border collaboration, and trust in digital ecosystems. We welcome empirical studies, policy analyses, theoretical reflections, and system design approaches that contribute to the development of privacy-preserving standards and solutions grounded in the Contextual Integrity framework.
+
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
@@ -101,7 +107,7 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 
 #### The [Friday]({{ site.url }}/symposium6/Friday.pdf) and [Saturday]({{ site.url }}/symposium6/Saturday.pdf) programs -->
 
- 
+
  <!-- ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)-->
 
 
@@ -111,9 +117,9 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 
 #### REGISTRATION
 
-Registration for the symposium is **$100**. The registration includes a light breakfast (coffee and pastries), lunch and dinner on Friday and light breakfast (coffee and pastries) on Saturday. 
+Registration for the symposium is **$100**. The registration includes a light breakfast (coffee and pastries), lunch and dinner on Friday and light breakfast (coffee and pastries) on Saturday.
 
-Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register. 
+Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register.
 __(After you submit the registration form, you should see the link to the payment processing system.)__
 
 
@@ -160,7 +166,7 @@ Students from under-represented groups including but not limited to women, minor
 
 Students will be provided with the support of **$1000-$1500** depending on where they are travelling from to be used towards registration, hotel and airfare costs.
 
-Please use this [link](https://forms.gle/YHSUGo5AbyRxQCodA) to apply. 
+Please use this [link](https://forms.gle/YHSUGo5AbyRxQCodA) to apply.
 
 We will allocate funding to qualified applicants until funding is used up.
 
@@ -182,7 +188,7 @@ Registration costs will be waived for all travel grant awardees. Travel grant aw
 
 #### IMPORTANT DATES
 
-__All deadlines are AoE (Anywhere on Earth).__	 
+__All deadlines are AoE (Anywhere on Earth).__
 
 * Register an intent/abstract:  February 7, 2025
 * Submissions Due: February 14, 20245
@@ -206,7 +212,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
   <!-- [Louise Barkhuus](http://www.barkhu.us) (Rutgers University and The IT University of Copenhagen)<br/>
   [Ruobin Gong](https://ruobingong.github.io/) (Rutgers University)<br/>
   [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca) (Rutgers University) <br/> -->
-  
+
 
 ##### PROGRAM COMMITTEE
 

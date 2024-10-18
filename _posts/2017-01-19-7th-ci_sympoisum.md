@@ -73,7 +73,9 @@ As the symposium makes its debut in Europe, the 7th annual PrivaCI Symposium wil
 
 Another key theme of the first PrivaCI Symposium in Europe will be personal data spaces, including the European Health Data Space (EHDS). Interoperability and standardization are critical for both. The symposium seeks to explore how the principles of Contextual Integrity can assist researchers, policymakers, and industry professionals in creating standards and establishing interoperability that ensures data flows respect contextual privacy norms while supporting broader societal goals, such as innovation and trust.
 
-In line with our focus on pressing European privacy issues, we particularly encourage submissions that examine how Contextual Integrity can address both regulatory frameworks—such as the GDPR and the European Data Strategy—and the technical challenges posed by decentralized, interoperable systems like personal data spaces and the EHDS. Submissions should investigate how these systems can harmonize individual data empowerment with societal benefits, ensuring that appropriate data flows respect contextual privacy norms while still enabling innovation, cross-border collaboration, and trust in digital ecosystems. We welcome empirical studies, policy analyses, theoretical reflections, and system design approaches that contribute to the development of privacy-preserving standards and solutions grounded in the Contextual Integrity framework.
+In line with our focus on pressing European privacy issues, we particularly encourage submissions that examine how Contextual Integrity can address both regulatory frameworks—such as the GDPR and the European Data Strategy—and the technical challenges posed by decentralized, interoperable systems like personal data spaces and the EHDS. 
+
+Submissions should investigate how these systems can harmonize individual data empowerment with societal benefits, ensuring that appropriate data flows respect contextual privacy norms while still enabling innovation, cross-border collaboration, and trust in digital ecosystems. We welcome empirical studies, policy analyses, theoretical reflections, and system design approaches that contribute to the development of privacy-preserving standards and solutions grounded in the Contextual Integrity framework.
 
 We will accept any of the following submission types:
 
@@ -89,7 +91,7 @@ subsequent publication elsewhere.  With author’s permission,   accepted submis
 Submissions will be peer-reviewed in a single-blind manner by the workshop’s Program Committee and accepted based on relevance and potential to contribute to workshop discussions and goals. We encourage submissions from diverse disciplinary sources,   methods,   and contributions,   including:
 
 * Empirical studies (qualitative,   quantitative,   experimental)
-* Legal,   philosophical,   ethical,   and policy analysis
+* Legal, social,  philosophical,   ethical,   and policy analysis
 * System design and/or implementations
 * Combinations of the above
 
@@ -205,7 +207,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 #### SYMPOSIUM CHAIRS
   <br/>
-  [Gianclaudio Malgieri](https://www.gianclaudiomalgieri.eu) (Vrije Universiteit Brussel))<br/>
+  [Gianclaudio Malgieri](https://www.gianclaudiomalgieri.eu) (Vrije Universiteit Brussel)<br/>
   [Jo Pierson](https://smit.research.vub.be/en/prof-dr-jo-pierson) (imec-SMIT-VUB & Universiteit Hasselt)<br/>
   [August Bourgeus](https://smit.research.vub.be/en/august-bourgeus) (imec-SMIT-VUB)
 
@@ -269,8 +271,6 @@ __TBD__
 Email: [contact@privaci.info](mailto:contact@privaci.info)
 <br/>
 Website: [https://privaci.info/](https://privaci.info/ )
-<br/>
-Twitter: [@priva_ci](https://twitter.com/priva_ci)
 
 ## Code of Conduct
 

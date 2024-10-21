@@ -281,11 +281,12 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 
 <hr/>
 
-<!--
-# We are grateful for the support
+
+# WITH THE GENEROUS SUPPORT OF
 <br/>
-<img src="{{ site.url }}/images/NSF_Logo.png" alt="NSF logo" width="35%"/>
-<img src="{{ site.url }}/images/rutgers_logo.png" alt="Rutgers logo" />
+<img src="{{ site.url }}/images/SolidLab.png" alt="SoligLab logo" width="35%"/>
+<img src="{{ site.url }}/images/CPDP" alt="CPDP Conference logo" />
+<!--
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>
 <br/>
 <img src="{{ site.url }}/images/google.png" alt="google logo" width="30%"/>

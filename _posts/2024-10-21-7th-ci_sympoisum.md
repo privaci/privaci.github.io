@@ -285,7 +285,7 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 # WITH THE GENEROUS SUPPORT OF
 <br/>
 <img src="{{ site.url }}/images/SolidLab.png" alt="SoligLab logo" width="35%"/>
-<img src="{{ site.url }}/images/CPDP" alt="CPDP Conference logo" />
+<img src="{{ site.url }}/images/CPDP.png" alt="CPDP Conference logo" />
 <!--
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>
 <br/>

@@ -207,9 +207,12 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 #### SYMPOSIUM CHAIRS
   <br/>
-  [Gianclaudio Malgieri](https://www.gianclaudiomalgieri.eu) (Vrije Universiteit Brussel)<br/>
-  [Jo Pierson](https://smit.research.vub.be/en/prof-dr-jo-pierson) (imec-SMIT-VUB & Universiteit Hasselt)<br/>
-  [August Bourgeus](https://smit.research.vub.be/en/august-bourgeus) (imec-SMIT-VUB)
+  [Gianclaudio Malgieri](https://www.gianclaudiomalgieri.eu) (eLaw, Leiden University; Brussels Privacy Hub)<br/>
+  [Jo Pierson](https://smit.research.vub.be/en/prof-dr-jo-pierson) (imec-SMIT, Vrije Universiteit Brussel & Universiteit Hassel)<br/>
+  [August Bourgeus](https://smit.research.vub.be/en/august-bourgeus) (imec-SMIT, Vrije Universiteit Brussel)</br>
+
+  [Symposium Chairs contact email](mailto:privaci_brussels@vub.be)
+  
 
   <!-- [Louise Barkhuus](http://www.barkhu.us) (Rutgers University and The IT University of Copenhagen)<br/>
   [Ruobin Gong](https://ruobingong.github.io/) (Rutgers University)<br/>

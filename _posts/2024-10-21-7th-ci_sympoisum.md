@@ -227,18 +227,18 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Laura Drechsler](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157945) (CITIP, KU Leuven)<br />
 [Ralf De Wolf](https://www.ugent.be/mict/en/team/professors/ralf-de-wolf.htm) (UGent) <br/>
 [Beatriz Esteves](https://besteves4.github.io/about-me) (Ugent-imec) <br />
-[Max Von Grafenstein](https://www.hiig.de/en/maximilian-von-grafenstein/)(Alexander von Humboldt Institute for Internet and Society (HIIG)) <br />
+[Max Von Grafenstein](https://www.hiig.de/en/maximilian-von-grafenstein/ (Alexander von Humboldt Institute for Internet and Society) <br />
 [Johanna Gunawan](https://johannagunawan.com) (Maastricht University) <br />
-[Emiram Kablo](https://www.uni-paderborn.de/en/person/46433), Universität Paderborn <br />
-Irith Kist (Data Protection Officer at the Netherlands Cancer Institute) <br />
+[Emiram Kablo](https://www.uni-paderborn.de/en/person/46433) (Universität Paderborn) <br />
+[Irith Kist]() (Data Protection Officer at the Netherlands Cancer Institute) <br />
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
-[Laurens Vandercruysse](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
-[Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
-[Ben Zevenbergen ]()(Google)<br/>
+[Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
+[Primal Wijesekera] (https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
+[Ben Zevenbergen ]() (Google)<br/>
 [Yxin Zou](https://yixinzou.github.io) (Max Planck Institute for Security and Privacy in Bochum) <br />
 
 

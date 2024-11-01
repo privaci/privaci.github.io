@@ -222,6 +222,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 ##### PROGRAM COMMITTEE
 
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
+[Borja De Balle Pigem](https://borjaballe.github.io)(Google)<br/>
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University) <br/>
 [Laura Drechsler](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157945) (CITIP, KU Leuven)<br />

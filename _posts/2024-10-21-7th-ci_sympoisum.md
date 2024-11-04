@@ -232,17 +232,19 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Johanna Gunawan](https://johannagunawan.com) (Maastricht University) <br />
 [Emiram Kablo](https://www.uni-paderborn.de/en/person/46433) (Universität Paderborn) <br />
 [Irith Kist]() (Data Protection Officer at the Netherlands Cancer Institute) <br />
+[Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html) (LMU Munich, Germany and at the University of Maryland, USA) <br />
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
+[Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken)</br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
 [Primal Wijesekera] (https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
 [Ben Zevenbergen ]() (Google)<br/>
 [Yxin Zou](https://yixinzou.github.io) (Max Planck Institute for Security and Privacy in Bochum) <br />
 
-
+ 
 
 
 <!-- [Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>-->

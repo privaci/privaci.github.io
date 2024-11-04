@@ -231,14 +231,14 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Max Von Grafenstein](https://www.hiig.de/en/maximilian-von-grafenstein/) (Alexander von Humboldt Institute for Internet and Society) <br />
 [Johanna Gunawan](https://johannagunawan.com) (Maastricht University) <br />
 [Emiram Kablo](https://www.uni-paderborn.de/en/person/46433) (Universität Paderborn) <br />
-[Irith Kist]() (Data Protection Officer at the Netherlands Cancer Institute) <br />
+[Irith Kist](Data Protection Officer at the Netherlands Cancer Institute) <br />
 [Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html) (LMU Munich, Germany and at the University of Maryland, USA) <br />
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
-[Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken)</br/>
+[Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken)<br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
 [Primal Wijesekera] (https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
 [Ben Zevenbergen ]() (Google)<br/>

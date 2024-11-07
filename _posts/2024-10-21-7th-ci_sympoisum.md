@@ -236,6 +236,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html) (LMU Munich, Germany and at the University of Maryland, USA) <br />
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
+[Elisa Orrù](https://www.css.uni-freiburg.de/en/people/css-research-team/pd-dr-elisa-orru/) (The Centre for Security and Society)<br />
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />

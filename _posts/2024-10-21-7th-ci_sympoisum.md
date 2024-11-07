@@ -240,7 +240,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
-[Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken)<br/>
+[Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken) (https://lsts.research.vub.be/joris-van-hoboken)<br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
 [Ine Van Zeeland](https://smit.research.vub.be/en/dr-ine-van-zeeland) (imec-SMIT-VUB, Universiteit Hasselt)<br/>
 [Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />

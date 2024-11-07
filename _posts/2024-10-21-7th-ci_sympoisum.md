@@ -232,7 +232,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Max Von Grafenstein](https://www.hiig.de/en/maximilian-von-grafenstein/) (Alexander von Humboldt Institute for Internet and Society) <br />
 [Johanna Gunawan](https://johannagunawan.com) (Maastricht University) <br />
 [Emiram Kablo](https://www.uni-paderborn.de/en/person/46433) (Universität Paderborn) <br />
-[Irith Kist](Data Protection Officer at the Netherlands Cancer Institute) <br />
+[Irith Kist]() (Data Protection Officer at the Netherlands Cancer Institute) <br />
 [Frauke Kreuter](https://www.stat.lmu.de/soda/en/team/contact-page/frauke-kreuter-825909f7.html) (LMU Munich, Germany and at the University of Maryland, USA) <br />
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
 [Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />

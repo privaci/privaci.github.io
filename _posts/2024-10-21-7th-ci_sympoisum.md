@@ -226,8 +226,9 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University) <br/>
 [Laura Drechsler](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157945) (CITIP, KU Leuven)<br />
-[Ralf De Wolf](https://www.ugent.be/mict/en/team/professors/ralf-de-wolf.htm) (UGent) <br/>
+[Ralf De Wolf](https://www.ugent.be/mict/en/team/professors/ralf-de-wolf.htm) (imec-MICT-UGent) <br/>
 [Beatriz Esteves](https://besteves4.github.io/about-me) (Ugent-imec) <br />
+[Seda Gürses](https://www.tudelft.nl/en/tpm/our-faculty/departments/multi-actor-systems/people/associate-professors/dr-fs-seda-gurses) (TU Delft)<br/>
 [Max Von Grafenstein](https://www.hiig.de/en/maximilian-von-grafenstein/) (Alexander von Humboldt Institute for Internet and Society) <br />
 [Johanna Gunawan](https://johannagunawan.com) (Maastricht University) <br />
 [Emiram Kablo](https://www.uni-paderborn.de/en/person/46433) (Universität Paderborn) <br />
@@ -240,9 +241,10 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
 [Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken)</br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />
-[Primal Wijesekera] (https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
+[Ine Van Zeeland](https://smit.research.vub.be/en/dr-ine-van-zeeland) (imec-SMIT-VUB, Universiteit Hasselt)<br/>
+[Primal Wijesekera](https://www.icsi.berkeley.edu/icsi/people/primalw) (ICSI)<br />
 [Ben Zevenbergen ]() (Google)<br/>
-[Yxin Zou](https://yixinzou.github.io) (Max Planck Institute for Security and Privacy in Bochum) <br />
+[Yixin Zou](https://yixinzou.github.io) (Max Planck Institute for Security and Privacy in Bochum) <br />
 
  
 

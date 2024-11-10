@@ -239,6 +239,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Elisa Orrù](https://www.css.uni-freiburg.de/en/people/css-research-team/pd-dr-elisa-orru/) (The Centre for Security and Society)<br />
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
+[Vincent Toubiana]() (CNIL)<br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
 [Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken) (Vrije Universiteit Brussel, Belgium)<br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />

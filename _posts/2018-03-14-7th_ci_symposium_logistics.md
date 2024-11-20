@@ -10,7 +10,7 @@ categories:
 #sponsors: right
 comments: false
 show_meta: false
-permalink: symposium/2024/logistics.html
+permalink: symposium/2025/logistics.html
 ---
 <br/>
 

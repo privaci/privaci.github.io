@@ -57,24 +57,28 @@ permalink: symposium/2025/logistics.html
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo.png)
 
-# Event Location
-The 7th Annual PrivaCI Symposium on May 19-20 in Brussels, Belgium at **‘Hoek 38’**, Brussels, Belgium.
 
-## Address
-Leuvenseweg 38,  
-1000, Brussels  
-Belgium
+The 7th Annual PrivaCI Symposium will take place on May 19-20 in Brussels, Belgium at [Hoek 38'](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6)
+
+
 
 ## Getting Here
-The **‘Hoek 38’** venue is within walking distance of the central station, many hotels, restaurants, and museums.
+The [Hoek 38’](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6) is within walking distance of the central station, many hotels, restaurants, and museums.
 
-#### By Air
+### By Air
 The closest airport is **Brussels Airport**.  
 There are many options for ground transportation from the airport to the venue (in the city centre), including car services (taxi, private car service), shuttle buses, subways, and trains.
 
 ### Public Transit
-**‘Hoek 38’** in Brussels is conveniently accessible via public transit. From **Brussels Airport**, travellers can take a direct train to **Brussels Central Station**, which is within walking distance of **‘Hoek 38’**. Trains run frequently and take approximately 20 minutes to travel.  
-Brussels is also a hub for trains arriving from cities across Europe, making it easy to reach **Hoek 38** from international destinations. Ride-sharing services, car rentals, and taxis are also available for convenient local travel.  
+**‘Hoek 38’** in Brussels is conveniently accessible via public transit. <br/>
+
+From **Brussels Airport**, travellers can take a direct train to **[Brussels Central Station](https://maps.app.goo.gl/U5JYUzzsQ2zETpCu7)**, which is within walking distance of **‘Hoek 38’**.<br />
+
+Trains run frequently and take approximately 20 minutes to travel.  
+
+Brussels is also a hub for trains arriving from cities across Europe, making it easy to reach **Hoek 38** from international destinations. 
+
+Ride-sharing services, car rentals, and taxis are also available for convenient local travel.  
 For those planning an extended stay, day trips to cities like Antwerp, Ghent, and Bruges are accessible via frequent trains departing from Brussels Central Station.  
 Please visit **[Belgian Railways (NMBS)](https://www.belgiantrain.be/en)** for fare and schedule information.
 

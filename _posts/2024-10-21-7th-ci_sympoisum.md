@@ -223,6 +223,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Borja De Balle Pigem](https://borjaballe.github.io)(Google)<br/>
+[Paul De Hert](https://lsts.research.vub.be/paul-de-hert) (Vrije Universiteit Brussel)<br />
 [Rachel Cummings](https://www.engineering.columbia.edu/faculty/rachel-cummings) (Columbia University) <br/>
 [Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University) <br/>
 [Laura Drechsler](https://www.law.kuleuven.be/citip/en/staff-members/staff/00157945) (CITIP, KU Leuven)<br />
@@ -249,7 +250,6 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Ben Zevenbergen ]() (Google)<br/>
 [Yixin Zou](https://yixinzou.github.io) (Max Planck Institute for Security and Privacy in Bochum) <br />
 
- 
 
 
 <!-- [Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>-->

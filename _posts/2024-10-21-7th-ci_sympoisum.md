@@ -199,11 +199,11 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 
 
-<!-- #### HOW TO SUBMIT
+#### HOW TO SUBMIT
 
-Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
+Please make submissions using [the submission site.](https://easychair.org/my/conference?conf=privaci2025)
 
--->
+
 
 #### SYMPOSIUM CHAIRS
   <br/>

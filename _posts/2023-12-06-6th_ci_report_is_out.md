@@ -1,14 +1,14 @@
 ---
 layout: event
 header: no
-title: "The 5th Symposium on Applications of Contextual Integrity Report"
+title: "The 6th Symposium on Applications of Contextual Integrity Report"
 categories:
     - Event
     #sidebar: right
     #sponsors: right
 comments: false
 show_meta: false
-permalink: symposium/2023/symposium_report.html
+permalink: symposium/2024/symposium_report.html
 ---
 
  <img src="{{ site.url }}/images/RutgersCISymLogo.png" style="width: 1000px; min-width: 700px;" />

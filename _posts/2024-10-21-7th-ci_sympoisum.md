@@ -241,8 +241,8 @@ Please make submissions using [the submission site.](https://easychair.org/my/co
 [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
 [Luke Stark ](https://starkcontrast.co) (Western University)<br/>
 [Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
-[Andrew Trask](https://iamtrask.github.io)  (OpenMined) <br/>
 [Vincent Toubiana]() (CNIL)<br/>
+[Andrew Trask]()  (OpenMined) <br/>
 [Kirsten Martin](http://www.kirstenmartin.net) (University of Notre Dame)<br />
 [Joris van Hoboken](https://lsts.research.vub.be/joris-van-hoboken) (Vrije Universiteit Brussel, Belgium)<br/>
 [Laurens Vandercruysse ](https://researchportal.vub.be/en/persons/laurens-vandercruysse) (Vrije Universiteit Brussel) <br />

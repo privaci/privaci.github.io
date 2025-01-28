@@ -212,11 +212,7 @@ Please make submissions using [the submission site.](https://easychair.org/my/co
   [August Bourgeus](https://smit.research.vub.be/en/august-bourgeus) (imec-SMIT, Vrije Universiteit Brussel)<br/>
 
   [Symposium Chairs contact email](mailto:privaci_brussels@vub.be)
-  
 
-  <!-- [Louise Barkhuus](http://www.barkhu.us) (Rutgers University and The IT University of Copenhagen)<br/>
-  [Ruobin Gong](https://ruobingong.github.io/) (Rutgers University)<br/>
-  [Rebecca Reynolds](https://comminfo.rutgers.edu/reynolds-rebecca) (Rutgers University) <br/> -->
 
 
 ##### PROGRAM COMMITTEE
@@ -318,6 +314,7 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 <br/>
 <img src="{{ site.url }}/images/SolidLab.png" alt="SoligLab logo" width="35%"/>
 <img src="{{ site.url }}/images/CPDP.png" alt="CPDP Conference logo"  width="45%" />
+<img src="{{ site.url }}/images/uhasselt.png" alt="Uhasselt logo"  width="30%" />
 <!--
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>
 <br/>

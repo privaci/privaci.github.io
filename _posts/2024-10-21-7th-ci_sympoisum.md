@@ -130,6 +130,7 @@ __(After you submit the registration form, you should see the link to the paymen
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).
 
+-->
 
 ## TRAVEL GRANTS
 
@@ -140,13 +141,14 @@ For information on the event location and accommodations [click here](https://pr
  </p>
 </div>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/N1fpoa3HW33qwfpXA).
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/YikpzwVBU1M2yY358).
 
--->
 
 <!-- **Accepting until August 23 or until funding last** -->
 
-<!-- The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.-->
+The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+
+
 
 <!--
 ## NSF Student Grant Application

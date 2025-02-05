@@ -141,7 +141,7 @@ For information on the event location and accommodations [click here](https://pr
  </p>
 </div>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/YikpzwVBU1M2yY358).
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/GEuABs1vFvTQw8e8A).
 
 
 <!-- **Accepting until August 23 or until funding last** -->

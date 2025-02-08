@@ -95,7 +95,7 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 * System design and/or implementations
 * Combinations of the above
 
-<!-- Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users,   choose <b>format=sigconf</b>.-->
+Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users,   choose <b>format=sigconf</b>.
 
 
 <!--

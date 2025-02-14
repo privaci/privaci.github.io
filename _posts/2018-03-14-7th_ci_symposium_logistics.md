@@ -58,7 +58,15 @@ permalink: symposium/2025/logistics.html
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo.png)
 
 
-The 7th Annual PrivaCI Symposium will take place on May 19-20 in Brussels, Belgium at [Hoek 38'](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6)
+The 7th Annual PrivaCI Symposium will take place on May 19-20  at [Hoek 38'](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6), in Brussels, Belgium.
+
+
+## Accommodation
+<p>
+A block of room has been set aside on a first-come, first-served basis for symposium participants in the [Aparthotel Adagio Brussels Grand Place](https://www.adagio-city.com/gb/hotel-7242-aparthotel-adagio-brussels-grand-place/index.shtml), within walking distance of the symposium venue (you can also take a metro from Metro De Brouckere to Metro Parc). 
+ 
+<br/>To receive the discount codes to book a room after registering for the symposium. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](privaci_brussels@vub.be) for the booking details.
+
 
 
 
@@ -69,8 +77,15 @@ The [Hoek 38’](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6) is within walking di
 The closest airport is **Brussels Airport**.  
 There are many options for ground transportation from the airport to the venue (in the city centre), including car services (taxi, private car service), shuttle buses, subways, and trains.
 
+Please visit [Belgian Railways (NMBS)](https://www.belgiantrain.be/en) for fare and schedule information.
+
+<br/>
+ **Please note that another airport in the south of Belgium - Charleroi - is also sometimes called Brussels / Brussels South. From Charleroi Airport, you can reach Brussels easily by shuttle bus but not by train.**
+
 ### Public Transit
-**‘Hoek 38’** in Brussels is conveniently accessible via public transit. <br/>
+**‘Hoek 38’** in Brussels is conveniently accessible via public transit. <br/> 
+The train station Brussel Centraal as well as the subway station Parc are within easy walking distance. 
+
 
 From **Brussels Airport**, travellers can take a direct train to **[Brussels Central Station](https://maps.app.goo.gl/U5JYUzzsQ2zETpCu7)**, which is within walking distance of **‘Hoek 38’**.<br />
 
@@ -84,4 +99,3 @@ Please visit **[Belgian Railways (NMBS)](https://www.belgiantrain.be/en)** for f
 
 ### Driving
 Driving directions to the venue can be found on [Google Maps](https://www.google.com/maps).
-

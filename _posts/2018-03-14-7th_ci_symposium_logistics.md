@@ -57,22 +57,17 @@ permalink: symposium/2025/logistics.html
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/7thCISymposiumLogo.png)
 
-
-The 7th Annual PrivaCI Symposium will take place on May 19-20  at [Hoek 38'](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6), in Brussels, Belgium.
-
+The 7th Annual PrivaCI Symposium will take place on May 19-20 at [Hoek 38'](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6), in Brussels, Belgium.
 
 ## Accommodation
-<p>
-A block of room has been set aside on a first-come, first-served basis for symposium participants in the [Aparthotel Adagio Brussels Grand Place](https://www.adagio-city.com/gb/hotel-7242-aparthotel-adagio-brussels-grand-place/index.shtml), within walking distance of the symposium venue.
- 
-<br/>After registering for the symposium, the group discount count will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](privaci_brussels@vub.be) for the booking details.
 
+A block of rooms has been set aside on a first-come, first-served basis for symposium participants at the [Aparthotel Adagio Brussels Grand Place](https://www.adagio-city.com/gb/hotel-7242-aparthotel-adagio-brussels-grand-place/index.shtml), within walking distance of the symposium venue.
 
-
+After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.
 
 ## Getting Here
 
-The [Hoek 38’](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6) is within walking distance of the central station, many hotels, restaurants, and museums.
+[Hoek 38’](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6) is within walking distance of the central station, many hotels, restaurants, and museums.
 
 ### By Air
 
@@ -81,20 +76,18 @@ There are many options for ground transportation from the airport to the venue (
 
 Please visit [Belgian Railways (NMBS)](https://www.belgiantrain.be/en) for fare and schedule information.
 
-<br/>
- **Please note that another airport in the south of Belgium - Charleroi - is also sometimes called Brussels / Brussels South. From Charleroi Airport, you can reach Brussels easily by shuttle bus but not by train.**
+**Please note that another airport in the south of Belgium, Charleroi, is sometimes called Brussels / Brussels South. From Charleroi Airport, you can reach Brussels easily by shuttle bus, but not by train.**
 
 ### Public Transit
 
-**‘Hoek 38’** in Brussels is conveniently accessible via public transit. <br/> 
-The train station Brussel Centraal as well as the subway station Parc are within easy walking distance. 
+**Hoek 38** in Brussels is conveniently accessible via public transit.  
+The train station **Brussel Centraal** as well as the subway station **Parc** are within easy walking distance.
 
+From **Brussels Airport**, travellers can take a direct train to **[Brussels Central Station](https://maps.app.goo.gl/U5JYUzzsQ2zETpCu7)**, which is within walking distance of **Hoek 38**.
 
-From **Brussels Airport**, travellers can take a direct train to **[Brussels Central Station](https://maps.app.goo.gl/U5JYUzzsQ2zETpCu7)**, which is within walking distance of **‘Hoek 38’**.<br />
+Trains run frequently and take approximately 20 minutes to travel. 
 
-Trains run frequently and take approximately 20 minutes to travel.  
-
-Brussels is also a hub for trains arriving from cities across Europe, making it easy to reach **Hoek 38** from international destinations. 
+Brussels is also a hub for trains arriving from cities across Europe, making it easy to reach **Hoek 38** from international destinations.
 
 Ride-sharing services, car rentals, and taxis are also available for convenient local travel.  
 For those planning an extended stay, day trips to cities like Antwerp, Ghent, and Bruges are accessible via frequent trains departing from Brussels Central Station.  
@@ -102,6 +95,5 @@ Please visit **[Belgian Railways (NMBS)](https://www.belgiantrain.be/en)** for f
 
 ### Driving
 
-Driving directions to the venue can be found on [Google Maps](https://www.google.com/maps).
-<br/>  Please note that the symposium takes place in the centre of Brussels, where congestion is very common and parking is expensive. 
-
+Driving directions to the venue can be found on [Google Maps](https://www.google.com/maps).  
+Please note that the symposium takes place in the centre of Brussels, where congestion is common and parking is expensive.

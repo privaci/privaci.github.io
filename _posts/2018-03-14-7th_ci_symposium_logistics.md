@@ -103,3 +103,5 @@ Please visit **[Belgian Railways (NMBS)](https://www.belgiantrain.be/en)** for f
 ### Driving
 
 Driving directions to the venue can be found on [Google Maps](https://www.google.com/maps).
+<br/>  Please note that the symposium takes place in the centre of Brussels, where congestion is very common and parking is expensive. 
+

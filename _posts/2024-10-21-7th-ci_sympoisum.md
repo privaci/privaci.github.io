@@ -77,6 +77,7 @@ In line with our focus on pressing European privacy issues, we particularly enco
 
 Submissions should investigate how these systems can harmonize individual data empowerment with societal benefits, ensuring that appropriate data flows respect contextual privacy norms while still enabling innovation, cross-border collaboration, and trust in digital ecosystems. We welcome empirical studies, policy analyses, theoretical reflections, and system design approaches that contribute to the development of privacy-preserving standards and solutions grounded in the Contextual Integrity framework.
 
+<!--
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
@@ -98,7 +99,7 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 Papers should be formatted using the [ACM Master Article Template](https://www.acm.org/publications/taps/word-template-workflow). For LaTeX users,   choose <b>format=sigconf</b>.
 
 
-<!--
+-
 
  We look forward to seeing you at the symposium!
 
@@ -118,7 +119,7 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
 
 
-#### REGISTRATION
+## REGISTRATION
 
 <p style="font-size: 18px;">
   Registration for the symposium is <strong>&#8364; 100</strong>.
@@ -137,7 +138,7 @@ __After registering for the symposium, the group discount details will be shared
 <p style="font-size: large;">For information on the event location and accommodations, <a href="https://privaci.info/symposium/2025/logistics.html">click here</a>.</p>
 
 
-## TRAVEL GRANTS
+### TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>

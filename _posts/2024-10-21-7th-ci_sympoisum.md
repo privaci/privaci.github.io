@@ -115,17 +115,20 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
 
 
-<!--
+
 
 #### REGISTRATION
 
-Registration for the symposium is **$100**. The registration includes a light breakfast (coffee and pastries), lunch and dinner on Friday and light breakfast (coffee and pastries) on Saturday.
+<p style="font-size: 18px;">
+  Registration for the symposium is <strong>&#8364; 100</strong>. 
+</p>
 
-Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register.
-__(After you submit the registration form, you should see the link to the payment processing system.)__
+<br/>
+Please use the following [link](https://www.vub.be/en/event/7th-annual-privaci-symposium) to register.
+__After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.__
 
 
--->
+
 ### Logistics
 
 <p style="font-size: large;">For information on the event location and accommodations, <a href="https://privaci.info/symposium/2025/logistics.html">click here</a>.</p>

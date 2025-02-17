@@ -122,7 +122,7 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 <p style="font-size: 18px;">
   Registration for the symposium is <strong>&#8364; 100</strong>.
   <br/>
-   Please use the following [link](https://www.vub.be/en/event/7th-annual-privaci-symposium) to register.
+   Please use the following <a href=https://www.vub.be/en/event/7th-annual-privaci-symposium>link</a> to register.
 </p>
 
 <br/>
@@ -198,18 +198,18 @@ Registration costs will be waived for all travel grant awardees. Travel grant aw
 
 __All deadlines are AoE (Anywhere on Earth).__
 
-* Register an intent/abstract (optional):  February 7, 2025
-* Submissions Due: February 14, 2025
+* ~Register an intent/abstract (optional):  February 7, 2025~
+* ~Submissions Due: February 14, 2025~
 * Notifications: March 21, 2025
 * Symposium dates: **May 19 and 20,   2025**
 
-
+<!--
 
 #### HOW TO SUBMIT
 
 Please make submissions using [the submission site.](https://easychair.org/my/conference?conf=privaci2025)
 
-
+-->
 
 #### SYMPOSIUM CHAIRS
   <br/>

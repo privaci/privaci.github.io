@@ -120,11 +120,13 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 #### REGISTRATION
 
 <p style="font-size: 18px;">
-  Registration for the symposium is <strong>&#8364; 100</strong>. 
+  Registration for the symposium is <strong>&#8364; 100</strong>.
+  <br/>
+   Please use the following [link](https://www.vub.be/en/event/7th-annual-privaci-symposium) to register.
 </p>
 
 <br/>
-Please use the following [link](https://www.vub.be/en/event/7th-annual-privaci-symposium) to register.
+
 __After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.__
 
 

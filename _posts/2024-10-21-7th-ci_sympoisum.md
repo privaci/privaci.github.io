@@ -121,7 +121,8 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
 <p style="font-size: 18px;">
   Registration for the symposium is <strong>&#8364; 100</strong>.
-  <br/>
+</p>
+<p style="font-size: 18px;">
    Please use the following <a href=https://www.vub.be/en/event/7th-annual-privaci-symposium>link</a> to register.
 </p>
 

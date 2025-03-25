@@ -66,6 +66,8 @@ A block of rooms has been set aside on a first-come, first-served basis for symp
 
 After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.
 
+Other accomodation options can be found [here](https://viata.ai/event/privaci2025?city=Brussels&checkIn=2025-05-19&checkOut=2025-05-20&rooms=1&adults=1&children=0).
+
 ## Getting Here
 
 [Hoek 38’](https://maps.app.goo.gl/DBAbyVbf2ZD1aMiQ6) is within walking distance of the central station, many hotels, restaurants, and museums.
@@ -100,13 +102,5 @@ Driving directions to the venue can be found on [Google Maps](https://www.google
 Please note that the symposium takes place in the centre of Brussels, where congestion is common and parking is expensive.
 
 
-  <iframe
-    id="viata-event-iframe-privaci2025"
-    src=https://viata.ai/event/privaci2025
-    width="100%"
-    height="800"
-    frameborder="0"
-    allowfullscreen
-    style="border-radius: 8px; overflow: hidden; display: block;"
-  ></iframe>
+
   

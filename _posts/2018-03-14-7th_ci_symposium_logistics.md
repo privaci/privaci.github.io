@@ -65,8 +65,18 @@ The 7th Annual PrivaCI Symposium will take place on May 19-20 at [Hoek 38'](http
 A block of rooms has been set aside on a first-come, first-served basis for symposium participants at the [Aparthotel Adagio Brussels Grand Place](https://www.adagio-city.com/gb/hotel-7242-aparthotel-adagio-brussels-grand-place/index.shtml), within walking distance of the symposium venue.
 
 After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.
+<br/>
+Below, you’ll find a small selection of recommended hotels, listed roughly in order of proximity to the venue (centre of Brussels). 
 
-Other accomodation options can be found [here](https://viata.ai/event/privaci2025?city=Brussels&checkIn=2025-05-19&checkOut=2025-05-20&rooms=1&adults=1&children=0).
+- Hotel Motel One Brussels
+- Hotel du Congres
+- B-aparthotel Regent
+- 9Hotel Central
+- Ibis Off Grand Place
+- Novotel Brussels Off Grand Place
+- Hotel NH Brussels
+
+
 
 ## Getting Here
 

@@ -66,7 +66,7 @@ A block of rooms has been set aside on a first-come, first-served basis for symp
 
 After registering for the symposium, the group discount details will be shared. It is possible to book rooms for up to 4 people. Please feel free to reach out to [privaci_brussels@vub.be](mailto:privaci_brussels@vub.be) for booking details.
 <br/>
-Below, you’ll find a small selection of recommended hotels, listed roughly in order of proximity to the venue (centre of Brussels). 
+Alternative hotels, listed roughly in order of proximity to the venue (centre of Brussels). 
 
 - Hotel Motel One Brussels
 - Hotel du Congres

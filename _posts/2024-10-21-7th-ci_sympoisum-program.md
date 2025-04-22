@@ -204,7 +204,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 * ~~Register an intent/abstract (optional):  February 7, 2025~~
 * ~~Submissions Due: February 14, 2025~~
-* Notifications: March 21, 2025
+* ~~Notifications: March 21, 2025~~
 * Symposium dates: **May 19 and 20,   2025**
 
 <!--

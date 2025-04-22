@@ -9,8 +9,8 @@ categories:
     # sponsors: right
 comments: false
 show_meta: false
-permalink:
-    symposium/2025/cfp.html
+permalink: 
+    symposium/2025/program.html
 ---
 <br/>
 
@@ -103,12 +103,14 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 
  We look forward to seeing you at the symposium!
 
-
+-->
 ## Symposium Program
 
-### [Full program](https://docs.google.com/spreadsheets/d/e/2PACX-1vQJHr0VTytbZ6F3f1yvFyL5Mp--aFm2Z3p1un469Gj02UJ3vBMjsbfkvgUk80UdyS15wmRfVjIBksYN/pubhtml?gid=1416502899&single=true)
+### [Full Draft program](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI5uIthsgvtlbTNrOTqcrNs2rwfEQpw-Io2p2kK5hkwkLL3nqmjHDUCgfbB1tPANboKD9Urqjv85ml/pubhtml?gid=1596667627&single=true) 
+<br/>
+The program is subject to change.
 
-#### The [Friday]({{ site.url }}/symposium6/Friday.pdf) and [Saturday]({{ site.url }}/symposium6/Saturday.pdf) programs -->
+<!-- #### The [Friday]({{ site.url }}/symposium6/Friday.pdf) and [Saturday]({{ site.url }}/symposium6/Saturday.pdf) programs -->
 
 
  <!-- ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)-->
@@ -202,7 +204,7 @@ __All deadlines are AoE (Anywhere on Earth).__
 
 * ~~Register an intent/abstract (optional):  February 7, 2025~~
 * ~~Submissions Due: February 14, 2025~~
-* Notifications: March 21, 2025
+* ~~Notifications: March 21, 2025~~
 * Symposium dates: **May 19 and 20,   2025**
 
 <!--

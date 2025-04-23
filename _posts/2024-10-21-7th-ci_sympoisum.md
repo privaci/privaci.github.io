@@ -325,8 +325,8 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 <img src="{{ site.url }}/images/SolidLab.png" alt="SoligLab logo" width="35%"/>
 <img src="{{ site.url }}/images/CPDP.png" alt="CPDP Conference logo"  width="45%" />
 <img src="{{ site.url }}/images/uhasselt.png" alt="Uhasselt logo"  width="25%" />
-<!--
 <img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>
+<!--
 <br/>
 <img src="{{ site.url }}/images/google.png" alt="google logo" width="30%"/>
 -->

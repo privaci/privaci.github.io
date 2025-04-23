@@ -29,8 +29,7 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
 
 <div style="background-color: #f0f8ff; border-left: 6px solid #0078D7; padding: 20px; font-family: Arial, sans-serif; margin: 20px 0;">
   <h2 style="color: #0078D7;">📣 Call for Papers: Special Issue on Privacy as Contextual Integrity</h2>
-  <p>
-    Don’t miss this exciting opportunity! We're thrilled to announce the <strong>Call for Papers</strong> for the 
+  <p>We're thrilled to announce the <strong>Call for Papers</strong> for the 
     <em>Special Issue on Privacy as Contextual Integrity</em> in 
     <strong>IEEE Security & Privacy</strong>.
   </p>
@@ -44,7 +43,6 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
       View Call for Papers
     </a>
   </p>
-  <p>If you have questions, please reach out to the editors!</p>
 </div>
-
+ 
 <!-- ## Join the [PrivaCI mailing list]() and check out the recent CI related publications on the [Zotero group repository]().--> 

@@ -108,9 +108,9 @@ Papers should be formatted using the [ACM Master Article Template](https://www.a
 ### [Full program](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI5uIthsgvtlbTNrOTqcrNs2rwfEQpw-Io2p2kK5hkwkLL3nqmjHDUCgfbB1tPANboKD9Urqjv85ml/pubhtml?gid=1596667627&single=true)
 
 <br/>
-The program is subject to change.
+<!-- The program is subject to change. -->
 
-#### The [Monday]({{ site.url }}/symposium7/Monday.pdf) and [Tuesday]({{ site.url }}/symposium7/Tuesday.pdf) programs -->
+#### The [Monday]({{ site.url }}/symposium7/Monday.pdf) and [Tuesday]({{ site.url }}/symposium7/Tuesday.pdf) programs
 
  <!-- ([Thursday]({{ site.url }}/symposium5/Thursday.pdf) and [Friday]({{ site.url}}/symposium5/Friday.pdf) schedules)-->
 

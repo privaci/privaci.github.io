@@ -222,7 +222,7 @@ If you witnessed or experienced harassment or discriminatory behavior,   please 
 
 
 # We are grateful for the support
-<br/>
+
 <img src="{{ site.url }}/images/ischool.png" alt="NSF logo" width="70%"/>
 <img src="{{ site.url }}/images/PrivaCI_Insitute.png" alt="PrivaCI logo" width="60%"/>
 <!--<img src="{{ site.url }}/images/DLI_logo.jpg" alt="DLI logo" width="50%"/>

@@ -189,7 +189,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 #### SYMPOSIUM CHAIRS
   <br/>
   [Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
-  [Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) 
+  [Varun Chandrasekaran](https://chandrasekaran-group.github.io) (University of Illinois at Urbana-Champaign)<br/>
   <br/>
 
 ##### PROGRAM COMMITTEE
@@ -202,6 +202,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 <br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
+[Yan Shvartzshnaider](https://shvartzshnaider.com) (York University) 
 <br/>
 
 ### Contact

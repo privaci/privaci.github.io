@@ -193,8 +193,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
   <br/>
 
 ##### PROGRAM COMMITTEE
-
-
+<br/>
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
 [Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>
 [Ananth Balashankar](https://ananthbalashankar.github.io) (Google)<br/>

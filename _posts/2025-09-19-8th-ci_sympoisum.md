@@ -193,7 +193,31 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
   <br/>
 
 ##### PROGRAM COMMITTEE
-*TBD*
+
+
+[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
+[Karla Badillo-Urquiola ](https://engineering.nd.edu/faculty/karla-badillo-urquiola/) (University of Notre Dame) <br/>
+[Ananth Balashankar](https://ananthbalashankar.github.io) (Google)<br/>
+[Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir) (University of Illinois at Urbana-Champaign)<br/>
+[Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
+[Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/)(University of Illinois at Urbana-Champaign)
+[Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
+[Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>
+<!-- [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>-->
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />
+[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business,   Baruch College)<br/>
+[Kirsten Martin](http://www.kirstenmartin.net) (Carnegie Mellon University)<br />
+[Lee James McGuigan ](http://hussman.unc.edu/directory/faculty/lee-mcguigan) (University of North Carolina at Chapel Hill)<br/>
+[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br />
+[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland) <br/>
+[Katherine J. Strandburg](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=28509) (New York University School of Law)<br/>
+[Daniel Susser](http://www.danielsusser.info) (Penn State University)<br/>
+[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
+[Vincent Toubiana]() (CNIL)<br/>
+[Salomé Viljoen](https://www.salomeviljoen.com) (University of Michigan Law School) <br/>
+[Ine Van Zeeland](https://smit.research.vub.be/en/dr-ine-van-zeeland) (imec-SMIT-VUB, Universiteit Hasselt)<br/>
+[Jessica Vitak](https://jessicavitak.com/) (University of Maryland)<br/>
+[Michael Zimmer](https://www.marquette.edu/computer-science/directory/michael-zimmer.php) (Marquette University)<br/>
 
 
 

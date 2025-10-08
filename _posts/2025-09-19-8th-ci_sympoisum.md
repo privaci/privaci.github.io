@@ -200,7 +200,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Ananth Balashankar](https://ananthbalashankar.github.io) (Google)<br/>
 [Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir) (University of Illinois at Urbana-Champaign)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
-[Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/)(University of Illinois at Urbana-Champaign)
+[Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/)(University of Illinois at Urbana-Champaign)<br/>
 [Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
 [Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>
 <!-- [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>-->

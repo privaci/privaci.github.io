@@ -200,9 +200,9 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir) (University of Illinois at Urbana-Champaign)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
 [Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/)(University of Illinois at Urbana-Champaign)<br/>
-[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University) <br/>   
+[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University)
 [Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
-[Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont) <br/>    
+[Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont) 
 [Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis) <br/>
 <!-- [Serge Egelman](Ihttps://www.icsi.berkeley.edu/icsi/people/egelman/) (ICSI & UC,   Berkeley)<br/>-->
 [Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br />

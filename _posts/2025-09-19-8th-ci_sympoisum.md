@@ -199,7 +199,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 [Ananth Balashankar](https://ananthbalashankar.github.io) (Google)<br/>
 [Masooda Bashir](https://ischool.illinois.edu/people/masooda-bashir) (University of Illinois at Urbana-Champaign)<br/>
 [Sebastian Benthall](http://sbenthall.net) (New York University) <br/>
-[Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/)(University of Illinois at Urbana-Champaign)<br/>
+[Sheena	Bishop](https://itproforum.illinois.edu/bio/sheena-bishop/) (University of Illinois at Urbana-Champaign)<br/>
 [Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University)<br/>
  [Brett Frischmann](http://www.brettfrischmann.com) (Villanova University) <br/>
 [Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont) <br/>

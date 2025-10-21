@@ -34,7 +34,7 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
     <strong>IEEE Security & Privacy</strong>.
   </p>
   <p>
-    <strong style="color: #d9534f;">🗓 Submission deadline: 21 October 2025</strong><br>
+    <strong style="color: #d9534f;">🗓 Submission deadline: 21 October 2025, 12:59 PM EST</strong><br>
     <strong style="color: #5cb85c;">📅 Publication: May/June 2026</strong>
   </p>
   <p>

@@ -39,12 +39,12 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
 <div style="background-color: #f0f8ff; border-left: 6px solid #0078D7; padding: 20px; font-family: Arial, sans-serif; margin: 20px 0;">
   <h2 style="color: #0078D7;">📣 Call for Papers: 8th Annual PrivaCI Symposium 2026</h2>
   <p>
-    The symposium will take place on <strong>June 24-25, 2026</strong> at the <em>University of Illinois at Urbana-Champaign, USA</em>. 
-    We welcome submissions including position papers, extended abstracts, use cases, and real-world case studies exploring privacy via Contextual Integrity.
+    The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, and to design and evaluate, craft regulation, and generate formal logics for privacy.
   </p>
   <p>
     <strong style="color: #d9534f;">🗓 Submission deadline: February 13, 2026 (AoE)</strong><br>
     <strong style="color: #5cb85c;">📅 Symposium dates: June 24-25, 2026</strong>
+    <span style="font-size: 18px;">📍</span> <em>University of Illinois at Urbana-Champaign, USA</em>
   </p>
   <p>
     Learn more and submit your work here: 
@@ -53,6 +53,7 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
     </a>
   </p>
 </div>
+
 
 
  

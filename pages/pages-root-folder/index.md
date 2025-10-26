@@ -44,6 +44,7 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
   <p>
     <strong style="color: #d9534f;">🗓 Submission deadline: February 13, 2026 (AoE)</strong><br>
     <strong style="color: #5cb85c;">📅 Symposium dates: June 24-25, 2026</strong>
+    <br/>
     <span style="font-size: 18px;">📍</span> <em>University of Illinois at Urbana-Champaign, USA</em>
   </p>
   <p>

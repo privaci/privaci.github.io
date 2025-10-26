@@ -23,26 +23,37 @@ To tackle the momentous privacy challenges of our era requires collaboration acr
 
 
 <hr/>
-<center>
-<a href="https://www.zotero.org/groups/2228317/privaci"> <img src="{{ site.url }}/images/zotero-logo.jpg"  alt="Zotero" style="height: 50px;"/>CI Related Publications</a> <a href="https://groups.google.com/forum/#!forum/privaci-research"><img src="{{site.url }}/images/google-groups.png" alt="Google group" style="height: 50px;" /> Mailing list</a>
+<center style="margin: 20px 0; font-family: Arial, sans-serif;">
+  <a href="https://www.zotero.org/groups/2228317/privaci" style="text-decoration: none; color: #0078D7; margin: 0 15px; display: inline-flex; align-items: center;">
+    <img src="{{ site.url }}/images/zotero-logo.jpg" alt="Zotero" style="height: 40px; margin-right: 8px;" />
+    <span style="font-weight: bold;">CI Related Publications</span>
+  </a>
+
+  <a href="https://groups.google.com/forum/#!forum/privaci-research" style="text-decoration: none; color: #d9534f; margin: 0 15px; display: inline-flex; align-items: center;">
+    <img src="{{ site.url }}/images/google-groups.png" alt="Google group" style="height: 40px; margin-right: 8px;" />
+    <span style="font-weight: bold;">Mailing List</span>
+  </a>
 </center>
 
+
 <div style="background-color: #f0f8ff; border-left: 6px solid #0078D7; padding: 20px; font-family: Arial, sans-serif; margin: 20px 0;">
-  <h2 style="color: #0078D7;">📣 Call for Papers: Special Issue on Privacy as Contextual Integrity</h2>
-  <p>We're thrilled to announce the <strong>Call for Papers</strong> for the 
-    <em>Special Issue on Privacy as Contextual Integrity</em> in 
-    <strong>IEEE Security & Privacy</strong>.
+  <h2 style="color: #0078D7;">📣 Call for Papers: 8th Annual PrivaCI Symposium 2026</h2>
+  <p>
+    The symposium will take place on <strong>June 24-25, 2026</strong> at the <em>University of Illinois at Urbana-Champaign, USA</em>. 
+    We welcome submissions including position papers, extended abstracts, use cases, and real-world case studies exploring privacy via Contextual Integrity.
   </p>
   <p>
-    <strong style="color: #d9534f;">🗓 Submission deadline: 21 October 2025, 11:59 PM EST</strong><br>
-    <strong style="color: #5cb85c;">📅 Publication: May/June 2026</strong>
+    <strong style="color: #d9534f;">🗓 Submission deadline: February 13, 2026 (AoE)</strong><br>
+    <strong style="color: #5cb85c;">📅 Symposium dates: June 24-25, 2026</strong>
   </p>
   <p>
     Learn more and submit your work here: 
-    <a href="https://www.computer.org/digital-library/magazines/sp/cfp-privacy-contextual-integrity" target="_blank" style="color: #0078D7; text-decoration: underline;">
+    <a href="https://privaci.info/symposium/2026/cfp.html" target="_blank" style="color: #0078D7; text-decoration: underline;">
       View Call for Papers
     </a>
   </p>
 </div>
+
+
  
 <!-- ## Join the [PrivaCI mailing list]() and check out the recent CI related publications on the [Zotero group repository]().--> 

@@ -3,7 +3,7 @@ layout: event
 header: no
 title: "The 7th PrivaCI Symposium Report"
 categories:
-    - Event
+    - News
     #sidebar: right
     #sponsors: right
 comments: false

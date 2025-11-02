@@ -1,0 +1,23 @@
+<!-- BOARD OF DIRECTORS -->
+<section class="section board-of-directors">
+  <h2>Board of Directors</h2>
+  <div class="board-grid">
+    {% for member in site.data.board %}
+    <div class="board-card">
+      <div class="board-photo">
+        <img src="{{ member.photo }}" alt="{{ member.name }}">
+      </div>
+      <div class="board-info">
+        <h3>{{ member.name }}</h3>
+        <p class="board-title">{{ member.title }}</p>
+        {% if member.bio %}
+        <p class="board-bio">{{ member.bio }}</p>
+        {% endif %}
+        {% if member.link %}
+        <a href="{{ member.link }}" target="_blank" class="readmore">Learn More →</a>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

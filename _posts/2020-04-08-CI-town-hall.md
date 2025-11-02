@@ -4,7 +4,7 @@ header: no
 title: "Virtual Town Hall: Contextual Integrity of Contact Tracing"
 teaser: "The aim is to bring people together to present, discuss, and share ideas on COVID-19, Contract Tracing and Privacy as Contextual Integrity"
 categories:
-    - Event
+    - News
 comments: false
 show_meta: false
 permalink: ci_townhall.html

@@ -1,0 +1,25 @@
+- name: "Helen Nissenbaum"
+  title: "Board Member"
+  photo: "/images/board/helen_photo.png"
+  bio: |
+    Helen Nissenbaum is the Andrew H. and Ann R. Tisch Professor of Information Science and the founding director of the Digital Life Initiative at Cornell Tech. 
+    Her research spans issues of bias, trust, security, autonomy, and accountability in digital systems, most notably, privacy as contextual integrity. 
+    Professor Nissenbaum has also contributed to privacy-enhancing free software, such as TrackMeNot (designed to prevent the profiling of web search histories) and AdNauseam (designed to counter profiling based on ad clicks). 
+    She holds a Ph.D. in philosophy from Stanford University and a B.A. (Hons) in Philosophy and Mathematics from the University of the Witwatersrand, South Africa.
+  link: "https://nissenbaum.tech.cornell.edu"
+
+- name: "Marshini Chetty"
+  title: "Board Member"
+  photo: "/images/board/Marshini_Chetty_1.jpg.avif"
+  bio: |
+   Marshini Chetty is an associate professor in the Department of Computer Science at the University of Chicago where she directs the Amyoli Internet Research Laboratory (AIR lab). She specializes in human-computer interaction, usable privacy and security, and ubiquitous computing. Her work has won best paper awards at SOUPS, CHI, and CSCW, and she was a co-recipient of the Annual Privacy Papers for Policymakers award. Her research has been featured in the NYTimes, CNN, Wall Street Journal, BBC, Chicago Tribune, The Guardian, WIRED, and Slashdot. She has received generous funding from the National Science Foundation, through grants and an NSF CAREER award, as well as the National Security Agency, Facebook, and multiple Google Faculty Research Awards. 
+  link: "https://www.marshini.net"
+
+- name: "Yan Shvartzshnaider"
+  title: "Board Member"
+  photo: "/images/board/yan.png"
+  bio: |
+    Yan Shvartzshnaider is an Assistant Professor in the Department of Electrical Engineering and Computer Science, Lassonde School of Engineering at York University, where he leads the Privacy Rhythm research lab. 
+    Yan received his Ph.D. in Engineering from the University of Sydney, Australia. His research focuses on sociotechnical systems that incorporate a socially meaningful conception of privacy which meets people’s expectations and is ethically defensible. 
+    He is passionate about solving fundamental problems with real-world impact and is fascinated by translating research ideas into viable business propositions.
+  link: "https://shvartzshnaider.com"

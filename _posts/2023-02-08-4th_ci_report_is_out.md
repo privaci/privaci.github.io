@@ -3,7 +3,7 @@ layout: event
 header: no
 title: "The 4th Symposium on Applications of Contextual Integrity Report"
 categories:
-    - Event
+    - News
     #sidebar: right
     #sponsors: right
 comments: false

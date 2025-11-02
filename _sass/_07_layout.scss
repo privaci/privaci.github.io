@@ -15,7 +15,645 @@
 - Subfooter
 - CSS-Classes to add margin at top or bottom
 
+
 */
+.about-links,
+.connect-links {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.about-links li,
+.connect-links li {
+  background: #f0f8ff;
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.2s ease-in-out;
+}
+
+.about-links li a,
+.connect-links li a {
+  text-decoration: none;
+  color: #0078D7;
+  font-weight: 600;
+}
+
+.about-links li:hover,
+.connect-links li:hover {
+  background-color: #0078D7;
+  color: white;
+}
+
+.about-links li:hover a,
+.connect-links li:hover a {
+  color: white;
+}
+
+.fas, .fab {
+  font-size: 1.1rem;
+}
+
+/* Board of Directors Section */
+.board-of-directors {
+  max-width: 1100px;
+  margin: 0 auto 4rem;
+  padding: 2rem 1rem;
+}
+
+/* Board of Directors heading aligned left */
+.board-of-directors h2 {
+  text-align: left;
+  font-size: 2rem;
+  color: #002244;
+  margin-bottom: 2rem;
+  border-left: 4px solid #0078D7;
+  padding-left: 0.6rem;
+}
+
+.board-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  justify-items: center;
+}
+
+.board-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board-photo img {
+  width: 220px;       /* fixed size */
+  height: 220px;      /* fixed size */
+  object-fit: cover;  /* crop to fit */
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+
+/* Board card content */
+.board-card .board-info {
+  text-align: left;  /* ensures all text inside card is left-aligned */
+}
+
+.board-card .board-title {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #0078D7;
+}
+
+.board-card .board-bio {
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 0.8rem;
+}
+
+.readmore {
+  display: inline-block;
+  margin-top: 0.3rem;
+  color: #0078D7;
+  text-decoration: none;
+  font-weight: 600;
+}
+.readmore:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .board-photo img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+
+/* ============================================================
+   Symposium + Events two-column section
+   ============================================================ */
+
+.section.symposium-block {
+  background: #f7faff;
+  border-top: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e2e8f0;
+  padding: 4rem 1rem;
+}
+
+.symposium-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 2rem;
+  max-width: 900px;      /* same as hero content width */
+  margin: 0 auto;         /* center the grid */
+  align-items: start;     /* top-align columns */
+}
+
+/* ===== CFP Column ===== */
+.cfp-column {
+  background: #fff;
+  border-left: 6px solid #0078D7;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  width: 100%;
+  max-width: 900px;       /* keep column size */
+  margin: 0 auto;         /* center column horizontally */
+  text-align: left;
+}
+
+.cfp-column h3 {
+  color: #0078D7;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+/* ===== Events Column ===== */
+.events-column {
+  width: 100%;
+  max-width: 900px;       /* match CFP column width */
+  margin: 0 auto;         /* center column horizontally */
+  text-align: left;
+}
+
+.events-column h2 {
+  color: #0078D7;
+  font-size: 1.4rem;
+  margin-bottom: 1.5rem;
+  text-align: left;       /* text inside column left-aligned */
+}
+
+/* Keep event cards styling as-is */
+.events-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.event-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.event-card:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+
+/* Responsive: stack columns on mobile */
+@media (max-width: 768px) {
+  .symposium-grid {
+    grid-template-columns: 1fr;
+  }
+  .cfp-column, .events-column {
+    max-width: 100%;
+  }
+}
+
+/* ===== HERO SECTION ===== */
+.hero {
+  background: linear-gradient(135deg, #f7faff 0%, #e7f0ff 100%);
+  text-align: center;
+  padding: 5rem 1rem;
+}
+.hero-logo {
+  height: 70px;
+  margin-bottom: 1rem;
+}
+.hero h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #002244;
+}
+.hero-subtext {
+  font-size: 1.2rem;
+  color: #444;
+  margin-bottom: 2rem;
+}
+.btn-primary {
+  background-color: #0078D7;
+  color: #fff;
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-primary:hover {
+  background-color: #005fa3;
+}
+
+/* ===== ABOUT ===== */
+.about {
+  max-width: 900px;
+  margin: 4rem auto;    
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+/* ===== CALL FOR PAPERS ===== */
+.cfp {
+  background-color: #f0f8ff;
+  border-left: 6px solid #d9dee3;
+  padding: 2rem;
+  margin: 3rem auto;
+  max-width: 900px;
+}
+.cfp h2 {
+  color: #0078D7;
+  margin-bottom: 1rem;
+}
+.btn-secondary {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #0078D7;
+  border: 2px solid #0078D7;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-secondary:hover {
+  background-color: #0078D7;
+  color: #fff;
+}
+
+/* ===== LINK CARDS ===== */
+.links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 3rem 0;
+}
+.link-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+  text-align: center;
+  width: 250px;
+  transition: all 0.3s ease;
+}
+.link-card:hover {
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+.link-card img {
+  height: 40px;
+  margin-bottom: 0.5rem;
+}
+.link-card a {
+  color: #0078D7;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* ===== NAVIGATION ===== */
+.nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #e0e0e0;
+  width: 100%;
+}
+
+.nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem 1.5rem;
+  font-family: "Inter", sans-serif;
+}
+
+/* LEFT SECTION */
+.nav-left .nav-logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #002244;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.nav-left img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* CENTER LINKS */
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+.nav-links a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+.nav-links a:hover {
+  color: #0078D7;
+}
+.nav-links .active a {
+  color: #0078D7;
+  border-bottom: 2px solid #0078D7;
+  padding-bottom: 2px;
+}
+
+/* RIGHT SIDE */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.nav-right a {
+  text-decoration: none;
+  color: #0078D7;
+  font-weight: 500;
+}
+.nav-right a:hover {
+  text-decoration: underline;
+}
+
+/* LANGUAGE TOGGLE */
+.lang-toggle {
+  font-size: 0.9rem;
+  color: #555;
+}
+.lang-toggle a {
+  color: #555;
+  text-decoration: none;
+}
+.lang-toggle a:hover {
+  color: #0078D7;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav-links {
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+  .nav-right {
+    margin-top: 0.5rem;
+  }
+}
+
+/* ===== GENERAL LAYOUT ===== */
+
+.section h2 {
+  color: #002244;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #0078D7;
+  padding-left: 0.6rem;
+}
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  line-height: 1.7;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+/* ===== HERO ===== */
+.hero {
+  position: relative;
+  text-align: center;  
+  background: linear-gradient(135deg, #f7faff 0%, #e7f0ff 100%);
+  overflow: hidden;
+}
+.hero-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(255,255,255,0.6);
+}
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+.hero-logo {
+  height: 90px;
+  margin-bottom: 1rem;
+}
+.hero h1 {
+  font-size: 2.3rem;
+  font-weight: 600;
+  color: #002244;
+  margin-bottom: 1rem;
+}
+.hero-subtext {
+  font-size: 1.2rem;
+  color: #444;
+  margin-bottom: 2rem;
+}
+.btn-primary {
+  background-color: #0078D7;
+  color: #fff;
+  padding: 0.8rem 1.6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-primary:hover {
+  background-color: #005fa3;
+}
+
+/* ===== CFP ===== */
+.cfp {
+  background: #f0f8ff;
+  border-left: 6px solid #0078D7;
+  max-width: 900px;
+  margin: 0 auto 4rem;
+  border-radius: 6px;
+}
+.btn-secondary {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #0078D7;
+  border: 2px solid #0078D7;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-secondary:hover {
+  background-color: #0078D7;
+  color: #fff;
+}
+
+/* ===== LINKS SECTION ===== */
+.links .link-grid {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.link-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  width: 250px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: #0078D7;
+  font-weight: 600;
+}
+.link-card img {
+  height: 40px;
+  margin-bottom: 0.5rem;
+}
+.link-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+
+/* ===== NEWS + PUBLICATIONS ===== */
+.news-publications {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 3rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.news-item {
+  margin-bottom: 1.8rem;
+}
+.news-item h3 a {
+  color: #003366;
+  text-decoration: none;
+  font-weight: 600;
+}
+.news-item h3 a:hover {
+  text-decoration: underline;
+}
+.news-item .date {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+.readmore {
+  color: #0078D7;
+  font-weight: 600;
+  text-decoration: none;
+}
+.readmore:hover {
+  text-decoration: underline;
+}
+
+/* ===== FOOTER ===== */
+.footer-note {
+  background: #f8f9fb;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* ===== SMALL DEVICES ===== */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+  .section h2 {
+    font-size: 1.4rem;
+  }
+}
+
+/* ===== EVENTS SECTION ===== */
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  max-width: 1300px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.event-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: all 0.3s ease;
+}
+
+.event-card:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transform: translateY(-4px);
+}
+
+.event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+
+.event-header h3 {
+  font-size: 1.1rem;
+  color: #003366;
+  margin: 0;
+  font-weight: 600;
+}
+
+.event-year {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.event-location,
+.event-dates {
+  margin: 0.3rem 0;
+  color: #444;
+}
+
+.event-link {
+  display: inline-block;
+  margin-top: 0.8rem;
+  color: #0078D7;
+  text-decoration: none;
+  font-weight: 600;
+}
+.event-link:hover {
+  text-decoration: underline;
+}
 
 
 

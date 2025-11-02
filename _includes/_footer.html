@@ -5,26 +5,37 @@
     </div><!-- /.row -->
 
 
-    <footer id="footer-content" class="bg-grau">
+<!-- FOOTER -->
+<footer id="footer-content" class="bg-grau">
+  <!-- FOOTER -->
+<footer class="footer-note">
+  <p>© {{ site.time | date: "%Y" }} PrivaCI Institute — Created with ❤️ by <a href="https://shvartzshnaider.com" target="_blank">{{ site.data.authors[site.author].name | replace: ' ', '&nbsp;' }}</a>,
+          based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.</p>
+</footer>
+<!--
+  <div id="subfooter">
+    <nav class="row">
+      <section id="subfooter-left" class="small-12 medium-6 columns credits">
+        <p>
+          © {{ site.time | date: "%Y" }} PrivaCI Institute —
+          Created with &hearts;
+          by&nbsp;<a href="https://shvartzshnaider.com" target="_blank">{{ site.data.authors[site.author].name | replace: ' ', '&nbsp;' }}</a>
+          using&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>,
+          based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
+        </p>
+      </section>
 
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>
-              Created with &hearts;
-              by&nbsp;<a href="https://shvartzshnaider.com" target="_blank">{{ site.data.authors[site.author].name | replace: ' ', '&nbsp;' }}</a>
-              with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
-              based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
-            </p>
-          </section>
+      <section id="subfooter-right" class="small-12 medium-6 columns">
+        <ul class="inline-list social-icons">
+          {% for social_item in site.data.socialmedia %}
+            <li>
+              <a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </nav>
+  </div>
+-->
+</footer>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-            </ul>
-          </section>
-        </nav>
-      </div><!-- /#subfooter -->
-    </footer>

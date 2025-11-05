@@ -1,0 +1,16 @@
+{% assign contacts = site.data.contacts %}
+<br/>
+<div class="contact-cards">
+  {% for contact in contacts %}
+  <div class="card">
+    <h3>
+      <a href="{{ contact.url }}">
+      <img src="{{ site.url }}/{{ contact.icon }}" alt="{{ contact.name }} logo" class="contact-icon" />
+      {{ contact.name }}</a>
+    </h3>
+    
+  </div>
+  {% endfor %}
+</div>
+
+<style>

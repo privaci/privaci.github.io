@@ -1,0 +1,21 @@
+
+
+- name: "Mailing List"
+  icon: "assets/fonts/svg-files-for-custom-font/message.svg"
+  url: "https://groups.google.com/forum/#!forum/privaci-research"
+  label: "Join Here"
+
+- name: "LinkedIn"
+  icon: "assets/fonts/svg-files-for-custom-font/linkedin.svg"
+  url: "https://www.linkedin.com/company/privaci-institute/"
+  label: "LinkedIn Profile"
+
+- name: "Mastodon"
+  icon: "assets/fonts/svg-files-for-custom-font/mastodon-brands-solid-full.svg"
+  url: "https://infosec.exchange/@priva-ci.bsky.social@bsky.brid.gy"
+  label: "@example"
+
+- name: "Bluesky"
+  icon: "assets/fonts/svg-files-for-custom-font/bluesky-brands-solid-full.svg"
+  url: "https://bsky.app/profile/priva-ci.bsky.social"
+  label: "Bluesky Profile"

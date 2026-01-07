@@ -66,8 +66,8 @@ The aim of the symposium is to foster interaction among diverse communities of r
 We will accept any of the following submission types:
 
 * A 4-page position paper on work in progress (references not included in the page limit)
-* An extended abstract (1-2 pages) summarizing published or mature work. Please
-  include a short "works cited" section situating your work within it and clarifying its contribution. If your topic is entirely novel or interdisciplinary,   please indicate that as well. If your abstract is accepted,   you will have the option of posting the longer paper on the symposium website.
+* An extended abstract (1-2 pages) summarizing published or a preprint of mature work. Please
+  include a related work section situating your work within prior work and clarifying its contribution. If your topic is entirely novel or interdisciplinary,   please indicate that as well. If your abstract is accepted,   you will have the option of posting the longer paper on the symposium website.
 * A 1-page description of an interesting use case to be discussed at the symposium.
 * A 1-page description of real-world case study from industry or policy.
 

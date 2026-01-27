@@ -180,11 +180,10 @@ __All deadlines are AoE (Anywhere on Earth).__
 * Symposium dates: June 24-25
 
 
-<!-- #### HOW TO SUBMIT
+#### HOW TO SUBMIT
 
-Please make submissions using [the submission site.](https://cisymposium.eecs.yorku.ca)
+Please make submissions using [the submission site.](https://privaci2026.cs.illinois.edu)
 
--->
 
 #### SYMPOSIUM CHAIRS
   <br/>

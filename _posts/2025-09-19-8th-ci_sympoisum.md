@@ -110,12 +110,12 @@ Please use the following [link](https://forms.gle/5BBmg9exS2bfPnoo6) to register
 __(After you submit the registration form, you should see the link to the payment processing system.)__
 
 
-
+-->
 ### Logistics
 
-For information on the event location and accommodations [click here](https://privaci.info/symposium/2024/logistics.html).
+For information on the event location and accommodations [click here](https://privaci.info/symposium/2026/logistics.html).
 
-
+<!--
 ## TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">

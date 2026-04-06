@@ -90,6 +90,10 @@ redirect_to: /symposium/2026/program.html
 }
 </style>
 
+<meta http-equiv="refresh" content="0; url=/symposium/2026/program.html">
+<link rel="canonical" href="{{ site.url }}//symposium/2026/program.html" />
+<p>Redirecting to <a href="{{ site.url }}//symposium/2026/program.html">program</a>...</p>
+
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/8thSympoisumLogo.png)
 
 The 8th Annual PrivaCI Symposium will take place on **June 24-25, 2026** at the [University of Illinois at Urbana-Champaign, USA.](https://illinois.edu).

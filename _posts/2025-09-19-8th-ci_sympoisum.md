@@ -9,6 +9,7 @@ comments: false
 show_meta: false
 permalink: 
     symposium/2026/cfp.html
+redirect_to: /symposium/2026/program.html
 ---
 <br/>
 

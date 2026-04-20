@@ -87,17 +87,48 @@ permalink:
 .registration-box a:hover {
     text-decoration: underline;
 }
+  .container {
+      max-width: 800px;
+      margin: 60px auto;
+      background: #ffffff;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+
+.link-box {
+  display: block;
+  text-decoration: none;
+  background-color: #e8f0fb;
+  color: #2c5aa0;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 28px;
+  transition: all 0.2s ease;
+}
+
+.link-box:hover {
+  background-color: #dbe7f7;
+  color: #1f3f73;
+}
+
 </style>
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/8thSympoisumLogo.png)
 
-The 8th Annual PrivaCI Symposium will take place on **June 24-25, 2026** at the [University of Illinois at Urbana-Champaign, USA.](https://illinois.edu).
+The 8th Annual PrivaCI Symposium will take place on **June 24-25, 2026** at the [University of Illinois at Urbana-Champaign, USA](https://illinois.edu).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, design and evaluate, craft regulation, and generate formal logics for privacy.
 
-## Symposium Program
+#### Symposium (DRAFT) Program
 
-_TBD_
+*Subject to change*
+
+<a class="link-box" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSi_Wor0NRA1skvsa_UCulYAt7GgLFxLBQBwxtwOewF7QVeuGYeNXrp1FYDqcX3VZBrWvvDif_Mdlob/pubhtml?gid=1596667627&single=true" target="_blank">
+      Full Draft Schedule
+    </a>
 
 #### REGISTRATION
 

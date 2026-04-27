@@ -65,7 +65,7 @@ The 8th Annual PrivaCI Symposium will take place on **June 24-25**, 2026 in Univ
 
 - **[TownePlace Suites](https://www.marriott.com/en-us/hotels/cmpts-towneplace-suites-champaign-urbana-campustown/overview/)**  is located 2 blocks from the iSchool, where the 8th Annual PrivaCI Symposium will take place.
 
-- **[Hyatt Place Champaign](https://www.hyatt.com/hyatt-place/en-US/cmizc-hyatt-place-champaign-urbana)** (from $188 per night) is located downtown, near bars and restaurants, for those who may wish to go out after the conference. Conveniently located near the Amtrak station.
+- **[Hyatt Place Champaign](https://www.hyatt.com/hyatt-place/en-US/cmizc-hyatt-place-champaign-urbana)**  is located downtown, near bars and restaurants, for those who may wish to go out after the conference. Conveniently located near the Amtrak station.
 
 - **[Hotel Royer](https://www.hilton.com/en/hotels/chiulup-hotel-royer-urbana-champaign/rooms/?WT.mc_id=zLADA0AA1UP2PSH3GGL4AMPHTBRD_Oct5GNPLTPMWBRNLAB6CHIULUP7EN8i142435__z22786381906z__&gclsrc=aw.ds&&utm_campaign={campaign}&utm_adgroup={adgroup}&utm_keyword=hotel%20royer%20urbana&gad_source=1&gad_campaignid=22786381906&gclid=CjwKCAiA1obMBhAbEiwAsUBbIko9dkEJV_pWnR7fmi4rhZK1Z7WPxKf7Pfwh2IXSFJL4X7V0-5QH0RoCcdMQAvD_BwE)** in Urbana  offers an excellent in-house restaurant and reading room.
 

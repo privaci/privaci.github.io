@@ -58,16 +58,16 @@ permalink: symposium/2026/logistics.html
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/8thSympoisumLogo.png)
 
 The 8th Annual PrivaCI Symposium will take place on **June 24-25**, 2026 in University of Illinois at Urbana-Champaign, USA.
- 
+
 ## Local Accommodations
 
-- **[The iHotel](https://www.hotelsone.com/champaign-hotels-us/i-hotel-and-illinois-conference-center.html?dsti=1897350&dstt=8&nid=1&as=g&aid=792264495327&cmpid=37936028&agid=161423700213&gid=CjwKCAiA1obMBhAbEiwAsUBbIhMepptx72dwr44M2L-eTsqgCmiJ_OJRoWQCWgYMRo3JGf9cSAfqwBoCdtoQAvD_BwE&gwbrd=Cj4KCQiAs4HMBhCyARItAAcULmTAY_e2yEBM7IJWh1sZI1EFI7SZ4flQPFUf9QDQOwHnvGEw2vWMrFkEGgJXFg&ggbrd=0AAAAAD4o1PceIGVh0HAS0LibYWwjo6F75&gad_source=1&gad_campaignid=37936028&gclid=CjwKCAiA1obMBhAbEiwAsUBbIhMepptx72dwr44M2L-eTsqgCmiJ_OJRoWQCWgYMRo3JGf9cSAfqwBoCdtoQAvD_BwE)** (from $169 per night), situated on the southwest edge of campus, offers free shuttle service to the airport and Amtrak stations, as well as around campus. It has an onsite restaurant, as well as spa and fitness facilities.
+- **[The iHotel](https://www.hotelsone.com/champaign-hotels-us/i-hotel-and-illinois-conference-center.html?dsti=1897350&dstt=8&nid=1&as=g&aid=792264495327&cmpid=37936028&agid=161423700213&gid=CjwKCAiA1obMBhAbEiwAsUBbIhMepptx72dwr44M2L-eTsqgCmiJ_OJRoWQCWgYMRo3JGf9cSAfqwBoCdtoQAvD_BwE&gwbrd=Cj4KCQiAs4HMBhCyARItAAcULmTAY_e2yEBM7IJWh1sZI1EFI7SZ4flQPFUf9QDQOwHnvGEw2vWMrFkEGgJXFg&ggbrd=0AAAAAD4o1PceIGVh0HAS0LibYWwjo6F75&gad_source=1&gad_campaignid=37936028&gclid=CjwKCAiA1obMBhAbEiwAsUBbIhMepptx72dwr44M2L-eTsqgCmiJ_OJRoWQCWgYMRo3JGf9cSAfqwBoCdtoQAvD_BwE)** situated on the southwest edge of campus, offers free shuttle service to the airport and Amtrak stations, as well as around campus. It has an onsite restaurant, as well as spa and fitness facilities.
 
-- **[TownePlace Suites](https://www.marriott.com/en-us/hotels/cmpts-towneplace-suites-champaign-urbana-campustown/overview/)** (from $167 per night) is located 2 blocks from the iSchool, where the 8th Annual PrivaCI Symposium will take place.
+- **[TownePlace Suites](https://www.marriott.com/en-us/hotels/cmpts-towneplace-suites-champaign-urbana-campustown/overview/)**  is located 2 blocks from the iSchool, where the 8th Annual PrivaCI Symposium will take place.
 
 - **[Hyatt Place Champaign](https://www.hyatt.com/hyatt-place/en-US/cmizc-hyatt-place-champaign-urbana)** (from $188 per night) is located downtown, near bars and restaurants, for those who may wish to go out after the conference. Conveniently located near the Amtrak station.
 
-- **[Hotel Royer](https://www.hilton.com/en/hotels/chiulup-hotel-royer-urbana-champaign/rooms/?WT.mc_id=zLADA0AA1UP2PSH3GGL4AMPHTBRD_Oct5GNPLTPMWBRNLAB6CHIULUP7EN8i142435__z22786381906z__&gclsrc=aw.ds&&utm_campaign={campaign}&utm_adgroup={adgroup}&utm_keyword=hotel%20royer%20urbana&gad_source=1&gad_campaignid=22786381906&gclid=CjwKCAiA1obMBhAbEiwAsUBbIko9dkEJV_pWnR7fmi4rhZK1Z7WPxKf7Pfwh2IXSFJL4X7V0-5QH0RoCcdMQAvD_BwE)** in Urbana (from $104 per night) offers an excellent in-house restaurant and reading room.
+- **[Hotel Royer](https://www.hilton.com/en/hotels/chiulup-hotel-royer-urbana-champaign/rooms/?WT.mc_id=zLADA0AA1UP2PSH3GGL4AMPHTBRD_Oct5GNPLTPMWBRNLAB6CHIULUP7EN8i142435__z22786381906z__&gclsrc=aw.ds&&utm_campaign={campaign}&utm_adgroup={adgroup}&utm_keyword=hotel%20royer%20urbana&gad_source=1&gad_campaignid=22786381906&gclid=CjwKCAiA1obMBhAbEiwAsUBbIko9dkEJV_pWnR7fmi4rhZK1Z7WPxKf7Pfwh2IXSFJL4X7V0-5QH0RoCcdMQAvD_BwE)** in Urbana  offers an excellent in-house restaurant and reading room.
 
 ## Transportation
 
@@ -88,5 +88,3 @@ For anyone traveling with family, a variety of on-campus summer camp options are
 - **[Active Illini](https://www.campusrec.illinois.edu/learning/youth/camp)**
 - **[CU FabLab](https://cucfablab.web.illinois.edu/summer-camps/)**
 - **[STEMM Summer Camps](https://wyse.grainger.illinois.edu/summer-programs/summer-camps)**
-
-  

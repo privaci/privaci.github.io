@@ -147,18 +147,23 @@ The aim of the symposium is to foster interaction among diverse communities of r
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2026/logistics.html).
 
-<!--
 ## TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading"></h4>
   <p>
- Travel grant awardees will be hosted at a mentoring lunch,  expected to participate in both days of the workshop, and provide a short report following the symposium.
+We are actively seeking sponsorship to offer participants  a travel grant award that can partially cover the cost of attending the symposium.
+
+The only travel expenses that can be reimbursed are air travel and hotel.
+
+The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+
+Note that the grant is only available to attendees staying for the symposium duration.
+
  </p>
 </div>
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/N1fpoa3HW33qwfpXA).
--->
 <!-- **Accepting until August 23 or until funding last** -->
 
 <!-- The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.-->

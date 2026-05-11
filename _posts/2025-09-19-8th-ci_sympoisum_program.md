@@ -160,9 +160,6 @@ For information on the event location and accommodations [click here](https://pr
     Eligible reimbursable expenses include: <b>Air travel</b> and <b>Hotel accommodation</b>
   </p>
 
-  <ul>
-  </ul>
-
   <p>
     The number and value of awards will depend on the availability of funding and
     will be confirmed once sponsorship commitments are finalized.
@@ -173,7 +170,7 @@ For information on the event location and accommodations [click here](https://pr
     for the full duration of the symposium.
   </p>
 
-Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/N1fpoa3HW33qwfpXA).
+Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this <a href="https://forms.gle/N1fpoa3HW33qwfpXA)">form</a>.
   </div>
 <!-- **Accepting until August 23 or until funding last** -->
 

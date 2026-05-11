@@ -150,17 +150,29 @@ For information on the event location and accommodations [click here](https://pr
 ## TRAVEL GRANTS
 
 <div class="alert alert-success" role="alert">
-<h4 class="alert-heading"></h4>
+  <h4 class="alert-heading">Travel Grant Support</h4>
+
   <p>
-We are actively seeking sponsorship to offer participants  a travel grant award that can partially cover the cost of attending the symposium.
+    We are actively seeking sponsorship opportunities to provide participants with
+    <em>travel grant awards</em> that may partially offset the cost of attending the symposium.
+  </p>
 
-The only travel expenses that can be reimbursed are air travel and hotel.
+  <p>
+    Eligible reimbursable expenses include:<b>Air travel</b> and <b>Hotel accommodation</b>
+  </p>
 
-The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.
+  <ul>
+  </ul>
 
-Note that the grant is only available to attendees staying for the symposium duration.
+  <p>
+    The number and value of awards will depend on the availability of funding and
+    will be confirmed once sponsorship commitments are finalized.
+  </p>
 
- </p>
+  <p class="mb-0">
+    <em>Please note:</em> Travel grants are available only to attendees who remain
+    for the full duration of the symposium.
+  </p>
 </div>
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this [form](https://forms.gle/N1fpoa3HW33qwfpXA).

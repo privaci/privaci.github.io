@@ -71,6 +71,8 @@ The 8th Annual PrivaCI Symposium will take place on **June 24-25**, 2026 in Univ
 
 ## Transportation
 
+## By Air
+
 American Airlines and United fly directly to **[Willard Airport](https://iflycu.com/)** in Champaign, IL.
 
 #### Direct Shuttle

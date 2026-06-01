@@ -71,15 +71,33 @@ The 8th Annual PrivaCI Symposium will take place on **June 24-25**, 2026 in Univ
 
 ## Transportation
 
-- American Airlines and United fly directly to **[Willard Airport](https://iflycu.com/)** in Champaign, IL.
+American Airlines and United fly directly to **[Willard Airport](https://iflycu.com/)** in Champaign, IL.
 
-- **[Chicago O'Hare](https://www.flychicago.com/ohare/home/pages/default.aspx)** airport is approximately 2.5 hours from the University of Illinois campus. Bus service is offered directly via:
-  - **[Peoria Charter](https://peoriacharter.com/schedule)**
-<!--  - **[The Illini Shuttle](http://www.illinishuttle.com/)**-->
+#### Direct Shuttle
+
+- **Peoria Charter Coach** operates shuttles from both O’Hare and Midway airports.
+- **Drop-off location:** I Hotel and Conference Center or the University of Illinois campus.
+- **[Booking & Schedule](https://www.peoriacharter.com/):** Peoria Charter Website
+
+### Amtrak Train
 
 - **[Amtrak](https://www.amtrak.com/stations/chm)** service is also offered directly to Champaign.
 
+### Rental Car
+
+- Both airports have rental car services, with an approximate **2.5-hour drive** to Urbana-Champaign.
+- Route:
+  - Follow **I-294 S** to **I-57 S**
+  - Take **Exit 235A** for **University Ave**
+
 - **[On-campus parking](https://parking.illinois.edu/)** information is available.
+
+### Uber/Lyft
+
+- Uber and Lyft rides from Chicago airports to Urbana-Champaign typically range from **$200–$300** (subject to demand).
+- **Travel time:** 2.5 to 3 hours.
+
+For more information follow the official [link](https://publish.illinois.edu/beyondbordersconference/travel-to-urbana-champaign).
 
 ## Childcare
 

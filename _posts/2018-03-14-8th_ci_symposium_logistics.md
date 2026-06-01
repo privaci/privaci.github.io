@@ -75,7 +75,7 @@ The 8th Annual PrivaCI Symposium will take place on **June 24-25**, 2026 in Univ
 
 - **[Chicago O'Hare](https://www.flychicago.com/ohare/home/pages/default.aspx)** airport is approximately 2.5 hours from the University of Illinois campus. Bus service is offered directly via:
   - **[Peoria Charter](https://peoriacharter.com/schedule)**
-  - **[The Illini Shuttle](http://www.illinishuttle.com/)**
+<!--  - **[The Illini Shuttle](http://www.illinishuttle.com/)**-->
 
 - **[Amtrak](https://www.amtrak.com/stations/chm)** service is also offered directly to Champaign.
 

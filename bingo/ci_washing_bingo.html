@@ -88,25 +88,17 @@ permalink: /ci_washing_bingo.html
               No CI heuristic
             </div>
 
-            <div class="cell" data-key="context-bound" onclick="toggle(this)">
-              "Context boundaries" metaphore
-            </div>
 
-            <div class="cell" data-key="context-collapse" onclick="toggle(this)">
-              Context collapse
-            </div>
 
-            <div class="cell" data-key="stat-context" onclick="toggle(this)">
-              "Statistical" context
-            </div>
+
+
+
 
             <div class="cell" data-key="roles" onclick="toggle(this)">
               Contextual roles and capacities ignored
             </div>
 
-            <div class="cell free" onclick="openModal()">
-             ? 
-            </div>
+            
 
             <div class="cell" data-key="anonymity" onclick="toggle(this)">
               Anonymity = transmission principle
@@ -115,6 +107,10 @@ permalink: /ci_washing_bingo.html
 
             <div class="cell" data-key="context" onclick="toggle(this)">
               Mistreating context
+            </div>
+
+            <div class="cell free" onclick="openModal()">
+              ? 
             </div>
           </div>
 
@@ -239,8 +235,55 @@ Nissenbaum, H. (2009) and/or Nissenbaum, H. (2019) for authoritative accounts of
             </p>
           </div>
 
-          <div id="legend-context-bound" class="legend-item">
-            <h3 class="legend-header">Invoking the "Context boundaries"</h3>
+
+
+          <div id="legend-roles" class="legend-item">
+            <h3 class="legend-header">Contextual Roles and Capacities Ignored</h3>
+            <p>
+              Not stating the parameter CI values in terms of their
+              respective contextual role ontologies.
+            </p>
+          </div>
+
+          <div id="legend-anonymity" class="legend-item">
+            <h3 class="legend-header">Anonymity as a transmission principle (TP)</h3>
+            <divp>
+              <strong>Anonymity</strong> or <strong>anonymously</strong> is not a
+              valid TP value. These terms may describe an information flow
+              involving data (attributes) without identifiers. 
+              <br/>
+              TPs define the conditions under which data about a subject may flow from a
+              sender to a recipient: 
+              Commonly occurring TPs include
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with consent</span>,
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">reciprocally</span>,
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with notice</span>,
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">in confidence</span>,
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">as required by law</span>, and
+              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with a warrant</span>.
+          </div>
+
+
+          <div id="legend-context" class="legend-item">
+            <h3 class="legend-header">Mistreating context</h3>
+
+            <p>
+              Context is treated as a localized setting focused on
+              specific information flows rather than a broad social
+              construct.
+            </p>
+
+            <div class="quote">
+              <br/>
+              "Many of the canonical activities of a context are oriented
+              around values-sometimes more aptly called goals, purposes, or
+              ends; that is, the objectives around which a context is oriented,
+              something akin to Schatzkis 'teleology.' Values are crucial,
+              defining features of contexts." <span class="citation">- Nissenbaum, 2009</span>
+
+            </div>
+
+            <h3 class="legend-header">Invoking the "Context boundaries" metaphor</h3>
 
             <p>
               Invoking “contextual boundaries” is a misleading spatial metaphor that treats
@@ -254,9 +297,7 @@ Nissenbaum, H. (2009) and/or Nissenbaum, H. (2019) for authoritative accounts of
               <span class="citation">(Nissenbaum, 2009)</span>
 
             </div>
-          </div>
 
-          <div id="legend-context-collapse" class="legend-item">
             <h3 class="legend-header">Invoking "Context collapse"</h3>
 
             <p>
@@ -278,67 +319,16 @@ Nissenbaum, H. (2009) and/or Nissenbaum, H. (2019) for authoritative accounts of
               that are proscribed by the norms of an overlapping context."
               <span class="citation">(Nissenbaum, 2009)</span>
             </div>
-          </div>
-
-          <div id="legend-stat-context" class="legend-item">
             <h3 class="legend-header">"Statistical" context</h3>
             <p>
               Confusing computational or machine-learning “context”
               with socially defined informational contexts governed
               by privacy norms.
-            </p>
-          </div>
-
-          <div id="legend-roles" class="legend-item">
-            <h3 class="legend-header">Contextual Roles and Capacities Ignored</h3>
-            <p>
-              Not stating the parameter CI values in terms of their
-              respective contextual role ontologies.
-            </p>
-          </div>
-
-          <div id="legend-anonymity" class="legend-item">
-          <h3 class="legend-header">Anonymity as a transmission principle (TP)</h3>
-          <divp>
-            <strong>Anonymity</strong> or <strong>anonymously</strong> is not a
-            valid TP value. These terms may describe an information flow
-            involving data (attributes) without identifiers. 
-<br/>
-            TPs define the conditions under which data about a subject may flow from a
-            sender to a recipient: 
-            Commonly occurring TPs include
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with consent</span>,
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">reciprocally</span>,
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with notice</span>,
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">in confidence</span>,
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">as required by law</span>, and
-            <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with a warrant</span>.
-          </div>
-
-
-             <div id="legend-context" class="legend-item">
-            <h3 class="legend-header">Mistreating context</h3>
-
-            <p>
-              Context is treated as a localized setting focused on
-              specific information flows rather than a broad social
-              construct.
-            </p>
-
-            <div class="quote">
-              <br/>
-              "Many of the canonical activities of a context are oriented
-              around values-sometimes more aptly called goals, purposes, or
-              ends; that is, the objectives around which a context is oriented,
-              something akin to Schatzkis 'teleology.' Values are crucial,
-              defining features of contexts." <span class="citation">- Nissenbaum, 2009</span>
-
-            </div>
-            <div class="citation">
+            </p>            <div class="citation">
               Schatzki, 2005  "Practice mind-ed orders." 
             </div>
           </div>
-      </div> <!-- end .legend -->
+        </div> <!-- end .legend -->
       </div> <!-- end .container -->
     </main>
 
@@ -429,7 +419,7 @@ function openModal() {
 function closeModal() {
   document.getElementById("modal").style.display = "none";
 }
-</script>
+    </script>
 
     <script>
 document.getElementById("bingo-form").addEventListener("submit", async (e) => {
@@ -458,7 +448,7 @@ function clearBoard() {
   // reset glossary
   filterLegend();
 }
-</script>
+    </script>
 
     <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
   </body>

@@ -1,157 +1,164 @@
----
-permalink: /ci_washing_bingo.html
----
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>CI Washing Bingo</title>
 
-    <link rel="stylesheet" href="{{ site.url }}/bingo/style.css">
+    <link rel="stylesheet" href="style.css">
 
   </head>
 
-  <body>
 
-    <header>
-      <h1>CI Washing Bingo</h1>
-      <p class="subtitle">
-        Spot common misuses and oversimplifications of Contextual Integrity.
-      </p>
-    </header>
+  <header>
+    <h1>CI Washing Bingo</h1>
+    <p class="subtitle">
+      Spot common misuses and oversimplifications of Contextual Integrity.
+    </p>
+  </header>
 
-    <main class="container">
+  <main class="container">
 
-      <details class="intro-wrapper">
-        <summary>📖 What is Contextual Integrity (CI) Washing?</summary>
+    <details style="margin:0; padding:0.5rem 0;">
 
-        <div class="intro-card">
+  <summary style="cursor:pointer; font-weight:600; font-size:1rem; line-height:1.4;">
+    📖 What is Contextual Integrity (CI) Washing?
+  </summary>
+
+  <div style="margin-top:0.75rem; padding-left:1rem; border-left:2px solid #e5e7eb;">
+
+    <p style="margin:0 0 0.75rem 0; line-height:1.6; font-size:0.95rem;">
+      <strong>CI washing</strong>, as defined by Shvartzshnaider and Duddu (2025), refers to the
+      use  <em>Contextual Integrity (CI)</em> framework without full adherence to its core theoretical
+      commitments. CI is grounded in four central tenets  <span class="citation">(Nissenbaum, 2019)</span>:
+    </p>
+
+    <ul style="margin:0 0 0.75rem 1.25rem; padding:0; line-height:1.6; font-size:0.95rem;">
+      <li><strong>T1.</strong> Privacy is understood as appropriate information flow.</li>
+      <li><strong>T2.</strong> Appropriateness is determined by contextual privacy norms.</li>
+      <li><strong>T3.</strong> Information flows are specified via five parameters.</li>
+      <li><strong>T4.</strong> Normative validity is assessed through the CI heuristic.</li>
+    </ul>
+
+    <div style="margin-top:0.5rem; font-size:0.85rem; color:#555; line-height:1.5;">
+      <strong>References</strong><br>
+      Nissenbaum, H. (2019). <em>Contextual Integrity up and down the data food chain.</em><br>
+      Shvartzshnaider, Y., & Duddu, V. (2025). “Position: Contextual integrity is inadequately applied to language models.”
+    </div>
+
+  </div>
+
+</details>
+    </div>
+    <div class="container">
+
+      <!-- BOARD (ALL SQUARES KEPT) -->
+      <div class="board">
+        <div class="grid">
+
+          <div class="cell" data-key="wrong-ci" onclick="toggle(this)">
+            Wrong CI citation
+          </div>
+
+          <div class="cell" data-key="omit-ci" onclick="toggle(this)">
+            Omitting CI parameters
+          </div>
+
+          <div class="cell" data-key="law-norms" onclick="toggle(this)">
+            Equating law to norms
+          </div>
+
+          <div class="cell" data-key="ci-min" onclick="toggle(this)">
+            CI as data minimization
+          </div>
+
+
+          <div class="cell" data-key="ci-private-data" onclick="toggle(this)">
+            CI to protect private or personal data
+          </div>
+
+          <div class="cell" data-key="ci-secrecy" onclick="toggle(this)">
+            CI as secrecy
+          </div>
+
+
+
+          <div class="cell" data-key="ci-leakage" onclick="toggle(this)">
+            CI as data leakage
+          </div>
+
+          <div class="cell" data-key="ci-purpose" onclick="toggle(this)">
+            CI as purpose limitation
+          </div>
+
+          <div class="cell" data-key="ci-comp" onclick="toggle(this)">
+            CI for compliance
+          </div>
+
+          <div class="cell" data-key="prefs" onclick="toggle(this)">
+            Preferences not norms
+          </div>
+
+          <div class="cell" data-key="heuristic" onclick="toggle(this)">
+            No CI heuristic
+          </div>
+
+          <div class="cell" data-key="roles" onclick="toggle(this)">
+            Contextual roles and capacities ignored
+          </div>
+
+
+
+          <div class="cell" data-key="anonymity" onclick="toggle(this)">
+            Anonymity = transmission principle
+          </div>
+
+
+          <div class="cell" data-key="context" onclick="toggle(this)">
+            Mistreating context
+          </div>
+
+          <div class="cell free" onclick="openModal()">
+            ? 
+          </div>
+        </div>
+
+
+        <div class="controls">
+
+          <button onclick="clearBoard()" class="reset">Clear Markers</button>
+        </div>
+      </div>
+
+      <div class="legend">
+
+        <div class="legend-header">
+          <h2>Glossary</h2>
+          <p>
+            Click a bingo square to view its explanation,
+            or select  <button id="glossaryToggle" onclick="toggleGlossary()"> View All </button>
+          </p>
+        </div>
+
+        <div id="legend-wrong-ci" class="legend-item">
+          <h3 class="legend-header">Wrong CI Citation</h3>
 
           <p>
-            <strong>CI washing</strong> refers to use of the
-            <em>Contextual Integrity (CI)</em> framework while neglecting its
-            core theoretical commitments. Contextual Integrity rests on four essential tenets:
-          </p>
+            Citing an outdated source as the primary reference. 
 
-          <ul>
-            <li><strong>T1.</strong> Privacy is the appropriate flow of information.</li>
-            <li><strong>T2.</strong> Appropriate flows conform to contextual privacy norms.</li>
-            <li><strong>T3.</strong> Information flows are defined through five parameters.</li>
-            <li><strong>T4.</strong> Normative legitimacy is evaluated using the CI heuristic.</li>
-          </ul>
-
-          <div class="paper-citation">
-            <strong>Reference</strong><br>
-            Nissenbaum, H. (2019).
-            <em>Contextual Integrity up and down the data food chain.</em>
+          <div style="
+            margin:10px 0;
+            padding:10px 12px;
+            background:#fef2f2;
+            border-left:4px solid #dc2626;
+            color:#000;
+            border-radius:4px;
+            ">
+            <strong>Do not cite:</strong><br>
+            Nissenbaum, Helen. "Privacy as contextual integrity." <i>Washington Law Review</i> 79 (2004): 119.
           </div>
+          Instead, please refer  to more recent and authoritative accounts of the theory, such as <i>Nissenbaum (2009)</i> and <i>Nissenbaum (2019)</i>.
 
-        </div>
-      </details>
-      </div>
-      <div class="container">
-
-        <!-- BOARD (ALL SQUARES KEPT) -->
-        <div class="board">
-          <div class="grid">
-
-            <div class="cell" data-key="wrong-ci" onclick="toggle(this)">
-              Wrong CI citation
-            </div>
-
-            <div class="cell" data-key="omit-ci" onclick="toggle(this)">
-              Omitting CI parameters
-            </div>
-
-            <div class="cell" data-key="law-norms" onclick="toggle(this)">
-              Equating law to norms
-            </div>
-
-            <div class="cell" data-key="ci-min" onclick="toggle(this)">
-              CI as data minimization
-            </div>
-
-            <div class="cell" data-key="ci-purpose" onclick="toggle(this)">
-              CI as purpose limitation
-            </div>
-
-            <div class="cell" data-key="ci-comp" onclick="toggle(this)">
-              CI for compliance
-            </div>
-
-            <div class="cell" data-key="prefs" onclick="toggle(this)">
-              Preferences not norms
-            </div>
-
-            <div class="cell" data-key="heuristic" onclick="toggle(this)">
-              No CI heuristic
-            </div>
-
-
-
-
-
-
-
-            <div class="cell" data-key="roles" onclick="toggle(this)">
-              Contextual roles and capacities ignored
-            </div>
-
-            
-
-            <div class="cell" data-key="anonymity" onclick="toggle(this)">
-              Anonymity = transmission principle
-            </div>
-
-
-            <div class="cell" data-key="context" onclick="toggle(this)">
-              Mistreating context
-            </div>
-
-            <div class="cell free" onclick="openModal()">
-              ? 
-            </div>
-          </div>
-
-
-          <div class="controls">
-
-            <button onclick="clearBoard()" class="reset">Clear Markers</button>
-          </div>
-        </div>
-
-        <!-- LEGEND (FIXED FILTER LOGIC SAFE DEFAULT = ALL SHOWN) -->
-        <div class="legend">
-
-          <div class="legend-header">
-            <h2>Glossary</h2>
-            <p>
-              Click a bingo square to view its explanation,
-              or select  <button id="glossaryToggle" onclick="toggleGlossary()"> View All </button>
-            </p>
-          </div>
-
-          <div id="legend-wrong-ci" class="legend-item">
-            <h3 class="legend-header">Wrong CI Citation</h3>
-
-            <p>
-             Citing an outdated source as the primary reference. 
-
-            <div style="
-              margin:10px 0;
-              padding:10px 12px;
-              background:#fef2f2;
-              border-left:4px solid #dc2626;
-              color:#000;
-              border-radius:4px;
-              ">
-              <strong>Do not cite:</strong><br>
-              Nissenbaum, Helen. "Privacy as contextual integrity." <i>Washington Law Review</i> 79 (2004): 119.
-            </div>
-            Instead, please refer  to more recent and authoritative accounts of the theory, such as <i>Nissenbaum (2009)</i> and <i>Nissenbaum (2019)</i>.
-
-            <!--<div style="
+          <!--<div style="
 margin:10px 0;
 padding:10px 12px;
 background:#f0fdf4;
@@ -163,214 +170,441 @@ border-radius:4px;
 Nissenbaum, H. (2009) and/or Nissenbaum, H. (2019) for authoritative accounts of the theory.
 </div>
 -->
-            <div class="citation">
-              <strong>Recommended citations</strong><br>
-              Nissenbaum, H. (2009). <i>Privacy in Context</i>.<br>
-              Nissenbaum, H. (2019). <i>Contextual Integrity Up and Down the Data Food Chain</i>.<br>
-              Nissenbaum, H. (2015). "Respect for context as a benchmark for privacy online: What it is and isn’t." In <i>Social Dimensions of Privacy: Interdisciplinary Perspectives</i>, pp. 278–302.
-            </div> 
-          </div>
-
-          <div id="legend-omit-ci" class="legend-item">
-            <h3 class="legend-header">Omitting CI parameters</h3>
-            <p>
-              Failing to specify one or more of the five transmission parameters —
-              sender, receiver, subject, information type, and transmission principle —
-              thereby preventing a complete evaluation of whether the information flow
-              conforms to contextual norms.
-            </p>
-          </div>
-
-          <div id="legend-law-norms" class="legend-item">
-            <h3 class="legend-header">Equating law to norms</h3>
-            <p>
-              Treating existing statutes or regulatory compliance as if they fully determine
-              contextual legitimacy, rather than analyzing whether the law actually reflects
-              or distorts entrenched social informational norms.
-            </p>
-          </div>
-
-          <div id="legend-ci-min" class="legend-item">
-            <h3 class="legend-header">CI as data minimization</h3>
-            <p>
-              Reducing Contextual Integrity to the idea of collecting or storing less data,
-              instead of examining whether the structure and conditions of information
-              transmission are appropriate within the relevant social context.
-            </p>
-          </div>
-
-          <div id="legend-ci-purpose" class="legend-item">
-            <h3 class="legend-header">CI as purpose limitation</h3>
-            <p>
-              Collapsing CI into simple purpose-restriction logic (e.g., GDPR-style use limits)
-              while ignoring how roles, actors, and transmission principles jointly structure
-              legitimate information flows.
-            </p>
-          </div>
-
-          <div id="legend-ci-comp" class="legend-item">
-            <h3 class="legend-header">CI for compliance</h3>
-            <p>
-              Deploying CI as a checkbox audit tool or defensive legal framework rather
-              than as a normative diagnostic method for critically evaluating
-              questionable or status-quo data practices.
-            </p>
-          </div>
-
-          <div id="legend-prefs" class="legend-item">
-            <h3 class="legend-header">Preferences not norms</h3>
-            <p>
-              Substituting individual user settings, consent clicks, or privacy preferences
-              for socially grounded informational norms, which are collective,
-              context-dependent, and not reducible to personal choice.
-            </p>
-          </div>
-
-          <div id="legend-heuristic" class="legend-item">
-            <h3 class="legend-header">No CI heuristic</h3>
-            <p>
-              Reaching conclusions about privacy violations without applying the structured
-              CI decision heuristic: mapping the flow, identifying baseline norms,
-              comparing altered flows, and evaluating moral and contextual impact.
-            </p>
-          </div>
-
-
-
-          <div id="legend-roles" class="legend-item">
-            <h3 class="legend-header">Contextual Roles and Capacities Ignored</h3>
-            <p>
-              Not stating the parameter CI values in terms of their
-              respective contextual role ontologies.
-            </p>
-          </div>
-
-          <div id="legend-anonymity" class="legend-item">
-            <h3 class="legend-header">Anonymity as a transmission principle (TP)</h3>
-            <divp>
-              <strong>Anonymity</strong> or <strong>anonymously</strong> is not a
-              valid TP value. These terms may describe an information flow
-              involving data (attributes) without identifiers. 
-              <br/>
-              TPs define the conditions under which data about a subject may flow from a
-              sender to a recipient: 
-              Commonly occurring TPs include
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with consent</span>,
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">reciprocally</span>,
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with notice</span>,
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">in confidence</span>,
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">as required by law</span>, and
-              <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with a warrant</span>.
-          </div>
-
-
-          <div id="legend-context" class="legend-item">
-            <h3 class="legend-header">Mistreating context</h3>
-
-            <p>
-              Context is treated as a localized setting focused on
-              specific information flows rather than a broad social
-              construct.
-            </p>
-
-            <div class="quote">
-              <br/>
-              "Many of the canonical activities of a context are oriented
-              around values-sometimes more aptly called goals, purposes, or
-              ends; that is, the objectives around which a context is oriented,
-              something akin to Schatzkis 'teleology.' Values are crucial,
-              defining features of contexts." <span class="citation">- Nissenbaum, 2009</span>
-
-            </div>
-
-            <h3 class="legend-header">Invoking the "Context boundaries" metaphor</h3>
-
-            <p>
-              Invoking “contextual boundaries” is a misleading spatial metaphor that treats
-              contexts as if they were discrete containers separated by clear borders.
-            </p>
-
-            <div class="quote">
-              “Contexts are structured social settings characterized by canonical activities,
-              roles, relationships, power structures, norms (or rules), and internal values
-              (goals, ends, purposes).”
-              <span class="citation">(Nissenbaum, 2009)</span>
-
-            </div>
-
-            <h3 class="legend-header">Invoking "Context collapse"</h3>
-
-            <p>
-              Using “context collapse” as a general buzzword without analyzing which
-              distinct social contexts, actors, or transmission principles are being
-              structurally merged or disrupted.
-            </p>
-
-            <div class="quote">
-              "Contexts may overlap and possibly conflict with one another.”
-              <br/>
-              ...
-              <br/>
-              "Overlaps need not necessarily involve conflicts. Thus, a
-              community health center may collaborate with school authorities
-              to promote health and nutrition within schools. It is not so much
-              that contexts themselves conflict as that, occasionally, when and
-              where they overlap the norms from one context prescribe actions
-              that are proscribed by the norms of an overlapping context."
-              <span class="citation">(Nissenbaum, 2009)</span>
-            </div>
-            <h3 class="legend-header">"Statistical" context</h3>
-            <p>
-              Confusing computational or machine-learning “context”
-              with socially defined informational contexts governed
-              by privacy norms.
-            </p>            <div class="citation">
-              Schatzki, 2005  "Practice mind-ed orders." 
-            </div>
-          </div>
-        </div> <!-- end .legend -->
-      </div> <!-- end .container -->
-    </main>
-
-    <div class="modal" id="modal">
-      <div class="modal-content">
-
-        <form id="bingo-form">
-          <h3>Propose new CI bingo term</h3>
-
-          <input
-            type="text"
-            name="paper_reference"
-            placeholder="CI paper reference"
-            required
-          >
-
-          <input
-            type="text"
-            name="bingo_term"
-            placeholder="New bingo term"
-            required
-          >
-
-          <textarea
-            name="explanation"
-            placeholder="Explanation"
-            required
-          ></textarea>
-
-          <button type="submit">Submit</button>
-          <button type="button" onclick="closeModal()">Cancel</button>
-        </form>
-
-        <div id="thankyou" style="display:none;">
-          <h3>Thank you!</h3>
-          <p>Submission received.</p>
-          <button onclick="closeModal()">Close</button>
+          <div class="citation">
+            <strong>Recommended citations</strong><br>
+            Nissenbaum, H. (2009). <i>Privacy in Context</i>.<br>
+            Nissenbaum, H. (2019). <i>Contextual Integrity Up and Down the Data Food Chain</i>.<br>
+            Nissenbaum, H. (2015). "Respect for context as a benchmark for privacy online: What it is and isn’t." In <i>Social Dimensions of Privacy: Interdisciplinary Perspectives</i>, pp. 278–302.
+          </div> 
         </div>
 
+        <div id="legend-omit-ci" class="legend-item">
+          <h3 class="legend-header">Omitting CI parameters</h3>
+          <p>
+            Failing to specify one or more of the five transmission parameters —
+            sender, receiver, subject, information type, and transmission principle —
+            thereby preventing a complete evaluation of whether the information flow
+            conforms to contextual norms.
+          </p>
+
+           <div class="quote">
+            To ascertain whether an action or a practice respects privacy,
+            values for all five parameters must be specified in order to map
+            resulting flows onto governing norms. The comparative template that
+            CI provides has, arguably, served as one of its most successful
+            contributions, for it effectively reveals changes to which other
+            approaches are blind. 
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+        <div id="legend-law-norms" class="legend-item">
+          <h3 class="legend-header">Equating law to norms</h3>
+          <p>
+            Treating existing statutes or regulatory compliance as if they fully determine
+            contextual legitimacy, rather than analyzing whether the law actually reflects
+            or distorts entrenched social informational norms.
+          </p>
+        </div>
+
+        <div id="legend-ci-min" class="legend-item">
+          <h3 class="legend-header">CI as data minimization</h3>
+          <p>
+            Reducing Contextual Integrity to the idea of collecting or share less data,
+            instead of examining whether the structure and conditions of information
+            transmission are appropriate within the relevant social context.
+          </p>
+
+          <div class="quote">
+            Privacy as contextual integrity does not accept the implications
+            of other definitions that identify privacy with no flow, with
+            stoppage, secrecy, and data minimization" 
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+          <div id="legend-ci-private-data" class="legend-item">
+          <h3 class="legend-header"> CI to protect private or presonal data</h3>
+          <p>
+            Reducing Contextual Integrity to the notion of protecting private
+            and personal data (i.e., one CI parameter) instead of examining all
+            CI parameters to evaluate the appropriateness within the relevant
+            social context. whether the structure and conditions of information
+            transmission are appropriate within the relevant social context.
+          </p>
+
+           <div class="quote">
+            To ascertain whether an action or a practice respects privacy, 
+            values for all five parameters must be specified in order to map
+            resulting flows onto governing norms. The comparative template that
+            CI provides has, arguably, served as one of its most successful
+            contributions, for it effectively reveals changes to which other
+            approaches are blind. 
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+          </div>
+        </div>
+
+        <div id="legend-ci-leakage" class="legend-item">
+          <h3 class="legend-header">CI as data leakage</h3>
+          <p>
+            Reducing Contextual Integrity to a notion of "leakage" or sharing
+            of specific data types with unintended party, rather than examining
+            whether the structure and conditions of information transmission
+            using the CI parameters are appropriate within the relevant social
+            context.
+         </p>
+          <div class="quote">
+           "[CI] does not agree that when Alice and Bob are talking, Eve always
+          violates their privacy. It does not identify data leakage as a
+          privacy harm, or any collection as privacy violation. CI cares only
+          whether the flow is appropriate, not whether it takes place at all.""
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+        <div id="legend-ci-secrecy" class="legend-item">
+          <h3 class="legend-header">CI as data secrecy</h3>
+          <p>
+            Reducing Contextual Integrity to a notion of privacy as
+            secrecy, or merely the "stoppage of flow," rather than examining
+            whether the structure and conditions of information transmission
+            are appropriate within the relevant social context.            </p>
+
+          <div class="quote">
+            <br/>
+            "[CI] does not agree that when Alice and Bob are talking, Eve always violates their privacy."
+            <br/>
+            ...
+            <br/>
+            If privacy were stoppage, or secrecy, it would stand to reason that
+            more often than not it would need to be traded off against other
+            useful, socially valuable exchanges. But, as contextual integrity,
+            privacy allows for information flows that are appropriate,
+            including flows needed to promote utility — i.e., security,
+            convenience, and the like."
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+             <div id="legend-ci-purpose" class="legend-item">
+          <h3 class="legend-header">CI as purpose limitation</h3>
+          <p>
+            Collapsing CI into simple purpose-restriction logic (e.g., GDPR-style use limits)
+            while ignoring how roles, actors, and transmission principles jointly structure
+            legitimate information flows.
+          </p>
+           <div class="quote">
+            <br/>
+          " [Fred Cate poited out] FIPPS themselves do not provide privacy protection,
+          merely procedural guidance whose substantive clout is indeterminate.
+          According to Cate the FIPPS purpose specification principle offers
+          some traction for privacy protection. He points out, however, that
+          unless constraints are placed on what purposes are legitimate (and
+          why), a purely procedural Purpose Specification Principle opens a
+          glaring loophole in FIPPS. This point is crucial for my argument
+          about context."
+            <span class="citation">- Nissenbaum, 2015</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2015).
+              <em>Respecting Context to Protect Privacy: Why Meaning Matters</em>
+              <br/>
+            Cate, Fred H. (2016)
+            <em>The failure of fair information practice principles." Consumer Protection in the Age of the'Information Economy'. Routledge, 2016. 341-377.</em>
+            </div>
+          </div>
+
+        </div>
+
+        <div id="legend-ci-comp" class="legend-item">
+          <h3 class="legend-header">CI for compliance</h3>
+          <p>
+            Deploying CI as a checkbox audit tool or defensive legal framework rather
+            than as a normative diagnostic method for critically evaluating
+            questionable or status-quo data practices.
+          </p>
+
+         <div class="quote">
+          "[CI is different] from procedural definitions, such as privacy as
+          compliance with FIPPs or as control over information about oneself,
+          which also do not distinguish between data primitives and
+          semantically meaningful data. Although, on the face of it, these
+          alternatives sidestep the challenge, a closer look indicates they
+          may, in fact, be kicking it down the road."
+
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+        <div id="legend-prefs" class="legend-item">
+          <h3 class="legend-header">Preferences not norms</h3>
+          <p>
+            Substituting individual user settings, consent clicks, or privacy preferences
+            for socially grounded informational norms, which are collective,
+            context-dependent, and not reducible to personal choice.
+          </p>
+             <div class="quote">
+            <br/>
+          " Contextual purposes and values sometimes may disfavor the data
+          subject’s interests, even in the healthcare context. Having advanced
+          in our understanding of environmental health hazards and communicable
+          diseases, CI may support overriding individual patient interests or
+          preferences in favor of onward sharing of information with others,
+          for example, public health officials. " 
+          <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+        <div id="legend-heuristic" class="legend-item">
+          <h3 class="legend-header">No CI heuristic</h3>
+          <p>
+            Reaching conclusions about privacy violations without applying the structured
+            CI decision heuristic: mapping the flow, identifying baseline norms,
+            comparing altered flows, and evaluating moral and contextual impact.
+          </p>
+          <div class="quote">
+         "Radical changes in the nature of data and surrounding technologies
+          outpace the capacity to proceed according to the discrete steps of
+          the CI heuristic — first to locate divergences in entrenched norms
+          measured in terms of the five parameters and then to evaluate them.
+          However, despite the need to relax and revise the mechanics of the
+          heuristic, I remain convinced that a) mapping the data flows in terms
+          of the five parameters and b) evaluating these flows, to the best of
+          our knowledge, in terms of interests, values, and contextual ends —
+          messy, uncertain, and burdensome as it may be — remains an ideal
+          worth striving for."
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div id="legend-roles" class="legend-item">
+          <h3 class="legend-header">Contextual Roles and Capacities Ignored</h3>
+          <p>
+            Not stating the parameter CI values in terms of their
+            respective contextual role ontologies.
+          </p>
+    <div class="quote">
+            "First, values for actor and information-type parameters are
+          identified in terms of respective contextual ontologies. Subjects,
+          senders, and recipients are described in their contextual roles, that
+          is, are acting in capacities drawn from contextual ontologies,
+          whether physician, teacher, elected politician, priest, customer,
+          police officer, investor, friend, or congregant. Information likewise
+          is conceptualized according to contextual ontologies, whether
+          symptoms, medications, grades, voting records, demographics, salary,
+          social security number, or church donations.
+            <span class="citation">- Nissenbaum, 2019</span>
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Nissenbaum, H. (2019).
+              <em>Contextual Integrity up and down the data food chain.</em>
+            </div>
+          </div>
+
+        </div>
+
+      <div id="legend-anonymity" class="legend-item">
+        <h3 class="legend-header">Anonymity as a transmission principle (TP)</h3>
+        <divp>
+          <strong>Anonymity</strong> or <strong>anonymously</strong> is not a
+          valid TP value. These terms may describe an information flow
+          involving data (attributes) without identifiers. 
+          <br/>
+          TPs define the conditions under which data about a subject may flow from a
+          sender to a recipient: 
+          Commonly occurring TPs include
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with consent</span>,
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">reciprocally</span>,
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with notice</span>,
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">in confidence</span>,
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">as required by law</span>, and
+          <span style="padding:0 4px; border-radius:3px; background:#f5f5f5;">with a warrant</span>.
+          <div class="quote">
+            Until now, the greatest obligation of data gatherers was either to
+            anonymize data and pull it outside various privacy requirements or to
+            inform and obtain consent. After charting the increasing difficulty of ful-
+            filling these obligations in the face of big data, we presented the ultimate
+            challenge: not of practical difficulty but of irrelevance. Where, for exam-
+            ple, anonymizing data, adopting pseudonyms, or granting or withholding
+            consent makes no difference to outcomes for an individual, we had better
+            be sure that the outcomes in question can be defended as morally and
+            politically legitimate. <span class="citation">- Barocas, S., & Nissenbaum, H. (2014).</span>
+
+            <div class="citation">
+              <strong>Reference</strong><br>
+              Barocas, S., & Nissenbaum, H. (2014). Big data’s end run around anonymity and consent. </div>
+          </div>
+</div>
+
+        </div>
+
+
+        <div id="legend-context" class="legend-item">
+          <h3 class="legend-header">Mistreating context</h3>
+
+          <p>
+            Context is treated as a localized setting focused on
+            specific information flows rather than a broad social
+            construct.
+          </p>
+
+          <div class="quote">
+            <br/>
+            "Many of the canonical activities of a context are oriented
+            around values-sometimes more aptly called goals, purposes, or
+            ends; that is, the objectives around which a context is oriented,
+            something akin to Schatzkis 'teleology.' Values are crucial,
+            defining features of contexts." <span class="citation">- Nissenbaum, 2009</span>
+          <div class="citation">
+            <strong>Reference</strong><br>
+            Nissenbaum, H. (2009). <i>Privacy in Context</i>.<br>
+          </div>
+
+          </div
+
+          <h3 class="legend-header">Invoking the "Context boundaries" metaphor</h3>
+
+          <p>
+            Invoking “contextual boundaries” is a misleading spatial metaphor that treats
+            contexts as if they were discrete containers separated by clear borders.
+          </p>
+
+          <div class="quote">
+            “Contexts are structured social settings characterized by canonnonical
+          activities,
+            roles, relationships, power structures, norms (or rules), and internal values
+            (goals, ends, purposes).”
+            <span class="citation">(Nissenbaum, 2009)</span>
+ <div class="citation">
+            <strong>Reference</strong><br>
+            Nissenbaum, H. (2009). <i>Privacy in Context</i>.<br>
+          </div>
+
+
+          </div>
+
+          <h3 class="legend-header">Invoking "Context collapse"</h3>
+
+          <p>
+            Using “context collapse” as a general buzzword without analyzing which
+            distinct social contexts, actors, or transmission principles are being
+            structurally merged or disrupted.
+          </p>
+
+          <div class="quote">
+            "Contexts may overlap and possibly conflict with one another.”
+            <br/>
+            ...
+            <br/>
+            "Overlaps need not necessarily involve conflicts. Thus, a
+            community health center may collaborate with school authorities
+            to promote health and nutrition within schools. It is not so much
+            that contexts themselves conflict as that, occasionally, when and
+            where they overlap the norms from one context prescribe actions
+            that are proscribed by the norms of an overlapping context."
+            <span class="citation">(Nissenbaum, 2009)</span>
+          </div>
+          <h3 class="legend-header">"Statistical" context</h3>
+          <p>
+            Confusing computational or machine-learning “context”
+            with socially defined informational contexts governed
+            by privacy norms.
+           <div class="citation">
+            <strong>Reference</strong><br>
+            Nissenbaum, H. (2009). <em>Privacy in Context</em>.<br>
+           Schatzki, T. R. (2005). <i>Practice mind-ed orders. In The practice turn in contemporary theory (pp. 50-63). Routledge.</i>
+          </div>
+
+
+          </p>            <div class="citation">
+          </div>
+        </div>
+      </div> <!-- end .legend -->
+    </div> <!-- end .container -->
+  </main>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+
+      <form id="bingo-form">
+        <h3>Propose new CI bingo term</h3>
+
+        <input
+          type="text"
+          name="paper_reference"
+          placeholder="CI paper reference"
+          required
+        >
+
+        <input
+          type="text"
+          name="bingo_term"
+          placeholder="New bingo term"
+          required
+        >
+
+        <textarea
+          name="explanation"
+          placeholder="Explanation"
+          required
+        ></textarea>
+
+        <button type="submit">Submit</button>
+        <button type="button" onclick="closeModal()">Cancel</button>
+      </form>
+
+      <div id="thankyou" style="display:none;">
+        <h3>Thank you!</h3>
+        <p>Submission received.</p>
+        <button onclick="closeModal()">Close</button>
       </div>
+
     </div>
-    <script>
+  </div>
+  <script>
 const selected = new Set();
 
 function toggle(el) {
@@ -419,9 +653,9 @@ function openModal() {
 function closeModal() {
   document.getElementById("modal").style.display = "none";
 }
-    </script>
+</script>
 
-    <script>
+  <script>
 document.getElementById("bingo-form").addEventListener("submit", async (e) => {
   e.preventDefault();
 
@@ -448,8 +682,8 @@ function clearBoard() {
   // reset glossary
   filterLegend();
 }
-    </script>
+</script>
 
-    <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
-  </body>
+  <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+
 </html>

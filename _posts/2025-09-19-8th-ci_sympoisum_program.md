@@ -157,6 +157,7 @@ The aim of the symposium is to foster interaction among diverse communities of r
 
 For information on the event location and accommodations [click here](https://privaci.info/symposium/2026/logistics.html).
 
+<!--
 ## TRAVEL GRANTS
 
 <div class="registration-box">
@@ -182,7 +183,8 @@ For information on the event location and accommodations [click here](https://pr
 
 Participants can apply for a travel grant award that can go towards partially covering the cost of attending the symposium by filling in this <a href="https://forms.gle/7ANnyLtFj3tc9sXy6">form</a>.
   </div>
-<!-- **Accepting until August 23 or until funding last** -->
+
+--><!-- **Accepting until August 23 or until funding last** -->
 
 <!-- The only travel expenses that can be reimbursed are: **air travel** and **hotel**. The exact number of awards will depend on the availability of funds and will be determined as funding amounts are finalized.-->
 

@@ -122,15 +122,25 @@ The 8th Annual PrivaCI Symposium will take place on **June 24-25, 2026** at the 
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy, design and evaluate, craft regulation, and generate formal logics for privacy.
 
-#### Symposium (DRAFT) Program
+#### Symposium  Program
 
-*Subject to change*
+<!--Subject to change*-->
 
 <a class="link-box" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSi_Wor0NRA1skvsa_UCulYAt7GgLFxLBQBwxtwOewF7QVeuGYeNXrp1FYDqcX3VZBrWvvDif_Mdlob/pubhtml?gid=1596667627&single=true" target="_blank">
-      Full Draft Schedule
-    </a>
+  Full Schedule
+</a>
 
-#### REGISTRATION
+<div style="display:flex; gap:12px; margin-top:12px;">
+  <a href="{{ site.url }}/symposium8/Wednesday.pdf" target="_blank"
+     style="flex:1; text-align:center; padding:12px 18px; border-radius:999px; background:linear-gradient(135deg,#4facfe,#00f2fe); color:#fff; text-decoration:none; font-weight:600; box-shadow:0 4px 10px rgba(79,172,254,0.3);">
+    Wednesday
+  </a>
+
+  <a href="{{ site.url }}/symposium8/Thursday.pdf" target="_blank"
+     style="flex:1; text-align:center; padding:12px 18px; border-radius:999px; background:linear-gradient(135deg,#f093fb,#f5576c); color:#fff; text-decoration:none; font-weight:600; box-shadow:0 4px 10px rgba(245,87,108,0.3);">
+    Thursday
+  </a>
+</div>#### REGISTRATION
 
 <div class="registration-box">
     <p><strong>Registration Fee:</strong> $150</p>

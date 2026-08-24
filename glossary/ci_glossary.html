@@ -1,0 +1,1007 @@
+--- 
+permalink: /ci_glossary.html 
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy in Context — Interactive CI Glossary</title>
+    <style>
+    :root{
+    --navy:#060b16; --navy2:#0b1425; --paper:#f5f4f1; --paper2:#eeece8;
+    --ink:#24272d; --muted:#68707b; --red:#d63b36; --red2:#ef5750;
+    --blue:#1687ba; --blue2:#65b7d5; --teal:#2aa79b; --line:#d8d6d1;
+    --white:#fffdf9; --shadow:0 16px 40px rgba(12,18,30,.12);
+    }
+    *{box-sizing:border-box} html{scroll-behavior:smooth}
+    body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65}
+    .hero{min-height:410px;background:radial-gradient(circle at 15% 10%,rgba(42,167,155,.16),transparent 26%),linear-gradient(145deg,var(--navy),var(--navy2));color:white;padding:42px 24px 62px;overflow:hidden;position:relative}
+    .wrap{max-width:1180px;margin:auto}
+    .brand{display:flex;align-items:center;gap:14px;font-size:.86rem;letter-spacing:.15em;text-transform:uppercase;color:#aeb9ca}
+    .mark{width:44px;height:44px;border:2px solid var(--blue);border-radius:50%;display:grid;place-items:center;font-size:22px;color:var(--teal)}
+    .hero-grid{display:grid;grid-template-columns:1fr 430px;gap:40px;align-items:center;margin-top:50px}
+    h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(3rem,7vw,6rem);font-weight:500;line-height:.93;letter-spacing:-.055em;margin:0}
+    h1 span{display:block;color:var(--red2)}
+    .subtitle{max-width:650px;font-size:1.12rem;color:#c6cfdb;margin:25px 0}
+    .tuple-hero{position:relative;height:280px}
+    .node{position:absolute;width:82px;height:82px;border-radius:50%;display:grid;place-items:center;text-align:center;font-size:.76rem;font-weight:800;background:var(--white);color:var(--ink);border:7px solid rgba(255,255,255,.35);box-shadow:0 0 0 2px var(--blue),0 12px 25px rgba(0,0,0,.28)}
+    .node.red{box-shadow:0 0 0 2px var(--red),0 12px 25px rgba(0,0,0,.28);background:#fff8f6}.node.teal{box-shadow:0 0 0 2px var(--teal),0 12px 25px rgba(0,0,0,.28)}
+    .n1{left:0;top:55px}.n2{left:95px;top:155px}.n3{left:175px;top:55px}.n4{right:75px;top:145px}.n5{right:0;top:28px}
+    .svg-lines{position:absolute;inset:0;width:100%;height:100%}.svg-lines path{stroke:#8c99ad;stroke-width:2.5;fill:none;opacity:.75}
+    .controls{position:sticky;top:0;z-index:20;background:rgba(245,244,241,.92);backdrop-filter:blur(14px);border-bottom:1px solid var(--line);padding:14px 24px}
+    .control-inner{max-width:1180px;margin:auto;display:flex;gap:12px}.search{flex:1;position:relative}.search input{width:100%;padding:14px 16px 14px 45px;border:1px solid var(--line);border-radius:10px;background:#fff;font:inherit}.search:before{content:"⌕";position:absolute;left:15px;top:8px;font-size:1.6rem;color:var(--muted)}button{font:inherit}
+    .btn{background:#fff;border:1px solid var(--line);padding:12px 16px;border-radius:10px;font-weight:700;cursor:pointer}.btn:hover{border-color:var(--red);color:var(--red)}
+    main{max-width:1180px;margin:38px auto 80px;padding:0 24px;display:grid;grid-template-columns:235px 1fr;gap:32px}
+    aside{position:sticky;top:82px;height:max-content;border-left:2px solid var(--red);padding-left:18px}aside h2{font-size:.75rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted)}aside a{display:block;text-decoration:none;color:var(--ink);padding:7px 0;font-size:.92rem}aside a:hover{color:var(--red)}
+    .section-kicker{color:var(--red);font-size:.78rem;letter-spacing:.15em;text-transform:uppercase;font-weight:800}.headrow{display:flex;justify-content:space-between;align-items:end;margin-bottom:18px}.headrow h2,.protocol h2{font-family:Georgia,serif;font-size:2.1rem;font-weight:500;margin:0}.count{color:var(--muted);font-size:.9rem}
+    .term{background:var(--white);border:1px solid var(--line);margin:10px 0;border-radius:12px;overflow:hidden;box-shadow:0 3px 10px rgba(25,30,40,.025);transition:.2s}.term:hover{box-shadow:var(--shadow);transform:translateY(-1px)}.term.nested{margin-left:28px;border-left:4px solid var(--blue)}
+    .term button{width:100%;display:flex;justify-content:space-between;align-items:center;text-align:left;padding:19px 21px;background:none;border:0;cursor:pointer;color:var(--ink)}.term-name{font-size:1.04rem;font-weight:800}.plus{width:30px;height:30px;border-radius:50%;background:#edf4f7;color:var(--blue);display:grid;place-items:center;font-size:1.35rem}.term.open .plus{background:var(--red);color:white;transform:rotate(45deg)}
+    .def{display:grid;grid-template-rows:0fr;transition:grid-template-rows .28s ease}.def p{overflow:hidden;margin:0;padding:0 21px;color:#4f5661}.term.open .def{grid-template-rows:1fr}.term.open .def p{padding-bottom:22px}
+    .protocol{margin-top:44px;background:var(--navy);color:#fff;border-radius:22px;padding:34px;box-shadow:var(--shadow)}.protocol .intro{color:#c8d2df;max-width:850px}.ci-flow{display:grid;grid-template-columns:repeat(5,1fr);gap:15px;margin:28px 0}.flow-item{min-height:112px;border-radius:16px;background:#101b2e;border:1px solid #2b3b56;padding:17px;position:relative}.flow-item:nth-child(odd){border-top:4px solid var(--red)}.flow-item:nth-child(even){border-top:4px solid var(--blue)}.flow-num{color:var(--blue2);font-weight:900;font-size:.78rem}.flow-item b{display:block;margin-top:6px;font-size:.95rem}.flow-item:not(:last-child):after{content:"→";position:absolute;right:-14px;top:40px;color:var(--red2);font-size:1.5rem;z-index:2}
+    .protocol-steps{display:grid;gap:12px}.pstep{background:#fffdf9;color:var(--ink);border-radius:13px;padding:17px 19px;border-left:5px solid var(--red)}.pstep strong{color:var(--red)}
+    .case-grid,.eval-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:13px;margin-top:20px}.case,.eval{background:#101b2e;border:1px solid #2b3b56;border-radius:14px;padding:18px;color:#c9d2df}.case b,.eval b{display:block;color:#fff;margin-bottom:6px}.case:nth-child(1) b{color:var(--teal)}.case:nth-child(2) b{color:var(--red2)}.case:nth-child(3) b{color:var(--blue2)}
+    .empty{display:none;padding:35px;text-align:center;color:var(--muted)}footer{text-align:center;color:var(--muted);padding:28px;border-top:1px solid var(--line)}
+    @media(max-width:900px){.hero-grid,main{grid-template-columns:1fr}.tuple-hero{max-width:430px;margin:auto}aside{display:none}.ci-flow,.case-grid,.eval-grid{grid-template-columns:1fr}.flow-item:after{display:none}.term.nested{margin-left:10px}}
+    @media(max-width:600px){.control-inner{flex-wrap:wrap}.btn{flex:1}.hero{padding-top:25px}.hero-grid{margin-top:30px}.tuple-hero{transform:scale(.88);transform-origin:left top;margin-bottom:-30px}}
+    </style>
+  </head>
+  <body>
+
+ <header class="hero">
+  <div class="wrap">
+
+    <div class="brand">
+      Privacy in Context
+      <span style="color:#5e6c81;">/</span>
+      Interactive Glossary
+    </div>
+
+    <div class="hero-grid">
+      <div>
+
+        <div class="section-kicker" style="color:#65b7d5;">
+          Contextual Integrity
+        </div>
+
+        <h1>
+          Privacy <span>in Context.</span>
+        </h1>
+
+        <p class="subtitle">
+          Contextual Integrity (CI) glossary for understanding how privacy
+          depends on social context, appropriate information flows, contextual
+          norms, and the values they support.
+        </p>
+
+        <!-- Authors -->
+
+        <div style="
+          display:inline-flex;
+          align-items:center;
+          gap:10px;
+          margin-top:22px;
+          padding:10px 16px;
+          border:1px solid rgba(101,183,213,.25);
+          border-radius:999px;
+          background:rgba(101,183,213,.08);
+          color:#b9c8d8;
+          font-size:13px;
+          letter-spacing:.02em;
+          box-shadow:0 8px 24px rgba(0,0,0,.12);
+        ">
+
+          <span style="
+            color:#65b7d5;
+            font-size:14px;
+          ">
+            ✦
+          </span>
+
+          <span>
+            <strong style="color:#f1f5f8;">
+              Helen Nissenbaum
+            </strong>
+
+            <span style="
+              color:#6f8192;
+              margin:0 4px;
+            ">
+              &amp;
+            </span>
+
+            <strong style="color:#f1f5f8;">
+              Yan Shvartzshnaider
+            </strong>
+          </span>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</header>
+
+
+    <section class="controls"><div class="control-inner"><div class="search"><input id="search" placeholder="Search the glossary…" aria-label="Search"></div><button class="btn" id="expand">Expand all</button><button class="btn" id="collapse">Collapse</button></div></section>
+
+    <main><aside><h2>Navigate</h2><a href="#terms">Glossary terms</a><a href="#flow">The CI information flow</a><a href="#heuristic">CI heuristic protocol</a></aside>
+      <section id="terms"><div class="section-kicker">Reference guide</div><div class="headrow"><h2>Glossary of Terms</h2><span class="count" id="count"></span></div>
+        <div id="cards"></div><div id="empty" class="empty">No matching terms found.</div>
+
+<section class="protocol" id="heuristic" style="background:inherit;color:inherit;">
+
+  <!-- HEADER -->
+
+  <div class="section-kicker" style="
+    color:#3b8eaa;
+    letter-spacing:.12em;
+  ">
+    Protocol
+  </div>
+
+  <h2 style="color:inherit;">
+    The CI Heuristic
+  </h2>
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+  ">
+    The CI heuristic evaluates whether an information practice is appropriate
+    within a social context. It begins by identifying the relevant context,
+    describing the information flow, and identifying the applicable
+    informational norms. The observed flow is then compared with those norms.
+    Where the flow conforms to the relevant norms, contextual integrity is
+    maintained. Where the flow departs from a norm, or where no applicable
+    norm exists, further evaluation is required.
+  </p>
+
+
+  <!-- ========================================================= -->
+  <!-- 01 CONTEXT -->
+  <!-- ========================================================= -->
+
+  <h3 style="color:inherit;margin-top:42px;">
+
+    <span style="color:#3b8eaa;">
+      01
+    </span>
+
+    Identify the Context
+
+  </h3>
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+  ">
+    Begin by identifying the social context in which the information practice
+    occurs. Determine the relevant institution, relationship, activity, or
+    social setting, including any relevant subcontexts. Context establishes
+    the social setting within which information flows acquire their meaning
+    and within which expectations about appropriate information flows arise.
+  </p>
+
+
+  <!-- ARROW -->
+
+  <div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:55px;
+    color:#3b8eaa;
+    font-size:23px;
+  ">
+    ↓
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- 02 INFORMATION FLOW -->
+  <!-- ========================================================= -->
+
+  <h3 id="flow" style="color:inherit;">
+
+    <span style="color:#3b8eaa;">
+      02
+    </span>
+
+    Describe the Information Flow
+
+  </h3>
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+  ">
+    Describe the information practice using the five parameters of a
+    contextual information flow. Together, these parameters specify who is
+    involved, what information is being exchanged, and under what conditions.
+  </p>
+
+
+  <div class="ci-flow">
+
+    <div class="flow-item" style="
+      background:rgba(101,183,213,.08);
+      border:1px solid rgba(59,142,170,.25);
+      color:inherit;
+    ">
+
+      <span class="flow-num" style="color:#3b8eaa;">
+        01
+      </span>
+
+      <b style="color:inherit;">
+        Data Subject
+      </b>
+
+      The person the information is about.
+
+    </div>
+
+
+    <div class="flow-item" style="
+      background:rgba(101,183,213,.08);
+      border:1px solid rgba(59,142,170,.25);
+      color:inherit;
+    ">
+
+      <span class="flow-num" style="color:#3b8eaa;">
+        02
+      </span>
+
+      <b style="color:inherit;">
+        Sender
+      </b>
+
+      The contextual actor transmitting the information.
+
+    </div>
+
+
+    <div class="flow-item" style="
+      background:rgba(101,183,213,.08);
+      border:1px solid rgba(59,142,170,.25);
+      color:inherit;
+    ">
+
+      <span class="flow-num" style="color:#3b8eaa;">
+        03
+      </span>
+
+      <b style="color:inherit;">
+        Recipient
+      </b>
+
+      The contextual actor receiving the information.
+
+    </div>
+
+
+    <div class="flow-item" style="
+      background:rgba(101,183,213,.08);
+      border:1px solid rgba(59,142,170,.25);
+      color:inherit;
+    ">
+
+      <span class="flow-num" style="color:#3b8eaa;">
+        04
+      </span>
+
+      <b style="color:inherit;">
+        Attribute
+      </b>
+
+      The semantic type or subject matter of the information.
+
+    </div>
+
+
+    <div class="flow-item" style="
+      background:rgba(101,183,213,.08);
+      border:1px solid rgba(59,142,170,.25);
+      color:inherit;
+    ">
+
+      <span class="flow-num" style="color:#3b8eaa;">
+        05
+      </span>
+
+      <b style="color:inherit;">
+        Transmission Principle
+      </b>
+
+      The condition governing how the flow occurs.
+
+    </div>
+
+  </div>
+
+
+  <!-- ARROW -->
+
+  <div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:55px;
+    color:#3b8eaa;
+    font-size:23px;
+  ">
+    ↓
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- 03 INFORMATIONAL NORMS -->
+  <!-- ========================================================= -->
+
+  <h3 style="color:inherit;">
+
+    <span style="color:#3b8eaa;">
+      03
+    </span>
+
+    Identify the Informational Norms
+
+  </h3>
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+  ">
+    Identify the contextual informational norms that govern appropriate
+    information flows within the context. These norms specify what
+    information may appropriately flow, between whom, under what conditions,
+    and for what purposes.
+  </p>
+
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:15px;
+    margin:26px 0;
+  ">
+
+    <div style="
+      padding:19px;
+      background:rgba(101,183,213,.055);
+      border-left:3px solid #65b7d5;
+      border-radius:7px;
+      color:inherit;
+      line-height:1.65;
+    ">
+
+      <b style="color:inherit;">
+        Appropriate Actors
+      </b>
+
+      <div style="margin-top:5px;">
+        Who may appropriately send or receive the information?
+      </div>
+
+    </div>
+
+
+    <div style="
+      padding:19px;
+      background:rgba(101,183,213,.055);
+      border-left:3px solid #65b7d5;
+      border-radius:7px;
+      color:inherit;
+      line-height:1.65;
+    ">
+
+      <b style="color:inherit;">
+        Appropriate Attributes
+      </b>
+
+      <div style="margin-top:5px;">
+        What kinds of information may appropriately flow?
+      </div>
+
+    </div>
+
+
+    <div style="
+      padding:19px;
+      background:rgba(101,183,213,.055);
+      border-left:3px solid #65b7d5;
+      border-radius:7px;
+      color:inherit;
+      line-height:1.65;
+    ">
+
+      <b style="color:inherit;">
+        Transmission Conditions
+      </b>
+
+      <div style="margin-top:5px;">
+        Under what principles may the information flow?
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- ARROW -->
+
+  <div style="
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:55px;
+    color:#3b8eaa;
+    font-size:23px;
+  ">
+    ↓
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- 04 COMPARE / DECISION -->
+  <!-- ========================================================= -->
+
+  <div style="
+    margin:20px 0 10px;
+    text-align:center;
+  ">
+
+    <div style="
+      display:inline-block;
+      padding:9px 20px;
+      border-radius:20px;
+      background:rgba(59,142,170,.08);
+      border:1px solid rgba(59,142,170,.22);
+      color:#3b8eaa;
+      font-size:11px;
+      font-weight:700;
+      letter-spacing:.12em;
+      text-transform:uppercase;
+    ">
+      04 · Compare the Flow with the Norms
+    </div>
+
+  </div>
+
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+    text-align:center;
+    max-width:760px;
+    margin-left:auto;
+    margin-right:auto;
+  ">
+    Compare the information flow described in Step 02 with the informational
+    norms identified in Step 03. The comparison produces one of three
+    outcomes.
+  </p>
+
+
+  <!-- THREE OUTCOMES -->
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:18px;
+    margin:30px 0 0;
+  ">
+
+
+    <!-- CONFORMANCE -->
+
+    <div style="
+      padding:25px 23px;
+      background:rgba(76,145,105,.075);
+      border:1px solid rgba(76,145,105,.32);
+      border-top:4px solid #5b9b72;
+      border-radius:12px;
+      color:inherit;
+      text-align:center;
+      line-height:1.7;
+    ">
+
+      <div style="
+        font-size:26px;
+        color:#5b9b72;
+        margin-bottom:7px;
+      ">
+        ✓
+      </div>
+
+      <div style="
+        color:#4f8965;
+        font-size:10px;
+        font-weight:700;
+        letter-spacing:.12em;
+        margin-bottom:7px;
+      ">
+        CASE 1
+      </div>
+
+      <b style="
+        display:block;
+        color:inherit;
+        font-size:18px;
+        margin-bottom:9px;
+      ">
+        Conformance
+      </b>
+
+      The flow conforms to the relevant informational norms.
+
+      <div style="
+        margin:18px auto 0;
+        padding:7px 13px;
+        width:max-content;
+        border-radius:20px;
+        background:rgba(76,145,105,.11);
+        color:#4f8965;
+        font-size:11px;
+        font-weight:700;
+      ">
+        ✓ END · No evaluation
+      </div>
+
+    </div>
+
+
+    <!-- BREACH -->
+
+    <div style="
+      padding:25px 23px;
+      background:rgba(190,80,80,.055);
+      border:1px solid rgba(190,80,80,.30);
+      border-top:4px solid #c56b6b;
+      border-radius:12px;
+      color:inherit;
+      text-align:center;
+      line-height:1.7;
+    ">
+
+      <div style="
+        font-size:26px;
+        color:#b65353;
+        margin-bottom:7px;
+      ">
+        !
+      </div>
+
+      <div style="
+        color:#b65353;
+        font-size:10px;
+        font-weight:700;
+        letter-spacing:.12em;
+        margin-bottom:7px;
+      ">
+        CASE 2
+      </div>
+
+      <b style="
+        display:block;
+        color:inherit;
+        font-size:18px;
+        margin-bottom:9px;
+      ">
+        Breach
+      </b>
+
+      The flow departs from a relevant informational norm. A prima facie
+      violation of contextual integrity may have occurred.
+
+      <div style="
+        margin:18px auto 0;
+        padding:7px 13px;
+        width:max-content;
+        border-radius:20px;
+        background:rgba(190,80,80,.09);
+        color:#b65353;
+        font-size:11px;
+        font-weight:700;
+      ">
+        ↓ EVALUATION REQUIRED
+      </div>
+
+    </div>
+
+
+    <!-- LACUNA -->
+
+    <div style="
+      padding:25px 23px;
+      background:rgba(190,160,70,.065);
+      border:1px solid rgba(190,160,70,.30);
+      border-top:4px solid #b69d4f;
+      border-radius:12px;
+      color:inherit;
+      text-align:center;
+      line-height:1.7;
+    ">
+
+      <div style="
+        font-size:26px;
+        color:#9b812f;
+        margin-bottom:7px;
+      ">
+        ?
+      </div>
+
+      <div style="
+        color:#9b812f;
+        font-size:10px;
+        font-weight:700;
+        letter-spacing:.12em;
+        margin-bottom:7px;
+      ">
+        CASE 3
+      </div>
+
+      <b style="
+        display:block;
+        color:inherit;
+        font-size:18px;
+        margin-bottom:9px;
+      ">
+        Lacuna
+      </b>
+
+      No relevant norm covers the observed flow. Existing norms may be
+      incomplete or the practice may be genuinely novel.
+
+      <div style="
+        margin:18px auto 0;
+        padding:7px 13px;
+        width:max-content;
+        border-radius:20px;
+        background:rgba(190,160,70,.10);
+        color:#9b812f;
+        font-size:11px;
+        font-weight:700;
+      ">
+        ↓ EVALUATION REQUIRED
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- OUTCOME PATHS -->
+  <!-- ========================================================= -->
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:18px;
+    margin:0 0 32px;
+  ">
+
+
+    <!-- CONFORMANCE PATH -->
+
+    <div style="
+      display:flex;
+      justify-content:center;
+      padding-top:10px;
+    ">
+
+      <div style="
+        width:1px;
+        height:35px;
+        background:#5b9b72;
+        position:relative;
+      ">
+
+        <span style="
+          position:absolute;
+          bottom:-7px;
+          left:-5px;
+          color:#5b9b72;
+          font-size:13px;
+        ">
+          ▼
+        </span>
+
+      </div>
+
+    </div>
+
+
+    <!-- BREACH PATH -->
+
+    <div style="
+      display:flex;
+      justify-content:center;
+      padding-top:10px;
+    ">
+
+      <div style="
+        width:1px;
+        height:35px;
+        background:#c56b6b;
+        position:relative;
+      ">
+
+        <span style="
+          position:absolute;
+          bottom:-7px;
+          left:-5px;
+          color:#c56b6b;
+          font-size:13px;
+        ">
+          ▼
+        </span>
+
+      </div>
+
+    </div>
+
+
+    <!-- LACUNA PATH -->
+
+    <div style="
+      display:flex;
+      justify-content:center;
+      padding-top:10px;
+    ">
+
+      <div style="
+        width:1px;
+        height:35px;
+        background:#b69d4f;
+        position:relative;
+      ">
+
+        <span style="
+          position:absolute;
+          bottom:-7px;
+          left:-5px;
+          color:#b69d4f;
+          font-size:13px;
+        ">
+          ▼
+        </span>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- CONDITIONAL EVALUATION BRIDGE -->
+  <!-- ========================================================= -->
+
+  <div style="
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    gap:18px;
+    align-items:center;
+    margin:0 0 40px;
+  ">
+
+
+    <!-- CONFORMANCE END -->
+
+    <div style="
+      padding:16px 18px;
+      border-radius:10px;
+      background:rgba(76,145,105,.065);
+      border:1px solid rgba(76,145,105,.24);
+      text-align:center;
+      color:#4f8965;
+      font-size:12px;
+      line-height:1.5;
+    ">
+
+      <b>
+        ✓ CONFORMANCE
+      </b>
+
+      <br>
+
+      Analysis ends here.
+
+    </div>
+
+
+    <!-- EVALUATION PATH -->
+
+    <div style="
+      position:relative;
+      padding:19px 24px;
+      border-radius:10px;
+      background:linear-gradient(
+        90deg,
+        rgba(190,80,80,.065),
+        rgba(190,160,70,.065)
+      );
+      border:1px solid rgba(170,120,70,.28);
+      text-align:center;
+    ">
+
+      <div style="
+        color:#8f6338;
+        font-size:10px;
+        font-weight:700;
+        letter-spacing:.12em;
+        margin-bottom:6px;
+      ">
+        BREACH OR LACUNA
+      </div>
+
+      <b style="
+        color:inherit;
+        font-size:17px;
+      ">
+        Continue to Section 05
+      </b>
+
+      <div style="
+        color:inherit;
+        opacity:.75;
+        font-size:13px;
+        margin-top:4px;
+      ">
+        Further evaluation is required.
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- ========================================================= -->
+  <!-- 05 EVALUATION -->
+  <!-- ========================================================= -->
+
+  <h3 style="color:inherit;">
+
+    <span style="color:#3b8eaa;">
+      05
+    </span>
+
+    Evaluate the Practice
+
+    <span style="
+      display:inline-block;
+      margin-left:10px;
+      padding:4px 9px;
+      border-radius:12px;
+      background:rgba(170,120,70,.08);
+      color:#8f6338;
+      font-size:10px;
+      font-weight:700;
+      letter-spacing:.08em;
+      vertical-align:middle;
+    ">
+      CONDITIONAL
+    </span>
+
+  </h3>
+
+
+  <p class="intro" style="
+    color:inherit;
+    line-height:1.75;
+  ">
+    Evaluation is required where the flow departs from an established
+    informational norm or where the relevant norms are unclear or incomplete.
+    The evaluation considers the effects of the practice, broader moral and
+    political principles, and the values and purposes of the relevant context.
+  </p>
+
+
+  <div class="eval-grid">
+
+
+    <!-- EVALUATION I -->
+
+    <div class="eval" style="
+      background:rgba(101,183,213,.06);
+      border-top:2px solid #65b7d5;
+      color:inherit;
+      line-height:1.7;
+    ">
+
+      <b style="
+        display:block;
+        color:inherit;
+        margin-bottom:8px;
+      ">
+        Evaluation I
+      </b>
+
+      Assess impacts, benefits, costs, risks, and shifts in power affecting
+      stakeholders.
+
+    </div>
+
+
+    <!-- EVALUATION II -->
+
+    <div class="eval" style="
+      background:rgba(101,183,213,.06);
+      border-top:2px solid #65b7d5;
+      color:inherit;
+      line-height:1.7;
+    ">
+
+      <b style="
+        display:block;
+        color:inherit;
+        margin-bottom:8px;
+      ">
+        Evaluation II
+      </b>
+
+      Consider autonomy, justice, fairness, liberty, democracy, hierarchy,
+      and political principles.
+
+    </div>
+
+
+    <!-- EVALUATION III -->
+
+    <div class="eval" style="
+      background:rgba(101,183,213,.06);
+      border-top:2px solid #65b7d5;
+      color:inherit;
+      line-height:1.7;
+    ">
+
+      <b style="
+        display:block;
+        color:inherit;
+        margin-bottom:8px;
+      ">
+        Evaluation III
+      </b>
+
+      Consider how the practice affects contextual ends, purposes, and values.
+
+    </div>
+
+  </div>
+
+</section>
+
+      </section></main>
+
+    <footer>Privacy in Context · Contextual Integrity Interactive Glossary</footer>
+    <script>
+const data = [
+  ["Context [social domains, social spheres]","Contexts are structured social settings characterized by activities, roles, relationships, power structures, norms, and internal values such as goals, ends, and purposes. Examples include healthcare, education, political life, commerce, and family and friends. Social domains and social spheres are closely related concepts.","main"],
+  ["Norm","Behavior-guiding norms prescribe and proscribe actions and practices. They may be direct or indirect, explicit or implicit, ethical, aesthetic, formal, or informal, and may stand alone or form part of systems such as law or professional codes.","main"],
+  ["Contextual informational norm","CI norms prescribe and proscribe the flow of personal information from one party to another. They are defined by five parameters: sender, recipient, data subject, transmission principle, and information type. Their legitimacy depends in part on whether they effectively serve contextual ends, purposes, and values.","nested"],
+  ["Personal information","In CI, personal information simply means information about a person. Its source is irrelevant: it may come from the data subject, a third party, or inference.","main"],
+  ["Contextual Information flow","The flow of information from one actor to other actors. Well-formed descriptions include values for all five parameters expressed through contextual roles and informational ontologies.","main"],
+  ["CI Parameter","The five parameters of CI norms: actors (data subject, sender, recipient), attribute or information type, and transmission principle.","main"],
+  ["Values for CI parameters","Instantiations of CI parameters expressed in terms of the respective contextual ontologies of roles and information types.","nested"],
+  ["Actor","Collectively refers to sender, recipient, and data subject. Values are expressed through contextual role ontologies and may include teachers, doctors, corporations, organizations, governments, and other agents acting in contextually defined capacities.","nested"],
+  ["Contextual role","A contextual role or capacity involves fulfilling functions, meeting expectations, and assuming responsibilities. Contexts have no fixed number of roles; roles may change, disappear, or emerge over time.","nested"],
+  ["Information (data) type","Also called data type, data field, or attribute. It identifies what information is about: its semantic content or referent. Contexts are associated with distinctive information ontologies.","nested"],
+  ["Transmission principle","A flow-guiding principle. Common examples include with consent, reciprocally, with notice, in confidence, as required by law, and with a warrant. Transmission principles cut across contextual ontologies.","nested"],
+  ["Privacy expectation","In law, a reasonable expectation of privacy implies a widespread or commonly held expectation. In CI, the term connects this legal doctrine to contextual informational norms describing commonly held views about appropriate data flows.","main"],
+  ["Contextual integrity","Contextual integrity is preserved when justifiable contextual informational norms are respected, or when information flows support contextual ends, purposes, and values without undermining them.","main"],
+  ["Contextual values","Goals, ends, purposes, and values co-constitute a context and provide its rationale. Contextual functions, norms, ontologies, activities, and practices are oriented around these elements.","nested"],
+  ["Contextual functions, practices, activities","Behaviors and practices that are typical or expected in a context, established through repetition, culture, or contribution to contextual functions and higher-order goals and values.","nested"],
+  ["Moral legitimacy of informational norms","Entrenched information-flow norms provide prima facie evidence of legitimacy. A morally justifiable norm should balance wellbeing among affected parties, remain compatible with central ethical and political principles, and promote contextual ends, purposes, and values.","nested"],
+  ["Contextual ontologies","Ontologies of contextual roles and information types. They are distinctive for each context but may overlap across contexts in roles and information categories.","nested"]
+];
+const cards=document.getElementById('cards'), count=document.getElementById('count'), empty=document.getElementById('empty');
+data.forEach(([title,body,kind])=>{const a=document.createElement('article');a.className='term '+kind;a.dataset.search=(title+' '+body).toLowerCase();a.innerHTML=`<button aria-expanded="false"><span class="term-name">${title}</span><span class="plus">+</span></button><div class="def"><p>${body}</p></div>`;a.querySelector('button').onclick=()=>{a.classList.toggle('open');a.querySelector('button').setAttribute('aria-expanded',a.classList.contains('open'))};cards.append(a)});
+const all=()=>[...document.querySelectorAll('.term')];function update(){let n=all().filter(x=>x.style.display!=='none').length;count.textContent=`${n} of ${data.length} terms`}
+document.getElementById('expand').onclick=()=>all().forEach(x=>{x.classList.add('open');x.querySelector('button').setAttribute('aria-expanded','true')});
+document.getElementById('collapse').onclick=()=>all().forEach(x=>{x.classList.remove('open');x.querySelector('button').setAttribute('aria-expanded','false')});
+document.getElementById('search').oninput=e=>{let q=e.target.value.toLowerCase().trim(),n=0;all().forEach(x=>{let ok=!q||x.dataset.search.includes(q);x.style.display=ok?'':'none';if(ok&&q)x.classList.add('open');n+=ok});empty.style.display=n?'none':'block';update()};update();
+</script></body></html>

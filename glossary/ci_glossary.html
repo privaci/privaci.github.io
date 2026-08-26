@@ -978,30 +978,304 @@ permalink: /glossary.html
       </section></main>
 
     <footer>Privacy in Context · Contextual Integrity Interactive Glossary</footer>
-    <script>
+<script>
 const data = [
-  ["Context [social domains, social spheres]","Contexts are structured social settings characterized by activities, roles, relationships, power structures, norms, and internal values such as goals, ends, and purposes. Examples include healthcare, education, political life, commerce, and family and friends. Social domains and social spheres are closely related concepts.","main"],
-  ["Norm","Behavior-guiding norms prescribe and proscribe actions and practices. They may be direct or indirect, explicit or implicit, ethical, aesthetic, formal, or informal, and may stand alone or form part of systems such as law or professional codes.","main"],
-  ["Contextual informational norm","CI norms prescribe and proscribe the flow of personal information from one party to another. They are defined by five parameters: sender, recipient, data subject, transmission principle, and information type. Their legitimacy depends in part on whether they effectively serve contextual ends, purposes, and values.","nested"],
-  ["Personal information","In CI, personal information simply means information about a person. Its source is irrelevant: it may come from the data subject, a third party, or inference.","main"],
-  ["Contextual Information flow","The flow of information from one actor to other actors. Well-formed descriptions include values for all five parameters expressed through contextual roles and informational ontologies.","main"],
-  ["CI Parameter","The five parameters of CI norms: actors (data subject, sender, recipient), attribute or information type, and transmission principle.","main"],
-  ["Values for CI parameters","Instantiations of CI parameters expressed in terms of the respective contextual ontologies of roles and information types.","nested"],
-  ["Actor","Collectively refers to sender, recipient, and data subject. Values are expressed through contextual role ontologies and may include teachers, doctors, corporations, organizations, governments, and other agents acting in contextually defined capacities.","nested"],
-  ["Contextual role","A contextual role or capacity involves fulfilling functions, meeting expectations, and assuming responsibilities. Contexts have no fixed number of roles; roles may change, disappear, or emerge over time.","nested"],
-  ["Information (data) type","Also called data type, data field, or attribute. It identifies what information is about: its semantic content or referent. Contexts are associated with distinctive information ontologies.","nested"],
-  ["Transmission principle","A flow-guiding principle. Common examples include with consent, reciprocally, with notice, in confidence, as required by law, and with a warrant. Transmission principles cut across contextual ontologies.","nested"],
-  ["Privacy expectation","In law, a reasonable expectation of privacy implies a widespread or commonly held expectation. In CI, the term connects this legal doctrine to contextual informational norms describing commonly held views about appropriate data flows.","main"],
-  ["Contextual integrity","Contextual integrity is preserved when justifiable contextual informational norms are respected, or when information flows support contextual ends, purposes, and values without undermining them.","main"],
-  ["Contextual values","Goals, ends, purposes, and values co-constitute a context and provide its rationale. Contextual functions, norms, ontologies, activities, and practices are oriented around these elements.","nested"],
-  ["Contextual functions, practices, activities","Behaviors and practices that are typical or expected in a context, established through repetition, culture, or contribution to contextual functions and higher-order goals and values.","nested"],
-  ["Moral legitimacy of informational norms","Entrenched information-flow norms provide prima facie evidence of legitimacy. A morally justifiable norm should balance wellbeing among affected parties, remain compatible with central ethical and political principles, and promote contextual ends, purposes, and values.","nested"],
-  ["Contextual ontologies","Ontologies of contextual roles and information types. They are distinctive for each context but may overlap across contexts in roles and information categories.","nested"]
+  ["Context [social domains, social spheres]",
+   "“Contexts are structured social settings characterized by canonical activities, roles, relationships, power structures, norms (or rules), and internal values (goals, ends, purposes).” [Nissenbaum, 2009, pp. 132] These may include healthcare, education, political life, commerce, social (family and friends), etc. They are “abstract representations of social structures experienced in daily life.” [Nissenbaum, 2009, pp. 134–135] Social domains or social spheres are closely related concepts.",
+   "main"],
+
+  ["Norm",
+   "Behavior-guiding norms prescribe and proscribe actions and practices. A norm’s behavior guiding power may be directly prescriptive or it may be indirectly prescriptive, based on an overwhelming preponderance of behavior of a particular kind. Norms may be explicit or implicit; they may vary in kind, e.g. ethical, aesthetic, formal, informal. They may be standalone or elements of complex systems of rules, e.g. law, professional code of conduct. Rules, Laws, Directives, etc. are related concepts [Nissenbaum, 2009, pp. 137–140].",
+   "main"],
+
+  ["Contextual informational norm",
+   "CI norms prescribe and proscribe the flow of personal information from one party to another [Nissenbaum, 2009, pp. 140–147]. Contextual informational norms are defined by five parameters: Sender, Recipient, Data Subject, Transmission Principle, Information Type. Well-formed instances of informational norms include values for all five parameters. Presence of CI norms may be established empirically. They may or may not be legitimate depending on whether they effectively serve (or promote) contextual ends, purposes, and values.",
+   "nested"],
+
+  ["Personal information",
+   "As used in CI, this term simply means information about a person. The source is irrelevant, whether it’s the data subject, a third party, or inferred.",
+   "main"],
+
+  ["Contextual Information flow",
+   "Flow of information from an actor to other actors. Well-formed descriptions of contextual information flows must include values for all five parameters expressed in terms of contextual roles and informational ontologies.",
+   "main"],
+
+  ["CI Parameter",
+   "This refers to the five parameters of CI norms: Actors (subject, sender, recipient), Attribute, Transmission Principle.",
+   "main"],
+
+  ["Values for CI parameters",
+   "Instantiations of CI parameters referred to in terms of respective contextual ontologies of roles and information types.",
+   "nested"],
+
+  ["Actor",
+   "This term refers, collectively, to the parameters sender, recipient, and data subject. Values for these parameters are given in terms of respective contextual role ontologies. Examples include: teachers, doctors, etc. It may also refer to non-human parties, such as corporations, organizations, governments. Individuals (or agents) are actors, in this sense, insofar as they are acting in capacities according to contextual ontologies.",
+   "nested"],
+
+  ["Contextual role",
+   "Contexts are co-constituted by contextual role ontologies. A contextual role [capacity] involves fulfilling certain functions, meeting particular expectations, and assuming certain responsibilities. There is no fixed number of roles per context and the roles themselves may change over time, may even disappear while new ones emerge. Roles may be thickly detailed or quite scant.",
+   "nested"],
+
+  ["Information (data) type",
+   "Also referred as data type, data field, attribute. This term points to what the information is about, its semantic content, what the data or information refers to. Contexts are associated with distinctive information (data) ontologies.",
+   "nested"],
+
+  ["Transmission principle",
+   "A transmission principle (TP) is a flow-guiding principle. Commonly occurring TPs include, with consent, reciprocally, with notice, in confidence, as required by law, with a warrant. TPs cut across contextual ontologies.",
+   "nested"],
+
+  ["Privacy expectation",
+   "In US law, “reasonable expectation of privacy,” [Katz v. United States, 1967] implies a widespread or commonly-held expectation. It has played a central role in legal arguments, supporting restrictions on access to personal information. In CI the term connects this powerful legal doctrine to the concept of a contextual informational norm [Selbst, 2013] which, as a matter of fact, describes a commonly-held view on appropriate data flows.",
+   "main"],
+
+  ["Contextual integrity",
+   "Contextual integrity is preserved [respected, maintained] when justifiable contextual informational norms are respected, OR when information flows promote [support] contextual ends, purposes, and values and do not undermine contextual ends, purpose, and values (see CI heuristic in Section 2.1).",
+   "main"],
+
+  ["Contextual values",
+   "Including goals, ends, purposes, and values, these teleological elements define and co-constitute a context. They are the rationale behind a context. Contextual functions, norms, and ontologies are oriented around these elements. Activities and practices make sense insofar as they support and promote contextual ends, purposes and values. Information norms are legitimate insofar as they promote contextual ends, purposes, and values. By implication, entrenched functions, norms, practices, ontologies may be challenged by alternatives that are shown to be more effective in supporting and promoting contextual ends, purposes, and values [Nissenbaum, 2009, pp. 155–166].",
+   "nested"],
+
+  ["Contextual functions, practices, activities",
+   "These are behaviors, activities, and practices that are typical, or expected for a given context. They may achieve this status through repetition, established as an aspect of the culture of a context, or because they contribute to contextual functions, in turn instrumental to achieving higher order goals and values [Conley et al., 2011].",
+   "nested"],
+
+  ["Moral legitimacy of informational norms",
+   "The presence of entrenched information-flow norms constitutes prima facie evidence of the legitimacy of respective flows. To be morally justifiable [legitimate] the norm in question must be shown to perform well on three layers of analysis: (1) strike an acceptable balance of wellbeing among all affected parties; (2) are compatible with central ethical and political principles; (3) promote contextual ends, purposes, and values [Nissenbaum, 2009, Chapter 8].",
+   "nested"],
+
+  ["Contextual ontologies",
+   "These refer to ontologies of contextual roles and information [data, attributes]. Although contextual ontologies are distinctive for each contexts, there are likely to be overlaps in roles and information categories among different contexts [Nissenbaum, 2019].",
+   "nested"]
 ];
-const cards=document.getElementById('cards'), count=document.getElementById('count'), empty=document.getElementById('empty');
-data.forEach(([title,body,kind])=>{const a=document.createElement('article');a.className='term '+kind;a.dataset.search=(title+' '+body).toLowerCase();a.innerHTML=`<button aria-expanded="false"><span class="term-name">${title}</span><span class="plus">+</span></button><div class="def"><p>${body}</p></div>`;a.querySelector('button').onclick=()=>{a.classList.toggle('open');a.querySelector('button').setAttribute('aria-expanded',a.classList.contains('open'))};cards.append(a)});
-const all=()=>[...document.querySelectorAll('.term')];function update(){let n=all().filter(x=>x.style.display!=='none').length;count.textContent=`${n} of ${data.length} terms`}
-document.getElementById('expand').onclick=()=>all().forEach(x=>{x.classList.add('open');x.querySelector('button').setAttribute('aria-expanded','true')});
-document.getElementById('collapse').onclick=()=>all().forEach(x=>{x.classList.remove('open');x.querySelector('button').setAttribute('aria-expanded','false')});
-document.getElementById('search').oninput=e=>{let q=e.target.value.toLowerCase().trim(),n=0;all().forEach(x=>{let ok=!q||x.dataset.search.includes(q);x.style.display=ok?'':'none';if(ok&&q)x.classList.add('open');n+=ok});empty.style.display=n?'none':'block';update()};update();
-</script></body></html>
+
+
+/* =========================
+   FULL REFERENCES
+   ========================= */
+
+const references = {
+
+  "Nissenbaum, 2009":
+    "Helen Nissenbaum. 2009. Privacy in Context: Technology, Policy, and the Integrity of Social Life. doi:10.1515/9780804772891",
+
+  "Conley et al., 2011":
+    "Amanda Conley, Anupam Datta, Helen Nissenbaum, and Divya Sharma. 2011. Sustaining privacy and open justice in the transition to online court records: A multidisciplinary inquiry. Md. L. Rev. 71 (2011), 772.",
+
+  "Selbst, 2013":
+    "Andrew D Selbst. 2013. Contextual expectations of privacy. Cardozo L. Rev. 35 (2013), 643.",
+
+  "Nissenbaum, 2019":
+    "Helen Nissenbaum. 2019. Contextual integrity up and down the data food chain. Theoretical inquiries in law 20, 1 (2019), 221–256.",
+
+  "Katz v. United States, 1967":
+    "Supreme Court of the United States. 1967. Katz v. United States. 347 pages. Harlan, J., concurring."
+};
+
+
+/* =========================
+   CREATE CARDS
+   ========================= */
+
+const cards=document.getElementById('cards'),
+      count=document.getElementById('count'),
+      empty=document.getElementById('empty');
+
+data.forEach(([title,body,kind])=>{
+
+  const a=document.createElement('article');
+
+  a.className='term '+kind;
+
+  a.dataset.search=(title+' '+body).toLowerCase();
+
+
+  /*
+   * Find citations in the text and collect them
+   * to append their full references nicely inside the expandable definition section.
+   */
+
+  let cardCitations = new Set();
+
+  const styledBody=body.replace(
+    /\[([^\]]+)\]/g,
+    (match,citation)=>{
+
+      let key=null;
+
+      if(citation.startsWith("Nissenbaum, 2009"))
+        key="Nissenbaum, 2009";
+
+      else if(citation.startsWith("Conley et al., 2011"))
+        key="Conley et al., 2011";
+
+      else if(citation.startsWith("Selbst, 2013"))
+        key="Selbst, 2013";
+
+      else if(citation.startsWith("Nissenbaum, 2019"))
+        key="Nissenbaum, 2019";
+
+      else if(citation.startsWith("Katz v. United States, 1967"))
+        key="Katz v. United States, 1967";
+
+
+      /* Not a citation: leave normal brackets unchanged */
+      if(!key)
+        return match;
+
+      cardCitations.add(key);
+
+
+      return `
+        <span style="
+          color: #555;
+          font-size: 0.82em;
+          font-weight: 500;
+          white-space: nowrap;
+          background: #f1f3f5;
+          padding: 1px 5px;
+          border-radius: 4px;
+        ">
+          [${citation}]
+        </span>
+      `;
+    }
+  );
+
+
+  /* Build professionally styled references section for the expandable part */
+
+  let refHtml = "";
+
+  if(cardCitations.size > 0){
+    refHtml += `
+   
+        <span style="
+          font-size: 0.72em;
+          font-weight: 700;
+          text-transform: uppercase;
+          letter-spacing: 0.08em;
+          color: #64748b;
+          margin-bottom: 8px;
+        ">
+<br/>
+<br/>
+Source References</span>
+        <span style="display: flex; flex-direction: column; gap: 8px;">
+    `;
+
+    cardCitations.forEach(key => {
+      refHtml += `
+        <span style="
+          background: #f8fafc;
+          padding: 8px 10px;
+          border-radius: 0 6px 6px 0;
+          font-size: 0.78em;
+          color: #334155;
+          line-height: 1.45;
+        ">
+          <strong style="color: #1e293b; font-weight: 600;">[${key}]</strong> 
+          <span style="display: inline-block; margin-top: 2px;">${references[key]}</span>
+        </span>
+      `;
+    });
+
+    refHtml += `</div></div>`;
+  }
+
+
+  /* 
+   * Placed safely as a sibling inside the `.def` container so it remains 
+   * hidden when collapsed and visible when open.
+   */
+
+  a.innerHTML=`
+    <button aria-expanded="false">
+      <span class="term-name">${title}</span>
+      <span class="plus">+</span>
+    </button>
+
+    <div class="def">
+      <p style="line-height: 1.6; color: #1e293b; margin: 0;">${styledBody} ${refHtml}</p>
+    
+    </div>
+  `;
+
+
+  a.querySelector('button').onclick=()=>{
+    a.classList.toggle('open');
+
+    a.querySelector('button').setAttribute(
+      'aria-expanded',
+      a.classList.contains('open')
+    );
+  };
+
+
+  cards.append(a);
+
+});
+
+
+/* =========================
+   SEARCH / EXPAND / COLLAPSE
+   ========================= */
+
+const all=()=>[...document.querySelectorAll('.term')];
+
+function update(){
+  let n=all().filter(
+    x=>x.style.display!=='none'
+  ).length;
+
+  count.textContent=`${n} of ${data.length} terms`;
+}
+
+
+document.getElementById('expand').onclick=()=>all().forEach(x=>{
+  x.classList.add('open');
+
+  x.querySelector('button').setAttribute(
+    'aria-expanded',
+    'true'
+  );
+});
+
+
+document.getElementById('collapse').onclick=()=>all().forEach(x=>{
+  x.classList.remove('open');
+
+  x.querySelector('button').setAttribute(
+    'aria-expanded',
+    'false'
+  );
+});
+
+
+document.getElementById('search').oninput=e=>{
+
+  let q=e.target.value.toLowerCase().trim(),
+      n=0;
+
+  all().forEach(x=>{
+
+    let ok=!q||x.dataset.search.includes(q);
+
+    x.style.display=ok?'':'none';
+
+    if(ok&&q)
+      x.classList.add('open');
+
+    n+=ok;
+  });
+
+  empty.style.display=n?'none':'block';
+
+  update();
+};
+
+
+update();
+</script></body>
+</html>
+

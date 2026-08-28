@@ -17,7 +17,7 @@ permalink: symposium/2026/symposium_report.html
 current Contextual Integrity (CI) research and explore urgent privacy challenges with the
 support of the CI framework.
 
-[Download full report in PDF format]({{ site.url }}/symposium8/PrivaCCISymposiumReport2026.pdf)
+[Download full report in PDF format]({{ site.url }}/symposium8/PrivaCISymposiumReport2026.pdf)
 
 The report was compiled by Madelyn Rose Sanfilippo and Yan Shvartzshnaider based on the notes taken by Kyra Milan Abrams, Jake Chanenson, David Eby, Isaac Haizel, Muhammad
 Hassan, Muhammad Hussain, Inyoung Jang, Felix Oke, Mubarak Raji, Pratyasha Saha,

@@ -8,7 +8,7 @@ categories:
     #sponsors: right
 comments: false
 show_meta: false
-permalink: symposium/2026/symposium_report.html
+permalink: symposium/2026/report.html
 ---
 
  <img src="{{ site.url }}/images/8thSympoisumLogo.png" style="width: 1000px; min-width: 700px;" />

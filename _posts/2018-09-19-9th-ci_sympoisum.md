@@ -57,7 +57,7 @@ permalink:
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/9thPrivaCILogo.png)
 
-The 9<sup>th</sup> Annual PrivaCI Symposium will take place on  <b>June 10-11, 2026</b> in[Laval University](https://www.ulaval.ca/en).
+The 9<sup>th</sup> Annual PrivaCI Symposium will take place on  <b>June 10-11, 2026</b> in [Laval University](https://www.ulaval.ca/en).
 
 The aim of the symposium is to foster interaction among diverse communities of research and practice using Contextual Integrity to reason about privacy,   and to design and evaluate,   craft regulation,   and generate formal logics for privacy.
 
@@ -173,8 +173,7 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 #### SYMPOSIUM CHAIRS
 
-  <br/>
-[Pierre-Luc Déziel](https://www.fd.ulaval.ca/faculte/repertoire-du-personnel/pierre-luc-deziel)
+[Pierre-Luc Déziel](https://www.fd.ulaval.ca/faculte/repertoire-du-personnel/pierre-luc-deziel) (Laval University)
 
   <br/>
 

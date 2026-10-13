@@ -81,7 +81,40 @@ Submissions will be peer-reviewed in a single-blind manner by the workshop’s P
 
 Papers should be formatted using the **ACM Master Article Template**. For Latex use this [template on Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc). For Word, download this [template](https://www.acm.org/binaries/content/assets/publications/article-templates/pubform.docx)
 
- We look forward to seeing you at the PrivaCI symposium!
+We look forward to seeing you at the PrivaCI symposium!
+
+<div style="font-family: Arial, Helvetica, sans-serif; line-height: 1.6; margin: 16px 0;">
+  <h4>PrivaCI 2027 AI Policy for Authors</h4>
+
+  <p>
+    This policy is based on the
+    <a href="https://www.petsymposium.org/authors-2027.php#submission-guidelines" target="_blank" rel="noopener noreferrer">PoPETs AI Policy for Authors</a>,
+    the <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship" target="_blank" rel="noopener noreferrer">ACM Policy on Authorship</a>,
+    and transparency practices adopted by other security and privacy research conferences.
+  </p>
+
+  <p>Generative AI use is subject to the following principles:</p>
+
+  <ul>
+    <li>
+      <strong>Accountability:</strong> Authors retain full responsibility for the accuracy, originality, and integrity of their submissions and research artifacts.
+      <ul>
+        <li>AI tools cannot be listed as authors. Human authors must make substantial intellectual contributions and take responsibility for the work.</li>
+      </ul>
+    </li>
+    <li><strong>Disclosure:</strong> Authors must disclose any AI use.</li>
+    <li>
+      <strong>Research integrity:</strong> Fabrication, hallucinations, plagiarism, falsification, and material omissions are unacceptable.
+      <ul>
+        <li><strong>Verify all references and BibTeX entries.</strong> Fabricated or inaccurate citations may be grounds for desk rejection.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <div style="background-color: #fef2f2; border: 1px solid #fecaca; border-radius: 6px; padding: 16px 20px; margin: 20px 0;">
+    <strong>Policy violations</strong> may result in desk rejection!
+  </div>
+</div>
 
 <!--
 ## Symposium Program
@@ -183,7 +216,6 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 ##### STEERING COMMITTEE
 
-<br/>
 [Marshini Chetty](https://www.marshini.net) (University of Chicago) <br/>
 [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu) (Cornell Tech) <br/>
 [Yan Shvartzshnaider](https://shvartzshnaider.com) (York University)

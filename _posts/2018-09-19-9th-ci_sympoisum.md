@@ -160,10 +160,10 @@ Registration costs will be waived for all travel grant awardees. Travel grant aw
 
 **All deadlines are AoE (Anywhere on Earth).**
 
-* Register an intent/abstract (preferred): March 5
-* Submissions Due: March 12
-* Notifications: April 9
-* Symposium dates: June 10-11
+* Register an intent/abstract (preferred): March 5, 2027
+* Submissions Due: March 12, 2027
+* Notifications: April 9, 2027
+* Symposium dates: June 10-11, 2027
 
 <!-- #### HOW TO SUBMIT
 

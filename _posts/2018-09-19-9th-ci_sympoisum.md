@@ -101,14 +101,18 @@ We look forward to seeing you at the PrivaCI symposium!
 
   <ul>
     <li>
-      <strong>Accountability:</strong> Authors retain full responsibility for the accuracy, originality, and integrity of their submissions and research artifacts. Using AI to generate text may result in plagiarism of other people's work without appropriate attribution.
+<strong>Accountability:</strong> Authors retain full responsibility for the accuracy, originality, and integrity of their submissions and research artifacts.
+
+<div style="margin: 8px 0 0; padding: 10px 14px; background-color: #f8f9fa; border: 1px solid #e5e7eb; border-left: 3px solid #9ca3af; border-radius: 4px; font-size: 0.9em;">
+  <strong>Note:</strong> using AI to generate text can involve plagiarising the work of other humans but without due credit.
+</div>
       <ul>
-        <li>AI tools cannot be listed as authors. Human authors must make substantial intellectual contributions to the work and take responsibility for its content.</li>
+        <li>AI tools cannot be listed as authors. Human authors must make substantial intellectual contributions and take responsibility for the work.</li>
       </ul>
     </li>
 
     <li>
-      <strong>Disclosure:</strong> Authors must disclose any use of AI tools in their submissions, indicating the applicable categories:
+      <strong>Disclosure:</strong>Authors must disclose any use of AI using the following key:
       <ul>
         <li>Grammar, spelling, and formatting</li>
         <li>References and bibliography</li>
@@ -126,7 +130,7 @@ We look forward to seeing you at the PrivaCI symposium!
   </ul>
 
   <div style="background-color: #fef2f2; border: 1px solid #fecaca; border-radius: 6px; padding: 16px 20px; margin: 20px 0;">
-    <strong>Policy violations may result in desk rejection.</strong>
+    <strong>Policy violations will result in desk rejection.</strong>
   </div>
 </div>
 

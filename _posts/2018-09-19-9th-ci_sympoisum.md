@@ -52,7 +52,10 @@ permalink:
 .alert-warning .alert-link{
     color:#533f03
 }
-
+.markdown-body {
+  text-align: justify;
+  text-justify: inter-word;
+}
 </style>
 
 ![{{ site.url }}/images/logo2022.png]({{ site.url }}/images/9thPrivaCILogo.png)
@@ -89,7 +92,8 @@ We look forward to seeing you at the PrivaCI symposium!
   <p>
     This policy is based on the
     <a href="https://www.petsymposium.org/authors-2027.php#submission-guidelines" target="_blank" rel="noopener noreferrer">PoPETs AI Policy for Authors</a>,
-    the <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship" target="_blank" rel="noopener noreferrer">ACM Policy on Authorship</a>,
+    the
+    <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship" target="_blank" rel="noopener noreferrer">ACM Policy on Authorship</a>,
     and transparency practices adopted by other security and privacy research conferences.
   </p>
 
@@ -97,22 +101,32 @@ We look forward to seeing you at the PrivaCI symposium!
 
   <ul>
     <li>
-      <strong>Accountability:</strong> Authors retain full responsibility for the accuracy, originality, and integrity of their submissions and research artifacts.
+      <strong>Accountability:</strong> Authors retain full responsibility for the accuracy, originality, and integrity of their submissions and research artifacts. Using AI to generate text may result in plagiarism of other people's work without appropriate attribution.
       <ul>
-        <li>AI tools cannot be listed as authors. Human authors must make substantial intellectual contributions and take responsibility for the work.</li>
+        <li>AI tools cannot be listed as authors. Human authors must make substantial intellectual contributions to the work and take responsibility for its content.</li>
       </ul>
     </li>
-    <li><strong>Disclosure:</strong> Authors must disclose any AI use.</li>
+
+    <li>
+      <strong>Disclosure:</strong> Authors must disclose any use of AI tools in their submissions, indicating the applicable categories:
+      <ul>
+        <li>Grammar, spelling, and formatting</li>
+        <li>References and bibliography</li>
+        <li>Outlining</li>
+        <li>Drafting text (strongly discouraged)</li>
+      </ul>
+    </li>
+
     <li>
       <strong>Research integrity:</strong> Fabrication, hallucinations, plagiarism, falsification, and material omissions are unacceptable.
       <ul>
-        <li><strong>Verify all references and BibTeX entries.</strong> Fabricated or inaccurate citations may be grounds for desk rejection.</li>
+        <li><strong>Verify all references and BibTeX entries.</strong> Fabricated or inaccurate citations are grounds for desk rejection.</li>
       </ul>
     </li>
   </ul>
 
   <div style="background-color: #fef2f2; border: 1px solid #fecaca; border-radius: 6px; padding: 16px 20px; margin: 20px 0;">
-    <strong>Policy violations</strong> may result in desk rejection!
+    <strong>Policy violations may result in desk rejection.</strong>
   </div>
 </div>
 

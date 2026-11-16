@@ -229,8 +229,6 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 ##### PROGRAM COMMITTEE
 
-<br/>
-
 [Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)  
 [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) (UMass Amherst)  
 [Michael Beauvais](https://www.eui.eu/people?id=michael-beauvais) (European University Institute)  

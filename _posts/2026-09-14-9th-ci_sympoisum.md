@@ -229,31 +229,31 @@ Please make submissions using [the submission site.](https://cisymposium.eecs.yo
 
 ##### PROGRAM COMMITTEE
 
-[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)
-[Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) (UMass Amherst)
-[Michael Beauvais](https://www.eui.eu/people?id=michael-beauvais) (European University Institute)
-[Julia Bernd](https://icsi.berkeley.edu/people/julia-bernd/) (ICSI)
-[Vasisht Duddu](https://vasishtduddu.github.io/) (Vector Institute)
-[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University)
-[Serge Egelman](https://icsi.berkeley.edu/people/serge-egelman/) (ICSI/UC Berkeley)
-[Brett Frischmann](http://www.brettfrischmann.com) (Villanova University)
-[Ece Gumusel](https://sci.rutgers.edu/gumusel-ece) (Rutgers University)
-[Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont)
-[Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis)
-[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)
-[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)
-[Nathan Malkin](https://people.njit.edu/profile/nm886) (New Jersey Institute of Technology)
-[Kirsten Martin](http://www.kirstenmartin.net) (Carnegie Mellon University)
-[Lee James Michigan](http://hussman.unc.edu/directory/faculty/lee-mcguigan) (University of North Carolina at Chapel Hill)
-[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)
-[Joel Reardon](https://pages.cpsc.ucalgary.ca/~joel.reardon/) (University of Calgary)
-[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)
-[Alexis Shore Ingber](https://newhouse.syracuse.edu/people/alexis-ingber) Syracuse University
-[Octavian Suciu](https://osuciu.com/) (Google)
-[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland)
-[Luke Stark](https://starkcontrast.co/) (Western University)
-[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)
-[Vincent Toubiana] (CNIL)
+[Noah Apthorpe](https://www.cs.colgate.edu/~napthorpe) (Colgate University)<br/>
+[Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) (UMass Amherst)<br/>
+[Michael Beauvais](https://www.eui.eu/people?id=michael-beauvais) (European University Institute)<br/>
+[Julia Bernd](https://icsi.berkeley.edu/people/julia-bernd/) (ICSI)<br/>
+[Vasisht Duddu](https://vasishtduddu.github.io/) (Vector Institute)<br/>
+[Cathy Dwyer](https://www.pace.edu/profile/catherine-dwyer) (Pace University)<br/>
+[Serge Egelman](https://icsi.berkeley.edu/people/serge-egelman/) (ICSI/UC Berkeley)<br/>
+[Brett Frischmann](http://www.brettfrischmann.com) (Villanova University)<br/>
+[Ece Gumusel](https://sci.rutgers.edu/gumusel-ece) (Rutgers University)<br/>
+[Yuanyuan Feng](https://yuanyuanfeng.com) (University of Vermont)<br/>
+[Kyle Jones](https://thecorkboard.org) (Indiana University-Indianapolis)<br/>
+[Priya Kumar](https://priyakumar.org) (Pennsylvania State University)<br/>
+[Yafit Lev-Aretz](https://zicklin.baruch.cuny.edu/faculty-profile/yafit-lev-aretz/) (Zicklin School of Business, Baruch College)<br/>
+[Nathan Malkin](https://people.njit.edu/profile/nm886) (New Jersey Institute of Technology)<br/>
+[Kirsten Martin](http://www.kirstenmartin.net) (Carnegie Mellon University)<br/>
+[Lee James Michigan](http://hussman.unc.edu/directory/faculty/lee-mcguigan) (University of North Carolina at Chapel Hill)<br/>
+[Mainack Mondal](https://cse.iitkgp.ac.in/~mainack/) (IIT Kharagpur)<br/>
+[Joel Reardon](https://pages.cpsc.ucalgary.ca/~joel.reardon/) (University of Calgary)<br/>
+[Madelyn Sanfilippo](https://madelynsanfilippo.com) (University of Illinois at Urbana-Champaign)<br/>
+[Alexis Shore Ingber](https://newhouse.syracuse.edu/people/alexis-ingber) (Syracuse University)<br/>
+[Octavian Suciu](https://osuciu.com/) (Google)<br/>
+[Ido Sivan-Sevilla](https://ischool.umd.edu/about/directory/ido-sivan-sevilla) (University of Maryland)<br/>
+[Luke Stark](https://starkcontrast.co/) (Western University)<br/>
+[Eran Toch](http://toch.tau.ac.il/) (Tel Aviv University)<br/>
+[Vincent Toubiana]() (CNIL)<br/>
 
 ##### STEERING COMMITTEE
 
